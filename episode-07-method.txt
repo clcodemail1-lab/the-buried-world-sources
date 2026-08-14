@@ -1,0 +1,125 @@
+THE BURIED WORLD
+Episode 7 - They Emptied The Capital Before It Burned
+
+How this film was made
+Last updated 14 August 2026
+
+
+WHY THIS PAGE EXISTS
+====================
+
+Every episode of this channel is fact-checked before it is recorded, and the
+corrections are published rather than quietly absorbed. A film that asks you to
+weigh competing explanations owes you its own workings - including the places
+where the first draft was wrong.
+
+Sixteen claims were checked for this episode. Four were changed. Two of those
+four would have damaged the film, and both sat in the closing minutes.
+
+
+THE FOUR CORRECTIONS
+====================
+
+1. THE DIRECTION OF THE LAST UGARIT LETTERS WAS WRONG
+
+   The first draft had the king of Ugarit writing to Cyprus for help and
+   receiving a question in return. It is the other way round. Alashiya writes
+   first, warning that enemy ships have been sighted, and asks where Ugarit's
+   own forces are. Ammurapi answers: his troops are in the land of Hatti, his
+   ships are in the land of Lukka.
+
+   The correction makes the point sharper rather than weaker, which is exactly
+   why it was worth catching. The harbour was not open because Ugarit was
+   careless. It was open because the fleet was away doing its duty to an
+   overlord who could no longer hold his own capital.
+
+   Tablet numbers are deliberately absent from the film. The literature assigns
+   RS 18.147 and RS 20.238 inconsistently, and a number stated with false
+   confidence is worse than no number.
+
+
+2. THE TABLET IN THE KILN IS NOT IN THIS FILM - AND NEITHER IS THE DEBUNKING
+
+   There is a well-travelled story that the last tablet at Ugarit was still
+   baking in a kiln when the city fell. The draft used the debunking of it as
+   the closing line: a small lesson about stories being tidier than events.
+
+   What is actually attested is that the claim was "once thought". No clean
+   published revision could be found. That leaves the correction no better
+   supported than the story it corrects - so both were cut, and the film ends
+   on the letter instead.
+
+   This is the harder kind of cut. Refuting a myth feels like rigour, and it
+   reads well. But an unsourced refutation is still an unsourced claim.
+
+
+3. SIX PER CENT WAS NOT WHAT THE STUDY SAID
+
+   The tree-ring study (Manning et al., Nature, 2023) places the years 1198,
+   1197 and 1196 BC within the driest 6.25 per cent of a seven-century record.
+   The draft rounded that to "six per cent", which sounds like nothing and is
+   in fact a stronger claim than the source supports. The film says six and a
+   quarter.
+
+   The same study describes those years as COINCIDENT with the Hittite
+   collapse, not as its cause. The script was held to that wording throughout:
+   the film says the dry years "fall in the same window", never that they
+   brought anything down.
+
+
+4. FOUR FIGURES WERE CUT BECAUSE THE SOURCES DISAGREED
+
+   - The tonnage of the Hittite grain demand. Conversions of the recorded
+     quantity differ by roughly a factor of two. The film quotes only the line
+     that needs no conversion: "it is a matter of life and death."
+   - The origin of the tin. Isotope studies point in more than one direction
+     and the question is live. The film says only that it came from far
+     outside anybody's borders, which is what everyone agrees on and is also
+     the part that matters for the argument.
+   - The length of the illiterate period in Greece. Sources say 300 years,
+     400 years, and things in between. The film says "centuries".
+   - Population decline in Greece. The estimates are too far apart to average
+     honestly, so the film describes it and gives no percentage.
+
+
+ON THE DATE IN THE TITLE OF EVERY OTHER FILM ABOUT THIS
+=======================================================
+
+1177 BC is year 8 of Ramesses III, converted into an Egyptian chronology that
+is itself uncertain by a few years. The author who made the date famous chose
+it as a marker and says so. This film treats it as a marker and not as a
+finding, and says on screen that the collapse has about half a century rather
+than a year.
+
+
+ON THE IMAGES
+=============
+
+Every photographic-looking image is an AI-generated reconstruction and carries
+the EU marking and the words AI RECONSTRUCTION on screen throughout. Nothing
+reproduces a specific artefact, monument or excavation.
+
+Two consequences worth stating plainly:
+
+  - The Egyptian reliefs are inventions in the manner of the genre, not copies
+    of the wall at Medinet Habu. That wall is a protected photographic subject
+    and is not reproduced here.
+  - Anything showing people doing something - a workshop, a family on a road,
+    a granary just after it was emptied - is marked as a painting, because
+    nobody photographed it and nobody can.
+
+The twelve diagrams are drawn, not generated, because image models place
+lettering unreliably and an invented figure on a map is still an invented
+figure. Where the diagrams draw arrows between the four explanations, those
+arrows are the film's argument and not a finding: you can reject them without
+rejecting a single measurement underneath.
+
+
+ON WHAT THE FILM DOES NOT SHOW
+==============================
+
+There is no battle in this film, and no burning city with people in it. That
+is a standing rule of the channel, and here it happens to agree with the
+argument: the evidence for what ended the Bronze Age is mostly evidence of
+absence - emptied storerooms, an abandoned capital, a harbour with nothing in
+it, an archive that stops. Those are the images the film uses.
