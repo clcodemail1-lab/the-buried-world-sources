@@ -4,7 +4,7 @@ How this film was made
 
 Last updated 4 August 2026
 
-Companion to the full source list: https://pastebin.com/aMeWxqYr
+Companion to the full source list: episode-01-sources.txt in this repository
 
 
 WHY THIS PAGE EXISTS
