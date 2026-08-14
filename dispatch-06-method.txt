@@ -1,0 +1,166 @@
+THE BURIED WORLD
+Dispatch 06 - The Name Was Doing The Work
+How this film was made
+
+15 August 2026
+
+
+THE SELECTION
+=============
+
+Three items were chosen from roughly fifty archaeology stories published
+between 9 and 15 August 2026. The rule for this channel's Friday strand is
+simple and it removes most of them: no peer-reviewed publication, no place in
+the film.
+
+It removed the best story of the week again, and for the second fortnight
+running it is the same one. New fragments of an imperial decree from
+Stratonikeia in western Turkey, issued on 1 August 480, document fifteen years
+of tax fraud on an imperial estate and threaten the officials with death. The
+material is superb. It was presented at a seminar in Oxford, and the University
+of Warsaw states plainly that the full publication is still "a few months"
+away. So it stays out of a second film. It fits this film's argument as neatly
+as it fitted the last one, which is exactly the kind of reason that must not be
+allowed to count.
+
+Also left out, all for the same reason - press announcement, no paper:
+rectangular buildings found by survey at Gobekli Tepe (which would have been
+the single best case in this film, and which this channel will cover properly
+the day it is published), a Bronze Age burial under a Viking ship grave in
+Norway, sixteen storage jars in central Turkey, gold bars in a Belgian cellar
+wall.
+
+One item was left out for a different reason. A new reading of the Linear A
+libation table IO Za 2 from Mount Juktas proposes two divine names behind the
+later Greek Dionysos and Demeter. It is deposited on Zenodo, it has not been
+peer reviewed, and every step of it rests on the author's own reconstruction of
+a script that has not been deciphered. Covering it would have meant spending a
+third of a news film assessing one unreviewed proposal. That is media
+criticism, and this channel does archaeology.
+
+
+A REVERSAL, STATED OUT LOUD
+===========================
+
+The Phaleron strontium study is in this film. Dispatch 05, published two weeks
+ago, deliberately left it out, and said so in this same document: "a mass grave
+with iron shackles pulls a film into a register this channel does not work in."
+
+That judgement was about treatment, and it was a fair worry. It is reversed
+here because the treatment answers it. This segment is not about how
+seventy-nine men died - the film says explicitly that the measurement cannot
+tell us that, and it names nobody's guilt. It is about how a piece of iron was
+read as a statement of origin for ten years. No human remains are shown at any
+point in the film. Nothing in it is staged as violence.
+
+Anyone who thinks the earlier call was the better one is holding a reasonable
+position. The channel's practice is to change its mind in public rather than
+quietly, so the earlier reasoning stays on the record above.
+
+
+WHAT WAS ACTUALLY READ
+======================
+
+Of the three papers, one could be read in full: the Cemka Hoyuk article in
+Antiquity, which is open access under CC-BY. The other two are behind
+paywalls, and this film is built on their abstracts, on the institutional
+releases from Arizona State University and the University of Cambridge, and on
+reporting that quotes the authors directly.
+
+That limitation is visible in the film as a set of absences.
+
+No count is given of how many of the seventy-nine men at Phaleron were
+shackled. The reporting offers thirty-six, thirty-nine, "many" and "all"; the
+accessible text of the study gives no figure. The narration therefore says
+"many still in iron at the wrists" and stops there.
+
+No firing temperature is claimed as measured for individual vessels at Cemka
+Hoyuk. The published range of 600 to 700 degrees is stated as the range it is.
+
+No labour figure is extrapolated from the Colombian study to the whole field
+system. The paper models a block of five hundred hectares. The film says five
+hundred hectares, twice, and names the difference from the five hundred
+thousand of the whole complex.
+
+
+THE FACT CHECK
+==============
+
+Every figure was checked before recording. Four things changed as a result, and
+all four are places where the reporting went further than the studies.
+
+The first is an age. Secondary coverage puts the Cemka Hoyuk vessels at 11,500
+or even 12,000 years old. The publication dates the context to around 9350
+calibrated BC - about 11,300 years. The film uses the published date.
+
+The second is a superlative. Several headlines call this the earliest pottery,
+full stop. It is not. Fired vessels from East Asian sites are roughly twice
+this age. The claim in the paper is regional - south-west Asia - and the film
+says so out loud rather than leaving the correction to the comments.
+
+The third is a modal verb. The paper says the fragments "may have been
+deliberately fired". Much of the coverage drops the "may". The film keeps it,
+and then explains both why the reading is strong (mineral evidence, low-oxygen
+conditions, nine separate vessels) and why the hedge is honest (an ordinary
+hearth reaches the same temperature).
+
+The fourth is a framing, and it cuts both ways. One outlet ran the Phaleron
+study as "archaeologists thought these were foreign invaders - they were
+wrong". Another ran it as "study confirms". Neither is right, because there was
+no consensus to overturn or confirm. Two families of explanation have stood
+side by side since 2016: an internal Athenian killing, with the followers of
+Cylon as the usual candidates, or captives from outside. The study decides
+between them. The film says that.
+
+One smaller correction, of the kind that matters for anyone following the
+citations: at least one report places the Phaleron study in the Journal of
+Archaeological Science. It is in Journal of Archaeological Science: Reports, a
+different journal from the same publisher. The source list gives the DOI.
+
+
+WHAT THE METHODS CANNOT DO
+==========================
+
+Strontium isotope analysis does not tell you where a person came from. It tells
+you which places are incompatible with the chemistry of their childhood, and
+several unrelated regions can share a signature. "Compatible with Attica" is
+the strongest available statement, and it is the one the film makes. It says
+nothing about cause of death, faction, status or year.
+
+The Colombian study is a model, not an excavation. It converts mapped earthwork
+volumes into person-days using assumptions about soil, tools and population.
+The authors flag their own weakest link themselves: metal tools did not exist
+there, so wooden ones are assumed, and wood does not survive in that ground.
+They also state that nobody knows why the system was abandoned before the
+Spanish arrived. Neither point is smoothed over in the film.
+
+The Cemka Hoyuk material is nine vessels from one site. It shows that fired
+containers were made in the region far earlier than the period name implies. It
+does not show a tradition, a transmission, or a line of descent to the pottery
+of four thousand years later.
+
+
+IMAGES
+======
+
+No photograph in this film is of a real object or a real place. Every image is
+either a reconstruction made for this film and marked AI RECONSTRUCTION on
+screen, or a diagram drawn for it in code. Nothing is a press picture, and no
+third-party image was used as a reference.
+
+Two deliberate omissions. No human remains are depicted anywhere in this film,
+and the Phaleron burials are shown as an excavation surface and an iron
+shackle, never as bodies. And no image claims to show a specific catalogued
+object: the vessels, the shackle and the ridges are reconstructions of a type,
+not portraits of a find.
+
+The maps and diagrams are drawn from coordinates rather than generated, because
+image models place lettering unreliably and a map that misplaces a river is a
+claim the film cannot support.
+
+
+CORRECTIONS
+===========
+
+Corrections are welcome and will be made out loud, in the pinned comment and in
+this document.

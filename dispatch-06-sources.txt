@@ -1,0 +1,229 @@
+THE BURIED WORLD
+Dispatch 06 - The Name Was Doing The Work
+Full source list
+
+Last updated 15 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure was checked against the sources named at the
+end before a word was recorded.
+
+There is a particular reason this time. This film is about labels quietly
+doing the work of evidence, so it states its own: which shots are
+reconstructions, which are diagrams drawn from published figures, which
+numbers were measured by somebody else, and which of the three papers could
+actually be read in full.
+
+No photograph in this film is of a real object or a real place. Every image is
+either a reconstruction made for the film and marked AI RECONSTRUCTION on
+screen, or a diagram drawn for it. Nothing is a press picture, and no
+third-party image was used as a reference.
+
+Two deliberate omissions. No human remains appear anywhere in this film: the
+Phaleron burials are shown as an excavation surface and an iron shackle, never
+as bodies. And nothing here portrays a specific catalogued find - the vessels,
+the cuff and the ridges are reconstructions of a type.
+
+
+SHOT LIST
+=========
+
+[01]  0:00   RECONSTRUCTION  The cut face of an excavation trench - reconstruction
+[02]  0:18   RECONSTRUCTION  Fragments of coarse hand-built pottery on a tray - reconstruction
+[03]  0:33   RECONSTRUCTION  Inside an early Neolithic house - reconstruction
+[04]  0:47   RECONSTRUCTION  A hand-built clay vessel - reconstruction
+[05]  1:02   DIAGRAM         Three finds this month
+[06]  1:18   RECONSTRUCTION  An empty finds tray with a blank label - reconstruction
+[07]  1:28   RECONSTRUCTION  The upper Tigris valley - reconstruction
+[08]  1:38   DIAGRAM         Forty-six fragments, nine vessels, three things the clay was doing
+[09]  1:53   RECONSTRUCTION  The broken edge of a coarse sherd - reconstruction
+[10]  2:08   RECONSTRUCTION  An open hearth of ash and embers - reconstruction
+[11]  2:19   DIAGRAM         Where the oldest pottery actually is
+[12]  2:35   RECONSTRUCTION  A deep sounding cut in the nineteen fifties - reconstruction
+[13]  2:52   DIAGRAM         How the period got its name
+[14]  3:09   RECONSTRUCTION  The mound at the end of the day - reconstruction
+[15]  3:14   RECONSTRUCTION  The coastal plain south-west of Athens - reconstruction
+[16]  3:19   RECONSTRUCTION  A cleared excavation area in sandy ground - reconstruction
+[17]  3:33   DIAGRAM         The Esplanada grave (arrangement schematic)
+[18]  3:46   RECONSTRUCTION  A corroded iron cuff on a finds tray - reconstruction
+[19]  4:05   RECONSTRUCTION  A laboratory bench with sample vials - reconstruction
+[20]  4:20   DIAGRAM         What the enamel said: sixty-four of sixty-six
+[21]  4:35   RECONSTRUCTION  The dry hills of Attica - reconstruction
+[22]  4:48   RECONSTRUCTION  The shoreline in the evening - reconstruction
+[23]  5:03   RECONSTRUCTION  Ridges and channels from the air, dry season - reconstruction
+[24]  5:09   RECONSTRUCTION  A ridge and its channel at ground level - reconstruction
+[25]  5:26   RECONSTRUCTION  Earth being moved on the floodplain - reconstruction
+[26]  5:41   DIAGRAM         The assumption of 1957
+[27]  5:59   RECONSTRUCTION  The same ground under flood - reconstruction
+[28]  6:11   DIAGRAM         What they actually measured
+[29]  6:25   DIAGRAM         The labour sum
+[30]  6:40   DIAGRAM         Five hundred hectares against five hundred thousand
+[31]  7:00   RECONSTRUCTION  The pattern in low sun - reconstruction
+[32]  7:11   DIAGRAM         Three labels, three origins
+[33]  7:16   RECONSTRUCTION  A field notebook with a section drawing - reconstruction
+[34]  7:34   RECONSTRUCTION  The same cuff, almost in the dark - reconstruction
+[35]  7:49   RECONSTRUCTION  A stack of old academic books - reconstruction
+[36]  8:02   RECONSTRUCTION  An open card index drawer - reconstruction
+[37]  8:18   RECONSTRUCTION  Three empty finds trays - reconstruction
+[38]  8:37   RECONSTRUCTION  One blank label - reconstruction
+
+SOURCES
+=======
+
+ITEM 1 - FIRED CLAY IN THE PRE-POTTERY NEOLITHIC
+
+  Kodas, E., Petrova, N., Daghmehchi, M. and Ozbal, R. (2026). Understanding
+  a first attempt at pottery: early fired containers at Cemka Hoyuk.
+  Antiquity 100(412). Published online 15 June 2026, in the August print
+  issue.
+  doi.org/10.15184/aqy.2026.10371
+
+  ACCESS: open access, CC BY 4.0 - the only one of the three papers this film
+  could read in full. Forty-six low-fired fragments, nine vessels, a context
+  of about 9350 cal BC, firing between 600 and 700 degrees under low-oxygen
+  conditions, and three functional groups. The authors write that the pieces
+  "may have been deliberately fired"; the film keeps the "may".
+
+  Kenyon, K. M. (1957). Digging Up Jericho. London.
+  For the origin of the terms PPNA and PPNB, coined during the excavations at
+  Tell es-Sultan between 1952 and 1958.
+
+  NOTE ON THE DATES IN DIAGRAM 13: the ranges drawn there are calibrated.
+  Kenyon's own figures were uncalibrated radiocarbon years and sit several
+  centuries younger; mixing the two would have placed Cemka Hoyuk outside the
+  very period it belongs to. The diagram says so on screen.
+
+
+ITEM 2 - THE MEN AT PHALERON
+
+  Stamer, J. R., Rothwell, J. E., Simonton, M., Chryssoulaki, S., Knudson,
+  K. J. and Buikstra, J. E. (2026). Investigating the residential history of
+  the Esplanada mass graves at Phaleron, Greece. Journal of Archaeological
+  Science: Reports 74, 105952.
+  doi.org/10.1016/j.jasrep.2026.105952
+
+  ACCESS: paywalled. This film is based on the abstract, on the release from
+  Arizona State University, and on reporting that quotes the authors directly.
+  Sixty-six of the seventy-nine men were sampled, plus ninety-seven other
+  adults from the same burial ground; sixty-four of the sixty-six carry a
+  signature compatible with Attica.
+
+  NOTE: at least one report places this study in the Journal of Archaeological
+  Science. It is in Journal of Archaeological Science: Reports - a different
+  journal from the same publisher. The DOI above is the one to follow.
+
+  Chryssoulaki, S. et al. (2019). Bioarchaeological field analysis of human
+  remains from the mass graves at Phaleron, Greece. Hesperia 88(4).
+  For the excavation of 2016 by the Ephorate of Antiquities of West Attica,
+  Piraeus and the Islands, and for the arrangement of the burials.
+
+  Herodotus 5.71 and Thucydides 1.126 are the ancient notices of the coup of
+  Cylon. They are named in the film only as the usual candidate, not as an
+  identification, because nothing links the texts to this grave.
+
+
+ITEM 3 - THE FIELDS OF LA MOJANA
+
+  Vieri, J., Montejo Gaitan, F., Carrero-Pazos, M. and Martinon-Torres, M.
+  (2026). Collective labour and sustainability of pre-Hispanic field systems
+  in La Mojana. Communications Sustainability.
+  doi.org/10.1038/s44458-026-00128-5
+
+  ACCESS: paywalled at the time of writing. This film is based on the
+  abstract and on the University of Cambridge release, which carries the
+  figures used here: a mapped block of 500 hectares near San Marcos in Sucre,
+  1,600 ridges, 63 house platforms, around 800 workers, under two months.
+
+  Wittfogel, K. A. (1957). Oriental Despotism: A Comparative Study of Total
+  Power. New Haven.
+  For the hydraulic hypothesis named in the film.
+
+  Adams, R. McC. (1966). The Evolution of Urban Society. Chicago.
+  For the archaeological case against it, which is why the film says the
+  thesis lost the argument decades ago and kept the job anyway.
+
+
+WHERE THIS FILM DISAGREES WITH THE REPORTING
+============================================
+
+1. "The oldest pottery ever found." It is not. Fired vessels from East Asian
+   sites are roughly twice this age. The claim in the paper is regional -
+   south-west Asia - and the film says so in the segment itself rather than
+   leaving it to the comments.
+
+2. "11,500 years old", and elsewhere "12,000". The publication dates the
+   context to about 9350 calibrated BC, which is about 11,300 years. The film
+   uses the published date.
+
+3. "Deliberately fired." The paper says "may have been deliberately fired".
+   The film keeps the hedge, gives the reasons the reading is strong, and
+   gives the reason it is still a hedge: an ordinary hearth reaches the same
+   temperature.
+
+4. "Archaeologists thought these men were foreign invaders. They were wrong."
+   And, from another outlet, "study confirms". Neither is right. Two families
+   of explanation have stood side by side since 2016 - an internal Athenian
+   killing, with the followers of Cylon as the usual candidates, or captives
+   from outside. There was no consensus to overturn or to confirm. The study
+   decides between them.
+
+5. How many of the seventy-nine were shackled. Reported as thirty-six, as
+   thirty-nine, as "many" and as "all". The accessible text of the study gives
+   no figure, so the film gives none either.
+
+6. "The whole system was built in a single dry season." The paper models a
+   block of five hundred hectares. Five hundred thousand is the whole complex,
+   built and used over more than a thousand years. The film separates the two
+   and says the difference out loud.
+
+
+WHAT IS NOT CLAIMED
+===================
+
+  That anyone was careless. A period name is a filing decision, not an
+  assertion; Kenyon was sorting layers. The chains at Phaleron were read the
+  way anybody reads chains. Wittfogel published an argument and lost it.
+
+  That strontium proves where a person came from. It rules places out. Several
+  unrelated regions can share a signature, and the method says nothing about
+  cause of death, faction or year.
+
+  That the Colombian figures are an excavation result. They are a model built
+  from mapped volumes and stated assumptions, including wooden tools that do
+  not survive in that ground.
+
+  That the three new readings are safe. "Experimental pottery", "local" and
+  "collective labour" are labels too, and one of them will not survive the
+  decade. That is the work, not an objection to it.
+
+
+IMAGES AND SOUND
+================
+
+  All images: made for this film. Higgsfield, model nano_banana_pro, 16:9,
+  2752 x 1536. No reference images were uploaded and no third-party picture
+  was used as a source. Prompts are logged in the production files, including
+  the two that had to be redone and why.
+
+  All diagrams: drawn for this film in Python with the Pillow library. There
+  is no map in this film - the three cases lie on three continents, and a
+  world map would need coastlines the channel does not draw.
+
+  Music: composed for this film, five pieces, ElevenLabs music model. Nothing
+  is reused from earlier episodes.
+
+  Sound: field recordings from a licensed commercial library, plus the
+  channel's own stock. No third-party rights beyond that licence.
+
+  Narration: ElevenLabs text-to-speech. The voice is synthetic and the script
+  is written by a human hand.
+
+
+CORRECTIONS
+===========
+
+If something here is wrong, it will be corrected out loud rather than quietly.
