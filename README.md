@@ -39,6 +39,7 @@ why, rather than quietly absorbing it.
 | 03 | Nobody Went Looking For Any Of This | [sources](dispatch-03-sources.txt) | [method](dispatch-03-method.txt) |
 | 04 | Nobody Has Ever Found These People | [sources](dispatch-04-sources.txt) | [method](dispatch-04-method.txt) |
 | 05 | Nothing Here Came Out Of The Ground | [sources](dispatch-05-sources.txt) | [method](dispatch-05-method.txt) |
+| 06 | The Name Was Doing The Work | [sources](dispatch-06-sources.txt) | [method](dispatch-06-method.txt) |
 
 ## Marking
 
