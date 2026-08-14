@@ -1,0 +1,134 @@
+THE BURIED WORLD
+Episode 3 - The City Nobody Can Date
+How this film was made
+
+Last updated 6 August 2026
+
+
+WHY THIS PAGE EXISTS
+====================
+
+This channel makes claims about the past using images that are not photographs
+of the past. That is a fair thing to be suspicious of. This page says exactly
+how the film was put together, what was changed during the fact check, and what
+the film is not able to tell you.
+
+
+THE ONE THAT CHANGED THE TITLE
+==============================
+
+This episode was planned under a different title: "The City Carved 18 Floors
+Down", with "18 FLOORS UNDERGROUND" on the thumbnail. Both were dropped during
+the fact check.
+
+The figure of eighteen levels appears in almost every popular account of
+Derinkuyu. Following it back does not lead to a survey. It leads to travel
+writing, and from there to everyone who repeated it. The Italian survey
+campaigns of the 1990s distinguish five overlapping levels; around eight are
+open to visitors today; published depths range from about 45 metres to 85.
+
+A number that the sources do not agree on gets cut. That rule exists because it
+is easy to keep the one figure that makes the better thumbnail. Here it would
+have cost the title, so the title changed instead.
+
+The film says the popular figures out loud, in the first minute, and then says
+they are not measurements. That turned out to be a better opening than the
+number ever was.
+
+
+SIX MORE CORRECTIONS
+====================
+
+1. THE CHICKENS. The 1963 discovery is usually told with a detail: the man's
+   chickens kept disappearing through a crack in his cellar wall, which is why
+   he broke it open. It is charming and it is everywhere. It traces to
+   journalism, not to any excavation report. The film keeps the sledgehammer
+   and the wall and drops the chickens.
+
+2. XENOPHON. The Anabasis, written around 370 BCE, describes people living in
+   houses cut down into the ground with their animals. It is cited constantly as
+   the earliest written notice of the Cappadocian underground cities. The
+   passage belongs to the march through Armenia, several hundred kilometres
+   east. The film includes it - and says what is wrong with using it.
+
+3. THE ANCIENT NAME. A name for Derinkuyu in antiquity circulates widely. It
+   could not be traced to any scholarly source, only to travel writing and its
+   copies. What is documented is Malakopea, the name used by the town's
+   Greek-speaking inhabitants into the twentieth century. That is the name the
+   film uses.
+
+4. THE TUNNEL TO KAYMAKLI. Often given as nine kilometres and sometimes as
+   fact. No survey supports it. It is not in the film, and it is not on the map
+   either - a map is a claim like any other sentence.
+
+5. FIFTY-TWO VENTILATION SHAFTS. Travel literature only. The film describes
+   what the shafts do and does not count them.
+
+6. SEVENTEEN THOUSAND LITRES OF WINE A YEAR. A real published figure, but an
+   extrapolation from the number of pressing installations rather than a
+   measurement. The film gives the counts, which are measurements, and leaves
+   the litres out.
+
+
+WHAT THE IMAGES ARE
+===================
+
+Every one of the 56 shots was made for this film.
+
+48 are AI-generated (Higgsfield, nano_banana_pro), marked "AI RECONSTRUCTION"
+on screen for as long as they are visible, alongside the EU marking for
+AI-generated content in the first fifteen seconds. They fall into two kinds and
+the film never mixes them: photographic-looking shots show place and find;
+painted shots show people, actions and anything reconstructed - because those
+are interpretation, and they should look like it.
+
+8 are drawn, not generated: the map, the two architecture panels, the two
+stratigraphy panels, the timeline of one complex, the timeline of datings, the
+survey bar and the economy panel. Image models place lettering unreliably, and
+a diagram whose labels are decorative is worse than no diagram. One attempt at
+a painted Anatolian chamber came back with Egyptian hieroglyphs on the wall -
+invented writing that would have looked like information.
+
+No photographs of Derinkuyu, of any other Cappadocian site, or of any museum
+object appear anywhere in the film. In Germany, a photograph of a
+public-domain object is itself protected (Section 72 UrhG, confirmed by the
+Federal Court of Justice). Rather than borrow what cannot be cleanly licensed,
+this channel draws what the published record describes. Nothing in this film
+rests on anyone else's rights.
+
+
+HOW THE FILM WAS ASSEMBLED
+==========================
+
+The script is written first and is the only source for everything downstream:
+each spoken block becomes one narration file, and the length of each shot is
+the MEASURED length of its narration plus a pause. Nothing is cut to a planned
+duration.
+
+Narration: ElevenLabs, synthetic voice, the same voice in every episode.
+Music: composed for this film, six pieces following the six acts. New music is
+composed for every episode.
+Sound: field recordings and effects from licensed libraries, each normalised to
+a target level before mixing - a fixed mix factor across sources that differ by
+40 dB decides at random which effects you can hear at all.
+Camera moves over stills are computed sub-pixel, because integer-rounded moves
+visibly stutter at slow speeds.
+
+The whole chain is scripted and re-runnable, and every step is checked
+mechanically before release: marking windows, image order, sound levels.
+
+
+WHAT THIS FILM CANNOT TELL YOU
+==============================
+
+When these complexes were cut. That is the subject of the film and it is not
+resolved at the end, because it is not resolved in the literature. The period
+of heavy use is reasonably well argued - the Arab incursions into Byzantine
+Anatolia, roughly the seventh to ninth centuries. That is a period of use, not
+a construction date, and the difference matters.
+
+Who cut them is much less mysterious than it sounds: the people who lived
+directly above them. That part the film does state, because the evidence for it
+is good.
+
+If something here is wrong, tell me and I will correct it and say so.

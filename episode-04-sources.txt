@@ -1,0 +1,288 @@
+THE BURIED WORLD
+Episode 4 - Rome's Concrete Is Still Healing Itself
+Full source list
+
+Last updated 8 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the
+film was recorded, and the works those checks rest on are named at the end.
+
+This is an episode that spends its fourth act correcting things people
+confidently repeat. That obliges it to be unusually exact about its own
+footing. Where a figure is contested, this list says so, and where a figure was
+cut from the script, it says that too.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 63 shots were made for this film. No photographs of Roman structures, of
+any excavation, of any laboratory or of any museum object appear anywhere in
+it, and no third-party images are used. Photographs of public-domain objects
+are still protected in Germany (Section 72 UrhG); rather than borrow what
+cannot be licensed, this channel draws what the published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place,
+                   material and laboratory; painted shots show people and
+                   actions, which are always interpretation.
+
+  DIAGRAM        - the two maps, the two reaction panels, the procedure
+                   comparison, the healing cycle, the sea panel, the property
+                   table and the timeline. These were drawn for this film, not
+                   generated. Image models place lettering unreliably.
+
+One shot deserves a specific note. Shot 42 is styled as a scanning electron
+micrograph of mineral plates growing in a pore. It is not one. It is a
+generated reconstruction of what the published micrographs show, and it carries
+the same AI marking as every other generated shot. No real micrograph from any
+paper is reproduced here.
+
+[01]  0:00   RECONSTRUCTION  A Roman concrete block still standing in the sea
+[02]  0:15   RECONSTRUCTION  A twentieth-century quay wall, rust-streaked and spalled
+[03]  0:28   RECONSTRUCTION  A working face of volcanic ash near Naples
+[04]  0:45   RECONSTRUCTION  A Roman mole, eroded, the sea running through it
+[05]  1:02   RECONSTRUCTION  Roman mortar in section: white lumps in a dark matrix
+[06]  1:15   RECONSTRUCTION  A mortar sample going under the microscope
+[07]  1:29   RECONSTRUCTION  A hairline crack filled by a white mineral line
+[08]  1:43   RECONSTRUCTION  A Roman wall with the facing gone, core exposed
+[09]  1:57   RECONSTRUCTION  The ingredients, laid out plainly
+[10]  2:12   DIAGRAM         Map: where the ash came from
+[11]  2:28   RECONSTRUCTION  Building a wall: mortar and rubble, laid by hand
+[12]  2:43   RECONSTRUCTION  The same wall in section - courses, not a pour
+[13]  2:56   RECONSTRUCTION  A Roman lime kiln at night
+[14]  3:10   RECONSTRUCTION  Soft lime mortar crumbling out of a joint
+[15]  3:23   DIAGRAM         Diagram: two ways for lime to set
+[16]  3:37   RECONSTRUCTION  Volcanic ash grains, macro
+[17]  3:54   RECONSTRUCTION  The volcanic ground west of Naples
+[18]  4:09   RECONSTRUCTION  Heavy sea against the face of a Roman pier
+[19]  4:26   RECONSTRUCTION  Two aggregates: dense rock and pumice
+[20]  4:40   RECONSTRUCTION  The Pantheon dome and its opening
+[21]  4:59   RECONSTRUCTION  Polished Roman mortar, full frame
+[22]  5:04   RECONSTRUCTION  One lime clast, extreme macro
+[23]  5:17   RECONSTRUCTION  A tray of mortar fragments
+[24]  5:40   RECONSTRUCTION  A researcher with a cut sample
+[25]  5:51   RECONSTRUCTION  A Roman town wall in summer grass
+[26]  6:05   RECONSTRUCTION  The sample under the instrument
+[27]  6:17   DIAGRAM         Diagram: same ingredients, different order
+[28]  6:31   RECONSTRUCTION  Hot mixing: quicklime into the trough, and the steam
+[29]  6:46   RECONSTRUCTION  A broken face: white lumps through the matrix
+[30]  7:01   RECONSTRUCTION  A crack in a concrete surface
+[31]  7:09   DIAGRAM         Diagram: how the repair works
+[32]  7:22   RECONSTRUCTION  Water along a fine crack, macro
+[33]  7:38   RECONSTRUCTION  The tomb of Caecilia Metella
+[34]  7:54   RECONSTRUCTION  The flow test: two halves, half a millimetre apart
+[35]  8:08   RECONSTRUCTION  The gap, bridged by new white mineral
+[36]  8:20   RECONSTRUCTION  The pier at dusk, the sea flat
+[37]  8:36   RECONSTRUCTION  A Roman block on the seabed
+[38]  8:44   DIAGRAM         Map: ROMACONS, 2003-2007
+[39]  9:07   RECONSTRUCTION  A drilled core on the deck
+[40]  9:17   RECONSTRUCTION  A modern pier column, its reinforcement exposed
+[41]  9:33   DIAGRAM         Diagram: the sea, twice
+[42]  9:47   RECONSTRUCTION  Plate crystals filling a pore (reconstruction)
+[43]  9:59   RECONSTRUCTION  A fractured surface of stacked plates, macro
+[44]  10:17  RECONSTRUCTION  Roman blocks running out into the bay
+[45]  10:30  RECONSTRUCTION  A crushed test cylinder in the laboratory
+[46]  10:45  RECONSTRUCTION  A ruined Roman vault, core exposed
+[47]  10:50  RECONSTRUCTION  Old volumes on a library shelf
+[48]  11:03  RECONSTRUCTION  A precast yard and its batching plant
+[49]  11:20  RECONSTRUCTION  A modern frame under construction
+[50]  11:39  DIAGRAM         Diagram: not the same problem
+[51]  11:47  RECONSTRUCTION  Reinforcement tied and waiting, macro
+[52]  12:07  RECONSTRUCTION  A bridge soffit, spalled and rust-stained
+[53]  12:25  RECONSTRUCTION  Concrete going into formwork
+[54]  12:44  RECONSTRUCTION  A Roman structure reduced to its core
+[55]  13:00  RECONSTRUCTION  A silted harbour in late antiquity
+[56]  13:13  DIAGRAM         Diagram: lost, then worked out again
+[57]  13:28  RECONSTRUCTION  Eighteenth-century lime trials by candlelight
+[58]  13:40  RECONSTRUCTION  A modern cement works
+[59]  14:02  RECONSTRUCTION  One clast, quietly
+[60]  14:10  RECONSTRUCTION  A hand beside the sample
+[61]  14:26  RECONSTRUCTION  A Roman wall in evening light
+[62]  14:49  RECONSTRUCTION  The healed crack again, macro
+[63]  14:58  RECONSTRUCTION  The tomb at last light
+
+DIAGRAMS - WHAT THEY REST ON
+============================
+
+The map at 2:12 uses real coordinates, linearly projected, with the
+latitude axis stretched by 1/cos(41.5 deg). No coastlines are drawn and no
+distance is given: the map claims only where the places are. The Phlegraean
+Fields are not marked separately from Puteoli and Baiae, because on this scale
+they are the same ground.
+
+The map at 8:44 marks the ROMACONS drilling sites. Cosa and Santa Liberata
+are about twelve kilometres apart and appear as one point with both names -
+two points there would be a precision this map does not have.
+
+The property table at 11:39 deliberately carries NO figures in megapascals.
+Published compressive strengths for Roman wall concrete scatter across roughly
+6, 10-30 and about 20 MPa depending on what was sampled and how, against
+roughly 50 MPa for ordinary modern structural concrete. The comparison the film
+makes - that Roman concrete is not close, on the property engineers design to -
+survives that scatter. A single number would not, so the table says "low" and
+"high" and leaves it there.
+
+The healing cycle at 7:09 is a schematic of the mechanism described in
+Seymour et al. 2023. It is not to scale and it is not a micrograph.
+
+
+WHAT THIS FILM CORRECTS
+=======================
+
+Three claims are widely repeated and are wrong. Each is taken apart in the film
+and each is sourced here.
+
+  "The recipe was lost."
+      Vitruvius, De architectura 2.6, names the material and where to get it.
+      The text has been in print since the editio princeps (Sulpizio / Silber,
+      Rome, 1486/87) and has never been unavailable since.
+
+  "We cannot reproduce it."
+      Seymour et al. 2023 cast lime-clast mortar in the laboratory and
+      demonstrated self-sealing. DMAT, co-founded by the paper's senior author,
+      has since brought a lime-clast cement to market in Italy and Switzerland.
+      Whether that product performs as advertised over decades is an open
+      commercial question; that the chemistry can be reproduced is not.
+
+  "It is better than modern concrete."
+      Not on compressive strength, and not by any margin. What it is better at
+      is lasting without maintenance in the absence of steel reinforcement -
+      which is a different property, achieved under different constraints.
+
+
+WHAT WAS CUT AND WHY
+====================
+
+Five things were removed or changed at the fact-check stage:
+
+  1. Every compressive strength in megapascals - the published figures scatter
+     too widely to name one. The comparison is made in words instead.
+  2. "Cement causes 8 % of global CO2 emissions." The 8 % figure is widely
+     quoted and does not sit comfortably against the roughly 1.47 billion
+     tonnes recorded for cement manufacture in 2024. The film gives no
+     percentage.
+  3. "Concrete is the second most used substance on Earth after water." A
+     popular formulation that is hard to source cleanly. Replaced with the
+     defensible version: no manufactured material is used in greater quantity.
+  4. A sentence saying that Vitruvius never mentions hot mixing. He may. The
+     paper itself discusses his use of "macerata" for plaster lime against
+     "extincta" for structural lime and considers the second compatible with
+     hot mixing. The film now says the sources are ambiguous exactly where it
+     matters, which is both true and more interesting.
+  5. The planned thumbnail line, "WE CAN'T COPY THIS" - contradicted by the
+     film's own fourth act.
+
+One date was corrected rather than cut: ROMACONS was established in 2001, but
+the drilling campaigns ran from 2003 to 2007. The film says 2003.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), six pieces following the acts.
+Nothing is reused from earlier episodes.
+
+Sound effects, drawn from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+    Just Sound Effects, "Rocky Coast of Norway" - the sea beds
+    Jake Fielding, "Fridge Hums Vol. 2" - laboratory room tone
+    Epic Stock Media, "Strange Game Ambient Loops 3" - works and site tone
+    Ivo Vicic, "Campfire / Bonfire FX" - the steam burst at the mortar trough
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES AND FURTHER READING
+===========================
+
+Seymour, Linda M.; Maragh, Janille; Sabatini, Paolo; Di Tommaso, Michel;
+  Weaver, James C.; Masic, Admir (2023): "Hot mixing: Mechanistic insights into
+  the durability of ancient Roman concrete", Science Advances 9(1), eadd1602,
+  6 January 2023. DOI 10.1126/sciadv.add1602. - The backbone of acts two and
+  five. Samples from bedding mortar in the city wall at Privernum, collected in
+  summer 2016. Lime clasts formed at high temperature, consistent with
+  quicklime mixed directly with pozzolan and water. Self-healing demonstrated
+  on 10 cm cylinders fractured and held 0.5 mm apart under flowing water:
+  sealed within one to three weeks, control specimens never sealed. Note the
+  authors' own hedging - hot mixing is raised as a proposition, not proved as
+  an intention.
+
+Jackson, Marie D.; Mulcahy, Sean R.; Chen, Heng; Li, Yao; Li, Qinfei;
+  Cappelletti, Piergiulio; Wenk, Hans-Rudolf (2017): "Phillipsite and
+  Al-tobermorite mineral cements produced through low-temperature water-rock
+  reactions in Roman marine concrete", American Mineralogist 102(7), 1435-1450.
+  - Act three. Seawater percolating through the concrete dissolves volcanic
+  glass; alkaline fluids grow interlocking platy minerals in the pores, which
+  resist fracture. The increase is in toughness, not in compressive strength.
+
+Jackson, Marie D. et al. (2021, with Masic and colleagues): "Reactive binder
+  and aggregate interfacial zones in the mortar of Tomb of Caecilia Metella
+  concrete, 1C BCE, Rome", Journal of the American Ceramic Society. - The
+  ancient evidence for long-term mineral reworking in a terrestrial monument,
+  and the source of the calcite crack-filling observation cited in the film.
+
+Jackson, Marie D. et al. (2009): "Assessment of material characteristics of
+  ancient concretes, Grande Aula, Markets of Trajan, Rome", Journal of
+  Archaeological Science 36(11). - Aggregate chosen by function; stratlingite
+  in the wall mortars; unit weights of about 1750 kg/m3 for wall mortar against
+  1430-1640 for the pumice-bearing vault mortars.
+
+Brandon, Christopher J.; Hohlfelder, Robert L.; Jackson, Marie D.;
+  Oleson, John P. (2014): Building for Eternity: The History and Technology of
+  Roman Concrete Engineering in the Sea, Oxbow Books. - The ROMACONS project:
+  cores 0.09 m in diameter and up to 5.8 m long, drilled 2003-2007 at Cosa,
+  Santa Liberata, Caesarea, Baiae and Portus Iulius, Alexandria and
+  Chersonissos.
+
+Vitruvius, De architectura 2.6.1-2 (c. 25 BC). - The powder found near Baiae
+  and around Vesuvius which, mixed with lime and rubble, gives strength to a
+  structure and sets under water. Editio princeps: Giovanni Sulpizio da Veroli
+  for Eucharius Silber, Rome, 1486/87.
+
+Pliny the Elder, Naturalis Historia 35.166 (c. AD 77). - The dust of the hills
+  of Puteoli which, on meeting the waves, becomes a single stone the sea cannot
+  break, and grows stronger every day. Paraphrased in the film, not quoted.
+
+Sannino, Filomena et al. (2023): "Early exploitation of Neapolitan pozzolan
+  (pulvis puteolana) in the Roman theatre of Aquileia, Northern Italy",
+  Scientific Reports 13. - Evidence for the long-distance trade in the ash.
+
+Smeaton, John (1791): A Narrative of the Building ... of the Eddystone
+  Lighthouse. - The 1756 experiments establishing that limes containing clay
+  set under water. Aspdin, Joseph: British Patent 5022 (1824), "Portland
+  cement".
+
+On reinforcement as the limiting factor in modern concrete life: the standard
+literature on chloride-induced and carbonation-induced corrosion of reinforcing
+steel. Any current durability-design text covers it; the film makes no numeric
+claim here.
+
+
+WHAT THE FILM DOES NOT CLAIM
+============================
+
+The title says the concrete is still healing itself, and the film means that
+narrowly: a mechanism identified in ancient mortar and reproduced in the
+laboratory continues to operate where water reaches a fractured lime clast. It
+does not claim that Roman concrete is indestructible, that it outperforms
+modern concrete, that the recipe was lost, or that anything about it is
+unexplained.
+
+It does not claim that the Romans knew what they were doing. That is the one
+question left open at the end, and it is left open because the evidence leaves
+it open - the clasts establish the process, not the intention, and the written
+sources are ambiguous precisely there.
+
+"We don't know what they intended" is a finding, not a failure.

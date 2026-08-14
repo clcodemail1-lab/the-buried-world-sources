@@ -1,0 +1,238 @@
+THE BURIED WORLD
+Episode 6 - We Can Read Every Sign And Understand Nothing
+
+Linear A, Crete, c. 1800-1450 BC
+Full source list
+
+Last updated 11 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure, name and date was checked against specialist
+sources before the film was recorded, and the works those checks rest on are
+named at the end.
+
+Undeciphered scripts attract claimed solutions the way few subjects do. That
+obliges a film about one to be unusually exact about its own footing. Where a
+figure is contested, this list says so; where a figure was cut from the script
+because the sources would not carry it, it says that too.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+ABOUT THE SIGNS IN THE IMAGES
+=============================
+
+This matters more in this film than in any other on the channel, so it is
+stated plainly:
+
+  THE SIGNS IN THE GENERATED IMAGES ARE NOT LINEAR A.
+
+An image model cannot write Linear A. It can only produce marks that look like
+it. Every tablet, fragment and libation table in this film is a reconstruction,
+and the marks on them are plausible linear strokes - not readable text, not a
+transcription of any real inscription, and not usable for study.
+
+That is why no generated image in this film shows an inscription large enough
+or sharp enough to be read as a facsimile, and why everything the film actually
+needs you to read is DRAWN rather than generated: the number system, the
+account with ku-ro, the libation formula, and Ventris's grid. Those are set in
+the Latin transcription that the scholarly literature uses - which is, in the
+end, exactly what the film is about. What we have of Linear A is the
+transcription.
+
+The numerals shown at 00:00 are the one exception among the drawn material that
+reproduces the original signs directly: the Linear A numeral signs are simple
+and securely documented. The seventeen fraction signs are given only as a
+count, because their values are still argued over.
+
+
+THE IMAGES
+==========
+
+All 62 shots were made for this film. No photograph of any real tablet, of any
+excavation, of any museum object and of any person appears anywhere in it, and
+no third-party images are used. Photographs of public-domain objects are
+protected in their own right under German law (BGH, Reiss-Engelhorn), so the
+channel makes its own images instead.
+
+Two shots are deliberately composed so that they are NOT a substitute for a
+photograph of the real object: the Rosetta Stone is seen from behind at an
+angle where its face cannot be read, and the rock face at Behistun is seen from
+far enough away that the relief is only texture. Both show the situation, not
+the document.
+
+[01]  0:00   RECONSTRUCTION  A clay tablet from the south coast of Crete
+[02]  0:16   RECONSTRUCTION  The storeroom at the moment of the fire (painted)
+[03]  0:35   RECONSTRUCTION  Two tablets, the same family of signs
+[04]  0:51   RECONSTRUCTION  A tablet turned into a raking light
+[05]  1:06   RECONSTRUCTION  Incised strokes, macro
+[06]  1:08   RECONSTRUCTION  Tablets in museum storage
+[07]  1:27   RECONSTRUCTION  A Minoan palace court at dawn
+[08]  1:51   RECONSTRUCTION  The excavation of 1900 (painted)
+[09]  2:08   RECONSTRUCTION  Fresco restoration, early 1900s (painted)
+[10]  2:26   DIAGRAM         Diagram: Linear A, Linear B, and 1952
+[11]  2:36   RECONSTRUCTION  A hilltop complex on the south coast
+[12]  2:50   DIAGRAM         Map: where the tablets come from
+[13]  2:57   RECONSTRUCTION  The broken edge of a fired tablet, macro
+[14]  3:15   RECONSTRUCTION  A stone libation table
+[15]  3:37   RECONSTRUCTION  Four libation tables in a row
+[16]  3:53   RECONSTRUCTION  A Bronze Age Aegean merchant ship (painted)
+[17]  4:14   DIAGRAM         Map: how far the script travelled
+[18]  4:28   RECONSTRUCTION  A Linear B tablet
+[19]  4:35   RECONSTRUCTION  The museum lecture of 1936 (painted)
+[20]  4:56   DIAGRAM         Diagram: the grid, before any sound was known
+[21]  5:14   RECONSTRUCTION  A working desk with hand-drawn signs
+[22]  5:29   RECONSTRUCTION  Working alone at night, 1952 (painted)
+[23]  5:49   RECONSTRUCTION  The same sign on two fragments, macro
+[24]  6:11   RECONSTRUCTION  Drawing a tablet under a magnifying lamp
+[25]  6:24   DIAGRAM         Diagram: the number system
+[26]  6:41   RECONSTRUCTION  A cluster of numerals, macro
+[27]  6:53   DIAGRAM         Diagram: reading an account without the language
+[28]  7:11   RECONSTRUCTION  Ruled lines and quantities, macro
+[29]  7:25   RECONSTRUCTION  A palace storeroom of great jars
+[30]  7:39   RECONSTRUCTION  A conservation study room
+[31]  7:49   RECONSTRUCTION  The inscribed slab, seen from behind
+[32]  7:52   RECONSTRUCTION  A cut panel high on a cliff face
+[33]  8:09   RECONSTRUCTION  An empty display case
+[34]  8:20   RECONSTRUCTION  A library of unlettered spines
+[35]  8:40   RECONSTRUCTION  A single boulder on a limestone plateau
+[36]  8:57   RECONSTRUCTION  A wall of hand-drawn sign charts
+[37]  9:13   RECONSTRUCTION  Hundreds of paper slips, one sign each
+[38]  9:35   RECONSTRUCTION  A drawer of small inscribed fragments
+[39]  9:45   DIAGRAM         Diagram: Linear B against Linear A
+[40]  9:58   RECONSTRUCTION  Fragments too small to place, macro
+[41]  10:24  RECONSTRUCTION  Six tablets, six hands
+[42]  10:38  RECONSTRUCTION  A seminar room and a blank screen
+[43]  10:52  RECONSTRUCTION  A libation table from directly above
+[44]  11:13  DIAGRAM         Diagram: the libation formula
+[45]  11:30  RECONSTRUCTION  Along the rim of a libation table, macro
+[46]  11:42  RECONSTRUCTION  Comparing how a sign was drawn
+[47]  12:05  RECONSTRUCTION  A sheet of hand-drawn sign variants
+[48]  12:22  RECONSTRUCTION  A server room
+[49]  12:27  RECONSTRUCTION  An unlabelled network diagram
+[50]  12:44  RECONSTRUCTION  One full tray and one empty one
+[51]  13:04  RECONSTRUCTION  Facing a blank screen
+[52]  13:23  RECONSTRUCTION  A lecture hall during a talk
+[53]  13:41  RECONSTRUCTION  The excavation at Pylos, 1952 (painted)
+[54]  14:04  RECONSTRUCTION  The tablet of vessels
+[55]  14:24  RECONSTRUCTION  The letter of May 1953 (painted)
+[56]  14:35  RECONSTRUCTION  Bronze tripod cauldrons
+[57]  14:51  DIAGRAM         Diagram: three things that would break it open
+[58]  14:58  RECONSTRUCTION  A small excavation on Crete today
+[59]  15:21  RECONSTRUCTION  A conference, between sessions
+[60]  15:39  RECONSTRUCTION  Marks read almost entirely as shadow, macro
+[61]  15:53  RECONSTRUCTION  One libation table in a case
+[62]  16:10  RECONSTRUCTION  The gallery after closing
+
+
+THE DIAGRAMS
+============
+
+  2:26  Linear A (c. 1800-1450 BC) against Linear B (c. 1450-1200 BC) and
+         the decipherment of 1952. The asymmetry is the point: the younger
+         script is read, the older one is not.
+  2:50  Real coordinates, no coastlines. The figures are TABLET counts,
+         not counts of inscribed objects - the two are regularly mixed up in
+         the literature. Hagia Triada 147, Chania 99, Zakros 31, Phaistos 26,
+         Knossos 6.
+  4:14  Find spots outside Crete. No trade routes are drawn, because the
+         find spots are documented and the routes are not.
+  4:56  Ventris's grid, correctly shown WITHOUT sound values: the axes are
+         labelled "consonant 1..6" and "vowel 1..5", because which consonant
+         and which vowel was exactly what the grid did not yet say.
+  6:24  The numeral signs. Units, tens, hundreds, thousands - and the
+         seventeen fraction signs given only as a count.
+  6:53  An account, schematically: commodity signs, quantities, and the
+         line where ku-ro stands. The quantities in the diagram really do add
+         up (31 + 18 + 24 + 12 = 85); the script that draws it asserts the sum
+         before it will render.
+  9:45  Linear B against Linear A on four counts, then the result.
+  11:13  The libation formula: what holds on every stone, and the one
+         position that changes. The changing slot is drawn as a BLANK, not
+         filled with an invented name.
+  14:51  The three things that would solve it, each with what it needs.
+
+
+WHAT WAS CUT OR QUALIFIED
+=========================
+
+  1. The number of signs in the corpus. Sources give 7,362, 7,396 and "about
+     7,400", depending on how damaged signs are counted. The film says "a
+     little over seven thousand" and the thumbnail says 7,000 - a figure that
+     is true on every count.
+  2. Object counts per site. Hagia Triada is often given as 1,269 objects and
+     147 tablets in the same paragraph. The film uses tablet counts only, and
+     says so.
+  3. The values of the fraction signs. Documented as a set of seventeen;
+     individual values are still disputed and are not given.
+  4. The meaning of the libation formula. (J)A-SA-SA-RA-ME has been read as a
+     divine name, as the vessel itself and as "this dedication". The film says
+     only that the formula recurs.
+  5. Named authors of rejected decipherments. Attempts in Indo-Iranian,
+     Semitic, Anatolian, Etruscan and Kartvelian directions are all real and
+     are listed below, but the narration names nobody: the film's argument is
+     about a pattern, not about people.
+  6. Claimed AI decipherments of 2026. None has appeared in a peer-reviewed
+     journal. Rather than repeat an unverifiable claim, the film states the
+     test any decipherment has to pass.
+  7. "67% of words". The 2019 paper reports 67.3% of correctly translated
+     COGNATES. The draft said "words"; that overstates the result and was
+     corrected.
+  8. Linear A at Drama, Bulgaria. Attribution not consistent across sources;
+     cut from the list of find spots.
+
+
+SOURCES
+=======
+
+CORPUS AND SCRIPT
+  Godart, L. & Olivier, J.-P., "Recueil des inscriptions en Lineaire A"
+    (GORILA), 5 vols., Ecole francaise d'Athenes, 1976-1985. The standard
+    corpus; every figure about corpus size rests on it.
+  Salgarella, E. & Castellan, S., "SigLA: The Signs of Linear A - A
+    Palaeographical Database". Open access: sigla.phis.me
+  Salgarella, E., "Aegean Linear Script(s): Rethinking the Relationship between
+    Linear A and Linear B", Cambridge University Press, 2020.
+  INSCRIBE (Invention of Scripts and Their Beginnings), ERC project,
+    University of Bologna: site.unibo.it/inscribe
+
+LANGUAGE AND STRUCTURE
+  Davis, B., "Syntax in Linear A: The Word-Order of the 'Libation Formula'",
+    Kadmos 53, 2014.
+  Davis, B., "Minoan Stone Vessels with Linear A Inscriptions", Aegaeum 36,
+    Peeters, 2014.
+  Davis, B., "The Undeciphered Aegean Scripts: Linguistic Investigations into
+    the Languages They Encode", Cambridge University Press, 2025.
+  Finkelberg, M., on the libation formula and its interpretation.
+
+THE DECIPHERMENT OF LINEAR B
+  Ventris, M. & Chadwick, J., "Documents in Mycenaean Greek", Cambridge
+    University Press, 1956 (2nd ed. 1973).
+  Chadwick, J., "The Decipherment of Linear B", Cambridge University Press,
+    1958.
+  Blegen, C. W., excavation reports on the Palace of Nestor at Pylos; PY Ta 641
+    was found on 4 and 10 June 1952 and sent to Ventris on 16 May 1953.
+  Robinson, A., "The Man Who Deciphered Linear B", Thames & Hudson, 2002.
+
+COMPUTATIONAL APPROACHES
+  Luo, J., Cao, Y. & Barzilay, R., "Neural Decipherment via Minimum-Cost Flow:
+    From Ugaritic to Linear B", Proceedings of ACL 2019.
+  Corazza, M. et al., work on machine learning and the Aegean scripts within
+    the INSCRIBE project.
+
+REJECTED OR UNCONFIRMED DECIPHERMENTS (listed because the film refers to the
+pattern, not because they are endorsed)
+  La Marle, H., Indo-Iranian readings.
+  Owens, G., readings drawing on Linear B and the Cypriot syllabary.
+  Various Semitic, Anatolian, Etruscan and Kartvelian proposals.
+  None of these has been accepted by specialists, and none has been shown to
+  keep working on inscriptions it was not built from.
+
+RIGHTS
+  All images and all music were made for this film. Sound effects come from
+  the licensed Sonniss GDC collections. No third-party images are used.
+  Details: the channel's method page, linked in the description.

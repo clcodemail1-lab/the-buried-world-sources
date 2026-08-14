@@ -1,0 +1,126 @@
+THE BURIED WORLD
+Dispatch 04 - Nobody Has Ever Found These People
+How this film was made
+
+Last updated 10 August 2026
+
+
+THE SHORT VERSION
+=================
+
+Three papers came out in the last two weeks of July and the first week of
+August. In all three, the people the paper is about are not available: there
+is no skeleton that matches the footprints, there is no fossil at all for the
+two genetic lineages, and the three Assyrian kings survive as names attached
+to objects that were deliberately defaced.
+
+That is the film. It is not a claim that anything is being hidden. It is an
+argument that proving somebody was present and working out who they were are
+two different jobs, and that we are much better at the first.
+
+
+HOW THE ITEMS WERE PICKED
+=========================
+
+About fifty stories were read for this week's round-up, across news portals,
+journals and government excavation announcements. Most were dropped, and the
+reason is worth stating: the great majority rest on a single press release
+with no publication behind it. The colossal statue from Sardis was announced
+by a minister on social media. The four hundred and fifty mice from the
+sanctuary at Gortyn - easily the most interesting find of the week - are
+documented only on the excavation team's Facebook page, with the season still
+running.
+
+Those may all turn out to be excellent. They are not yet checkable. The three
+items in this film were chosen because each has a peer-reviewed publication
+with a DOI, which meant the numbers could be pinned to something.
+
+Two stories were left out for a different reason. A mass grave near Athens and
+a massacre hypothesis from a British villa are both strong material, and two
+violence stories in one round-up would push this channel into a register it
+does not want. A fourth candidate - six hundred and twenty-six masons' marks
+from a gate at Ptolemais, peer-reviewed and thematically perfect - was held
+back because the finished narration came in at eight minutes and forty-four
+seconds and a fourth item would have burst the format.
+
+
+WHAT THE FACT CHECK CHANGED
+===========================
+
+Eight things, and all of them in the film's favour. The full list is in the
+source document. Three are worth repeating here.
+
+The paper's own abstract says the footprints indicate bodies larger than the
+largest skeletal estimates for Paranthropus boisei. The detailed reporting
+does not carry that. What is supported is narrower: all seven measurable
+individuals exceed the published average, and four of the seven exceed the
+largest skeletal estimate used in the comparison. The film says the narrow
+version. Taking the abstract sentence at face value would have been the easy
+route, and it would have passed a lazy check, because it is a direct quotation
+from the paper.
+
+The press release and several outlets state that the tracks belong to
+Paranthropus boisei. The paper leaves the attribution open and explicitly
+raises Homo erectus as the alternative. Here a press release contradicts the
+study it is describing, and the study wins.
+
+"The ghost lineage split 800,000 years ago" appears everywhere. It is a point
+estimate with a published interval running from 610,000 to 1.27 million years.
+The film says the interval out loud. A confidence interval read aloud costs
+about four seconds and is the difference between a measurement and a slogan.
+
+
+WHAT COULD NOT BE READ
+======================
+
+This matters enough to be its own section.
+
+The Science paper is paywalled. Its preprint is open, and every figure quoted
+in the film comes from the preprint - including one that appears in no press
+coverage anywhere: in the team's own simulations, the deeper of the two
+classifications is correct about seventy per cent of the time. That number is
+in the film because leaving it out would have made the finding sound firmer
+than its authors do.
+
+The PNAS paper is paywalled and no preprint was found. The film uses the
+abstract, the Max Planck release and reporting that quotes the paper. The
+regression equations behind the stature estimates were not read.
+
+The Journal of Cuneiform Studies paper is labelled open access, and it would
+not open - every route returned an error. The film is therefore based on the
+abstract and the Yale release, and it says in the narration that no
+Assyriologist outside the paper has commented in the month since publication.
+That is not a swipe at the authors. One month is normal. It is a statement
+about how much weight the item can carry.
+
+
+ON THE PICTURES
+===============
+
+Every image was made for this film and is marked AI RECONSTRUCTION on screen.
+The diagrams are drawn in code and carry no marking, because nothing about
+them is generated.
+
+One production note belongs here because it changed the film. The first
+attempts at painted scenes of early hominins kept producing figures in hooded
+cloaks - a costume roughly a million and a third years out of place. After
+several failures the scenes were rebuilt without any figures at all: a trail
+of prints across wet silt, a shelf of skull casts, a plinth with only the feet
+left on it. That was a workaround, and it turned out to be the right picture.
+A film about people who cannot be identified has no business inventing their
+faces.
+
+There is also a mistake worth admitting. Three rounds of those retries were
+judged against images that had never actually downloaded - a shell quirk had
+been writing them to the wrong filenames without reporting an error. The
+conclusion drawn from that, that the model was refusing instructions, was
+wrong. It was caught by comparing checksums rather than by looking harder at
+the pictures.
+
+
+CORRECTIONS
+===========
+
+If something in this film is wrong, it will be corrected out loud rather than
+quietly. Comments pointing at a specific figure and a specific source are the
+most useful kind.

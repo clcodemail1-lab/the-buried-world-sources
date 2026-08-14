@@ -1,0 +1,230 @@
+THE BURIED WORLD
+Dispatch 04 - Nobody Has Ever Found These People
+Full source list
+
+Last updated 10 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure was checked against the sources named at the
+end before a word was recorded.
+
+There is a second reason this time. All three items are journal papers rather
+than site reports, and access to them is uneven: two sit behind paywalls, and
+the third is labelled open access but would not open. A film that argues about
+the difference between evidence and interpretation has no business being vague
+about which text it actually read. The access position for each item is stated
+plainly below.
+
+No photograph in this film is of a real object. Every image is either a
+reconstruction made for the film and marked AI RECONSTRUCTION on screen, or a
+diagram drawn for it. Nothing is a press picture, and no third-party image was
+used as a reference.
+
+
+SHOT LIST
+=========
+
+[01]  0:00   RECONSTRUCTION  Drying lake-margin silt, northern Kenya - reconstruction
+[02]  0:08   RECONSTRUCTION  A single hominin footprint with a scale bar - reconstruction
+[03]  0:13   DIAGRAM         The three cases
+[04]  0:32   RECONSTRUCTION  Empty museum plinth - reconstruction
+[05]  0:38   DIAGRAM         Attested and absent - the question
+[06]  0:47   RECONSTRUCTION  Eroded badlands, Turkana basin - reconstruction
+[07]  1:01   DIAGRAM         GaJi 10: 21 tracks, 5 trackways, 8 individuals (arrangement schematic)
+[08]  1:22   RECONSTRUCTION  A trail of footprints crossing wet silt - reconstruction
+[09]  1:33   DIAGRAM         Body size against two thresholds (positions schematic)
+[10]  1:49   RECONSTRUCTION  Inside the hollow of a print - reconstruction
+[11]  2:08   DIAGRAM         Paranthropus or Homo erectus - the fork the paper leaves open
+[12]  2:26   RECONSTRUCTION  Specimen drawer, three fragments and empty cut-outs - reconstruction
+[13]  2:45   RECONSTRUCTION  Empty specimen drawers in a store room - reconstruction
+[14]  3:06   RECONSTRUCTION  A genomics bench at night - reconstruction
+[15]  3:14   DIAGRAM         The method: a branch running deeper than any reference
+[16]  3:30   RECONSTRUCTION  Cold-storage sample racks - reconstruction
+[17]  3:41   DIAGRAM         First lineage: 830,000 years, CI 610,000 to 1.27 million
+[18]  4:01   DIAGRAM         Second lineage: 1.8 million years, CI 1.13 to 3.98 million
+[19]  4:19   RECONSTRUCTION  An empty display case - reconstruction
+[20]  4:43   RECONSTRUCTION  Shelf of hominin skull casts - reconstruction
+[21]  5:03   DIAGRAM         70 per cent, and the rival model with no ghost in it
+[22]  5:25   RECONSTRUCTION  A worn cuneiform tablet - reconstruction
+[23]  5:30   RECONSTRUCTION  A reading room with tablets - reconstruction
+[24]  5:52   RECONSTRUCTION  Cuneiform surface, nothing legible - reconstruction
+[25]  6:09   RECONSTRUCTION  A stele with a name chiselled out - reconstruction
+[26]  6:29   DIAGRAM         The King List: five manuscripts, one omission
+[27]  6:52   RECONSTRUCTION  A Mesopotamian city under a darkened sky - reconstruction
+[28]  7:14   DIAGRAM         Three absences: time, method, decision
+[29]  7:22   RECONSTRUCTION  Cracked lake-margin mud - reconstruction
+[30]  7:31   RECONSTRUCTION  An empty laboratory freezer - reconstruction
+[31]  7:43   RECONSTRUCTION  A statue base with only the feet left - reconstruction
+[32]  7:56   DIAGRAM         Presence against identity
+[33]  8:17   RECONSTRUCTION  A footprint hollow, seen from above - reconstruction
+[34]  8:31   DIAGRAM         Somebody was there is not who
+
+SOURCES
+=======
+
+ITEM 1 - THE FOOTPRINTS
+
+  Hatala, K. G., Roach, N. T., Harris, J. W. K., Kiura, P., Ndiema, E., Sila,
+  P., Kipkebut, A., Waweru, V., Kisale, S., Longaye, M., Sale, K. and
+  Behrensmeyer, A. K. (2026). Fossil footprints from Koobi Fora, Kenya.
+  Proceedings of the National Academy of Sciences 123(31): e2530996123.
+  Published online 27 July 2026.
+  doi.org/10.1073/pnas.2530996123
+
+  ACCESS: paywalled. This film is based on the abstract, the Max Planck
+  Society press release of 27 July 2026, and reporting that quotes the paper
+  directly. The regression equations, the confidence intervals for individual
+  stature estimates, and the size of the skeletal comparison sample are in the
+  full text and were not read.
+
+  Domínguez-Rodrigo, M. et al. (2013). First partial skeleton of a
+  1.34-million-year-old Paranthropus boisei from Bed II, Olduvai Gorge,
+  Tanzania. PLOS ONE 8(12): e80347. Open access.
+  For the statement that no incontrovertible partial skeleton of the species
+  was known before that paper.
+
+  Hawks, J. (2026). The big feet of Paranthropus boisei. johnhawks.net.
+  The only substantial comment from someone not involved in the study that
+  could be found. He supports the finding and reverses the framing.
+
+
+ITEM 2 - THE GHOST LINEAGES
+
+  Zhang, Y., Biddanda, A., Johnson, S. A., O'Dushlaine, C. and Moorjani, P.
+  (2026). Recovering signatures of archaic hominin introgression using
+  ancestral recombination graphs. Science. Published online 30 July 2026.
+  doi.org/10.1126/science.aef8874
+
+  ACCESS: paywalled. The full text of the preprint version is open, and every
+  number quoted in the film - the coalescence estimates, both confidence
+  intervals, the sample composition and the 70 per cent classification
+  accuracy - comes from it, not from the press release. Differences between
+  the preprint and the peer-reviewed version are possible.
+  bioRxiv, doi.org/10.64898/2026.03.03.709416
+
+  Ragsdale, A. P. et al. (2023). A weakly structured stem for human origins in
+  Africa. Nature 617: 755-763.
+  The competing model, which accounts for the African data without a ghost
+  population.
+
+  Durvasula, A. and Sankararaman, S. (2020). Recovering signals of ghost
+  archaic introgression in African populations. Science Advances 6: eaax5097.
+  The earlier work this study builds on.
+
+
+ITEM 3 - THE THREE KINGS
+
+  Frahm, E. and Edmonds, A. J. (2026). Journal of Cuneiform Studies.
+  doi.org/10.1086/741239
+  Yale University news release, 9 July 2026.
+
+  ACCESS: the publisher's page is marked open access, but the full text could
+  not be retrieved through any route on 10 August 2026 (HTTP 403). This film
+  is based on the abstract and the Yale release. That limitation is why the
+  film says out loud that no Assyriologist outside the paper has commented.
+
+  Valk, J. (2019). The Origins of the Assyrian King List. Journal of Ancient
+  Near Eastern History 6(1).
+  For the manuscript position: five manuscripts of the King List survive,
+  three of them substantially, and one of those omits a king the others carry.
+  In other words, the list was already known to have been edited.
+
+
+WHERE THIS FILM DISAGREES WITH THE HEADLINES
+============================================
+
+1. "Footprints bigger than any known skeleton." The paper's own abstract says
+   the tracks indicate body sizes that exceed the largest skeletal estimates.
+   The detailed reporting is narrower and the film follows the narrower
+   version: all seven measurable individuals come out above the published
+   average, and four of the seven above the largest skeletal estimate in the
+   comparison. Those are different claims.
+
+2. "The footprints were made by Paranthropus boisei." Several outlets, and the
+   press release, say this. The paper does not. It says the internal shapes
+   align with prints previously attributed to that species, and that the sizes
+   raise the possibility of Homo erectus instead. The open attribution is the
+   whole point of the segment, so the film keeps it open.
+
+3. "Eight males walked together." The paper says the tracks indicate a group
+   that included multiple adult males, inferred from print size, with no
+   method for determining sex set out in the abstract or the release. The film
+   leaves the group composition out entirely.
+
+4. "Two species crossed the same surface within hours." That finding belongs
+   to a different paper by the same lead author, published in Science in 2024,
+   at a different site. It is not in this study and is not in this film.
+
+5. "Scientists discover two hidden human populations." Nothing was discovered
+   in the sense a fossil is discovered. Two statistical signals were separated
+   out of living genomes. There is no bone, no tooth, no site and no sequenced
+   DNA, and the authors write that recovering hominin DNA beyond a million
+   years is unlikely outside permafrost.
+
+6. "The ghost lineage split 800,000 years ago." That is the point estimate.
+   The published 95 per cent interval runs from 610,000 to 1.27 million years,
+   and the film says the interval rather than the point.
+
+7. "Three lost kings discovered." Nothing was excavated. Three objects that
+   have been in collections and in print for a long time - one of them found
+   in 1894 - were read differently. The film says that in the segment itself.
+
+8. "The Assyrian King List was thought to be objective." It was not. That it
+   was shaped for legitimacy has been discussed for decades, and the
+   manuscripts visibly disagree with one another. What is new here is three
+   names.
+
+
+NUMBERS CUT DURING THE FACT CHECK
+=================================
+
+  Body mass for the footprint individuals. Four different sets of figures are
+  in circulation, from four outlets, and they do not agree. The stature range
+  is quoted instead, and the mass was dropped.
+
+  Any percentage for the second, deeper lineage. Three numbers circulate and
+  each is measured against a different base: about 0.3 per cent of the
+  detected Denisovan ancestry, about 0.002 per cent of the whole genome, and
+  3 to 5 per cent within the Denisovan genome itself - that last one taken
+  from earlier literature, not from this study. Quoting any of them without
+  its base would be wrong, and quoting them together would be nonsense. The
+  finding is described without a figure.
+
+  A date for the super-archaic gene flow. "More than 200,000 years ago"
+  appears in the press release. It has no counterpart in the full text, where
+  the authors say the timing still needs pinning down. Dropped.
+
+  The names and regnal years of the three kings. The abstract and the press
+  material differ on the dates, and the rebel's reign is inferred from a
+  single dated document rather than attested. Three similar-sounding names
+  with uncertain years carry nothing in an audio narrative, so the film names
+  the objects instead of the men.
+
+
+IMAGES AND SOUND
+================
+
+  All images: made for this film. Higgsfield, model nano_banana_pro, 16:9,
+  2752 x 1536. No reference images were uploaded and no third-party picture
+  was used as a source. Prompts are logged in the production files.
+
+  All diagrams: drawn for this film in Python with the Pillow library.
+
+  Music: composed for this film, five pieces, ElevenLabs music model. Nothing
+  is reused from earlier episodes.
+
+  Sound: field recordings from a licensed commercial library, plus the
+  channel's own stock. No third-party rights beyond that licence.
+
+  Narration: ElevenLabs text-to-speech. The voice is synthetic and the script
+  is written by a human hand.
+
+
+CORRECTIONS
+===========
+
+If something here is wrong, it will be corrected out loud rather than quietly.

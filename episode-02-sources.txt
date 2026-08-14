@@ -1,0 +1,162 @@
+THE BURIED WORLD
+Episode 2 - The Gears That Shouldn't Exist
+Full source list
+
+Last updated 4 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the film
+was recorded, and the works those checks rest on are named at the end.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 50 shots were made for this film. No photographs of the Antikythera
+mechanism, of the wreck, or of any museum object appear anywhere in it, and no
+third-party images are used. Photographs of the fragments are under copyright;
+rather than borrow what cannot be licensed, this channel draws what the
+published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place
+                   and find; painted shots show people, actions and
+                   reconstructions, which are always interpretation.
+
+  DIAGRAM        - the map, the timeline, the machine diagram, the two-readings
+                   panel and the survival panel. These were drawn for this
+                   film, not generated. Image models place lettering
+                   unreliably - an early attempt put Roman numerals on the
+                   dial of a Greek machine.
+
+[01]  0:00   RECONSTRUCTION  A sponge-diving boat riding out the storm, 1900
+[02]  0:12   RECONSTRUCTION  A hard-hat diver descending the weighted rope
+[03]  0:24   RECONSTRUCTION  The seabed field of statues, and the bronze arm
+[04]  0:40   RECONSTRUCTION  The corroded bronze arm on deck
+[05]  0:52   RECONSTRUCTION  The salvage at anchor, and its cost
+[06]  1:07   RECONSTRUCTION  The split lump with the gear edge, Athens 1902
+[07]  1:24   DIAGRAM         Map: the strait between Crete and the Peloponnese
+[08]  1:39   RECONSTRUCTION  Hand-cut triangular gear teeth, macro
+[09]  1:58   RECONSTRUCTION  The doubters around the table, 1902
+[10]  2:15   RECONSTRUCTION  Greek letters engraved in the corroded plate
+[11]  2:26   RECONSTRUCTION  The scholar at the light box, 1970s
+[12]  2:43   RECONSTRUCTION  X-ray radiograph of the gear trains
+[13]  2:52   RECONSTRUCTION  CT cross-section: nested rings of teeth
+[14]  3:11   DIAGRAM         Timeline: the mechanism, the gap, the clocks
+[15]  3:29   RECONSTRUCTION  The 82 fragments laid out in a museum tray
+[16]  3:42   RECONSTRUCTION  The crank that turns time
+[17]  3:55   RECONSTRUCTION  Front face: zodiac, calendar, the moon ball
+[18]  4:13   RECONSTRUCTION  Back upper spiral: the Metonic dial
+[19]  4:26   RECONSTRUCTION  Back lower spiral: the Saros dial
+[20]  4:41   RECONSTRUCTION  The coin-sized Exeligmos correction dial
+[21]  5:00   RECONSTRUCTION  Eclipse glyphs in the dial slots, macro
+[22]  5:16   RECONSTRUCTION  The pin-and-slot coupling, cutaway
+[23]  5:31   RECONSTRUCTION  An astronomer watching the Moon over the sea
+[24]  5:39   RECONSTRUCTION  A fragment inside the CT scanner
+[25]  5:56   RECONSTRUCTION  CT layers revealing hidden Greek text
+[26]  6:08   RECONSTRUCTION  Runners at the games
+[27]  6:23   DIAGRAM         Diagram: one crank in, seven displays out
+[28]  6:37   RECONSTRUCTION  A craftsman filing teeth into a bronze disc
+[29]  6:47   RECONSTRUCTION  The harbour of a Greek city of Sicily
+[30]  6:57   RECONSTRUCTION  A triumph at night: the captured sphere
+[31]  7:19   DIAGRAM         Diagram: two readings of the origin
+[32]  7:42   RECONSTRUCTION  Two engraved plates under raking light
+[33]  7:50   RECONSTRUCTION  Babylonian scholars recording an eclipse
+[34]  8:06   RECONSTRUCTION  A hand setting the pointer to an epoch
+[35]  8:21   RECONSTRUCTION  A corroded pointer frozen against its scale
+[36]  8:30   RECONSTRUCTION  One fragment alone in a vast dark case
+[37]  8:37   RECONSTRUCTION  A night sea in heavy weather
+[38]  8:47   RECONSTRUCTION  A foundry: bronze going back into the melt
+[39]  9:08   RECONSTRUCTION  A bronze statue that survived - by sea
+[40]  9:28   DIAGRAM         Diagram: what survives is not what existed
+[41]  9:44   RECONSTRUCTION  An abandoned workshop
+[42]  9:55   RECONSTRUCTION  A city burning far away across the water
+[43]  10:11  RECONSTRUCTION  A scholar with a simpler geared calendar, centuries later
+[44]  10:28  RECONSTRUCTION  A single lit case in a dark museum hall
+[45]  10:44  RECONSTRUCTION  A fragment that is mostly absence
+[46]  10:57  RECONSTRUCTION  The 2021 planetary gearing - a painted hypothesis
+[47]  11:18  RECONSTRUCTION  The fragments at rest, evening
+[48]  11:27  RECONSTRUCTION  A hand over the crank at dusk
+[49]  11:44  RECONSTRUCTION  The crown of the great four-spoked gear
+[50]  11:53  RECONSTRUCTION  The excavation today: divers on the wreck
+
+DIAGRAMS - WHAT THEY REST ON
+============================
+
+The map at 1:24 uses real coordinates, linearly projected; no coastlines are
+drawn - points and the shipping route only, so the map claims only what is
+established. The timeline at 3:11 is linear on purpose: the gap is the point.
+The mechanism appears on it as a BAND, c. 205-100 BCE, because the date itself
+is argued (see below).
+
+Dates: wreck c. 60 BCE · letter forms 150-100 BCE · Saros-dial epoch 205 BCE
+(Carman & Evans) · Byzantine geared sundial c. 500 CE · Islamic geared
+calendars c. 1000 CE · Wallingford c. 1330 · de' Dondi 1364.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), six pieces following the acts.
+
+Sound effects, drawn from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+  "Cave Ambience" by pointlessperson1, Freesound 740041 - CC0
+  "Daytime Forest Bonfire", YouTube Audio Library
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES AND FURTHER READING
+===========================
+
+Price, D. de Solla (1974): "Gears from the Greeks: The Antikythera Mechanism -
+  A Calendar Computer from ca. 80 B.C.", Transactions of the American
+  Philosophical Society 64/7. - The first full gear-work reconstruction, from
+  X-rays; the 127-tooth gear and the Metonic arithmetic.
+
+Freeth, T., Bitsakis, Y., Moussas, X., Seiradakis, J. H., Tselikas, A., et al.
+  (2006): "Decoding the ancient Greek astronomical calculator known as the
+  Antikythera Mechanism", Nature 444, 587-591. - The CT campaign: gear count,
+  eclipse prediction, more than 3,000 characters of engraved text.
+
+Freeth, T., Jones, A., Steele, J. M. & Bitsakis, Y. (2008): "Calendars with
+  Olympiad display and eclipse prediction on the Antikythera Mechanism",
+  Nature 454, 614-617. - The games dial and the Corinthian month names.
+
+Freeth, T., Higgon, D., Dacanalis, A., MacDonald, L., Georgakopoulou, M. &
+  Wojcik, A. (2021): "A Model of the Cosmos in the ancient Greek Antikythera
+  Mechanism", Scientific Reports 11, 5821. - The 82 fragments, 30 surviving
+  gears, and the planetary-display reconstruction the film calls a hypothesis.
+
+Carman, C. C. & Evans, J. (2014): "On the epoch of the Antikythera mechanism
+  and its eclipse predictor", Archive for History of Exact Sciences 68,
+  693-774. - The 205 BCE Saros epoch and the Babylonian arithmetic.
+
+Cicero, De re publica I - Marcellus and the sphere of Archimedes taken from
+  Syracuse; De natura deorum II - the sphere of Posidonius. Both in living
+  memory of geared planetaria.
+
+The Antikythera wreck excavations: Return to Antikythera project (from 2012),
+  including the 2016 human skeleton find.
+
+
+WHAT THE FILM DOES NOT CLAIM
+============================
+
+The title says "shouldn't exist". The film answers that in the open, at 8:30:
+the gap in the record is survival bias, not a miracle. Where the machine was
+built, and when exactly, is unresolved - the film gives both readings, at
+7:19, and does not choose.
+
+"We don't know" is a finding, not a failure.

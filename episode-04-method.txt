@@ -1,0 +1,163 @@
+THE BURIED WORLD
+Episode 4 - Rome's Concrete Is Still Healing Itself
+How this film was made
+
+Last updated 8 August 2026
+
+
+THE RULE THIS CHANNEL WORKS TO
+==============================
+
+The title of a film is allowed to sharpen. The film is not allowed to leave the
+sharpening unresolved. Everything that gets stated as fact has to be checked
+against the published literature before a single line is recorded, and the
+things that do not survive that check have to be named rather than quietly
+dropped.
+
+This episode tested that rule harder than the previous three, because its whole
+fourth act is spent contradicting things that are repeated confidently
+everywhere. You cannot do that from a position of sloppiness.
+
+
+THE FACT-CHECK, AND WHAT IT KILLED
+==================================
+
+Five things came out of the script. Two more were corrected.
+
+1. EVERY COMPRESSIVE STRENGTH IN MEGAPASCALS.
+
+   The film says Roman wall concrete is "not close" to modern structural
+   concrete on compressive strength. The first draft said so with numbers. The
+   numbers do not hold still: published values for imperial Roman wall concrete
+   run around 6 MPa in one place, 10-30 MPa in another and about 20 MPa in a
+   third, depending entirely on what was sampled and how, against roughly
+   50 MPa for ordinary modern structural concrete.
+
+   The comparison survives that scatter easily. No individual number does. So
+   the comparison stays and the numbers go, including in the on-screen table,
+   which says "low" and "high" and nothing more precise. A diagram is not a
+   back door for a figure the script was not allowed to say out loud.
+
+2. "CEMENT CAUSES 8 % OF GLOBAL CO2 EMISSIONS."
+
+   This figure is everywhere. It also does not sit comfortably against the
+   roughly 1.47 billion tonnes recorded for cement manufacture in 2024 set
+   against total emissions. Depending on what is counted - process emissions
+   only, or process plus fuel, or the whole concrete supply chain - you get
+   very different answers, and the popular 8 % traces to a particular framing
+   rather than to a settled measurement.
+
+   The film gives no percentage. It says cement manufacture is one of the
+   largest single industrial sources of carbon dioxide, which is not in
+   dispute.
+
+3. "CONCRETE IS THE SECOND MOST USED SUBSTANCE ON EARTH AFTER WATER."
+
+   A lovely line, and hard to source cleanly. Replaced with the version that
+   can be defended: no manufactured material is used in greater quantity.
+
+4. A SENTENCE ABOUT VITRUVIUS THAT WOULD HAVE BEEN WRONG.
+
+   The draft said Vitruvius describes the volcanic ash in detail and never
+   mentions hot mixing - a neat point, deployed to show that the process might
+   have been unintentional.
+
+   It does not survive contact with the paper it was arguing against. Seymour
+   and colleagues discuss exactly this: Vitruvius uses "macerata" for the lime
+   that goes into plasterwork and "extincta" for the lime that goes into
+   structures, and they consider the second term compatible with lime hydrated
+   simultaneously with the other components - that is, with hot mixing.
+
+   So the sentence came out, and what replaced it is better. The film now says
+   the written sources are ambiguous exactly where it would matter, and that
+   whether "extincta" means what the hot-mixing hypothesis needs it to mean is
+   a question about Latin rather than about concrete. That is the real state of
+   the evidence, and it is more interesting than the tidy version.
+
+5. THE THUMBNAIL.
+
+   The planned thumbnail line for this episode was "WE CAN'T COPY THIS". The
+   film's fourth act demonstrates that we can: the mechanism was reproduced in
+   a laboratory in 2023, and a company founded by the paper's senior author now
+   sells a lime-clast cement in Italy and Switzerland.
+
+   A thumbnail that the film itself refutes is exactly the thing this channel
+   exists not to do, so it was replaced with "SEAWATER MAKES IT STRONGER" -
+   which is startling, needs no prior knowledge, and is sourced twice over
+   (Pliny in the first century, mineralogy in 2017). The film still states the
+   limitation out loud: what increases is resistance to cracking, not strength
+   in the sense an engineer means it.
+
+CORRECTED RATHER THAN CUT: the ROMACONS project was established in 2001, but
+its drilling campaigns ran 2003-2007. The film says 2003. And the modern
+self-healing test is described as sealing "in one to three weeks", which is the
+range the paper reports, not a single tidy figure.
+
+
+WHERE THIS EPISODE DELIBERATELY STOPS
+=====================================
+
+The paper at the centre of this film is careful, and the film tries to be
+careful in the same place. Seymour and colleagues raise hot mixing as a
+proposition. They do not claim that anyone in Rome set out to engineer a repair
+system. A builder tipping quicklime straight into the mix because it was
+quicker would leave the same clasts behind without intending anything by it.
+
+So the film ends on the question rather than on an answer, and says why the
+question cannot currently be closed. That is not a cliffhanger. It is where the
+evidence stops.
+
+
+HOW THE PICTURES WERE MADE
+==========================
+
+Every one of the 63 shots was made for this film. Fifty-five are AI-generated
+reconstructions, marked as such on screen for as long as they are visible and
+carrying the EU marking for AI-generated content in the opening seconds. Eight
+are diagrams, drawn in code rather than generated, because image models place
+lettering unreliably.
+
+Photographs of public-domain objects are still protected in Germany under
+Section 72 UrhG, so this channel does not borrow images it cannot license. It
+draws what the published record describes instead, and says plainly that that
+is what it is doing.
+
+Four of the painted reconstructions had to be made twice. The first attempts
+came back as photographs of a sheet of paper - white margins, a visible page
+edge - which is a known failure of the model and a thing the channel refuses to
+ship, because a bordered painting reads as a scanned historical document rather
+than as an illustration made in 2026. A fifth shot was remade because a mortar
+sample under a microscope came out looking like a pastry.
+
+One shot needs its own sentence. Shot 42 is styled as an electron micrograph of
+mineral plates growing in a pore. It is not one. It is a reconstruction of what
+the published micrographs show, it carries the same AI marking as every other
+generated shot, and no real micrograph from any paper is reproduced anywhere in
+this film.
+
+
+THE SOUND
+=========
+
+The music was composed for this episode, six pieces following the five acts.
+Nothing is reused from earlier episodes.
+
+Effects come from the channel's licensed pool. Every effect is normalised to a
+target level before its mix value is applied, because the source library
+scatters across roughly 48 decibels and a fixed mix factor on top of that
+decides at random whether a sound is in the film at all. An earlier episode
+shipped with four of nine effects sitting 43 to 65 dB below the narration -
+inaudible, with no error message anywhere. The final mix is checked
+automatically for exactly that before release.
+
+Twelve of the 63 shots carry no effect at all. Macro shots of mortar do not
+have a sound, and laying a tension bed under them would be the kind of quiet
+claim this channel is trying not to make.
+
+The narration is a synthetic voice.
+
+
+IF SOMETHING HERE IS WRONG
+==========================
+
+Tell me. I will correct it, and I will say that I corrected it.

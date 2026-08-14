@@ -1,0 +1,225 @@
+THE BURIED WORLD
+Dispatch 05 - Nothing Here Came Out Of The Ground
+Full source list
+
+Last updated 13 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure was checked against the sources named at the
+end before a word was recorded.
+
+There is a particular reason this time. This film argues that a find only
+becomes a finding when somebody goes and looks - and two of its three papers
+are behind paywalls. Being vague about which text was actually read would make
+the film an example of its own subject. The access position for each item is
+stated plainly below, along with three points where the reporting went further
+than the studies do.
+
+No photograph in this film is of a real object. Every image is either a
+reconstruction made for the film and marked AI RECONSTRUCTION on screen, or a
+diagram drawn for it. Nothing is a press picture, and no third-party image was
+used as a reference. Tutankhamun's dagger is mentioned in the narration and is
+deliberately NOT depicted: it is a real object in a real museum, and a
+generated picture of it would be a forgery.
+
+
+SHOT LIST
+=========
+
+[01]  0:00   RECONSTRUCTION  The Tauchira Gate on the Libyan coast - reconstruction
+[02]  0:07   RECONSTRUCTION  A stonemason's mark on an ashlar block - reconstruction
+[03]  0:14   RECONSTRUCTION  Corroded finger rings in a museum case - reconstruction
+[04]  0:35   DIAGRAM         Three finds this month
+[05]  0:41   RECONSTRUCTION  A closed museum drawer - reconstruction
+[06]  0:46   RECONSTRUCTION  Ptolemais in Cyrenaica from the air - reconstruction
+[07]  1:02   RECONSTRUCTION  The gate seen head on - reconstruction
+[08]  1:20   DIAGRAM         Twenty-seven kinds of mark: seven letters, fourteen monograms
+[09]  1:37   RECONSTRUCTION  A Hellenistic building site - reconstruction
+[10]  1:58   RECONSTRUCTION  The joint between two ashlar blocks - reconstruction
+[11]  2:11   DIAGRAM         Where the marks sit (positions schematic)
+[12]  2:25   RECONSTRUCTION  A stretch of marked masonry - reconstruction
+[13]  2:39   RECONSTRUCTION  An abandoned excavation area at Ptolemais - reconstruction
+[14]  2:54   RECONSTRUCTION  The gate in full daylight - reconstruction
+[15]  3:05   RECONSTRUCTION  A museum store room - reconstruction
+[16]  3:07   RECONSTRUCTION  A handheld X-ray fluorescence unit - reconstruction
+[17]  3:26   DIAGRAM         Ninety-one iron objects, thirty-three sites, nineteen museums
+[18]  3:34   DIAGRAM         Thirteen carried nickel; ten probably meteoritic, three open
+[19]  3:43   RECONSTRUCTION  An ancient signet ring - reconstruction
+[20]  4:02   RECONSTRUCTION  An iron meteorite, one face cut and polished - reconstruction
+[21]  4:19   DIAGRAM         Where the thirteen rings were found
+[22]  4:34   DIAGRAM         Sky iron was not a new idea: the cases already known
+[23]  4:51   RECONSTRUCTION  A desert plain with one dark stone - reconstruction
+[24]  5:05   RECONSTRUCTION  A museum drawer of small metal objects - reconstruction
+[25]  5:18   RECONSTRUCTION  The California Coast Range - reconstruction
+[26]  5:22   RECONSTRUCTION  An excavation area ahead of a solar plant - reconstruction
+[27]  5:33   RECONSTRUCTION  A giant rock scallop shell - reconstruction
+[28]  5:42   DIAGRAM         Sixty-eight kilometres from the sea
+[29]  5:59   DIAGRAM         Two beads, two dates - and the range around the older one
+[30]  6:18   RECONSTRUCTION  Carrying something inland - reconstruction
+[31]  6:32   RECONSTRUCTION  A drilled shell disc bead - reconstruction
+[32]  6:43   RECONSTRUCTION  Sample vials on a laboratory bench - reconstruction
+[33]  6:59   DIAGRAM         Three delays, three different reasons
+[34]  7:13   RECONSTRUCTION  A mark on a sunlit block - reconstruction
+[35]  7:34   RECONSTRUCTION  One ring in a case, with a blank card - reconstruction
+[36]  7:51   RECONSTRUCTION  The same hills at the end of the day - reconstruction
+[37]  8:11   DIAGRAM         Found, then asked - the gap between material and question
+[38]  8:31   RECONSTRUCTION  A long aisle of museum shelving - reconstruction
+[39]  8:39   RECONSTRUCTION  One drawer in the dark - reconstruction
+
+SOURCES
+=======
+
+ITEM 1 - THE MARKS AT PTOLEMAIS
+
+  Kordas, A. U. (2026). Life on a Hellenistic Construction Site: Stonemasons'
+  Marks on the Tauchira Gate at Ptolemais in Cyrenaica. European Journal of
+  Archaeology, First View, published online 30 July 2026.
+  doi.org/10.1017/eaa.2026.10038
+
+  ACCESS: open access (CC BY-NC), and the only paper of the three this film
+  could read directly. The counts, the two systems and the palaeographic
+  dating are the author's own. What was not available to this film is the
+  detailed distribution map, which is why the diagram of mark positions is
+  labelled schematic on screen.
+
+  Zelazowski, J. (ed.) (2012). Ptolemais in Cyrenaica. Studies in Memory of
+  Tomasz Mikocki. Warsaw.
+  For the history of research: the site has been described by European
+  travellers since the eighteenth century, and the Polish mission has worked
+  there since 2001.
+
+  Faculty of Archaeology, University of Warsaw: Polish Archaeological Mission
+  to Ptolemais.
+  For the interruption caused by the war in Libya and the return in 2023.
+
+
+ITEM 2 - THE SKY-IRON RINGS
+
+  Gounelle, M. and Mantzourani, E. (2026). Iron in Greece in the second
+  millennium B.C.E. Journal of Archaeological Science 192 (August 2026),
+  106622.
+  doi.org/10.1016/j.jas.2026.106622
+
+  ACCESS: paywalled. This film is based on the abstract and on reporting that
+  quotes the study directly, principally Science News. The nickel value for
+  each individual ring is in the full text and was not read - which is exactly
+  why no percentage is spoken in the film.
+
+  Comelli, D. et al. (2016). The meteoritic origin of Tutankhamun's iron
+  dagger blade. Meteoritics and Planetary Science 51(7): 1301-1309.
+  For the statement that meteoritic iron in the eastern Mediterranean was
+  already established, and for the best-known case.
+
+  Rehren, T. et al. (2013). 5,000 years old Egyptian iron beads made from
+  hammered meteoritic iron. Journal of Archaeological Science 40: 4785-4792.
+  For the Gerzeh beads.
+
+
+ITEM 3 - THE SHELL BEAD
+
+  Price, B. A., Schinsing, S. M. and Kidwell, J. B. (2026). AMS Radiocarbon
+  Dating of Giant Rock Scallop Beads from the Interior of California's
+  Southern Coast Range. California Archaeology.
+  doi.org/10.1080/1947461X.2026.2659482
+
+  ACCESS: paywalled. This film is based on the summary published by phys.org
+  and on further reporting, all of which agree on the figures quoted here:
+  8,508 years for the Turkey Flat bead with a range of 8,846 to 8,228,
+  3,674 years for the Lichtenstein bead, and 68 kilometres from the coast.
+
+  The excavations took place between 2012 and 2020 ahead of the California
+  Flats Solar Project. Direct dating destroys part of the object, and it went
+  ahead with the agreement of representatives of the Salinan, Chumash and
+  Yokuts.
+
+
+WHERE THIS FILM DISAGREES WITH THE REPORTING
+============================================
+
+1. "Isotope analysis traced the bead to the southern coast." Several summaries
+   say this. There was no isotope analysis. The origin follows from the range
+   of the species - Crassadoma gigantea lives below the tideline off southern
+   California and not on the stretch of coast nearest the site. What was
+   measured is the age. The film says so in the segment itself.
+
+2. "Ptolemy VIII, who ruled Cyrenaica between about 145 and 116 BC." The dates
+   are the wrong way round. Ptolemy VIII held Cyrenaica from 163 to 145 BC;
+   from 145 to 116 he was king of Egypt. The film gives no regnal years at all
+   and says only "the second century BCE", because the dating is
+   palaeographic - a specialist reading letterforms, not an inscription with a
+   date on it.
+
+3. "Meteoritic iron contains up to 50 per cent nickel", and "the thirteen
+   rings range from 1 to 50 per cent." Neither figure can be traced to the
+   abstract. Iron meteorites typically carry something in the range of six to
+   eighteen per cent, with nickel-rich ataxites above that; single extreme
+   specimens are not a useful general figure. No percentage is spoken in the
+   film, and the diagram counts objects rather than percentages.
+
+4. "About a third of the objects came from meteorites." That is incompatible
+   with the study's own counts: thirteen of ninety-one is fourteen per cent,
+   and the authors call ten of the thirteen probably meteoritic.
+
+5. "Seven work gangs built the gate." The author writes that the seven letter
+   labels MAY represent work gangs, and that the monograms MAY be workshop
+   owners or private donors. The film keeps both as interpretations, because
+   a mason's mark is accounting rather than a signature.
+
+6. "Egypt has more meteorites." Deserts do not produce meteorites; they
+   preserve them and make them findable. The film says "keeps them, and shows
+   them".
+
+7. "The bead proves a trade network." The authors say the opposite - one bead
+   cannot establish a route, and it could have passed through many hands or
+   been carried the whole way by one person. The film says that too.
+
+
+WHAT IS NOT CLAIMED
+===================
+
+  That anyone was negligent. None of the three delays is a failure. A tally of
+  work only becomes evidence once somebody treats work as a historical
+  question; the portable instrument did not exist when the rings were
+  excavated; and the Californian permission is the reason there is a date at
+  all, not an obstacle to one.
+
+  That the museum stores are full of secrets. They are full of correctly
+  labelled, properly stored objects that nobody has yet had a reason to ask
+  anything about. That is a different claim, and a duller one.
+
+
+IMAGES AND SOUND
+================
+
+  All images: made for this film. Higgsfield, model nano_banana_pro, 16:9,
+  2752 x 1536. No reference images were uploaded and no third-party picture
+  was used as a source. Prompts are logged in the production files, including
+  the ones that had to be redone and why.
+
+  Tutankhamun's dagger is named in the narration and deliberately not shown.
+  It is a real object in a real museum; a generated image of it would be a
+  forgery, not an illustration.
+
+  All diagrams: drawn for this film in Python with the Pillow library. Site
+  coordinates are standard gazetteer values. The position of Turkey Flat is
+  approximate and is marked as such on screen, because exact find spots are
+  not published.
+
+  Music: composed for this film, five pieces, ElevenLabs music model. Nothing
+  is reused from earlier episodes.
+
+  Sound: field recordings from a licensed commercial library, plus the
+  channel's own stock. No third-party rights beyond that licence.
+
+  Narration: ElevenLabs text-to-speech. The voice is synthetic and the script
+  is written by a human hand.
+
+
+CORRECTIONS
+===========
+
+If something here is wrong, it will be corrected out loud rather than quietly.

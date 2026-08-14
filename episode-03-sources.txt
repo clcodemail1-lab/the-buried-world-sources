@@ -1,0 +1,237 @@
+THE BURIED WORLD
+Episode 3 - The City Nobody Can Date
+Full source list
+
+Last updated 6 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the
+film was recorded, and the works those checks rest on are named at the end.
+
+This episode is about the limits of dating evidence, so it would be poor form
+to be vague about its own. Where a figure is contested, this list says so.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 56 shots were made for this film. No photographs of Derinkuyu, of any other
+Cappadocian site, or of any museum object appear anywhere in it, and no
+third-party images are used. Photographs of public-domain objects are still
+protected in Germany (Section 72 UrhG); rather than borrow what cannot be
+licensed, this channel draws what the published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place
+                   and find; painted shots show people, actions and
+                   reconstructions, which are always interpretation.
+
+  DIAGRAM        - the map, the two architecture panels, the two stratigraphy
+                   panels, the life-of-a-complex timeline, the datings
+                   timeline, the survey bar and the economy panel. These were
+                   drawn for this film, not generated. Image models place
+                   lettering unreliably - one attempt at a painted Anatolian
+                   chamber came back with Egyptian hieroglyphs.
+
+[01]  0:00   RECONSTRUCTION  A sledgehammer through a cellar wall, 1963
+[02]  0:10   RECONSTRUCTION  The passage behind the wall, descending
+[03]  0:26   RECONSTRUCTION  Looking down a ventilation shaft
+[04]  0:43   RECONSTRUCTION  An empty chamber, doorway behind doorway
+[05]  1:00   RECONSTRUCTION  Pick marks across a cut wall, macro
+[06]  1:12   RECONSTRUCTION  The town on the plateau, and the volcano behind it
+[07]  1:27   RECONSTRUCTION  A chamber lit only by its own shaft
+[08]  1:41   DIAGRAM         Map: the tuff country between two volcanoes
+[09]  1:54   RECONSTRUCTION  The eroded tuff valleys at low sun
+[10]  2:08   RECONSTRUCTION  A freshly cut face, chippings, an iron pick
+[11]  2:20   DIAGRAM         Diagram: two ways to make a room
+[12]  2:35   RECONSTRUCTION  A family cutting a chamber by lamplight
+[13]  2:50   RECONSTRUCTION  A corridor and the stair at the end of it
+[14]  2:58   RECONSTRUCTION  The shaft from below: daylight, far up
+[15]  3:10   RECONSTRUCTION  The water shaft, black and still
+[16]  3:26   RECONSTRUCTION  A rolling stone door in its recess
+[17]  3:39   RECONSTRUCTION  Sealing the passage from the inside
+[18]  3:54   RECONSTRUCTION  Mangers, a treading floor, storage niches
+[19]  4:12   RECONSTRUCTION  A corridor sealed, seen from within
+[20]  4:25   RECONSTRUCTION  A pillared hall, empty
+[21]  4:30   RECONSTRUCTION  An excavation trench and its section wall
+[22]  4:41   DIAGRAM         Diagram: open-ground stratigraphy - the stack is the clock
+[23]  4:57   RECONSTRUCTION  Soil layers with a sherd sealed inside one
+[24]  5:09   RECONSTRUCTION  One continuous mass of worked stone
+[25]  5:19   DIAGRAM         Diagram: the rock-cut chamber - nothing sealed
+[26]  5:38   RECONSTRUCTION  Dust and debris on a chamber floor
+[27]  5:56   RECONSTRUCTION  A radiocarbon laboratory bench
+[28]  6:14   RECONSTRUCTION  A Byzantine painted chapel cut in rock
+[29]  6:30   DIAGRAM         Diagram: the life of one complex
+[30]  6:44   RECONSTRUCTION  Two carving phases meeting, macro
+[31]  6:57   RECONSTRUCTION  Lalibela, Ethiopia: a church cut downward
+[32]  7:13   RECONSTRUCTION  A laser scanner and its point cloud
+[33]  7:26   RECONSTRUCTION  One chamber in three states of use
+[34]  7:49   RECONSTRUCTION  Three passages, no way to tell which
+[35]  7:59   RECONSTRUCTION  Iron Age herders on the plateau
+[36]  8:11   RECONSTRUCTION  Tuff as one unbroken mass - no layers
+[37]  8:26   RECONSTRUCTION  Loose finds in a museum tray
+[38]  8:43   RECONSTRUCTION  Greek soldiers on the long march home
+[39]  9:00   RECONSTRUCTION  Armenian houses dug into the ground
+[40]  9:14   RECONSTRUCTION  The Greek-speaking village, nineteenth century
+[41]  9:31   DIAGRAM         Diagram: four datings and their evidence
+[42]  9:48   RECONSTRUCTION  Riders on the horizon; the village goes down
+[43]  10:08  RECONSTRUCTION  Cappadocia from above: a worked landscape
+[44]  10:24  RECONSTRUCTION  A hermit at his cell - the old reading
+[45]  10:41  RECONSTRUCTION  Surveying a carved courtyard complex
+[46]  10:55  DIAGRAM         Diagram: 23 complexes, one monastery
+[47]  11:10  RECONSTRUCTION  The facade of a rock-cut courtyard house
+[48]  11:26  DIAGRAM         Diagram: not a wilderness
+[49]  11:41  RECONSTRUCTION  A working village, and the hole in its yard
+[50]  11:58  RECONSTRUCTION  Going down: practised, not panicked
+[51]  12:18  RECONSTRUCTION  Leaving, 1923
+[52]  12:35  RECONSTRUCTION  The visitor entrance today
+[53]  12:51  RECONSTRUCTION  The stair, blocked by fill
+[54]  13:05  RECONSTRUCTION  A bare chamber with nothing to date
+[55]  13:14  RECONSTRUCTION  The inner face of the stone door
+[56]  13:28  RECONSTRUCTION  Out through the shaft, toward daylight
+
+DIAGRAMS - WHAT THEY REST ON
+============================
+
+The map at 1:41 uses real coordinates, linearly projected, with the
+latitude axis stretched by 1/cos(38.4 deg); no coastlines are drawn, and no
+distance is given. In particular it does NOT show a tunnel between Derinkuyu
+and Kaymakli: that connection is widely repeated and has never been surveyed.
+
+The two stratigraphy panels at 4:41 and 5:19 share one frame and one
+scale on purpose, so that the second can be read against the first.
+
+The datings timeline at 9:31 shows evidence strength as filled squares:
+excavated at the site / inferred from the region / none. Xenophon is greyed
+out - the passage is real, the location is not Cappadocia.
+
+
+THE NUMBERS YOU WILL SEE ELSEWHERE
+==================================
+
+Almost every popular account gives Derinkuyu as eighteen levels, eighty-five
+metres deep, with room for twenty thousand people. The film quotes those
+figures as what is said, not as what is known. For the record:
+
+  Levels    - no survey has published eighteen. The Italian survey work
+              distinguishes five overlapping levels; around eight are open to
+              visitors. "Eighteen" traces to travel writing.
+  Depth     - published figures range from about 45 m to 60 m to 85 m.
+  Capacity  - twenty thousand is an estimate of capacity, not a count, and not
+              a claim that anyone lived there permanently.
+  Name      - the "ancient name" often given circulates from travel writing.
+              What is documented is Malakopea, the name its Greek-speaking
+              inhabitants used into the twentieth century.
+
+None of this makes the site less remarkable. It makes the popular figures
+unusable, which is a different thing.
+
+
+WHAT WAS CUT AND WHY
+====================
+
+Six things were removed from the script at the fact-check stage:
+
+  1. "Eighteen levels" as a statement of fact - see above. It also cost the
+     film its planned title.
+  2. The 1963 discovery story in its usual form - the man whose chickens
+     disappeared through a crack in his cellar wall. It is charming, it is
+     everywhere, and it traces to journalism rather than to any excavation
+     report. The film keeps the sledgehammer and the wall, which are not in
+     dispute, and drops the chickens.
+  3. Xenophon as evidence for Cappadocia. The passage (Anabasis IV) describes
+     underground houses on the march through Armenia, several hundred
+     kilometres east. The film says so instead of quietly dropping it.
+  4. The tunnel to Kaymakli.
+  5. The count of 52 ventilation shafts - travel literature only.
+  6. A wine-production figure in litres per year, because it is an
+     extrapolation rather than a measurement.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), six pieces following the acts.
+
+Sound effects, drawn from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+  "Cave Ambience" by pointlessperson1, Freesound 740041 - CC0
+  Field recordings by felix.blume, Freesound - CC0
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES AND FURTHER READING
+===========================
+
+Guenay, Goerkem (2024): "Byzantine Rock-Cut Architecture in Cappadocia and
+  Beyond: The State of Scholarship", Valonia: A Journal of Anatolian Pasts 1,
+  35-63. DOI 10.5505/valonia.2024.43531. - The backbone of this film. More
+  than forty underground complexes known; "their dating and historical context
+  remain rather obscure"; usually associated with the Arab incursions of the
+  seventh to ninth centuries; used as temporary shelters by the people of the
+  settlements above. Also the methodological core: carved sites subtract
+  material where open sites add it.
+
+Ousterhout, Robert (2017): Visualizing Community: Art, Material Culture, and
+  Settlement in Byzantine Cappadocia, Dumbarton Oaks. - Rock-cut spaces do not
+  provide actual stratigraphy but post-occupation accumulations; Cappadocia as
+  a living, populated landscape rather than a monastic one.
+
+Ousterhout, Robert (2005): A Byzantine Settlement in Cappadocia, Dumbarton
+  Oaks. - The Canli Kilise survey: of 23 carved complexes, one monastic, the
+  rest residences of people of high standing, tenth and eleventh centuries.
+
+Oeztuerk, Fatma Guel (2017): "Rock-Cut Architecture", in Philipp Niewoehner
+  (ed.), The Archaeology of Byzantine Anatolia, Oxford University Press. - In
+  the absence of datable inscriptions, chronology rests on stylistic
+  comparison, and none of it gives firm results.
+
+Kalas, Veronica (2006/2007): on Selime-Yaprakhisar - the principal complex read
+  as the domestic residence of a local warlord, not a monastery.
+
+Fauvelle-Aymar, F.-X. et al. (2010): "Rock-cut stratigraphy: sequencing the
+  Lalibela churches", Antiquity 84/326. - Carving phases can be sequenced; it
+  was not possible to give precise dates with the material at hand.
+
+Lamesa, Anais (2020): "Methods for Rock-Hewn Worksite Analysis. The Church of
+  Goereme No 4b (Cappadocia): A Case Study", Anatolia Antiqua 28, 23-45. -
+  Reading tool marks as stratigraphic units.
+
+Bixio, Roberto (ed.) (2012): Cappadocia: Records of the Underground Sites,
+  BAR International Series, Archaeopress. - The Centro Studi Sotterranei survey
+  campaigns, 1991-2000; the systematic record of the underground sites.
+
+Kostof, Spiro (1972): Caves of God: The Monastic Environment of Byzantine
+  Cappadocia, MIT Press. - Cited in the film as the reading that was later
+  revised, not as a current view.
+
+UNESCO World Heritage List no. 357, "Goereme National Park and the Rock Sites
+  of Cappadocia", inscribed 1985, with Derinkuyu and Kaymakli among its
+  components.
+
+
+WHAT THE FILM DOES NOT CLAIM
+============================
+
+The title says nobody can date it, and the film means that literally and
+narrowly: no firm construction date can be established for these complexes with
+current methods, for a reason that is methodological rather than mysterious.
+It does not claim the site is older than anyone thinks. It does not claim it is
+younger. It does not claim a lost civilisation, and it does not entertain one.
+
+Who cut these chambers is not actually in doubt - the people who lived directly
+above them, in a landscape whose economy is well documented. What is missing is
+a date, and that is worth saying plainly rather than filling with a guess.
+
+"We don't know" is a finding, not a failure.

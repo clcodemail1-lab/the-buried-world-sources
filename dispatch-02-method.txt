@@ -1,0 +1,135 @@
+THE BURIED WORLD
+Dispatch 02 - What People Carried
+How this film was made
+
+Last updated 6 August 2026
+
+
+WHY THIS PAGE EXISTS
+====================
+
+This channel makes claims about the past using images that are not photographs
+of the past. That is a fair thing to be suspicious of. This page says exactly
+how the film was put together, what was changed during the fact check, and
+what the film is not able to tell you.
+
+A news round-up needs this page more than a documentary does. Every item in it
+arrives with a headline already attached, and the headline is written to be
+shared rather than to be accurate.
+
+
+THE ONE THAT WOULD HAVE BEEN AN EASY LIE
+========================================
+
+The silk story has an obvious framing: silkworm cocoons found in Uzbekistan,
+two thousand years before the Silk Road, therefore silk did not come from
+China. It is a good headline. It is the opposite of what the study says.
+
+The cocoons are Bombyx mori - the domesticated Chinese silk moth, an animal
+that cannot fly, cannot feed itself and does not exist outside human care. They
+were found together with charcoal from mulberry, the only tree the caterpillar
+eats. Moth plus mulberry IS the Chinese tradition. What the find puts in
+Uzbekistan is not an independent invention; it is a working piece of that
+tradition, three thousand kilometres west of it and two millennia early.
+
+The film says this in its own section, out loud, because a viewer who has read
+the headline elsewhere deserves to know why this film disagrees with it.
+
+A second, quieter correction in the same story: these are described as the
+oldest preserved cocoons with direct radiocarbon dates anywhere, including
+China. That sounds like a statement about history and is a statement about
+soil. Damp ground destroys cocoons; dry ground keeps them. The lead author says
+so, and so does the film.
+
+
+THREE MORE CORRECTIONS
+======================
+
+1. THE FISH WERE NOT OBSERVED BEING CARRIED. That prehistoric people stocked
+   Lake Tesse with trout is the excavators' conclusion, and a well-argued one:
+   the lake sits above waterfalls that fish cannot climb, so it had none of its
+   own. But it is an inference, and the film presents it as one, with the
+   reasoning attached rather than as a finding on its own.
+
+2. NO DEATH TOLLS. The smallpox study measures two individuals in northern
+   Chile. It carries no population figures and makes no claim about how many
+   people died in the American epidemics. Neither does this film, although the
+   temptation to reach for a large number there is considerable.
+
+3. NO "MUMMIES". The reporting uses the word; the study speaks of individuals.
+   "Mummy" summons an image that explains nothing about a genome, so the film
+   leaves it out.
+
+
+WHAT THE IMAGES ARE
+===================
+
+Every one of the 35 shots was made for this film.
+
+28 are AI-generated (Higgsfield, nano_banana_pro), marked "AI RECONSTRUCTION"
+on screen for as long as they are visible, alongside the EU marking for
+AI-generated content in the first fifteen seconds. Photographic-looking shots
+show place and object; painted shots show people and actions, because those are
+interpretation and should look like it.
+
+7 are drawn, not generated: the three-places panel, the silk timeline, the
+system diagram, the Lake Tesse timeline, the elevation profile, the virus family
+tree and the closing panel. Image models place lettering unreliably, and a
+diagram whose labels are decorative is worse than no diagram at all.
+
+There is no world map, and that is deliberate. Without real geodata the
+coastlines would have to be drawn freehand, and invented geography is not
+allowed here. The three sites are given typographically instead, with their
+coordinates.
+
+Two things were ruled out of the imagery before a single prompt was written:
+
+  - No Silk Road iconography in the Uzbekistan section. No camel caravans, no
+    markets, no bolts of coloured cloth. The whole point of that section is
+    that the find is two thousand years EARLIER than any of that, and caravan
+    pictures would flatten exactly the distinction the film is making.
+
+  - No depiction of illness in the smallpox section. No pustules, no suffering
+    faces, no bodies. That section is about a laboratory result and about a
+    community whose outbreak nobody wrote down. It is shown as a settlement
+    with people in it, and then the same settlement without them.
+
+No press photographs are used anywhere - not of the cocoons, not of the traps,
+not of the site in Chile. Nothing in this film rests on anyone else's rights.
+
+
+HOW THE FILM WAS ASSEMBLED
+==========================
+
+The script is written first and is the only source for everything downstream:
+each spoken block becomes one narration file, and the length of each shot is the
+MEASURED length of its narration plus a pause. Nothing is cut to a planned
+duration.
+
+Narration: ElevenLabs, synthetic voice, the same voice in every episode.
+Music: composed for this film, five pieces following the five sections. New
+music is composed for every episode.
+Sound: field recordings and effects from licensed libraries, each normalised to
+a target level before mixing - a fixed mix factor across sources that differ by
+40 dB decides at random which effects you can hear at all.
+Camera moves over stills are computed sub-pixel, because integer-rounded moves
+visibly stutter at slow speeds.
+
+The whole chain is scripted and re-runnable, and every step is checked
+mechanically before release: marking windows, image order, sound levels.
+
+
+WHAT THIS FILM CANNOT TELL YOU
+==============================
+
+Why silkworm cultivation did not persist in Bronze Age Central Asia. The
+authors call it unresolved and so does the film.
+
+Whether the cocoons at Sapalli Tepe mean silk was PRODUCED there or only
+traded there. The study does not separate those, so the film does not claim
+either.
+
+How many people the American smallpox epidemics killed. Not this study's
+question.
+
+If something here is wrong, tell me and I will correct it and say so.

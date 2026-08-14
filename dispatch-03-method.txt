@@ -1,0 +1,155 @@
+THE BURIED WORLD
+Dispatch 03 - Nobody Went Looking For Any Of This
+How this film was made
+
+Last updated 9 August 2026
+
+
+THE SHORT VERSION
+=================
+
+Three archaeological finds reported in the first days of August 2026. Every
+number in the film was checked against a source before recording. Two numbers
+did not survive that check and were cut rather than softened. No press
+photographs are used; every image was made for this film and is marked. There
+is no gospel here - where a source states a limit, the film states it too.
+
+
+THE ORDER OF WORK
+=================
+
+1. Material check. Around fifteen archaeology stories from 5-9 August were read
+   before three were chosen. They were NOT chosen for being the most
+   spectacular - a mass grave at Phaleron and a possible fourth-century
+   massacre in Britain were both stronger stories and both left out, because
+   two violence items in one round-up would move this channel into a register
+   it does not want.
+
+   They were chosen because they share a claim: in none of the three cases did
+   archaeology decide where to dig.
+
+2. Script. Written as thirty-one numbered shots, in English, with the German
+   production notes kept separate.
+
+3. Fact check, before recording. This is a gate, not a review. Nothing gets
+   voiced until every figure has a source.
+
+4. Images. Nineteen AI images and twelve drawn diagrams.
+
+5. Voice, music, sound, edit, and a six-part automated check on the finished
+   file before release.
+
+
+WHAT THE FACT CHECK CHANGED
+===========================
+
+Two distance figures were cut. Both were plausible and both were attached to
+the wrong thing - the most common way a number goes wrong.
+
+  "Ninety kilometres downstream" for Dunaujvaros. Ninety kilometres is the
+  distance to the Paks power station. The published figures for Dunaujvaros
+  itself disagree with one another depending on what is being measured
+  (roughly 60 km straight line, 70 km as usually quoted, 82 km by road), so
+  rather than pick one, the film gives no distance at all.
+
+  "Forty miles down the same coast" for Sutton Hoo. It is roughly twenty.
+
+One claim was downgraded. An early draft called the Sizewell C excavation "one
+of the largest archaeological operations in Britain". That is a reasonable
+thing to think and nothing supported it, so the film now quotes the people
+running the project describing it as the largest and most complex dig of a
+generation - attributed to them, not asserted.
+
+One connection was deliberately not made. Intercisa was garrisoned for
+generations by a Syrian archer cohort. That is documented and it is a good
+detail. The altar recovered from the riverbed is dedicated to Jupiter and has
+not yet been dated or attributed by the museum. Joining those two facts would
+have produced a sentence that sounds like knowledge and is invention, so the
+film says instead that the attribution is still open.
+
+Two things were kept out of the film entirely: the energy and shipping
+consequences of the Danube low water, which are a different story and would
+have taken over the section; and any attribution of the drought to climate
+change, which is not what these reports are about.
+
+
+WHERE THE FILM PUSHES BACK ON ITSELF
+====================================
+
+The obvious version of this episode is an outrage piece: look how little of our
+past is chosen, look what we are missing. The film includes a section (at 5:48)
+that argues against its own momentum. English planning policy only put the cost
+of archaeological recording onto the developer in 1990. Before that, a
+developer could destroy a site and record nothing. The rule this film describes
+is the reason Sizewell was excavated at all, and the reason somebody was
+standing beside a railway cutting in Moravia in May.
+
+The finding is a distortion in the sample, not a failure of the discipline. A
+version of this film without that section would be more shareable and less
+true.
+
+
+THE IMAGES
+==========
+
+Nineteen shots are AI-generated. They are marked "AI RECONSTRUCTION" on screen
+for as long as they are visible, alongside the EU marking for AI-generated
+content, which also appears full-width in the first fifteen seconds.
+
+Twelve shots are diagrams, drawn in code for this film - because image models
+place labels unreliably, and a diagram with an invented number on it is worse
+than no diagram.
+
+Two rules govern the AI images here:
+
+  NO PEOPLE in any photographic-looking shot, including modern archaeologists.
+  An AI-generated person standing in an excavation would be a claim about a
+  real working team. Excavation areas are shown empty. People appear only in
+  painted shots, and only in the past.
+
+  NO INVENTED LETTERING. The Roman altar is shown with its carving worn past
+  legibility. The two inscribed fragments went through two attempts: the prompt
+  forbade legible characters and the model produced plausible-looking letters
+  anyway. Rather than argue with the model, the shot was changed - the slabs
+  are now shown still crusted with dried river mud, and the inscribed face is
+  not in the picture at all. Nobody knows what those fragments say, so nothing
+  in this film pretends to.
+
+The map of central Moravia uses real coordinates and shows nothing else: no
+rivers, no borders, no distances. Freehand geography is not allowed on this
+channel.
+
+
+SOUND
+=====
+
+Narration is a synthetic voice, used consistently across the channel. Music was
+composed for this episode - new music every time. Sound effects come from
+licensed libraries; the list is in the source document.
+
+Every effect is normalised to a target level BEFORE the mix ratio is applied.
+That sounds like a technicality and is not: in an earlier episode four of nine
+effects sat forty to sixty-five decibels below the speech and were therefore
+inaudible, with no error reported anywhere. The finished file is now measured
+for this, and this episode's seven effects all sit in the carrying range.
+
+
+WHAT THIS FILM DOES NOT CLAIM
+=============================
+
+It does not claim the three finds are connected. They are not.
+
+It does not claim that development-led archaeology is a scandal.
+
+It does not claim to know what the Intercisa altar belonged to, what the
+inscribed fragments say, or why the Kojetin metalwork was broken before it went
+into the water.
+
+The closing statement - that a find map is strong evidence of where we have
+looked and weak evidence of where people were - is about sampling. It is not a
+claim that the archaeological record is worthless. It is a claim about how to
+read it.
+
+"We don't know" is a finding, not a failure.
+
+Corrections are welcome and will be made in public.

@@ -1,0 +1,147 @@
+THE BURIED WORLD
+Episode 6 - We Can Read Every Sign And Understand Nothing
+
+How this film was made
+
+Last updated 11 August 2026
+
+
+WHY THIS PAGE EXISTS
+====================
+
+Every episode of this channel gets one of these. It says how the film was
+built, what was changed during fact-checking, and where the evidence runs out.
+It exists because a channel that asks you to trust a figure owes you the
+working behind it.
+
+
+THE ORDER OF WORK
+=================
+
+  1. Topic. One find, one open question, and something that can be stated as a
+     number.
+  2. Script, written in full before anything is recorded.
+  3. FACT-CHECK GATE. Every figure, name, date and interpretation is checked
+     against specialist sources. Nothing is recorded until this is done. What
+     changed at this stage is listed below, in full.
+  4. Images. Every shot is made for the film - none is a photograph of a real
+     object. See the note on the signs, below, which matters more in this
+     episode than in any before it.
+  5. Diagrams. Maps, timelines and tables are drawn in code, not generated,
+     because image models set labels unreliably.
+  6. Narration, music, sound, edit.
+  7. A machine check of the finished file before release: labelling windows,
+     image order, loudness, and the level of every sound effect relative to
+     speech.
+
+
+THE SIGNS IN THE IMAGES ARE NOT LINEAR A
+========================================
+
+This is the one thing worth reading if you read nothing else here.
+
+An image model cannot write Linear A. It can only produce marks that resemble
+it. Every tablet, fragment and libation table in this film is a reconstruction,
+and the marks on them are plausible linear strokes - not readable text, not a
+transcription of any real inscription, and of no use for study.
+
+Three consequences follow, and all three were applied:
+
+  - No generated image in the film shows an inscription large enough or sharp
+    enough to be read as a facsimile.
+  - Everything the film actually needs you to read is DRAWN in code, not
+    generated: the number system, the account with ku-ro, the libation formula,
+    and Ventris's grid. Those carry the Latin transcription used in the
+    scholarly literature - which is, after all, exactly what the film is about.
+    What survives of Linear A, for practical purposes, IS the transcription.
+  - Every image carries a permanent AI RECONSTRUCTION label in the bottom left,
+    and an EU AI-generated content mark appears in the first fifteen seconds.
+
+While the images were being checked, four came back wrong in ways worth naming,
+because they show what these tools do when left alone: two tablets came back in
+CUNEIFORM despite an explicit exclusion; a Minoan storeroom came back as a
+Mesopotamian brick vault; a tablet came back as a terracotta roof tile; and a
+1900 excavation came back as a clean vector cartoon. All four were remade. The
+exclusions that fixed them are now part of the channel's standing setup.
+
+
+WHAT THE FACT-CHECK CHANGED
+===========================
+
+Eight items were cut or qualified before recording. In detail:
+
+  1. THE SIZE OF THE CORPUS. Sources give 7,362, 7,396 and "about 7,400" signs,
+     depending on how damaged signs are counted. Rather than pick one, the film
+     says "a little over seven thousand". The thumbnail says 7,000 - a figure
+     that is true on every count. A round number that is certainly true beats a
+     precise one that is arguable.
+
+  2. TABLET COUNTS AGAINST OBJECT COUNTS. These are mixed up constantly, often
+     in the same paragraph: Hagia Triada is given as both 147 tablets and 1,269
+     inscribed objects. The film uses tablet counts only, and says so on screen.
+
+  3. THE FRACTION SIGNS. There are seventeen of them, and that is solid. Their
+     individual values are not: several are still disputed. The film gives the
+     count and no values.
+
+  4. THE MEANING OF THE LIBATION FORMULA. (J)A-SA-SA-RA-ME has been read as a
+     divine name, as the vessel itself, and as "this dedication". None of these
+     is established. The film says only that the formula recurs - which is what
+     the argument about word order actually needs.
+
+  5. NAMED AUTHORS OF REJECTED DECIPHERMENTS. Attempts in Indo-Iranian,
+     Semitic, Anatolian, Etruscan and Kartvelian directions are all real, and
+     they are listed in the source list. The narration names nobody. The film's
+     point is about a statistical pattern - with around ninety frequently used
+     signs and short words, some plausible matches will appear in almost any
+     language - and that point does not need a target.
+
+  6. AI DECIPHERMENT CLAIMS OF 2026. Several are circulating. None has appeared
+     in a peer-reviewed journal, and none has been shown to keep working on
+     inscriptions it was not built from. Repeating an unverifiable claim in
+     order to knock it down is still repeating it, so the film does something
+     more useful instead: it states the test. A decipherment has to keep
+     producing sense on material it did not use. That is not a high bar
+     invented by specialists to keep outsiders out - it is the bar Ventris
+     cleared in public in 1953, with a tablet he had never seen.
+
+  7. "67% OF WORDS". The 2019 MIT/Google paper reports 67.3% of correctly
+     translated COGNATES on Linear B. The draft said "words", which overstates
+     it. Corrected before recording.
+
+  8. LINEAR A AT DRAMA, BULGARIA. Reported, but the attribution is not
+     consistent across sources. Cut from the list of find spots. Thera, Kea,
+     Melos, Kythera, mainland Greece, Miletus and Tel Haror all stayed.
+
+Two further items were qualified rather than cut. Ventris's question to Evans
+in 1936 is widely repeated but has no contemporary source, so the film marks it
+as a story rather than quoting it. And "Minoan" is stated once, explicitly, as
+a label invented by an English archaeologist in 1900 - we do not know what
+these people called themselves, for the reason the whole film is about.
+
+
+THE TITLE
+=========
+
+The episode plan called this one "A Script We Still Cannot Read". That title
+was dropped because the film disproves it. We can read Linear A. The sound
+values come from Linear B, transcription is routine, the number system is
+completely understood, and ku-ro and ki-ro were recovered from the arithmetic.
+What is missing is the language underneath, not the script.
+
+This is the third time on this channel that a planned title has failed the
+same way, and the rule has hardened: if the film has to take the title back,
+the title is wrong, however well it would perform.
+
+
+WHERE THE EVIDENCE ENDS
+=======================
+
+The film ends on an image - a name cut into a stone in a museum case, which we
+can pronounce and cannot attribute. That is a real situation and not a
+flourish: the libation tables carry a slot that changes from stone to stone,
+and the best available argument says that slot is the dedicator's name.
+"Best available argument" is doing real work in that sentence. It is a proposal
+by one linguist, resting on where the variation sits, and it may not hold.
+
+Corrections are welcome and will be made out loud.

@@ -1,0 +1,176 @@
+THE BURIED WORLD
+Dispatch 01 - What the Machines Read
+Full source list
+
+Last updated 4 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure spoken in the film was checked against the
+primary publication before recording, and those publications are named at the
+end - with the reservations that apply to them.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 40 shots were made for this film. No press photographs of any of the four
+finds appear anywhere in it, and no third-party images are used. Press images of
+current excavations are under copyright and cannot be licensed for a monetised
+channel; rather than borrow what cannot be cleared, this channel draws what the
+published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place,
+                   find and laboratory; painted shots show people and actions,
+                   which are always interpretation.
+
+  DIAGRAM        - the overview, the area comparison, the two timelines, the
+                   sex-ratio bars and the closing panel. These were drawn for
+                   this film, not generated. Image models place lettering
+                   unreliably, and two subjects here - Maya calendar signs and
+                   Greek script - invite a model to invent writing outright.
+
+One shot deserves its own note. [30] shows a destroyed patch of papyrus with no
+legible ink. An earlier version produced convincing Greek lettering, and it was
+discarded: the film says the papyrus carries Book II of the Iliad, so invented
+characters would have asserted a wording nobody has read.
+
+[01]  0:00   RECONSTRUCTION  A lidar point cloud on a monitor, after hours
+[02]  0:07   RECONSTRUCTION  Mammoth bone in museum storage drawers
+[03]  0:22   RECONSTRUCTION  A deteriorated painted panel in conservation
+[04]  0:27   RECONSTRUCTION  A conservator's tools, nobody present
+[05]  0:38   DIAGRAM         Overview: four finds, four instruments
+[06]  0:47   RECONSTRUCTION  A survey aircraft over unbroken canopy
+[07]  1:04   RECONSTRUCTION  Looking up through the canopy gaps
+[08]  1:08   DIAGRAM         Area comparison: what was scanned, what the number covers
+[09]  1:29   RECONSTRUCTION  An earthen bank and ditch under the undergrowth
+[10]  1:41   DIAGRAM         Timeline: the Aquiry landscape, 600 BCE - 850 CE
+[11]  1:56   RECONSTRUCTION  The built landscape, c. 200 CE - earth architecture only
+[12]  2:08   RECONSTRUCTION  A Maya pyramid above the canopy at dawn
+[13]  2:16   RECONSTRUCTION  Charcoal on lime plaster, nothing legible left
+[14]  2:29   RECONSTRUCTION  The imaging set-up: raking light on a flat panel
+[15]  2:42   RECONSTRUCTION  Juun Ajaw hunting in water - a painted reconstruction
+[16]  2:56   DIAGRAM         Timeline: the proposed date against the Classic period
+[17]  3:08   RECONSTRUCTION  The conservation depot corridor
+[18]  3:27   RECONSTRUCTION  A museum drawer of mammoth bone
+[19]  3:35   RECONSTRUCTION  Ancient DNA work in the clean room
+[20]  3:52   RECONSTRUCTION  Empty late Pleistocene steppe
+[21]  4:00   RECONSTRUCTION  A lone bull, no herd and no people
+[22]  4:12   DIAGRAM         Sex ratios: natural deposits against human accumulations
+[23]  4:20   RECONSTRUCTION  An excavation trench of accumulated bone
+[24]  4:24   RECONSTRUCTION  A herd closing into a defensive ring
+[25]  4:33   RECONSTRUCTION  A crossing on a worn trail, watched from a ridge
+[26]  4:46   RECONSTRUCTION  A butchery site - hunted or found dead, the film does not decide
+[27]  5:00   RECONSTRUCTION  A palm-sized fragment of papyrus
+[28]  5:07   RECONSTRUCTION  The excavation ground at Oxyrhynchus
+[29]  5:23   RECONSTRUCTION  Roman-period burial preparation in Egypt
+[30]  5:40   RECONSTRUCTION  Destroyed papyrus - no legible character survives
+[31]  5:52   RECONSTRUCTION  A rock-cut tomb chamber with burial niches
+[32]  6:07   RECONSTRUCTION  The fragment between glass, backlit
+[33]  6:27   RECONSTRUCTION  The machines themselves, after hours
+[34]  6:34   RECONSTRUCTION  Canopy to the horizon, no structure visible
+[35]  6:37   DIAGRAM         The counted number against the calculated one
+[36]  6:46   RECONSTRUCTION  One lit strip across an unlit expanse
+[37]  7:06   RECONSTRUCTION  Leaf litter over the slope of an old bank
+[38]  7:22   RECONSTRUCTION  A right-angled enclosure standing out of the terrain
+[39]  7:33   RECONSTRUCTION  Someone walking the ground
+[40]  7:48   RECONSTRUCTION  Rainforest floor at the end of the day
+
+DIAGRAMS - WHAT THEY REST ON
+============================
+
+There is no world map in this film. Drawing one would have meant drawing
+coastlines from memory, and this channel does not draw geography it cannot
+source. The overview at 0:38 is typographic instead.
+
+The area comparison at 1:08 is to scale: the small rectangle holds exactly
+4,497/183,000 of the AREA of the large one, not of its edge length. The timeline
+at 1:41 is linear. The Calakmul timeline at 2:56 draws the proposed
+early date with SOFT EDGES on purpose - it is a conference finding, not a
+peer-reviewed result, and the graphic says so in plain words.
+
+
+THE FOUR REPORTS
+================
+
+1. AMAZONIA - Paerssinen, M., Kalliola, R., Ranzi, A. et al. (2026): "Over
+   20,000 precolonial earthworks in the Southwest Amazonia", Nature.
+   Airborne lidar over c. 4,497 square kilometres in Acre and Amazonas, Brazil.
+   MEASURED: 432 earthworks recorded, 396 of them previously unknown.
+   EXTRAPOLATED: 24,000-30,000 across a cultural landscape of c. 183,000 square
+   kilometres, dated c. 600 BCE - 850 CE, densest 100-300 CE, with a modelled
+   population of 1.25-3 million. The population figure rests on stated
+   assumptions and the authors say so. The film keeps the two numbers apart;
+   that distinction is the point of the closing section.
+
+2. CALAKMUL - Salazar Lama, D., with Archaios / CEMCA, the Stresser-Pean
+   Foundation and INAH (2026). A charcoal mural c. 1.9 m wide, lifted from
+   Substructure II C in 2005 and in conservation since, re-read using digital
+   imaging, photogrammetry and graphic reconstruction: the hero Juun Ajaw, and a
+   sign from the 260-day ritual calendar. Proposed date 400-200 BCE.
+   RESERVATION: presented as a lecture in Campeche, not as a peer-reviewed
+   paper, and the team states that further sampling is needed before the date
+   can be called firm. The film says this out loud rather than in a footnote.
+
+3. MAMMOTHS - Moots, H. M., Diez del Molino, D., Dalen, L. et al. (2026):
+   "Ancient DNA and the sex ratios of mammoth accumulations", Current Biology.
+   doi:10.1016/j.cub.2026.07.023. 521 woolly mammoths across Eurasia and North
+   America, 448 sequenced for the first time; c. 30,000-20,000 years ago.
+   Natural deposits: 34% female (421 animals). Eleven human accumulation sites:
+   70% female (100 animals). The researchers' own caution is quoted in the film:
+   matriarchal herds had a collective defence and were not the easy target, but
+   they were the PREDICTABLE one - and the data cannot say whether every animal
+   was hunted or some were found dead.
+
+4. OXYRHYNCHUS - Oxyrhynchus Archaeological Mission, Institute of Ancient Near
+   East Studies (IPOA), University of Barcelona, directed by Maite Mascort and
+   Esther Pons; excavation team under Nuria Castellano, November-December 2025;
+   papyrus studied January-February 2026 by Margalida Munar (conservation),
+   Leah Mascia (papyrology) and Ignasi-Xavier Adiego. A Roman-era body, c. 1,600
+   years old, in Tomb 65, Sector 22, with a papyrus placed on the abdomen as
+   part of the embalming: Book II of the Iliad, the Catalogue of Ships. The
+   mission had found papyri in that position before, all of them magical or
+   ritual text; this is the first literary work.
+   NOTE ON DATING: some secondary coverage gives "first to second century CE".
+   That figure comes from reporting on other papyrus packets at the site and
+   contradicts the mission's own statement. The film uses only "Roman-era, about
+   sixteen hundred years old".
+   NOTE ON INTERPRETATION: one outlet described the fragment as probably reused
+   as cartonnage - that is, as material. The excavation team describes
+   deliberate placement. The film follows the team.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), six pieces following the four
+reports. Nothing is reused from earlier episodes.
+
+Sound effects, from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+
+Narration: ElevenLabs, synthetic voice.
+
+
+WHAT THE FILM DOES NOT CLAIM
+============================
+
+It does not claim the Amazon figure is wrong. It is a legitimate projection from
+a real survey, and the team labels it as one. What the film argues, at
+6:37, is narrower: a projection and a count read identically in a headline,
+and it costs nothing to keep track of which is which.
+
+It does not claim the Calakmul date is wrong either - only that it is not yet
+settled, which is what the researchers themselves say.
+
+"We don't know" is a finding, not a failure.

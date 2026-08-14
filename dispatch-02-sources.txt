@@ -1,0 +1,169 @@
+THE BURIED WORLD
+Dispatch 02 - What People Carried
+Full source list
+
+Last updated 6 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the
+film was recorded, and the studies those checks rest on are named at the end.
+
+A news round-up is the format where it is easiest to get carried away, because
+each item arrives pre-packaged with a headline. Where this film disagrees with
+the headline, it says so on screen. Where a study states a limit, the film
+states it too.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 35 shots were made for this film. No press photographs are used - not of
+the cocoons, not of the fish traps, not of the site in Chile, and none of any
+museum object. Photographs of public-domain objects are still protected in
+Germany (Section 72 UrhG), and press images from research institutes are not
+licensed for this use. Rather than borrow what cannot be cleanly licensed,
+this channel draws what the published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place
+                   and object; painted shots show people and actions, which
+                   are always interpretation.
+
+  DIAGRAM        - the three-places panel, the silk timeline, the system
+                   diagram, the Lake Tesse timeline, the elevation profile,
+                   the virus family tree and the closing panel. These were
+                   drawn for this film, not generated.
+
+There is no world map. Without real geodata, coastlines would have to be drawn
+freehand, and invented geography is not allowed on this channel - so the three
+sites are given typographically, with their coordinates.
+
+[01]  0:00   RECONSTRUCTION  Three cocoons from a Bronze Age village in Uzbekistan
+[02]  0:15   DIAGRAM         Panel: three places, three continents
+[03]  0:29   RECONSTRUCTION  The store room where finds wait
+[04]  0:42   RECONSTRUCTION  One set of tracks across an empty country
+[05]  1:01   RECONSTRUCTION  Sapalli Tepe: eroded mudbrick in dry ground
+[06]  1:16   RECONSTRUCTION  Charred plant remains, and three things that were not seeds
+[07]  1:26   RECONSTRUCTION  Extracting silk protein
+[08]  1:40   RECONSTRUCTION  The filament, magnified
+[09]  1:54   DIAGRAM         Timeline: the cocoons against the Silk Road
+[10]  2:10   RECONSTRUCTION  Tending silkworms, two thousand years before the trade route
+[11]  2:22   RECONSTRUCTION  A mulberry tree
+[12]  2:39   RECONSTRUCTION  Charcoal from the same deposit
+[13]  2:50   DIAGRAM         Diagram: moth, mulberry, people - remove one and there is no silk
+[14]  3:07   RECONSTRUCTION  The racks, left standing
+[15]  3:23   RECONSTRUCTION  Lake Tesse, 854 metres up
+[16]  3:37   DIAGRAM         Timeline: three building phases, 2,300 years
+[17]  3:53   RECONSTRUCTION  The traps in the exposed lakebed
+[18]  4:16   DIAGRAM         Profile: why the lake had no fish
+[19]  4:29   RECONSTRUCTION  The waterfalls that close the river
+[20]  4:38   RECONSTRUCTION  Carrying live fish up the mountain
+[21]  4:51   RECONSTRUCTION  Building the fence into the shallows
+[22]  5:04   RECONSTRUCTION  The desert coast of northern Chile
+[23]  5:20   RECONSTRUCTION  An excavated grave cut, empty
+[24]  5:35   RECONSTRUCTION  Sequencing
+[25]  5:54   DIAGRAM         Family tree: where the virus in these two bodies sits
+[26]  6:08   RECONSTRUCTION  A ship, very far off
+[27]  6:27   RECONSTRUCTION  The settlement, before
+[28]  6:40   RECONSTRUCTION  A register that does not mention it
+[29]  6:56   RECONSTRUCTION  The settlement, after
+[30]  7:03   RECONSTRUCTION  A cocoon, a timber, a vial
+[31]  7:20   RECONSTRUCTION  The archive corridor
+[32]  7:41   RECONSTRUCTION  Three landscapes, one horizon
+[33]  7:51   DIAGRAM         Panel: three movements, two of them ending
+[34]  8:07   RECONSTRUCTION  One cocoon, alone
+[35]  8:24   RECONSTRUCTION  The lakebed at last light
+
+WHERE THE FILM DISAGREES WITH THE HEADLINES
+===========================================
+
+1. "Silk did not come from China." Several write-ups of the Uzbekistan study
+   imply this. The study says the opposite. The cocoons are Bombyx mori, the
+   domesticated Chinese silk moth, and they were found with mulberry charcoal.
+   That is the Chinese tradition, found three thousand kilometres west of it
+   and two thousand years before the Silk Road. The film says so explicitly.
+
+2. "The oldest silk in the world." What the study claims is narrower and more
+   interesting: the oldest preserved COCOONS with DIRECT radiocarbon dates
+   anywhere, including China - and the lead author explains why, which is that
+   damp ground destroys cocoons and dry ground keeps them. Absence of older
+   cocoons in China is a preservation fact, not a historical one.
+
+3. "Ancient people stocked a lake." True, and it is the authors' own
+   conclusion - but it is a conclusion, not an observation. Nobody excavated a
+   fish being carried. The film marks it as the inference it is, and gives the
+   reasoning: the waterfalls, and a lake that could not have had fish.
+
+4. Smallpox death tolls. The Chile study measures two individuals. It carries
+   no population figures, so neither does this film.
+
+
+THE NUMBERS
+===========
+
+  3 cocoons, Sapalli Tepe, Uzbekistan, c. 2000 BCE, Bombyx mori, silk protein
+    radiocarbon dated directly
+  4 wooden fish traps, Lake Tesse, Norway, 854 m; phases c. 5000, c. 3850 and
+    c. 2700 BCE - more than 2,300 years of use; ice retreat c. 8400 BCE
+  2 individuals, northern Chile, buried c. 1492-1631; variola lineage now
+    extinct, diverging from medieval European strains c. 1296
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), five pieces following the
+five sections. New music is composed for every episode.
+
+Sound effects, drawn from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES
+=======
+
+Liu, X. et al. (2026): "Silkworm cultivation predating the Silk Road in
+  southern Central Asia (2000 BCE)", Science Advances.
+  DOI 10.1126/sciadv.aec8738. - Three cocoons from Sapalli Tepe and two other
+  Bronze Age sites on the Surkhan-Darya; silk proteins identified as Bombyx
+  mori and directly radiocarbon dated; mulberry charcoal from the same site.
+  Washington University in St. Louis, with Uzbek partners.
+
+Lake Tesse fish traps (2026), Antiquity. - Four stationary wooden traps from
+  the exposed lakebed at 854 m in Jotunheimen; radiocarbon dating,
+  dendrochronology and CT imaging give three phases across more than 2,300
+  years; the lake was unreachable for fish, so the trout were introduced.
+
+Nakagome, S. et al. (2026): "The genomic identity of early smallpox in South
+  America", Science. DOI 10.1126/science.aee6957. - The first ancient variola
+  genomes from the Americas, from two Inca-Colonial individuals in northern
+  Chile; an extinct lineage diverging c. 1296 from medieval European strains;
+  direct molecular evidence for introduction through European colonisation.
+
+
+WHAT THIS FILM DOES NOT CLAIM
+=============================
+
+It does not claim that any of these three things was invented where it was
+found. It does not claim to know why silk production did not persist in
+Central Asia - the authors say that is unresolved, and so does the film. It
+does not claim that the fish traps are the oldest anywhere, only that the
+lake had no fish of its own.
+
+The closing observation - two deliberate transfers that did not last, one
+accidental one that did - is an observation about these three cases. It is
+not a rule about history.
+
+"We don't know" is a finding, not a failure.

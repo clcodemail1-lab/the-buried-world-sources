@@ -1,0 +1,157 @@
+THE BURIED WORLD
+Dispatch 01 - What the Machines Read
+How this film was made
+
+Last updated 4 August 2026
+
+Companion to the full source list (link in the description).
+
+
+WHY THIS PAGE EXISTS
+====================
+
+A channel that asks you to trust it should show its working. This page says how
+the film was put together, what was checked, what had to be corrected or cut
+before recording, and where it stops short of an answer.
+
+None of it is required of me. I would rather you could check.
+
+
+WHAT A DISPATCH IS
+==================
+
+This is the first of a second kind of film on this channel. The long ones take a
+single find apart. A dispatch takes several recent reports and puts them next to
+each other.
+
+The risk in that format is obvious: four press releases, read aloud, in a
+confident voice. So this one is built the other way round. The four reports here
+share something real - in none of them did anything come out of the ground in
+the weeks they were in the news. The earthworks had been lying under the forest
+for eighteen centuries. The bones had been in museum drawers for decades. The
+mural was lifted off its wall in 2005 and has been in conservation ever since.
+What changed is what could be read.
+
+That is the film's claim, and the last two minutes test it rather than celebrate
+it.
+
+
+THE ONE THING WORTH TAKING AWAY
+===============================
+
+The Amazonia survey is extraordinary work. It is also the clearest example this
+year of a number changing shape as it travels.
+
+  MEASURED:      432 earthworks, recorded by lidar over c. 4,497 square
+                 kilometres. 396 of them had never been recorded by anyone.
+
+  EXTRAPOLATED:  24,000-30,000, projected across a cultural landscape of about
+                 183,000 square kilometres - roughly forty times the area that
+                 was actually flown.
+
+Both belong in the story. The team is explicit about which is which. But a
+projection and a count read identically in a headline, and the population figure
+- 1.25 to 3 million people - has the same shape: it rests on stated assumptions
+about how many lived at each site.
+
+The film says none of this to diminish the study. It says it because keeping
+track of which number was measured and which was calculated costs nothing, and
+because a channel that reports findings should model the habit.
+
+
+WHAT WAS CHECKED, AND WHAT CHANGED BEFORE RECORDING
+===================================================
+
+Every figure was checked against the primary publication. Four things changed:
+
+1. THE MUMMY'S DATE. Some coverage gives "first to second century CE". That
+   figure appears in reporting on other papyrus packets from the site and
+   contradicts the excavation mission's own statement. Cut. The film says only
+   "Roman-era, about sixteen hundred years old".
+
+2. THE MUMMY'S PAPYRUS - and this is the correction I came closest to getting
+   wrong. One outlet, in April, described the fragment as probably reused as
+   cartonnage: as material, not as an offering. That would have made a lovely
+   story - a find reinterpreted between April and July, from wastepaper to
+   ritual. It is not what happened. The excavation team described deliberate
+   placement from the start, and the April wording is simply loose. Building a
+   reversal out of it would have been inventing a plot. The film follows the
+   team.
+
+3. THE CALAKMUL DATE. The proposed 400-200 BCE was kept, but only with its
+   status attached: this was presented as a lecture, not as a peer-reviewed
+   paper, and the team says further sampling is needed. An earlier, narrower
+   range from a previous structural study (400-390 BCE) was dropped - two
+   competing precisions in one sentence would suggest a confidence that does not
+   exist. The timeline graphic draws that date with soft edges for the same
+   reason.
+
+4. THE MAMMOTH FINDING. The headline version is "Ice Age hunters preferred to
+   kill females". The researchers are more careful, and their caution is in the
+   film as its own passage: matriarchal herds had a collective defence and were
+   not the easy target - they were the PREDICTABLE one. And the data cannot say
+   whether every animal was hunted or some were found dead and taken apart.
+
+
+WHY THERE ARE NO PHOTOGRAPHS
+============================
+
+Not one press photograph appears in this film.
+
+That is a legal position as much as an editorial one. Images of current
+excavations are under copyright, and under German law a photograph of a
+public-domain object is itself protected for decades - being ancient does not
+make an image free. A monetised channel cannot use them without clearance. So
+the film draws what the published record describes, and says on screen that it
+is drawing.
+
+The look of an image tells you what kind of claim it makes: photographic-looking
+shots show PLACE, FIND and LABORATORY; painted shots show PEOPLE AND ACTIONS -
+everything a human being is doing in this film is interpretation. The overview,
+the area comparison, the two timelines and the bar panel are DRAWN, not
+generated.
+
+All reconstructions are AI-generated and marked twice: the EU marking for
+AI-generated content together with the words AI RECONSTRUCTION, in the lower
+left, for as long as the shot is on screen. The drawn diagrams do not carry that
+mark, because they are not generated.
+
+
+THREE IMAGES THAT WERE THROWN AWAY
+==================================
+
+Image models invent things quietly, and two subjects here invited it.
+
+  THE PAPYRUS. The first version of shot [30] produced convincing Greek
+  lettering. It was discarded. The film says the papyrus carries Book II of the
+  Iliad; an image with invented characters would have asserted a wording nobody
+  has read. The replacement shows only destruction. The shot lost its
+  illustrative force and the film is more honest for it.
+
+  THE MURAL. Shot [13] is deliberately weathered past legibility, so that no
+  accidental smudge can be mistaken for a Maya calendar sign. The actual sign is
+  discussed, not depicted.
+
+  THE LONE BULL. The first version of shot [21] put two human figures on the
+  horizon. The sentence it accompanies is about mammoths dying NATURAL deaths,
+  alone. The image contradicted the words, which is a smaller error than a wrong
+  date and just as avoidable.
+
+There is also no world map in this film. Drawing one would have meant drawing
+coastlines from memory, and this channel does not draw geography it cannot
+source.
+
+
+WHERE THIS FILM STOPS
+=====================
+
+It does not say the Amazon estimate is wrong. It is a legitimate projection from
+real work.
+
+It does not say the Calakmul date is wrong. It says it is not yet settled, which
+is what the researchers say.
+
+It does not say whether those mammoths were hunted or scavenged, because the DNA
+cannot say.
+
+"We don't know" is a finding, not a failure.

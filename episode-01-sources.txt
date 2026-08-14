@@ -1,0 +1,166 @@
+THE BURIED WORLD
+Episode 1 - The Temple Built 6,000 Years Before Stonehenge
+Full source list
+
+Last updated 4 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the film
+was recorded, and the works those checks rest on are named at the end.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 48 shots were made for this film. No photographs of Goebekli Tepe, of finds
+from the site, or of excavation work appear anywhere in it, and no third-party
+images are used.
+
+That is a deliberate choice, not a shortcut. Photographs of the site and its finds
+are under copyright, and German law protects photographs of public-domain objects
+in their own right. Rather than borrow what cannot be licensed, this channel draws
+what the published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as long
+                   as it is visible, alongside the EU marking for AI-generated
+                   content. Photographic-looking shots show place and find;
+                   painted shots show people, actions and rituals, which are
+                   always interpretation.
+
+  DIAGRAM        - maps, the timeline and the section drawing. These were drawn
+                   for this film, not generated. Image models place lettering
+                   unreliably, and in a film whose central point is that these
+                   people had no writing, invented script would be a factual
+                   error.
+
+[01]  0:00   RECONSTRUCTION  Survey team on a bare hill in south-eastern Turkey, 1963
+[02]  0:10   RECONSTRUCTION  Broken limestone slabs standing in the scree
+[03]  0:24   RECONSTRUCTION  Archive shelving, index cards, an open survey volume
+[04]  0:28   RECONSTRUCTION  The archaeologist at his desk, the same page under the lamp
+[05]  0:43   RECONSTRUCTION  The same slab, seen further down - it does not stop
+[06]  0:47   RECONSTRUCTION  The whole mound, the enclosures showing through beneath it
+[07]  0:58   DIAGRAM         Map of south-eastern Turkey: Sanliurfa, the Germus ridge, the Harran plain
+[08]  1:17   RECONSTRUCTION  The mound in raking light
+[09]  1:29   RECONSTRUCTION  A surveyor with a clipboard among the slabs, 1963
+[10]  1:51   RECONSTRUCTION  A gravestone beside a pillar top - the same silhouette
+[11]  2:08   RECONSTRUCTION  Nevali Cori, T-shaped pillars in situ, excavation of the late 1980s
+[12]  2:32   RECONSTRUCTION  The reservoir that now covers the site
+[13]  2:42   RECONSTRUCTION  The first test trench on the slope, 1995
+[14]  2:56   DIAGRAM         Timeline: Goebekli Tepe, first writing, Stonehenge, the Great Pyramid
+[15]  3:17   RECONSTRUCTION  Enclosure D from above: a ring of pillars, two larger ones at the centre
+[16]  3:26   RECONSTRUCTION  Scale: a central pillar beside a human figure
+[17]  3:38   RECONSTRUCTION  The quarry, with the largest pillar still attached to the bedrock
+[18]  4:00   RECONSTRUCTION  Close on a pillar flank: an arm ending in a hand with long fingers
+[19]  4:14   RECONSTRUCTION  The belt with buckles, and the fox-pelt loincloth beneath it
+[20]  4:34   RECONSTRUCTION  Relief frieze: fox with bared teeth, wild boar, snakes
+[21]  4:45   RECONSTRUCTION  Cranes, vultures, scorpion, spider, aurochs
+[22]  4:48   RECONSTRUCTION  The animal programme as a whole - wild animals only, no livestock
+[23]  5:08   RECONSTRUCTION  A vulture carrying a round disc, a headless body beside it
+[24]  5:23   RECONSTRUCTION  Three human skull fragments with cut grooves, one drilled through
+[25]  5:44   RECONSTRUCTION  A carved skull suspended on a cord - reconstruction
+[26]  6:01   DIAGRAM         Geophysical survey: at least twenty enclosures beneath the mound
+[27]  6:11   RECONSTRUCTION  Moving a pillar with ropes, levers and rollers
+[28]  6:19   RECONSTRUCTION  Hundreds of people gathered on the slope, fires, shelters
+[29]  6:38   RECONSTRUCTION  Grinding stones, large stone basins, wild cereals
+[30]  6:48   DIAGRAM         The old order of events - and where Goebekli Tepe falls in it
+[31]  7:13   RECONSTRUCTION  Hunter-gatherers on the slope, the pillars standing behind them
+[32]  7:28   RECONSTRUCTION  Klaus Schmidt at a pillar, notebook in hand
+[33]  7:37   RECONSTRUCTION  A crowd at the building site, wild grain growing beside it
+[34]  7:50   DIAGRAM         Karacadag and the wild einkorn population traced in 1997
+[35]  8:18   RECONSTRUCTION  A balance with two empty pans
+[36]  8:39   RECONSTRUCTION  Sickle, grinding stone, a bunch of wild grain
+[37]  8:58   RECONSTRUCTION  An enclosure filling to the top with rubble
+[38]  9:14   DIAGRAM         Section through the mound: the fill and what lies under it
+[39]  9:31   RECONSTRUCTION  People carrying baskets of rubble into the ring
+[40]  9:50   RECONSTRUCTION  Slope water carrying debris down into the hollow
+[41]  10:11  RECONSTRUCTION  A cistern cut into bedrock, traces of dwelling between the rings
+[42]  10:27  RECONSTRUCTION  The mound, half sanctuary and half settlement
+[43]  10:54  RECONSTRUCTION  Karahan Tepe: a chamber of pillars cut into the rock
+[44]  11:10  RECONSTRUCTION  Eleven pillars around a central figure, a head emerging from the wall
+[45]  11:24  RECONSTRUCTION  Wide highland landscape with several unexcavated mounds
+[46]  11:30  RECONSTRUCTION  The enclosure, and the question standing over it
+[47]  11:47  RECONSTRUCTION  Close on the hands meeting on the belly of the central pillar
+[48]  12:06  RECONSTRUCTION  The mound at last light, a single pillar top breaking the surface
+
+MAPS AND DIAGRAMS - WHAT THEY REST ON
+=====================================
+
+Coordinates are real and linearly projected; the vertical is stretched by
+1/cos(latitude) so distances hold in both directions. No coastlines or borders are
+drawn - the frame shows rivers and sites, and so claims only what is established.
+
+The map at 7:50 deliberately carries NO distance figure between Goebekli Tepe
+and Karacadag. Published sources scatter between roughly 30 and 96 km, and a channel
+that argues for precision should not state a number it cannot defend - not in
+speech, and not through the back door of a map.
+
+Dates on the timeline: Goebekli Tepe c. 9500 BCE (oldest layers, PPNA), first
+writing c. 3200 BCE, Stonehenge c. 3000 BCE (first earthwork phase), Great Pyramid
+c. 2560 BCE.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), six pieces following the acts.
+
+Sound effects:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone); Sand and Pebble VADI; USE-Creaking
+  "A buzzard call" by Jaturo, Freesound 194678 - CC0
+  "Cave Ambience" by pointlessperson1, Freesound 740041 - CC0
+  "Daytime Forest Bonfire", YouTube Audio Library
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES AND FURTHER READING
+===========================
+
+Gresky, J., Haelm, J. & Clare, L. (2017): "Modified human crania from Goebekli
+  Tepe provide evidence for a new form of Neolithic skull cult", Science Advances
+  3(6), 28 June 2017. - The three carved skull fragments, one of them drilled.
+
+Clare, L. and colleagues, on the formation of the mound deposits - German
+  Archaeological Institute (DAI), Goebekli Tepe research project and its
+  excavation blog "Tepe Telegrams". - The case against deliberate backfilling,
+  made by the excavation team itself.
+
+Heun, M. et al. (1997): "Site of Einkorn Wheat Domestication Identified by DNA
+  Fingerprinting", Science 278, 1312-1314. - Cultivated einkorn traced to one wild
+  population on Karacadag.
+
+Benedict, P. (1980): survey report of the joint Istanbul-Chicago prehistoric
+  survey of 1963, in which the pillar tops are recorded as two small Islamic
+  cemeteries.
+
+Hauptmann, H.: excavations at Nevali Cori, 1983-1991, Heidelberg. The site was
+  flooded by the Ataturk Dam reservoir in 1992; the portable finds were rescued,
+  the architecture was not.
+
+Schmidt, K.: publications on Goebekli Tepe from 1995 onward, including his
+  inversion of the usual order - that the cult made farming necessary rather than
+  the other way round.
+
+Tas Tepeler programme and Karahan Tepe - Turkish Ministry of Culture and Tourism,
+  from 2019.
+
+UNESCO World Heritage List: Goebekli Tepe, inscribed 2018.
+
+
+WHAT THE FILM DOES NOT CLAIM
+============================
+
+The title says "temple". The film says why that word is disputed and answers the
+question in the open, at 11:30. Whether the enclosures were deliberately buried is
+unresolved, and the film says so instead of choosing the better story.
+
+"We don't know" is a finding, not a failure.

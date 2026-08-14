@@ -1,0 +1,114 @@
+THE BURIED WORLD
+Episode 2 - The Gears That Shouldn't Exist
+How this film was made
+
+Last updated 4 August 2026
+
+Companion to the full source list (link in the description).
+
+
+WHY THIS PAGE EXISTS
+====================
+
+A channel that asks you to trust it should show its working. This page says how
+the film was put together, what was checked, what had to be corrected or cut
+before recording, and where it stops short of an answer.
+
+None of it is required of me. I would rather you could check.
+
+
+WHY THERE ARE NO PHOTOGRAPHS
+============================
+
+Not one photograph of the Antikythera mechanism appears in this film. No
+photograph of the fragments, of the wreck, or of any museum object.
+
+That is a legal position as much as an editorial one. Photographs of the
+fragments are protected, and under German law a photograph of a public-domain
+object is itself protected for decades - being ancient does not make an image
+free. So the film draws what the published record describes, and says on screen
+that it is drawing.
+
+The look of an image tells you what kind of claim it makes: photographic-looking
+shots show PLACE AND FIND, painted shots show PEOPLE AND ACTIONS - everything a
+human being is doing in this film is interpretation. The map, the timeline and
+the three panels are DRAWN, not generated. An early generated attempt put Roman
+numerals on the dial of a Greek machine - exactly the kind of quiet factual
+error this channel exists to avoid.
+
+All reconstructions are AI-generated and marked twice: the EU marking for
+AI-generated content together with the words AI RECONSTRUCTION sit in the lower
+left corner for as long as the image is on screen, and the marking appears once
+more, large, between 0:03 and 0:15. From the next film onward the wording drops
+away and the EU marking stands alone - it already says AI GENERATED, and
+everything else is on this page.
+
+The narration is a synthetic voice. The score was composed for this film.
+
+
+WHAT THE FACT-CHECK CHANGED
+===========================
+
+Every figure, name and reading was checked against specialist sources before
+recording. These points did not survive that check unchanged. A correction you
+never see is worth nothing, so here they are.
+
+1. The depth of the wreck became "more than forty metres".
+   Published figures scatter between roughly 42 and 64 metres. A channel that
+   argues for precision does not pick one - it states the floor.
+
+2. The divers' names were cut from the narration.
+   Elias Stadiatis found the wreck, Dimitrios Kontos brought up the arm,
+   Georgios Kritikos died in the 1901 salvage. The film says what happened
+   without asking a synthetic voice to carry Greek names it would mangle;
+   the names belong here instead.
+
+3. A precision figure for the lunar mechanism was cut.
+   Secondary sources quote "better than 1 part in 200" for the pin-and-slot
+   model of the Moon's varying speed. I could not trace the figure cleanly to
+   the primary literature, so the film describes the mechanism and claims no
+   number.
+
+4. "More than three thousand characters" is a floor, not an estimate.
+   Reports of the deciphered text scatter between 3,400 and 3,500 characters,
+   so the film claims the lower bound.
+
+5. The total gear count of the complete machine is not spoken.
+   Thirty gears survive; reconstructions of the full machine range far wider,
+   and the film does not choose among them.
+
+6. The month of the 1902 discovery was cut; the year stands.
+
+
+WHERE THE RESEARCH DOES NOT AGREE
+=================================
+
+Two questions in this film are open, and the film says so rather than choosing
+the version that tells better.
+
+WHO BUILT IT, AND WHERE?
+  The month names engraved on the calendar are Corinthian, which points west -
+  to Corinth or its greatest colony, Syracuse, the city of Archimedes. The
+  astronomy in the gearing is the lunar theory of Hipparchus, who worked on
+  Rhodes, where Cicero later saw such a device. The inscriptions lean west; the
+  astronomy leans east. The film gives both readings and does not decide.
+
+WHEN WAS IT MADE?
+  The letter forms say 150-100 BCE. In 2014, Carman and Evans showed the
+  eclipse tables fit best if the Saros dial's start date is 205 BCE. A start
+  date is not necessarily a construction date - a dial can be set to an epoch
+  older than itself - and the film leaves the question exactly there.
+
+One more limit stated plainly: the planetary display on the front is a
+reconstruction published in 2021. It is rigorous, and it is a hypothesis - of
+the planetary gearing itself, not one wheel has been found. The film says this
+in so many words.
+
+
+IF SOMETHING HERE IS WRONG
+==========================
+
+Tell me. Corrections get pinned under the video, and this page gets updated
+with a note saying what changed and when.
+
+"We don't know" is a finding, not a failure.

@@ -1,0 +1,229 @@
+THE BURIED WORLD
+Dispatch 03 - Nobody Went Looking For Any Of This
+Full source list
+
+Last updated 9 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every claim that could be checked was checked before the
+film was recorded, and the studies and reports those checks rest on are named
+at the end.
+
+A news round-up is the format where it is easiest to get carried away, because
+each item arrives pre-packaged with a headline. Where this film disagrees with
+the headline, it says so on screen. Where a source states a limit, the film
+states it too.
+
+If something here is wrong, tell me and I will correct it and say so.
+
+
+THE IMAGES
+==========
+
+All 31 shots were made for this film. No press photographs are used - not of
+the altar, not of the Suffolk excavation, not of the bronze hoard. Photographs
+of public-domain objects are still protected in Germany (Section 72 UrhG), and
+press images from museums and archaeological units are not licensed for this
+use. Rather than borrow what cannot be cleanly licensed, this channel draws
+what the published record describes.
+
+Two kinds of images appear, and the film keeps them apart on purpose:
+
+  RECONSTRUCTION - AI-generated, marked "AI RECONSTRUCTION" on screen for as
+                   long as it is visible, alongside the EU marking for
+                   AI-generated content. Photographic-looking shots show place
+                   and object; painted shots show people and actions, which
+                   are always interpretation.
+
+  DIAGRAM        - the trigger panel, the find-map panel (which appears twice,
+                   once as a question and once as an answer), the Budapest
+                   gauge, the river section, the Sizewell figures, the six
+                   thousand year timeline, the two routes to a trench, the
+                   cache-or-deposit panel, the Moravia map, the ninety per
+                   cent grid and the closing panel. These were drawn for this
+                   film, not generated.
+
+One rule this episode applies more strictly than its predecessors: NO PEOPLE
+appear in any photographic-looking shot, including modern archaeologists. An
+AI-generated person standing in a real excavation would be a claim about a
+real working team. Excavation areas are therefore shown empty - trenches,
+sections, ranging rods, tarpaulins. People appear only in painted shots, and
+only in the past.
+
+The Moravia map uses real coordinates and shows nothing else: no rivers, no
+borders, no distance figures. Two distance figures were cut during the fact
+check for exactly that reason - see below.
+
+[01]  0:00   RECONSTRUCTION  A river bed at record low water
+[02]  0:11   DIAGRAM         Panel: a drought, a power station, a railway
+[03]  0:21   RECONSTRUCTION  An excavation stripped across open farmland
+[04]  0:31   DIAGRAM         Panel: everything we have found - a map of what?
+[05]  0:42   RECONSTRUCTION  The Danube far below its banks
+[06]  0:49   DIAGRAM         Gauge: 33 cm in 2018 against 10 cm in 2026
+[07]  1:00   RECONSTRUCTION  Intercisa, the fort on the frontier river
+[08]  1:18   RECONSTRUCTION  Riverbed newly out of the water
+[09]  1:33   RECONSTRUCTION  The altar, in the silt
+[10]  1:53   RECONSTRUCTION  Two inscribed slabs, still under dried mud
+[11]  2:08   DIAGRAM         Section: what a drought actually moves
+[12]  2:29   RECONSTRUCTION  The Suffolk coast
+[13]  2:38   DIAGRAM         Panel: fourteen years of fieldwork on one building site
+[14]  2:53   RECONSTRUCTION  The excavation area, empty
+[15]  3:09   DIAGRAM         Timeline: six thousand years from one planning condition
+[16]  3:27   RECONSTRUCTION  A Neolithic storage pit in section
+[17]  3:43   RECONSTRUCTION  The long enclosure
+[18]  3:56   RECONSTRUCTION  Building a barrow at Theberton
+[19]  4:14   DIAGRAM         Panel: two ways a trench gets dug
+[20]  4:29   RECONSTRUCTION  The railway through the valley
+[21]  4:41   RECONSTRUCTION  The wet meadow beside the line
+[22]  4:58   RECONSTRUCTION  The hoard: bent sickles, a broken blade, three ingots
+[23]  5:13   RECONSTRUCTION  Giving metal to the water
+[24]  5:26   DIAGRAM         Panel: hidden, or given away?
+[25]  5:47   DIAGRAM         Map: central Moravia, positions only
+[26]  5:59   RECONSTRUCTION  Three landscapes, one horizon
+[27]  6:06   DIAGRAM         Grid: ninety in a hundred
+[28]  6:28   RECONSTRUCTION  Where the two kinds of digging meet
+[29]  6:50   DIAGRAM         Panel: the same map, with the building sites drawn on
+[30]  7:12   RECONSTRUCTION  The river at normal level
+[31]  7:25   DIAGRAM         Panel: what a find map is evidence of
+
+WHERE THE FILM DISAGREES WITH THE HEADLINES
+===========================================
+
+1. "Drought reveals Roman treasures." The drought revealed nothing. It moved
+   the edge of where anyone is physically able to look, and objects were
+   sitting just past that edge - as they presumably are along the rest of the
+   river, still under water. The film makes this the point rather than the
+   colour.
+
+2. "Roman altar found at Intercisa." True as far as it goes. What the altar
+   belonged to is still open; the museum has not tied it to a building or a
+   unit. The film says so and stops there. Intercisa was garrisoned for
+   generations by a Syrian archer cohort, which is documented and interesting -
+   and which this film deliberately does NOT connect to the altar, because
+   without a date for the stone that connection would be invented.
+
+3. "Britain's biggest dig." The people running Sizewell C call it the largest
+   and most complex dig of a generation. That is their description of their own
+   project, and the film attributes it to them rather than asserting it.
+
+4. "Ritual offering." The Kojetin hoard is read as a deposit rather than a
+   cache, because you do not hide valuables in standing water. That reading
+   rests on a pattern seen across Bronze Age Europe, not on anything written
+   down. The film presents it as the best available reading, which is what the
+   excavators do.
+
+
+TWO NUMBERS CUT DURING THE FACT CHECK
+=====================================
+
+Both were distances, and both were wrong in the same way - a plausible figure
+attached to the wrong thing.
+
+  "Ninety kilometres downstream." That is the distance to the Paks power
+  station, not to Dunaujvaros. The published figures for Dunaujvaros differ
+  depending on what is being measured (roughly 60 km straight line, 70 km
+  quoted as "south of Budapest", 82 km by road), so the number was dropped
+  entirely rather than picked.
+
+  "Forty miles down the same coast" for Sutton Hoo. It is roughly twenty.
+  Dropped for the same reason.
+
+This channel drops numbers the sources do not carry uniformly. That rule has
+now cost something in every production, which is how you know it is working.
+
+
+THE NUMBERS THAT STAYED
+=======================
+
+  Danube at Budapest, 3 August 2026: around 10 cm, against a previous record
+    low of 33 cm set in 2018 (25 October). Gauges move daily and differ by
+    station, so here is the whole run rather than one figure: the 2018 record
+    fell on 28 July 2026 at 31 cm, the lowest single reading of the drought was
+    9 cm on 2 August at the Vigado ter gauge, and by 9 August the river had
+    come back up to 28-32 cm. "About ten centimetres" in the film describes the
+    floor of that run. It is a dated snapshot, not a standing figure - if you
+    are watching this later, the river will be somewhere else.
+  Sizewell C: c. 140 hectares stripped across 75 separate areas, four years of
+    excavation after seven years of evaluation, three more years of analysis to
+    come, around 200 archaeologists.
+  Neolithic long enclosure: c. 50 x 20 m, roughly 5,800 years old.
+  Theberton: two cemeteries, 12 barrows, 50+ flat graves.
+  Kojetin: 8 deliberately bent sickles, 1 whole, part of a sword blade, three
+    ingots; Urnfield culture, more than 3,000 years old.
+  Around 90 per cent of archaeological fieldwork in Britain is
+    development-led. Fulford, 2011 - an estimate, for Britain, not the world.
+
+
+SOUND
+=====
+
+Music composed for this film (ElevenLabs Music), five pieces following the
+five sections. New music is composed for every episode.
+
+Sound effects, drawn from the channel's licensed pool:
+  Sonniss GDC Game Audio Bundle 2026 - royalty-free, commercial use permitted
+  Sonniss: Foley Elements (Rocks, Dirt & Stone) - purchased licence
+
+Narration: ElevenLabs, synthetic voice.
+
+
+SOURCES
+=======
+
+Danube low water and the Intercisa finds (August 2026). - Associated Press
+  reporting on record low Danube levels in Hungary, 3 August 2026 (Budapest
+  around 10 cm; previous all-time low 33 cm, 25 October 2018); ESA/Copernicus
+  imagery of the 2026 lows. Hungarian reporting fills in the run: Portfolio.hu
+  and Index.hu, 28 July 2026, on the 2018 record being broken at 31 cm
+  (Orszagos Vizugyi Foigazgatosag); Economx, 4 August 2026, on the low of 9 cm
+  reached on 2 August. Find reports: Intercisa Museum, with underwater archaeologist
+  Attila J. Toth, near Szalki Island at Dunaujvaros - a limestone altar
+  dedicated to Jupiter recovered 3 August and two inscribed limestone fragments
+  on 5 August, during a survey aimed at the site of the medieval Pentele
+  monastery. Reported via Arkeonews, 8 August 2026.
+
+Sizewell C excavations, Suffolk (2026). - Oxford Cotswold Archaeology, project
+  manager Richard Mortimer; reported in Current Archaeology / the-past.com,
+  August 2026, with the Neolithic long enclosure reported by Oxford Cotswold
+  Archaeology and HeritageDaily, July 2026, and the Anglo-Saxon horse burial by
+  ITV Anglia, 12 January 2026. Excavation carried out as a planning
+  requirement for the Sizewell C nuclear power station.
+
+Bronze hoard at Kojetin, central Moravia (2026). - Archaeological Centre
+  Olomouc, recovered at the end of May during monitoring of construction on the
+  Brno-Prerov railway line; Urnfield culture. Reported by Archaeology Magazine,
+  6 August 2026, and Archaeology News Online Magazine, August 2026.
+
+Fulford, M. (2011), on the share of development-led archaeological
+  investigation in the United Kingdom - the widely cited estimate of around 90
+  per cent.
+
+Planning Policy Guidance 16: Archaeology and Planning (November 1990). - The
+  document that put the cost of archaeological recording onto the developer in
+  England and Wales, introduced after the public campaign over the Rose
+  Theatre, found on a London building site in 1989.
+
+
+WHAT THIS FILM DOES NOT CLAIM
+=============================
+
+It does not claim that the three finds are connected to one another. They are
+not. The only thing they share is how they came to be found.
+
+It does not claim that development-led archaeology is a failure. The opposite:
+before the rule that made the builder pay, the same ground was destroyed
+without record. The film says so in its own closing section, because a film
+that left it out would be an outrage piece.
+
+It does not claim to know what the Intercisa altar belonged to, what the two
+inscribed fragments say, or why the Kojetin metalwork was broken.
+
+The closing observation - that a find map is strong evidence of where we have
+looked and weak evidence of where people were - is a statement about sampling,
+not a claim that the archaeological record is worthless.
+
+"We don't know" is a finding, not a failure.
