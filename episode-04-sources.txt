@@ -247,6 +247,7 @@ Brandon, Christopher J.; Hohlfelder, Robert L.; Jackson, Marie D.;
   cores 0.09 m in diameter and up to 5.8 m long, drilled 2003-2007 at Cosa,
   Santa Liberata, Caesarea, Baiae and Portus Iulius, Alexandria and
   Chersonissos.
+    ISBN 9781789256369
 
 Vitruvius, De architectura 2.6.1-2 (c. 25 BC). - The powder found near Baiae
   and around Vesuvius which, mixed with lime and rubble, gives strength to a
@@ -265,6 +266,7 @@ Smeaton, John (1791): A Narrative of the Building ... of the Eddystone
   Lighthouse. - The 1756 experiments establishing that limes containing clay
   set under water. Aspdin, Joseph: British Patent 5022 (1824), "Portland
   cement".
+    (published 1791 — predates the ISBN system; digitised copies are on archive.org)
 
 On reinforcement as the limiting factor in modern concrete life: the standard
 literature on chloride-induced and carbonation-induced corrosion of reinforcing

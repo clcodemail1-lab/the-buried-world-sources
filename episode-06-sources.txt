@@ -192,6 +192,7 @@ SOURCES
 CORPUS AND SCRIPT
   Godart, L. & Olivier, J.-P., "Recueil des inscriptions en Lineaire A"
     (GORILA), 5 vols., Ecole francaise d'Athenes, 1976-1985. The standard
+    (GORILA, 5 vols, École française d'Athènes — no ISBN in the open catalogues)
     corpus; every figure about corpus size rests on it.
   Salgarella, E. & Castellan, S., "SigLA: The Signs of Linear A - A
     Palaeographical Database". Open access: sigla.phis.me
@@ -199,6 +200,7 @@ CORPUS AND SCRIPT
     Linear A and Linear B", Cambridge University Press, 2020.
   INSCRIBE (Invention of Scripts and Their Beginnings), ERC project,
     University of Bologna: site.unibo.it/inscribe
+    ISBN 9781108783477
 
 LANGUAGE AND STRUCTURE
   Davis, B., "Syntax in Linear A: The Word-Order of the 'Libation Formula'",
@@ -217,6 +219,7 @@ THE DECIPHERMENT OF LINEAR B
   Blegen, C. W., excavation reports on the Palace of Nestor at Pylos; PY Ta 641
     was found on 4 and 10 June 1952 and sent to Ventris on 16 May 1953.
   Robinson, A., "The Man Who Deciphered Linear B", Thames & Hudson, 2002.
+    ISBN 9781107503410
 
 COMPUTATIONAL APPROACHES
   Luo, J., Cao, Y. & Barzilay, R., "Neural Decipherment via Minimum-Cost Flow:
