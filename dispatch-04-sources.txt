@@ -86,6 +86,7 @@ ITEM 1 - THE FOOTPRINTS
   Tanzania. PLOS ONE 8(12): e80347. Open access.
   For the statement that no incontrovertible partial skeleton of the species
   was known before that paper.
+    doi:10.1371/journal.pone.0080347
 
   Hawks, J. (2026). The big feet of Paranthropus boisei. johnhawks.net.
   The only substantial comment from someone not involved in the study that
@@ -110,10 +111,12 @@ ITEM 2 - THE GHOST LINEAGES
   Africa. Nature 617: 755-763.
   The competing model, which accounts for the African data without a ghost
   population.
+    doi:10.1038/s41586-023-06055-y
 
   Durvasula, A. and Sankararaman, S. (2020). Recovering signals of ghost
   archaic introgression in African populations. Science Advances 6: eaax5097.
   The earlier work this study builds on.
+    doi:10.1126/sciadv.aax5097
 
 
 ITEM 3 - THE THREE KINGS
@@ -132,6 +135,7 @@ ITEM 3 - THE THREE KINGS
   For the manuscript position: five manuscripts of the King List survive,
   three of them substantially, and one of those omits a king the others carry.
   In other words, the list was already known to have been edited.
+    doi:10.1515/janeh-2017-0009
 
 
 WHERE THIS FILM DISAGREES WITH THE HEADLINES

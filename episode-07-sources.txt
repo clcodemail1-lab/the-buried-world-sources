@@ -200,6 +200,7 @@ THE LITERATURE THESE CHECKS REST ON
   Nur, A., and Cline, E. H. (2000). "Poseidon's Horses: Plate Tectonics and
     Earthquake Storms in the Late Bronze Age Aegean and Eastern
     Mediterranean." Journal of Archaeological Science 27.
+    doi:10.1006/jasc.1999.0431
 
   Kaniewski, D., et al. "Drought and societal collapse 3200 years ago in the
     Eastern Mediterranean: A review." WIREs Climate Change.

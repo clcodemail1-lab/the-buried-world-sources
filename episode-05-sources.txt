@@ -190,6 +190,7 @@ Li Haichao; Ran Honglin; Xu Feihong et al. (2023): "New discoveries at the
   2020-22 excavation of Pits 3 to 8: rectangular pits between about 3.5 and
   20 square metres, dug inside sealed climate-controlled enclosures; the count
   of over 900 objects from the 1986 pits; the layering of ivory above bronze.
+    doi:10.15184/aqy.2022.150
 
 Newly discovered sacrificial pits at the Sanxingdui site: insights into Bronze
   Age ritual remains in Southwest China (2025), Archaeological Research in
@@ -212,6 +213,7 @@ Lin, Xiangxiong; Wang, Shuhong et al. (2017), Geoarchaeology 32. - A major
   a trigger for the end of the Sanxingdui centre. The film gives this as one of
   four readings and notes that the published dating for the pits is a
   two-century window, not a date.
+    doi:10.1002/gea.21624
 
 Sun Hua (Peking University), quoted in Archaeology, November/December 2024,
   "The Many Faces of the Kingdom of Shu". - The reading of the bronze figures

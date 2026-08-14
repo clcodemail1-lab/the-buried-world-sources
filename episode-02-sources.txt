@@ -129,10 +129,12 @@ Freeth, T., Bitsakis, Y., Moussas, X., Seiradakis, J. H., Tselikas, A., et al.
   (2006): "Decoding the ancient Greek astronomical calculator known as the
   Antikythera Mechanism", Nature 444, 587-591. - The CT campaign: gear count,
   eclipse prediction, more than 3,000 characters of engraved text.
+    doi:10.1038/nature05357
 
 Freeth, T., Jones, A., Steele, J. M. & Bitsakis, Y. (2008): "Calendars with
   Olympiad display and eclipse prediction on the Antikythera Mechanism",
   Nature 454, 614-617. - The games dial and the Corinthian month names.
+    doi:10.1038/nature07130
 
 Freeth, T., Higgon, D., Dacanalis, A., MacDonald, L., Georgakopoulou, M. &
   Wojcik, A. (2021): "A Model of the Cosmos in the ancient Greek Antikythera

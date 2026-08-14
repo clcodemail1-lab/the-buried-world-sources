@@ -128,6 +128,7 @@ SOURCES AND FURTHER READING
 Gresky, J., Haelm, J. & Clare, L. (2017): "Modified human crania from Goebekli
   Tepe provide evidence for a new form of Neolithic skull cult", Science Advances
   3(6), 28 June 2017. - The three carved skull fragments, one of them drilled.
+    doi:10.1126/sciadv.1700564
 
 Clare, L. and colleagues, on the formation of the mound deposits - German
   Archaeological Institute (DAI), Goebekli Tepe research project and its
@@ -137,6 +138,7 @@ Clare, L. and colleagues, on the formation of the mound deposits - German
 Heun, M. et al. (1997): "Site of Einkorn Wheat Domestication Identified by DNA
   Fingerprinting", Science 278, 1312-1314. - Cultivated einkorn traced to one wild
   population on Karacadag.
+    doi:10.1126/science.278.5341.1312
 
 Benedict, P. (1980): survey report of the joint Istanbul-Chicago prehistoric
   survey of 1963, in which the pillar tops are recorded as two small Islamic

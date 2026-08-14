@@ -232,12 +232,14 @@ Jackson, Marie D. et al. (2021, with Masic and colleagues): "Reactive binder
   concrete, 1C BCE, Rome", Journal of the American Ceramic Society. - The
   ancient evidence for long-term mineral reworking in a terrestrial monument,
   and the source of the calcite crack-filling observation cited in the film.
+    doi:10.1111/jace.18133
 
 Jackson, Marie D. et al. (2009): "Assessment of material characteristics of
   ancient concretes, Grande Aula, Markets of Trajan, Rome", Journal of
   Archaeological Science 36(11). - Aggregate chosen by function; stratlingite
   in the wall mortars; unit weights of about 1750 kg/m3 for wall mortar against
   1430-1640 for the pumice-bearing vault mortars.
+    doi:10.1016/j.jas.2009.07.011
 
 Brandon, Christopher J.; Hohlfelder, Robert L.; Jackson, Marie D.;
   Oleson, John P. (2014): Building for Eternity: The History and Technology of

@@ -42,6 +42,7 @@ Two kinds of images appear, and the film keeps them apart on purpose:
                    diagram, the Lake Tesse timeline, the elevation profile,
                    the virus family tree and the closing panel. These were
                    drawn for this film, not generated.
+    (no DOI registered at the time of writing — published 2026)
 
 There is no world map. Without real geodata, coastlines would have to be drawn
 freehand, and invented geography is not allowed on this channel - so the three

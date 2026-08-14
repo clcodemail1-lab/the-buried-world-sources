@@ -113,10 +113,12 @@ ITEM 2 - THE SKY-IRON RINGS
   dagger blade. Meteoritics and Planetary Science 51(7): 1301-1309.
   For the statement that meteoritic iron in the eastern Mediterranean was
   already established, and for the best-known case.
+    doi:10.1111/maps.12664
 
   Rehren, T. et al. (2013). 5,000 years old Egyptian iron beads made from
   hammered meteoritic iron. Journal of Archaeological Science 40: 4785-4792.
   For the Gerzeh beads.
+    doi:10.1016/j.jas.2013.06.002
 
 
 ITEM 3 - THE SHELL BEAD
