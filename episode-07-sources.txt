@@ -183,3 +183,50 @@ own workings.
     Hittite grain demand (conversions differ by a factor of two), the origin
     of the tin, the length of the Greek illiterate period (300 to 400 years
     depending on the source), and any percentage for population decline.
+
+
+THE LITERATURE THESE CHECKS REST ON
+===================================
+
+  Manning, S. W., et al. (2023). "Severe multi-year drought coincident with
+    Hittite collapse around 1198-1196 BC." Nature. doi:10.1038/s41586-022-05693-y
+    - the juniper tree-ring sequence, 1497-797 BC, and the three consecutive
+      dry years. The wording "coincident with" is the study's own.
+
+  Feldman, M., et al. (2019). "Ancient DNA sheds light on the genetic origins
+    of early Iron Age Philistines." Science Advances. doi:10.1126/sciadv.aax0061
+    - the four infant burials at Ashkelon and the 25-70 per cent range.
+
+  Nur, A., and Cline, E. H. (2000). "Poseidon's Horses: Plate Tectonics and
+    Earthquake Storms in the Late Bronze Age Aegean and Eastern
+    Mediterranean." Journal of Archaeological Science 27.
+
+  Kaniewski, D., et al. "Drought and societal collapse 3200 years ago in the
+    Eastern Mediterranean: A review." WIREs Climate Change.
+
+  Langgut, D., Finkelstein, I., and Litt, T. - pollen cores from the Sea of
+    Galilee: oak, pine and carob give way to semi-desert vegetation.
+
+  Seeher, J. - the end of the Hittite capital: no conquest layer, residential
+    quarters largely untouched, official buildings emptied before they burned.
+    This is the finding the title of the film rests on.
+
+  Cline, E. H. (2014, rev. 2021). 1177 B.C.: The Year Civilization Collapsed.
+  Cline, E. H. (2024). After 1177 B.C.: The Survival of Civilizations.
+
+ANCIENT SOURCES
+
+  Medinet Habu, year 8 inscription of Ramesses III - the five group names,
+    the list of fallen lands, and the reliefs including the ox carts.
+  Karnak, Merneptah - grain shipped "to keep alive this land of Hatti".
+  A Hittite royal letter demanding grain from the coast - "it is a matter of
+    life and death". The quantity is deliberately not quoted.
+  The final Ugarit correspondence with Alashiya - the warning, the question
+    about Ugarit's forces, and Ammurapi's answer. Tablet numbers are omitted
+    because the literature assigns them inconsistently.
+
+ON THE NAME "SEA PEOPLES"
+
+  Emmanuel de Rouge (1855) coined "peuples de la mer" in a note on reliefs at
+  Medinet Habu; Gaston Maspero (1895/96) made the migration reading popular.
+  Neither the phrase nor the concept is Egyptian.
