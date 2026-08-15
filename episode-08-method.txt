@@ -1,0 +1,117 @@
+HOW THIS FILM WAS MADE
+The Buried World — Episode 8
+"They Found A Forest Under The North Sea: What Doggerland Actually Was"
+
+------------------------------------------------------------------------
+
+WHY THIS EPISODE EXISTS
+
+In March 2026 a team led from the Universities of Warwick and Bradford
+published the largest sedimentary ancient DNA survey ever carried out on
+Doggerland — the landscape now under the southern North Sea. It reported
+temperate woodland more than 16,000 years ago, thousands of years before
+those species are recorded on the British mainland.
+
+That result only means something against an older claim: that Doggerland
+was a land bridge, and that a tsunami ended it. This film checks both.
+
+------------------------------------------------------------------------
+
+WHAT WE CORRECTED, AND WHY
+
+Every number, name and interpretation in the script was checked against
+the primary publication before the narration was recorded. Ten claims did
+not survive that check. They are listed here because a channel that says
+"the reporting was too tidy" has to show its own work.
+
+1. "A tsunami destroyed Doggerland."
+   REMOVED AS A CONCLUSION. Walker et al. (2020) recovered the Storegga
+   tsunami deposit offshore in the southern North Sea and concluded the
+   event was "neither universally catastrophic, nor was it a final
+   flooding event". The film builds this expectation deliberately and then
+   resolves it against the publication, rather than repeating it.
+
+2. "Parts of Doggerland were still above water 7,000 years ago."
+   RESTATED. This figure appears widely in coverage of the 2026 study. The
+   paper's own wording is "final submergence possibly as late as the 6th
+   millennium BP" — a possibility spanning a thousand years, not a date.
+   The film says so in those terms.
+
+3. The area of Doggerland.
+   CUT ENTIRELY. Published figures range from 46,620 km² (the seismically
+   mapped area) through 100,000 km² to over 200,000 km² (reconstructions
+   of maximum extent). A number that moves by a factor of four is not a
+   number. The film gives no area figure.
+
+4. The rate of sea-level rise.
+   CUT. Estimates range from 1–2 m per century to "as much as six feet".
+   Described qualitatively instead.
+
+5. The Colinda harpoon as "Mesolithic".
+   CORRECTED IN THE FILM. The Mesolithic attribution came from typology
+   (Maglemose-type barbs). A radiocarbon measurement in 1988 returned
+   c. 11,740 BP, calibrating to roughly 11,950–11,300 cal BC — Upper
+   Palaeolithic. This correction is told as part of the story rather than
+   quietly applied.
+
+6. The find context of that harpoon.
+   STATED, NOT GLOSSED. The Historic Environment Record notes that no peat
+   was retained from the block the point came out of, and that the find
+   location is only roughly known.
+
+7. Distance and water depth at the find site.
+   CUT. The record gives roughly 50 miles north-east of Cromer and calls
+   the position "poorly located"; other sources say 25 miles. The often-
+   quoted depth of 32 m belongs to a different find (a flint hammerstone
+   40 km off Cromer), not to this one.
+
+8. The length of the Southern River.
+   CUT. No published figure in kilometres was found, so none is given.
+
+9. The Storegga slide volume, and "a landslide the size of Scotland".
+   RANGE ONLY; COMPARISON CUT. The displaced volume is given in the
+   literature as roughly 2,400–3,200 km³. The film quotes the range. The
+   size comparison circulating in popular coverage was dropped.
+
+10. The species of the engraved bone.
+    LEFT OPEN. Sources describe it variously as aurochs or bison. The film
+    says "a large wild cattle species" and does not choose.
+
+Two further points of care, not corrections:
+
+- Pterocarya. The film does not present this as a settled sensation. It
+  gives the authors' actual argument — a deamination signal close to 30%,
+  indistinguishable from the oak and hazel in the same samples, in
+  sediments their taphonomic model classes as secure — and then states
+  plainly what that establishes and what it does not.
+
+- Barbed points made of human bone. The 2021 ZooMS study examined ten
+  points and identified two as human. The film gives the sample size in
+  the same breath as the result.
+
+------------------------------------------------------------------------
+
+HOW IT WAS PRODUCED
+
+Narration: synthetic voice (ElevenLabs). Script written by hand from the
+publications listed in the sources file.
+
+Images: generated with an AI image model from written prompts, then
+checked individually. They are reconstructions and are labelled as such
+on screen throughout, in addition to the EU AI-generated content mark
+shown in the opening seconds. No photograph of any real object, site or
+person is used.
+
+Maps and diagrams: drawn programmatically from coordinates, not
+generated.
+
+Music and sound: composed and mixed for this episode.
+
+No third-party rights material is used in this film. Every image is
+original to this production; the prompts that produced them are kept in
+the production repository.
+
+------------------------------------------------------------------------
+
+Sources: see episode-08-sources.txt
+Channel: The Buried World — @theburied_world
