@@ -1,0 +1,138 @@
+THE BURIED WORLD
+Episode 9 - Nothing About Him Happened The Way They Said
+
+How this film was made
+
+Last updated 18 August 2026
+
+
+THE POINT OF THIS FILE
+
+The film argues that a great deal of what was said about the Iceman has been
+withdrawn. A film that makes that argument has no business hiding its own
+corrections. Below is every claim that was changed, qualified or cut between
+the first draft and the recording, and why.
+
+One of them would have made the film wrong.
+
+
+THE CORRECTION THAT MATTERED
+
+THE AXE HANDLE FIFTY METRES AWAY IS NOT HIS AXE.
+
+The first draft used it in the act about his equipment, as evidence that his
+things had been scattered: "The haft of the axe was found fifty metres to the
+south-south-east." That is a real object at a real distance, and the sentence
+is still false.
+
+The handle found 50 m south of the find spot dates to roughly five hundred
+years AFTER the Iceman (Pilo et al. 2022). It is not his. It is evidence of
+the opposite of what the draft claimed: not that his kit was thrown about,
+but that the ground around the gully went on collecting material for
+centuries after he died. In the finished film it appears in the act about the
+gully, doing the work it actually does.
+
+His own axe was found with the body and is complete.
+
+The lesson we took from it: a distance quoted in a summary does not carry the
+identification with it. "Found 50 m away" says nothing about what the thing
+belongs to. Check the date of the object, not only its position.
+
+
+WHAT WAS CUT FOR STREAKING SOURCES
+
+- HIS AGE AT DEATH. The published estimates range from about 40 to about 53.
+  The film does not give a number.
+
+- HIS HEIGHT AND WEIGHT. Same problem. Not used.
+
+- THE NUMBER OF ARROWS. Counts differ between sources. The film says only
+  that most of them were unfinished.
+
+- THE SIZE OF THE ARROWHEAD. Press coverage from 2001 gives 13 mm long; the
+  2025 clinical paper gives 17 mm wide. Those are not the same measurement
+  and the sources do not agree, so the film gives neither. It gives the wound
+  track length, and it says which paper that comes from.
+
+- THE DATE OF THE TATTOO STUDY. One outlet reports 13 March 2024, another
+  9 April 2024. The film says only the year.
+
+
+WHAT WAS CUT AS UNSOUND
+
+- "THE FIRST KNOWN CASE OF LYME DISEASE." This appears in museum timelines
+  and in a great deal of coverage. It rests on a Borrelia signature recovered
+  from the low-coverage 2012 genome - the same dataset whose steppe ancestry
+  turned out to be modern contamination. A pathogen signature in a
+  contaminated low-coverage read is not a diagnosis. Cut.
+
+
+WHAT WAS QUALIFIED RATHER THAN CUT
+
+- THE STEPPE ANCESTRY. It would have been neater to say the 2012 paper
+  reported it. Keller et al. 2012 report brown eyes, blood group O, lactose
+  intolerance and a raised cardiac risk; the steppe signal comes from later
+  work on that same thin dataset. The film says "later work on that same thin
+  data", with no year attached to a claim we could not pin to a paper.
+
+- HIS SKIN. The publication says high skin pigmentation - darker than in
+  present-day Europeans. The film says exactly that. It does not translate it
+  into a colour word and it does not attach an ethnicity to it.
+
+- HOW LONG HE LIVED AFTER THE ARROW. Two published readings disagree: the
+  long-standing one has the subclavian artery torn and death in minutes; the
+  2025 clinical re-examination argues external bleeding was probably limited
+  and survival was more likely measured in hours. The film presents both and
+  settles neither, because the literature has not.
+
+- THE HEAD TRAUMA AND THE FROSTBITTEN TOE. Both were treated as established
+  for years. The 2025 paper doubts both. The film reports them as doubted.
+
+- THE ICE THICKNESS. Pilo gives "below 20 m, probably closer to 5 m" from an
+  1878 survey. The film uses that wording rather than the rounder and more
+  striking "five metres".
+
+- THE LENDBREEN FIGURES. Roughly 800 artefacts, some 150 bones and antlers,
+  more than 100 cairns: these are the numbers in the 2020 Antiquity paper,
+  which covers finds up to 2015. They are not the total today. The film says
+  so in the same sentence.
+
+- "MORE ICE MUMMIES ARE WAITING." This is the authors' conclusion from their
+  own reappraisal, not a measurement. The film attributes it to them.
+
+- THE GLACIER FIGURES. About 5.9 per cent of total ice volume lost in the
+  Alps in the summer of 2022; roughly 10 per cent of Swiss glacier volume
+  across 2022 and 2023. Two different areas, two different periods. They are
+  never combined into one number, and each is named with its area both in the
+  narration and on the chart.
+
+
+WHAT THE PICTURES DO AND DO NOT CLAIM
+
+Every image in this film was generated or drawn for it. None of them is a
+photograph of the Iceman, of the Tisenjoch, of the museum in Bolzano or of
+any real object.
+
+Two of them needed a rule of their own, because the film is about a
+reconstruction being wrong:
+
+- The museum figure (shots 7, 8, 17, 80) is deliberately the familiar one -
+  pale, light-eyed, full-haired, bearded. That is the reconstruction the film
+  argues with, so it has to look like it.
+
+- The man himself (shots 14, 16, 23) is painted to the genome instead: dark
+  skin, dark eyes, male-pattern baldness. These two must never be confused,
+  and during production they nearly were - the model has learned the museum
+  figure far better than it has learned the paper.
+
+No image shows human remains. The body appears only as a shape behind frosted
+glass, as a radiograph, and as an empty hollow. The arrow wound is drawn as a
+schematic line with a measured length; the outline around it is not an
+anatomical drawing, and the picture says so.
+
+The two maps that draw a line between regions - ancestry and copper - both
+carry a caption saying the line shows origin and not a route anybody
+travelled.
+
+
+Corrections are welcome and will be made out loud.
