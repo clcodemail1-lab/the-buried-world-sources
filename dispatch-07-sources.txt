@@ -1,0 +1,247 @@
+THE BURIED WORLD
+Dispatch 07 - What Lay Next To It
+Full source list
+
+Last updated 17 August 2026
+
+
+WHY THIS LIST EXISTS
+====================
+
+Every image in the film carries a number in the bottom right corner. This list
+resolves each one. Every figure was checked against the sources named at the
+end before a word was recorded.
+
+There is a particular reason this time. This film is about a find being read
+off its neighbours, so it states its own neighbourhood: which shots are
+reconstructions, which are diagrams drawn from published figures, which
+numbers were measured by somebody else, and which of the three papers could
+actually be read in full.
+
+All three papers are in the same issue - Antiquity, volume 100, number 412,
+August 2026 - and all three are open access. That is unusual and worth saying
+out loud: nothing in this film rests on a press release.
+
+No photograph in this film is of a real object or a real place. Every image is
+either a reconstruction made for the film and marked AI RECONSTRUCTION on
+screen, or a diagram drawn for it. Nothing is a press picture, and no
+third-party image was used as a reference.
+
+Two deliberate omissions. No human remains appear anywhere in this film: the
+Tamir necropolis is shown as stone rings in grass and as counted dots, never
+as bodies or open graves. And nothing here portrays a specific catalogued
+find - the helmets, the grave goods and the bird bones are reconstructions of
+a type.
+
+
+SHOT LIST
+=========
+
+[01]  0:00   RECONSTRUCTION  A concreted mass of iron helmets on the sea floor - reconstruction
+[02]  0:16   RECONSTRUCTION  Anchor stocks and an amphora on the same sea floor - reconstruction
+[03]  0:27   RECONSTRUCTION  The block in a conservation store, with a blank card - reconstruction
+[04]  0:40   RECONSTRUCTION  Textile sealed inside marine concretion, macro - reconstruction
+[05]  0:52   DIAGRAM         Three finds, one August journal
+[06]  1:05   RECONSTRUCTION  An empty finds tray with a blank label - reconstruction
+[07]  1:15   RECONSTRUCTION  A low limestone coast and a submerged reef - reconstruction
+[08]  1:26   DIAGRAM         What a radiocarbon laboratory can read
+[09]  1:42   RECONSTRUCTION  A bronze helmet of the ancient Italic type - reconstruction
+[10]  1:57   RECONSTRUCTION  Concretion split open, the lining exposed - reconstruction
+[11]  2:12   DIAGRAM         Five samples, two laboratories: the calibrated ranges
+[12]  2:30   RECONSTRUCTION  Five sample vials on a laboratory bench - reconstruction
+[13]  2:43   RECONSTRUCTION  An iron helmet after conservation - reconstruction
+[14]  2:56   RECONSTRUCTION  A small coastal cargo ship at night - reconstruction
+[15]  3:09   RECONSTRUCTION  One shelf in a museum store - reconstruction
+[16]  3:23   RECONSTRUCTION  A grass steppe valley in central Mongolia - reconstruction
+[17]  3:29   RECONSTRUCTION  Stone settings on a river terrace - reconstruction
+[18]  3:44   RECONSTRUCTION  One stone ring seen from directly above - reconstruction
+[19]  3:55   DIAGRAM         What a cemetery plan seems to say (schematic)
+[20]  4:11   RECONSTRUCTION  An ancient-DNA clean laboratory - reconstruction
+[21]  4:23   DIAGRAM         What the DNA counted: nineteen related, twenty-eight not
+[22]  4:36   DIAGRAM         Two ways to order the same ground (both schematic)
+[23]  4:49   RECONSTRUCTION  Steppe grave goods of the type - reconstruction
+[24]  5:03   RECONSTRUCTION  The same valley at dusk - reconstruction
+[25]  5:18   RECONSTRUCTION  A wild rock dove on a limestone ledge - reconstruction
+[26]  5:22   RECONSTRUCTION  The dry south coast of Cyprus - reconstruction
+[27]  5:38   RECONSTRUCTION  Bird bones sorted in a finds tray - reconstruction
+[28]  5:52   RECONSTRUCTION  A Bronze Age courtyard with pigeons - reconstruction
+[29]  6:06   RECONSTRUCTION  A stable isotope preparation bench - reconstruction
+[30]  6:22   DIAGRAM         The point is not the average: the spread
+[31]  6:36   RECONSTRUCTION  An ash-filled pit seen from above - reconstruction
+[32]  6:46   DIAGRAM         How far back the evidence now reaches
+[33]  6:57   RECONSTRUCTION  Two rock doves in flight - reconstruction
+[34]  7:11   RECONSTRUCTION  Two empty finds trays - reconstruction
+[35]  7:19   RECONSTRUCTION  The cut face of a deep section - reconstruction
+[36]  7:35   DIAGRAM         The fix is always the same shape
+[37]  7:48   RECONSTRUCTION  One sample vial on an empty bench - reconstruction
+[38]  8:04   RECONSTRUCTION  Corroded iron against ancient fabric, macro - reconstruction
+[39]  8:17   RECONSTRUCTION  A rock dove on packed earth, with grain - reconstruction
+[40]  8:32   RECONSTRUCTION  A metal fragment and a blank label, side by side - reconstruction
+
+SOURCES
+=======
+
+All three papers are in Antiquity, volume 100, number 412, August 2026.
+
+
+ITEM 1 - THE HELMETS OFF BENICARLO
+
+  Frallicciardi, M., Alvarez-Romero, C., Domenech-Carbo, M. T., Graells i
+  Fabregat, R. and Santoro, A. M. (2026). Radiocarbon dating and
+  characterisation of textiles preserved in late medieval helmets from
+  Benicarlo (Castellon, Spain). Antiquity 100(412), 1068-1087.
+  doi.org/10.15184/aqy.2026.10341
+
+  ACCESS: open access, CC BY. At least forty-three iron helmets recovered in
+  1990 from the underwater site of Piedras de la Barbada at about six metres
+  depth. Textile linings preserved inside marine concretion; five radiocarbon
+  samples run at Beta Analytic (Miami) and CEZA (Mannheim). Four calibrated
+  ranges fall between 1306 and 1444; the fifth, B.II.2, gives 1474-1638 and
+  does not fit.
+
+  ON THE EARLIER ATTRIBUTION: the paper states it plainly - "based on their
+  association with early material found at the site" - amphorae, Roman anchor
+  stocks and bronze helmets including Montefortino types of Punic War date.
+  That is an inference from context, not a published date that has now been
+  overturned. The film says so.
+
+  ON THE LINING: the authors raise the obvious objection themselves. Part of
+  the sampled textile could have been replaced during the period of use, in
+  which case the date belongs to the replacement. They argue against it - no
+  repair stitching, four agreeing dates, a typology that fits - but they write
+  it down. So does the film.
+
+
+ITEM 2 - THE TAMIR NECROPOLIS
+
+  Alcouffe, A., Duchesne, S., Labba, C., Noost, B., Gerard, P., Trixl, S.,
+  Zvenigorosky, V., Erdene, B., Keyser, C., Ludes, B., Riberon, A., Turbat,
+  T., Boyer, A. and Crubezy, E. (2026). Genetic relatedness, social status and
+  cemetery organisation: the Xiongnu Tamir necropolis, Mongolia.
+  Antiquity 100(412), 1032-1049. Published online 26 May 2026.
+  doi.org/10.15184/aqy.2026.10360
+
+  ACCESS: open access, CC BY 4.0. Forty-four graves, forty-seven individuals,
+  roughly 100 BC to AD 100. Nineteen people belong to two lineages spanning
+  five to six generations - ten in lineage A, nine in lineage B. Twenty-eight
+  show no kinship to anyone else in the cemetery. The organisation of the
+  ground tracks status rather than descent.
+
+  ON THE METHOD: linear discriminant analysis, machine-learning classifiers
+  and cultural phylogenetics applied to burial customs alongside ancient DNA.
+  The lead author states the limit himself: "We are not suggesting that tombs
+  or funerary customs are inherited in the same way as genes. What emerges is
+  not a biological genealogy, but a 'map' of cultural relationships."
+
+
+ITEM 3 - THE PIGEONS OF HALA SULTAN TEKKE
+
+  Carter, A. L., Reese, D. S., van Bommel, R., van der Meer, M. T. J. and
+  Cakirlar, C. (2026). Uncovering the lives of rock doves (Columba livia) in
+  Late Bronze Age Hala Sultan Tekke, Cyprus. Antiquity 100(412), 979-995.
+  Published online 21 May 2026.
+  doi.org/10.15184/aqy.2026.10351
+
+  ACCESS: open access, CC BY-NC-SA. One hundred and eighty-three columbiform
+  specimens, one hundred and fifty-nine identified as Columba livia, a minimum
+  of fifty-five individuals. Thirty-seven sampled for carbon and nitrogen
+  isotopes. Mean nitrogen-15 of 8.82 per mil against 9.92 for humans at the
+  site; standard ellipse area of 1.26, the range seen in managed livestock.
+  Ninety-one per cent of the material is Late Cypriot II A-C, the fourteenth
+  and thirteenth centuries BC.
+
+  ON THE CLAIM: the authors write that the birds "may have been
+  semi-domesticated". Their own framing of the significance is that this is
+  not "the origin of pigeon domestication" but "the earliest direct
+  biomolecular evidence for a commensal human-pigeon relationship that we
+  currently have". The previous earliest direct evidence is morphologically
+  domestic pigeon bone from Hellenistic Nea Helos in Greece, about 323-265 BC.
+
+
+WHERE THIS FILM DISAGREES WITH THE REPORTING
+============================================
+
+1. "Archaeologists were embarrassingly wrong about these 'Roman' helmets."
+   There was no published Roman date to be wrong about. The attribution was a
+   working inference from the surrounding finds, made because iron in that
+   condition cannot be dated directly, and the helmets carried features that
+   could be read as late Roman or as medieval. The film says assumed, and
+   gives the reason.
+
+2. "43 helmets." The paper says at least forty-three, and that this is likely
+   an underestimate - the count is what can be seen at the surface of the
+   concreted block. The film says "at least".
+
+3. "Fourteenth to fifteenth century", stated flat. Four of five samples agree;
+   the fifth is a century and a half later. A chart with only the four would
+   be the tidy version. Both the film and diagram [11] carry all five.
+
+4. "Wealth and power mattered more than family." The study does not set riches
+   against kin. It shows that the arrangement of the ground does not follow
+   kinship. Nineteen people in two lineages are a family - they are simply not
+   buried as one.
+
+5. "Pigeon domestication is a thousand years older than we thought." The
+   authors say the opposite in as many words: this is not the origin. It is
+   the earliest direct chemical evidence of the relationship. The film uses
+   their wording.
+
+6. "The pigeons' diet was almost identical to the humans'." Close, not
+   identical - 8.82 against 9.92 per mil, about a third of a trophic step. The
+   argument that carries weight is the tightness of the spread, and that is
+   what the film uses.
+
+
+WHAT IS NOT CLAIMED
+===================
+
+  That anyone was careless. Proximity is the first thing an excavation gives
+  you and very nearly the best - stratigraphy is proximity, context is
+  proximity. The failure in all three cases is not that someone read the
+  neighbours, but that the neighbours stayed the only witness.
+
+  That the new dates are free of the same problem. The helmets were dated from
+  their padding, which is also only something lying next to the iron. Three
+  millimetres instead of three metres. The film says this in the closing
+  section rather than leaving it to the comments.
+
+  That ancient DNA settles belonging. It settles relatedness. Adoption,
+  marriage, followership and debt fill cemeteries and leave no trace in a
+  genome.
+
+  That the isotopes distinguish feeding from tolerating. They do not, and no
+  better instrument is coming. A pigeon that was fed and a pigeon that lived
+  close enough to steal leave the same signature. That limit is stated in the
+  film and it is the point of the closing section.
+
+  That the Tamir plan drawn in diagrams [19], [21] and [22] is the excavation
+  plan. It is not. How the forty-four graves actually lie is not stated in the
+  accessible text, so all three diagrams are marked schematic on screen.
+
+
+IMAGES AND SOUND
+================
+
+  All images: made for this film. Higgsfield, model nano_banana_pro, 16:9,
+  2752 x 1536. No reference images were uploaded and no third-party picture
+  was used as a source. Prompts are logged in the production files, including
+  the two shots that had to be redone and why.
+
+  All diagrams: drawn for this film in Python with the Pillow library. There
+  is no map in this film - the three cases lie in Spain, Mongolia and Cyprus,
+  and a world map would need coastlines the channel does not draw.
+
+  Music: composed for this film, five pieces, ElevenLabs music model. Nothing
+  is reused from earlier episodes.
+
+  Sound: field recordings from a licensed commercial library, plus the
+  channel's own stock. No third-party rights beyond that licence.
+
+  Narration: ElevenLabs text-to-speech. The voice is synthetic and the script
+  is written by a human hand.
+
+
+CORRECTIONS
+===========
+
+If something here is wrong, it will be corrected out loud rather than quietly.

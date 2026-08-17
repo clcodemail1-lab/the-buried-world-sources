@@ -1,0 +1,202 @@
+THE BURIED WORLD
+Dispatch 07 - What Lay Next To It
+How this film was made
+
+Last updated 17 August 2026
+
+
+THE SHORT VERSION
+=================
+
+Three papers from one issue of one journal. Every number in the script was
+checked against the paper it came from, not against the article that reported
+it. Six statements that circulated widely were changed or dropped as a result,
+and they are listed below with what replaced them.
+
+The film is eight minutes fifty-two. The script was written first, cut four
+times against a measured recording, and only then illustrated.
+
+
+WHY THESE THREE
+===============
+
+The news week of 15-17 August 2026 was thin for this format. Christian mosaics
+in Croatia, a Ramesses II lintel, "golden shoes" from a Caspian elite grave, a
+Kushan seal in Tajikistan, an AI reconstruction of the Oseberg textiles, the
+Nimrud lens - all excavation and museum announcements, none with a
+peer-reviewed publication behind it. This channel's standing rule for the
+Friday format is that a dig report without a publication and without a
+measured date is not material, however fresh and however photogenic.
+
+So the three cases come from the August issue of Antiquity - volume 100,
+number 412 - which is in print this month and open access throughout. That is
+not a fallback. It means every figure in this film can be checked by anyone,
+which is not true of most weeks.
+
+What they have in common is not a method. One is a radiocarbon run, one is a
+genetic survey, one is an isotope study. What they share is that in each case
+the answer had been taken from whatever happened to be lying next to the
+thing.
+
+
+THE SIX CHANGES
+===============
+
+1. "ARCHAEOLOGISTS WERE EMBARRASSINGLY WRONG ABOUT THESE 'ROMAN' HELMETS"
+   (Gizmodo, and the same framing in softer form elsewhere)
+
+   There was no published Roman date to be wrong about. The helmets were
+   attributed to antiquity because of what surrounded them, which is exactly
+   what the paper says: "based on their association with early material found
+   at the site". They had lain since 1990 in a museum, catalogued and visible,
+   with no way to date them - radiocarbon needs carbon of organic origin, and
+   heavily corroded iron from seawater gives you none you can use. And the
+   helmets themselves could be read either way: they carried features
+   suggestive of both late Roman models and medieval pieces in a classical
+   tradition.
+
+   The film says filed, and assumed, and gives the reason. It does not say
+   wrong.
+
+2. "43 HELMETS"
+
+   The paper says at least forty-three specimens can be identified, and that
+   this is likely an underestimate: the count is what is visible at the
+   surface of a single concreted mass. The script says "at least
+   forty-three".
+
+3. "LATE FOURTEENTH TO EARLY FIFTEENTH CENTURY", STATED FLAT
+
+   Five samples were run at two independent laboratories. Four calibrated
+   ranges cluster between 1306 and 1444. The fifth, B.II.2, returns 1474-1638
+   and does not fit.
+
+   A film that reports only the four would be tidier and would be doing the
+   same thing it criticises. The script says "four out of five, not five out
+   of five", and the diagram draws all five on the same axis in the same
+   weight. Two of the four are double-peaked; the bar shows the outer span and
+   the chart says so.
+
+4. "WEALTH AND POWER MATTERED MORE THAN FAMILY"
+   (archaeologymag, and similar in Ancient Origins and GreekReporter)
+
+   The study does not set riches against kin. It shows that the arrangement of
+   the cemetery does not follow kinship - which is a different and more
+   interesting claim. Nineteen of the forty-seven people do belong to two
+   lineages traced across five and six generations. They are a family. They
+   are simply not buried as one.
+
+   The lead author draws the limit himself: "We are not suggesting that tombs
+   or funerary customs are inherited in the same way as genes. What emerges is
+   not a biological genealogy, but a 'map' of cultural relationships."
+
+5. "PIGEON DOMESTICATION IS NEARLY A THOUSAND YEARS OLDER THAN WE THOUGHT"
+
+   The authors say the opposite in as many words. Their own formulation is
+   that this does not represent "the origin of pigeon domestication" but "the
+   earliest direct biomolecular evidence for a commensal human-pigeon
+   relationship that we currently have". The thousand years is the distance to
+   the previous direct evidence - morphologically domestic pigeon bone from
+   Hellenistic Nea Helos, about 323-265 BC - not the age of the practice.
+
+   The script says earliest direct evidence, and the diagram carries the
+   distinction as a line of text.
+
+6. "THE PIGEONS' DIET WAS ALMOST IDENTICAL TO THE HUMANS'"
+   (phys.org)
+
+   Close, not identical. The mean nitrogen-15 value is 8.82 per mil against
+   9.92 for the humans at the site - about a third of a trophic step, which on
+   its own proves nothing.
+
+   The argument that carries weight is a different one, and it is the one the
+   film uses: the spread. The standard ellipse area is 1.26, the range you see
+   in kept livestock and nothing like the scatter of birds feeding on whatever
+   a landscape offers. These birds all ate the same thing.
+
+
+SIX SMALLER PRECISIONS
+======================
+
+  THE LINING MIGHT NOT BE THE HELMET. The authors raise the objection
+  themselves: part of the sampled textile could have been replaced during the
+  period of use, and a date on the replacement is a date on the repair. They
+  argue against it - no repair stitching, four agreeing dates, a typology that
+  fits the horizon - but they write it down, and so does the film.
+
+  IRON IS NOT UNDATABLE IN PRINCIPLE. Iron smelted with charcoal carries
+  carbon and can in principle be radiocarbon dated. It does not work on this
+  assemblage after centuries in seawater. The script says "no carbon you can
+  use"; diagram [08] carries the full statement as a footnote.
+
+  WHY BOTH PERIODS LIE IN THE SAME WATER. Piedras de la Barbada is a submerged
+  landing place. Things were lost there over many centuries and came to rest
+  in the same square of sea floor. That is the explanation, not a mystery, and
+  the film gives it rather than leaving the coincidence hanging.
+
+  THE TAMIR PLAN IS NOT DRAWN. How the forty-four graves actually lie is not
+  stated in the accessible text. All three Tamir diagrams are marked schematic
+  on screen, and none of them claims to be an excavation plan.
+
+  NO CAUSE OF DEATH, NO EVENT. The film does not say why the men at Tamir
+  died, or how the helmets came to be in the water. The paper speaks of a lost
+  cargo in a period of maritime insecurity along the Valencian coast. That is
+  context, not an account of an event.
+
+  NO ISOTOPE CLOUD WAS INVENTED. Two mean values and one area figure are
+  published. Diagram [30] plots the two means on a real axis and shows the
+  spread comparison as an explicitly schematic pair - drawing a full point
+  cloud would have required carbon values this film does not have.
+
+
+WHAT THE FILM REFUSES TO CONCLUDE
+=================================
+
+That anyone was careless. Proximity is the first thing an excavation gives you
+and very nearly the best. Layers are proximity. Context is proximity. A find
+torn out of its surroundings loses most of what it knows, which is why looting
+destroys more than it takes.
+
+The failure in all three cases is narrower and harder to fix: the neighbours
+stayed the only witness. Thirty-five years for the helmets, because iron will
+not speak for itself.
+
+And the film does not pretend the fix is clean. The helmets were dated from
+their padding, which is also only something lying next to the iron - three
+millimetres instead of three metres, and we trust it, and we are probably
+right. With the pigeons it is sharper still: a bird that was fed and a bird
+that merely lived close enough to steal leave the same signature. There, the
+closeness is the discovery and the limit at once, and no better instrument is
+coming.
+
+
+PRODUCTION
+==========
+
+  Script: written in English, fact-checked before recording, cut four times.
+  Measured speech runs 8:42.8; the finished film is 8:51.9.
+
+  Narration: ElevenLabs text-to-speech, one voice used across the whole
+  channel. Synthetic voice, human script.
+
+  Images: 40 shots. 31 generated with Higgsfield (nano_banana_pro, 16:9,
+  2752 x 1536), 9 drawn in Python. Every generated shot carries the EU AI
+  label and the words AI RECONSTRUCTION on screen; the drawn diagrams do not,
+  because they are not generated.
+
+  Two shots were remade. One showed the corroded domes as modern steel helmets
+  with brims, which in a film about dating those helmets is a false statement
+  in a picture; a second attempt over-corrected into polished spheres that
+  read as ball bearings. The third prompt fixed the material rather than the
+  shape - everything in frame is the same matte rust - and that is the one in
+  the film. The other remake replaced a label that had come back looking like
+  a shell.
+
+  No human remains appear anywhere. The Tamir necropolis is shown as stone
+  rings in grass and as counted dots. The only bones in the film are the bird
+  bones of the third case, shown clean, dry and sorted in a tray.
+
+  Music: five pieces composed for this film. Sound: licensed field recordings
+  and the channel's own stock.
+
+  Corrections are welcome and will be made out loud.
