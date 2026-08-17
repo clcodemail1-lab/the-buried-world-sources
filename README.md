@@ -41,6 +41,7 @@ why, rather than quietly absorbing it.
 | 04 | Nobody Has Ever Found These People | [sources](dispatch-04-sources.txt) | [method](dispatch-04-method.txt) |
 | 05 | Nothing Here Came Out Of The Ground | [sources](dispatch-05-sources.txt) | [method](dispatch-05-method.txt) |
 | 06 | The Name Was Doing The Work | [sources](dispatch-06-sources.txt) | [method](dispatch-06-method.txt) |
+| 07 | What Lay Next To It | [sources](dispatch-07-sources.txt) | [method](dispatch-07-method.txt) |
 
 ## Marking
 
