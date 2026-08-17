@@ -30,6 +30,7 @@ why, rather than quietly absorbing it.
 | 6 | We Can Read Every Sign And Understand Nothing: Linear A | [sources](episode-06-sources.txt) | [method](episode-06-method.txt) |
 | 7 | They Emptied The Capital Before It Burned | [sources](episode-07-sources.txt) | [method](episode-07-method.txt) |
 | 8 | They Found A Forest Under The North Sea | [sources](episode-08-sources.txt) | [method](episode-08-method.txt) |
+| 9 | Nothing About Him Happened The Way They Said | [sources](episode-09-sources.txt) | [method](episode-09-method.txt) |
 
 ## Dispatches
 
