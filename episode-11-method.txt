@@ -1,0 +1,113 @@
+THE BURIED WORLD
+Episode 11 - The Four Under The Stairs
+
+How this film was made
+Last updated 19 August 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel goes through a fact-check before a single word
+is recorded. That check regularly changes the film. This file lists what it
+changed here, because a channel that argues with other people's captions has
+no business hiding its own corrections.
+
+Six corrections were made to the script of this episode. Two of them changed
+whole passages.
+
+
+THE TWO THAT CHANGED PASSAGES
+
+1. FIORELLI TOOK OVER IN 1860, NOT 1863.
+
+The first draft had Giuseppe Fiorelli taking charge of the excavation in
+1863, the year of the first casts, because that is the year everyone
+remembers. He was appointed in 1860; 1863 is the year he became director of
+the Naples museum as well, and the year the method was first used on a human
+cavity. His proposal to divide the city into nine numbered regions dates from
+1858, before either. The passage was rewritten and his age corrected from 39
+to 37.
+
+2. FIORELLI'S "TWO WOMEN" ARE NOT THE TWO MAIDENS.
+
+This is the correction that mattered most, and it took reading the primary
+literature to catch. The first draft quoted Fiorelli's 1877 description of
+"two women, one beside the other" and then, a few minutes later, reported
+that DNA had shown one of that pair to be male. Those are two different
+objects.
+
+  - Fiorelli describes casts 2 and 3, found on 5 or 6 February 1863 in the
+    Vicolo degli Scheletri. Neither has been sequenced. The current reference
+    catalogue gives the sex of both as not definable.
+  - The pair popularly known as the Two Maidens are casts 21 and 22, made in
+    1914 from bodies found in the garden of the House of the Cryptoporticus.
+    Cast 22 is the one shown to be male.
+
+Merging them would have produced a clean, satisfying and false story. The
+finished film keeps them apart: the 1877 description shows the pattern, the
+1914 pair shows the case.
+
+
+THE OTHER FOUR
+
+3. NOT EVERY INDIVIDUAL UNDER THE STAIRS HAS A NUCLEAR GENOME.
+
+The draft said flatly that none of the four is related to any other. The paper
+is more careful: for cast 50 only a mitochondrial genome could be
+reconstructed, which excludes a shared maternal line but not a relation
+through the father. The film now says this in the same breath as the finding
+itself, and the graphic carries it in its footnote.
+
+4. "MORE THAN ELEVEN HUNDRED" BECAME "MORE THAN A THOUSAND".
+
+The number of victims recovered at Pompeii is given as "over 1,000" in the
+2024 paper; secondary sources scatter between 1,000 and 1,150. Under this
+channel's rule for scattering figures, the film uses the wording of the
+primary source and the graphics label the grid accordingly.
+
+5. THE DATE IN JUNE 1974 IS A RANGE, NOT A DAY.
+
+The four cavities in the House of the Golden Bracelet are recorded as found
+between 3 and 6 June 1974. The draft named the third. The film now says
+"June, nineteen seventy-four".
+
+6. "BOTH WERE MEN" BECAME "AT LEAST ONE".
+
+Several press reports state that both of the Two Maidens were men, aged
+about 18 and 20. The ages come from CT estimates; the sex of cast 21 is not
+established by nuclear data. The paper's own summary says the pair "included
+at least one genetic male". The film follows the paper.
+
+
+WHAT WAS LEFT OUT ON PURPOSE
+
+- The percentage figures from the ancestry models (48-75 per cent Anatolian
+  and Levantine, 26-45 per cent from the direction of Iran). They sit in the
+  supplementary data and vary by model and individual; the film uses the
+  authors' own summary wording instead.
+
+- The dog from the House of Orpheus. It is the most famous cast of all and it
+  carries nothing this film needs, and a dying animal is exactly the register
+  this channel avoids.
+
+- Any image of a person dying. The subject of this episode is an object made
+  in a workshop, and the film shows it as one.
+
+
+A NOTE ON THE PICTURES
+
+Eleven images were rejected during production and regenerated. Two of the
+rejections were substantive rather than cosmetic:
+
+  - A courtyard scene of a Roman household came back with tomatoes in the
+    baskets. Tomatoes reached Europe after 1492.
+  - Several first attempts showed the casts standing upright like statues on
+    plinths. Pompeii's casts are of people who were where they fell; they
+    lie. The instruction to the image model was rewritten to say so, and the
+    change is visible in every later image.
+
+The full record, including the reasons for the other nine, is in the
+repository.
+
+
+Corrections are welcome and will be made out loud.
