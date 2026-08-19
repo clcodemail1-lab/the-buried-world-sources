@@ -32,6 +32,7 @@ why, rather than quietly absorbing it.
 | 8 | They Found A Forest Under The North Sea | [sources](episode-08-sources.txt) | [method](episode-08-method.txt) |
 | 9 | Nothing About Him Happened The Way They Said | [sources](episode-09-sources.txt) | [method](episode-09-method.txt) |
 | 10 | The Only Way To Read Them Was To Destroy Them | [sources](episode-10-sources.txt) | [method](episode-10-method.txt) |
+| 11 | The Four Under The Stairs | [sources](episode-11-sources.txt) | [method](episode-11-method.txt) |
 
 ## Dispatches
 
