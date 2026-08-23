@@ -1,0 +1,131 @@
+THE BURIED WORLD
+Dispatch 08 - The Carrier Was Never The Message
+How this film was made
+
+
+WHY THESE FOUR
+
+The week produced more than four usable papers. These four were chosen because
+they share a shape: in every one of them the object had already been described -
+sometimes for a century - and the new information came out of something the
+object was carrying. A mineral layer under paint. A film on a blade. Teeth in a
+jar. DNA in soil where no object was left at all.
+
+Two cases were dropped for reasons worth stating. A study of incense residues at
+Pompeii fits the same shape and is good work, but it was published in spring and
+collides with a Pompeii film we have scheduled for October. A study of Sanxingdui
+sediments was dropped because we have already spent Sanxingdui on a flagship
+episode, and repeating a site inside the same year makes the channel look larger
+than it is.
+
+
+THE FACT CHECK, AND WHAT IT CHANGED
+
+Every number, name and claim was checked against the papers before the script was
+recorded. Six things were cut or rewritten:
+
+1. "Made with childbirth blood." Several outlets ran this as the finding. The
+   measurement is human serum protein in the binder. The childbirth attribution
+   is the authors' own proposal, phrased conditionally. The script states the
+   measurement and marks the proposal as a proposal. The thumbnail does not
+   carry it at all.
+
+2. "Thirty-seven people in a jar." Stated flat, this claims a precision the
+   paper does not have. The minimum number of individuals is fourteen counted
+   from left upper arm bones, nineteen from right thigh bones and skulls, and
+   thirty-seven from teeth. All three are in the film, and the drawn graphic
+   carries all three.
+
+3. "Ninth to twelfth century." Rounded centuries are tidier than the evidence.
+   The paper gives c. cal AD 890-1160 from eight directly dated human bones.
+   The film gives the span and the number of samples. The graphic draws ONE
+   span, not eight invented ones - the individual ranges are not available to
+   us, and drawing eight bars would have been a clean-looking chart made of
+   guesses.
+
+4. "Proof of surgery under anaesthesia." The authors set their own limits: the
+   aconitine may have partially hydrolysed over six centuries, and sampling was
+   restricted. What exists is a compound identified on an instrument. The script
+   says exactly that, and says what it does not say.
+
+5. "A giant predator." The fossil is by far the largest known plagiosaurid and
+   the first read as a top predator - both statements are inside that one
+   family. It is not a giant among Triassic animals. The script draws the
+   distinction out loud, and the graphic compares it only with its own family.
+
+6. "2.7 metres." The paper's abstract says "exceeding 2 metres". The 2.7 comes
+   from an estimate combining the skull with the 1948 photographs. Both figures
+   are in the film, labelled for what they are.
+
+One more check changed nothing on screen but is worth recording. The Mongolian
+paper was first visible to us only as a preprint. Our rule is that a preprint is
+not dispatch material. The Crossref record shows it as a peer-reviewed article in
+the September issue, so it ran.
+
+And one embarrassment, since this channel publishes its corrections: a DOI in our
+own working notes for the Ming paper pointed at a completely different article -
+an existing, resolvable DOI belonging to someone else's work on architectural
+practice. It looked right because it opened something. It was caught by checking
+every DOI against the Crossref record by machine rather than by clicking it. That
+is now the standard for every source list we publish.
+
+
+WHAT IS NOT SHOWN
+
+No human remains appear in this film. The third case is a jar containing the
+remains of at least thirty-seven people, including small children. There is no
+bone, no skull, no tooth, no open jar and no burial anywhere on screen, not even
+suggested or out of focus. The site is shown from the surface, and the count is a
+drawn graphic.
+
+No blood is shown either. The first case is about blood in a mortar; what appears
+on screen is what was measured - a thin section under a microscope and a grey
+mineral layer.
+
+No operation, no wound and no patient appears in the second case. The instrument,
+the plant and the measuring bench do the work.
+
+The 1948 photographs from Bear Island are not shown. They are third-party
+material under copyright. What appears is a generated reconstruction of an
+expedition scene and a generic stack of old prints - not a copy of any particular
+photograph.
+
+
+THE PICTURES
+
+Every photographic image in this film is generated, and every one is labelled
+"AI RECONSTRUCTION" on screen for its full duration. The official EU marking
+appears in the first fifteen seconds. Nine images are not generated at all: the
+diagrams are drawn in code, because image models place lettering unreliably and a
+chart with invented labels is worse than no chart.
+
+No real, identifiable object is depicted. Where the script names a specific find -
+the scissors from Xia Quan's tomb, Jar 1 at Site 75, the skeleton from Bjornoya -
+what you see is an object of that type, not that object.
+
+Five images were rejected during quality control and remade. Three of them were
+remade with a different SUBJECT rather than a different wording, because the
+model kept returning the same wrong thing: a laboratory cross-section that came
+back twice as a landscape soil profile, sample vials that came back twice looking
+like blood samples, and a sandstone jar that came back twice as a smooth white
+ceramic vase. A sixth image was remade because it showed a finned, long-snouted
+animal, which would have contradicted the narration in the same breath.
+
+
+THE SOUND
+
+The music was composed for this episode and exists nowhere else. Ambient beds and
+effects come from licensed libraries. One sound carries an action: lime curing,
+under the graphic that explains the binder. Everything else is places.
+
+Two sounds were deliberately not used. There is ice in our library and the
+excursus is set in the Arctic - but Bear Island is ice-free in summer and the
+expedition worked on wet rock, so ice would have invented a season. There is a
+raptor call that fits a steppe horizon - but Yumin is a lakeside settlement, and
+in the Arctic a raptor would simply be the wrong bird.
+
+
+CORRECTIONS
+
+If something here is wrong, we would like to know. Corrections are pinned under
+the video and carried into this file.

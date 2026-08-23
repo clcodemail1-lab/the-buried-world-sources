@@ -1,0 +1,199 @@
+THE BURIED WORLD
+Dispatch 08 - The Carrier Was Never The Message
+Full source list
+
+Four papers, from two issues. Antiquity volume 100 number 412 (August 2026)
+carries items 1 and 3; Journal of Archaeological Science volume 193 (September
+2026) carries items 2 and 4. The excursus at the end is from Papers in
+Palaeontology 12(4).
+
+Every DOI below was checked against the Crossref record for title, journal,
+volume and authors - not merely clicked. One DOI carried in our own working
+notes turned out to belong to a different paper entirely, which is why we now
+check them by machine.
+[01]  0:00   RECONSTRUCTION  A painted limestone cliff above a river, Guangxi - reconstruction
+[02]  0:12   RECONSTRUCTION  Karst towers in monsoon weather - reconstruction
+[03]  0:26   RECONSTRUCTION  Red earth pigment on a laboratory bench - reconstruction
+[04]  0:38   RECONSTRUCTION  An electron micrograph of interlocking crystal - reconstruction
+[05]  0:51   RECONSTRUCTION  A polished thin section under the microscope - reconstruction
+[06]  0:56   DIAGRAM         The four cases of the week, and the excursus
+[07]  1:07   RECONSTRUCTION  The painted band along the cliff - reconstruction
+[08]  1:10   RECONSTRUCTION  The overhang from below - reconstruction
+[09]  1:29   RECONSTRUCTION  Painted figures at arm's length - reconstruction
+[10]  1:36   RECONSTRUCTION  A scanning electron microscope bench - reconstruction
+[11]  1:55   RECONSTRUCTION  Hematite grains at high magnification - reconstruction
+[12]  2:05   DIAGRAM         How the binder holds: lime, carbon dioxide, a shell around the grain
+[13]  2:24   RECONSTRUCTION  Pigment sealed inside the crystal - reconstruction
+[14]  2:29   RECONSTRUCTION  A closed sample dish on an empty bench - reconstruction
+[15]  2:58   RECONSTRUCTION  Scissors and tweezers of the type, after long burial - reconstruction
+[16]  3:14   RECONSTRUCTION  The lower Yangtze plain - reconstruction
+[17]  3:34   RECONSTRUCTION  A Raman bench with a fragment on the stage - reconstruction
+[18]  3:53   RECONSTRUCTION  Aconite in flower - reconstruction
+[19]  4:08   DIAGRAM         The same substance: what numbs and what kills (schematic)
+[20]  4:32   RECONSTRUCTION  Root, vinegar and mung beans - reconstruction
+[21]  4:40   RECONSTRUCTION  The edge of an old blade, macro - reconstruction
+[22]  5:00   RECONSTRUCTION  The jar plateau in northern Laos - reconstruction
+[23]  5:11   RECONSTRUCTION  Three stone jars in grass - reconstruction
+[24]  5:27   RECONSTRUCTION  One very large jar, its interior in shadow - reconstruction
+[25]  5:50   RECONSTRUCTION  An empty excavation trench - reconstruction
+[26]  6:01   DIAGRAM         How many people: fourteen, nineteen, thirty-seven
+[27]  6:25   DIAGRAM         cal AD 890-1160, from eight dated bones
+[28]  6:44   RECONSTRUCTION  Glass beads in a finds tray - reconstruction
+[29]  7:05   RECONSTRUCTION  Dry steppe in Inner Mongolia - reconstruction
+[30]  7:08   RECONSTRUCTION  The floor of an early house - reconstruction
+[31]  7:24   DIAGRAM         The textbook order, and what Yumin does with it (schematic)
+[32]  7:40   RECONSTRUCTION  A section face with sampling holes - reconstruction
+[33]  8:03   DIAGRAM         Breadth instead of a staple (schematic)
+[34]  8:16   RECONSTRUCTION  Sediment samples in a clean laboratory - reconstruction
+[35]  8:38   RECONSTRUCTION  A bare Arctic island from the sea - reconstruction
+[36]  8:53   RECONSTRUCTION  An expedition photographs what it cannot carry, 1948 - reconstruction
+[37]  9:19   RECONSTRUCTION  A large flat-headed amphibian in the bedding plane - reconstruction
+[38]  9:36   RECONSTRUCTION  Wet fractured rock on the slope - reconstruction
+[39]  9:44   RECONSTRUCTION  What was left when they came back, 1984 - reconstruction
+[40]  10:03  RECONSTRUCTION  The slab in a museum preparation room - reconstruction
+[41]  10:26  DIAGRAM         Large - for a plagiosaurid (schematic)
+[42]  10:44  RECONSTRUCTION  Old prints on a table - reconstruction
+[43]  11:09  RECONSTRUCTION  Four carriers side by side - reconstruction
+[44]  11:18  DIAGRAM         What each object was holding
+[45]  11:30  RECONSTRUCTION  An empty slide on an empty bench - reconstruction
+
+SOURCES
+=======
+
+ITEM 1 - BLOOD IN THE BINDER, HUASHAN
+
+  Wu, M., Hu, P., Zhai, K., Weng, X., Wang, Y. et al. (2026).
+  Blood-induced biomineralized calcium carbonate used for binding in the
+  Huashan rock art of Guangxi, Southern China.
+  Journal of Archaeological Science 193, 106650.
+  doi.org/10.1016/j.jas.2026.106650
+
+  WHAT WAS MEASURED: scanning electron microscopy of individual paint layers,
+  spectroscopy for mineral and chemical composition, and testing for organic
+  binders. The pigment is a red clay rich in nano-scale hematite; the binder is
+  a composite mortar of lime and blood. Blood proteins induce biomineralized
+  calcium carbonate which encapsulates the hematite and bonds it to the
+  limestone. The art spans more than eighty sites over some 260 km and is at
+  least 2,000 years old.
+
+  WHAT WAS INTERPRETED: some of the detected proteins led the authors to
+  propose that part of the human blood may have been collected from women
+  during or after childbirth, and to connect this to fertility rites. The
+  wording in the paper is conditional. The film says what was measured, and
+  marks the proposal as a proposal. Several news outlets reported it as
+  established; it is not, and our thumbnail does not carry it at all.
+
+
+ITEM 2 - ACONITINE ON MEDICAL INSTRUMENTS, JIANGYIN
+
+  Ling, X., Li, J., Zhao, G., Cao, X., Weng, X., Zhang, H., Li, Z. and
+  Zhao, C. (2026). Surgical anaesthesia in Ming China: scientific analysis of
+  aconitine residues on medical instruments.
+  Antiquity 100(412), 1088-1106.
+  doi.org/10.15184/aqy.2026.10347
+
+  WHAT WAS MEASURED: two instruments - scissors and tweezers, finds 28-11 and
+  28-4, both 123 mm long - from the tomb of the physician Xia Quan (1348-1411),
+  excavated in 1974 at Jiangyin. X-ray fluorescence, micro-Raman spectroscopy
+  and stimulated Raman scattering microscopy identify aconitine, the alkaloid
+  of Aconitum.
+
+  THE AUTHORS' OWN LIMITS, which the film repeats: the ester group of aconitine
+  may have partially hydrolysed over six centuries, obscuring part of the
+  signal, and sampling was restricted, so the identification rests on SRS-based
+  vibrational evidence. This is a compound identified on an instrument. It is
+  not a record of a particular operation.
+
+  ON THE PREPARATION: Ming period texts describe boiling the plant with vinegar
+  or combining it with other ingredients including mung beans to weaken its
+  effects before use.
+
+
+ITEM 3 - JAR 1 AT SITE 75, PLAIN OF JARS
+
+  Skopal, N., Pradier, B., Bounxayhip, S., Cooper, C., Dussubieux, L.,
+  Devantier-Thomas, T. G., Pilgrim, T., Van Berkel, S., Demko, D.,
+  Valentin, F., Skopal, J., Baker, D., Florin, S. A., Posth, C. and
+  Clark, G. (2026). The death jar: a new mortuary tradition at the Plain of
+  Jars, Lao PDR. Antiquity 100(412), 1050-1067.
+  doi.org/10.15184/aqy.2026.10352
+
+  WHAT WAS EXCAVATED: Jar 1 at Site 75, about 70 km north-east of Phonsavan,
+  over three field seasons (2022-2024). Base diameter 2.05 m, preserved height
+  1.30 m. Inside, a collective assemblage of secondary interments with
+  earthenware sherds, an iron knife, a copper-based bell, stone slabs and
+  twenty glass beads, twelve of which were analysed for composition and point
+  to South Asia, Mesopotamia, Egypt and Southeast Asia.
+
+  ON THE NUMBER, which the film gives in full: the minimum number of
+  individuals varies with the element counted - fourteen from left humeri,
+  nineteen from right femora and from skulls, and thirty-seven from the
+  dentition. Thirty-seven is the highest of those estimates, not a headcount.
+  Ages run from about 1.5 years to adulthood. Carious lesions were recorded in
+  5.3 per cent of observed teeth (25 of 469).
+
+  ON THE DATING: eight human bone samples were dated directly, three of them
+  previously published, giving c. cal AD 890-1160.
+
+  WHAT IS NOT SHOWN: no human remains appear anywhere in this film - no bone,
+  no skull, no tooth, no open jar. The count is a drawn graphic. See the
+  method note.
+
+
+ITEM 4 - SEDENTISM WITHOUT FARMING, YUMIN
+
+  Chen, J., Wang, Y., Jia, X., Gao, Y., Zhang, Z., Hu, X., Bao, Q. and
+  Chen, F. (2026). Broad-spectrum subsistence facilitated early sedentism in
+  the southern Mongolian Plateau revealed by sedimentary ancient DNA.
+  Journal of Archaeological Science 193, 106646.
+  doi.org/10.1016/j.jas.2026.106646
+
+  WHAT WAS MEASURED: sedimentary ancient DNA metagenomics on archaeological
+  deposits at the Yumin site (Huade, Ulanqab, Inner Mongolia), dated c.
+  8,600-7,400 cal BP. The Yumin culture represents early sedentary occupation
+  on the southern plateau, preceding agro-pastoralism.
+
+  WHAT THE FINDING IS - AND IS NOT: the finding is not that people were
+  sedentary without agriculture, which was already established here. The
+  finding is the subsistence base that made it possible: a broad spectrum of
+  resources rather than a single staple. The film says this explicitly, because
+  the shorter version is the more exciting one and it is wrong.
+
+  A NOTE ON HOW WE CHECKED IT: this paper was first visible to us only as an
+  SSRN entry, that is, as a preprint. Under our own rule a preprint is not
+  dispatch material. The Crossref record shows it as a peer-reviewed article in
+  the September 2026 issue, so it ran. The SSRN entry was the earlier stage,
+  not the final state.
+
+
+EXCURSUS - THE FOSSIL LEFT ON BEAR ISLAND
+
+  Schoch, R. R., Chakravorti, S., Witzmann, F. and Lindemann, F.-J. (2026).
+  A giant plagiosaurid temnospondyl from Bjornoya (Svalbard, Norway) and the
+  origin of the plagiosaurid body plan.
+  Papers in Palaeontology 12(4), e70115.
+  doi.org/10.1002/spp2.70115
+
+  This is palaeontology, not archaeology, and the film says so before it starts.
+  It is here because of what the record shows: a British expedition found the
+  articulated skeleton on Bjornoya in 1948, could not remove it, took some
+  bones and photographs, and left the rest. A Norwegian party rediscovered it
+  by chance in 1984 and excavated what the weather had left. The specimen was
+  prepared at the State Museum of Natural History Stuttgart and described only
+  now, as Arctobatrachus urdensis.
+
+  ON THE SIZE, both figures as published: the abstract states a body length
+  "exceeding 2 metres"; press material gives about 2.7 m, an estimate combining
+  the skull with the historical photographs. The film carries the conservative
+  figure and marks the estimate as an estimate. The skull is roughly 70 cm wide
+  and about 21 cm long.
+
+  ON "LARGEST" AND "TOP PREDATOR": both statements are within Plagiosauridae -
+  by far the largest known member of that family, and the first read as a top
+  predator rather than an ambush feeder. Neither is a claim about Triassic
+  animals in general. It is not a giant; it is a giant of its own small family.
+
+  ON THE PHOTOGRAPHS: the 1948 photographs are not shown in this film. They are
+  third-party material and copyright applies. What appears on screen is a
+  generated reconstruction of an expedition scene and a generic stack of old
+  prints - not a copy of any particular historical photograph.
