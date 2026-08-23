@@ -45,6 +45,7 @@ why, rather than quietly absorbing it.
 | 05 | Nothing Here Came Out Of The Ground | [sources](dispatch-05-sources.txt) | [method](dispatch-05-method.txt) |
 | 06 | The Name Was Doing The Work | [sources](dispatch-06-sources.txt) | [method](dispatch-06-method.txt) |
 | 07 | What Lay Next To It | [sources](dispatch-07-sources.txt) | [method](dispatch-07-method.txt) |
+| 08 | The Carrier Was Never The Message | [sources](dispatch-08-sources.txt) | [method](dispatch-08-method.txt) |
 
 ## Marking
 
