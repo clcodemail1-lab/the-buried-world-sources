@@ -33,6 +33,7 @@ why, rather than quietly absorbing it.
 | 9 | Nothing About Him Happened The Way They Said | [sources](episode-09-sources.txt) | [method](episode-09-method.txt) |
 | 10 | The Only Way To Read Them Was To Destroy Them | [sources](episode-10-sources.txt) | [method](episode-10-method.txt) |
 | 11 | The Four Under The Stairs | [sources](episode-11-sources.txt) | [method](episode-11-method.txt) |
+| 12 | Nobody Ever Found One In Rome | [sources](episode-12-sources.txt) | [method](episode-12-method.txt) |
 
 ## Dispatches
 
@@ -54,3 +55,12 @@ throughout and declared in the upload form. Nothing reproduces a specific
 artefact, monument or excavation. The diagrams are drawn rather than
 generated, because image models place lettering unreliably and an invented
 figure on a map is still an invented figure.
+
+Episode 12 added a second reason, and it now applies wherever it fits: image
+models do not reliably produce a specific SHAPE either. Asked for a regular
+dodecahedron they will hand you ten faces, or twelve identical openings, or a
+polished ornament. So wherever that film explains the geometry, the
+measurements or a count, the picture is drawn in Python from the true
+coordinates of the solid - nineteen of its eighty-four shots. In the generated
+shots the object appears only where an imprecision costs nothing. A drawing
+that is right is worth more than a photograph that is nearly right.
