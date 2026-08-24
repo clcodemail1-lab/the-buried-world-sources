@@ -1,0 +1,134 @@
+THE BURIED WORLD
+Episode 12 - Nobody Ever Found One In Rome
+
+How this film was made
+Last updated 24 August 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel goes through a fact-check before a single word
+is recorded. That check regularly changes the film. This file lists what it
+changed here, because a channel that argues with other people's captions has
+no business hiding its own corrections.
+
+Ten corrections were made to the script of this episode. One of them removed
+a number that had been invented outright, and two removed contradictions the
+film would otherwise have carried into the edit.
+
+
+THE THREE THAT MATTERED
+
+1. A DISTANCE THAT NOBODY HAD MEASURED.
+
+The first draft opened with the Norton Disney site "half a mile from the
+Roman road". No source says that. The figure came from nowhere - it simply
+sounded like the kind of thing such a sentence contains. The published report
+on the fortified villa at Potter Hill puts the site some 200 yards east of
+the Fosse Way, and that is what the film now says.
+
+This is the correction worth being most uncomfortable about. The other nine
+were errors of reading. This one was an invention, in the first thirty
+seconds, in a film whose entire argument is that unrecorded detail is how
+this subject was ruined.
+
+2. THE FILM CONTRADICTED ITSELF ABOUT WRITING.
+
+An early block said that no dodecahedron carries "a letter, a numeral, or any
+mark that means something". Eight minutes later the same film describes the
+Geneva object, which has the twelve signs of the zodiac engraved on its twelve
+faces. Both statements are sourced; together they are a contradiction.
+
+The distinction the sources actually make is between writing and pictures. No
+recorded dodecahedron carries a letter, a numeral, a scale or a graduation -
+nothing that can be read as a value. Some carry engraved decoration, and one
+carries pictures. The film now says that, and the Geneva block names the
+difference out loud: "Pictures, not numbers."
+
+3. THE SLOVAK FRAGMENTS WERE DESCRIBED WRONG.
+
+The first draft had three fragments, all of them carrying engraved concentric
+rings. Dragonidesova describes something more particular: three fragments from
+probably two objects - two from Hurbanovo, likely from the same piece, which
+do carry rings, and one from Chotin, which preserves part of an opening about
+1.4 cm across with a single engraved line near its edge. The block was
+rewritten to match, and the drawn diagram [73] shows the difference.
+
+
+THE OTHER SEVEN
+
+4. "None from Spain, none from Greece" was cut back. The primary source
+   (Dragonidesova 2025, 30) names Italy, Africa and the former eastern Roman
+   provinces. Spain and Greece appear only in secondary accounts. The film now
+   says what the primary source says.
+
+5. "Italy has been dug harder than anywhere else on earth for three hundred
+   years" was replaced. It is unprovable as stated. The film now gives the
+   checkable fact instead: excavation at Herculaneum began in 1738.
+
+6. The alloy figures for the Norton Disney object DIFFER BETWEEN PUBLISHED
+   ACCOUNTS. Three sources - the excavating group, Anglia Ruskin University's
+   summary of the handheld XRF analysis, and a widely circulated report of it -
+   give 75 per cent copper, 7 per cent tin, 18 per cent lead. Current
+   Archaeology gives 63 per cent copper and 27 per cent lead. The film uses the
+   majority figure and says only "roughly seven per cent tin and eighteen per
+   cent lead". We have not been able to reconcile the two, and the disagreement
+   is recorded here rather than hidden behind a single confident number.
+
+7. The order of the object's public display was overstated. The first draft
+   said "Lincoln, then Newark, then Nottingham". After Nottingham (to 18
+   January 2026) it returned to Newark. The film now names the three places
+   without claiming a sequence.
+
+8. The count of known objects streams between 100, 116, 130 and 134 depending
+   on which account you read. The film gives one number with its source: about
+   134, after Guggenberger and Leach 2025.
+
+9. The material of the Geneva dodecahedron is given as lead in one account and
+   as silver in another. The film does not name the material at all - only the
+   zodiac signs, which both accounts agree on.
+
+10. A block about the growth of the corpus was added rather than corrected,
+    because the fact-check turned up something the first draft had missed:
+    Saint-Venant listed 41 examples in 1907, Thompson was working with about
+    fifty in 1970, and the running total is now about 134. The corpus grew;
+    the quality of the evidence did not.
+
+
+ONE SOURCE WE COULD NOT READ
+
+F. H. Thompson's 1970 note "Dodecahedrons again" (The Antiquaries Journal
+50(1), 93-96) is the refutation on which act 4 of this film rests. Its full
+text sits behind a paywall and WAS NOT READ for this film.
+
+What we have instead: two independent accounts of Thompson's argument, which
+agree on its substance - that the objects are too variable and too poorly
+standardised for a measuring instrument, that there are no graduations and no
+numerals, and that no tripod or mount has ever been found with one - and
+Guggenberger and Leach's own restatement in 2025 that his conclusion still
+holds. The bibliographic details, including the fact that the 1739 Aston find
+is now lost, were confirmed against the journal's own listing.
+
+That is good enough to report the argument. It is not the same as having read
+it, and the difference is stated here rather than glossed over.
+
+
+WHAT THE FILM DELIBERATELY DOES NOT DO
+
+It does not solve the dodecahedron. There are around fifty readings, one of
+them published nine months before this film, and the film's position is that
+none of them is settled - including the most recent, whose own authors write
+that their case, "whilst not yet proven, seems plausible". That sentence is
+quoted in the film because it is the honest one.
+
+It does not treat the people who proposed the failed readings as fools. The
+rangefinder idea was a serious proposal, refuted by argument in 1970. The
+knitting demonstration genuinely works. The film says why each fails; it does
+not sneer.
+
+And it does not claim the distribution proves anything about function. The
+map is the strongest evidence in the subject, and what it establishes is
+where these objects are and are not - not what they were for.
+
+
+Corrections are welcome and will be made out loud.
