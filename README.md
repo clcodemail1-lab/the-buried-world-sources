@@ -47,6 +47,7 @@ why, rather than quietly absorbing it.
 | 06 | The Name Was Doing The Work | [sources](dispatch-06-sources.txt) | [method](dispatch-06-method.txt) |
 | 07 | What Lay Next To It | [sources](dispatch-07-sources.txt) | [method](dispatch-07-method.txt) |
 | 08 | The Carrier Was Never The Message | [sources](dispatch-08-sources.txt) | [method](dispatch-08-method.txt) |
+| 13 | The Sickle Was Under Her Chin | [sources](dispatch-13-sources.txt) | [method](dispatch-13-method.txt) |
 
 ## Marking
 
