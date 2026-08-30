@@ -1,0 +1,160 @@
+THE BURIED WORLD
+Dispatch 13 - The Sickle Was Under Her Chin
+How this film was made
+
+
+WHAT THIS PAGE IS FOR
+
+Every film on this channel gets one of these. It lists what we changed before
+broadcast and why, including the things that were wrong in our own drafts. The
+source list is the other file; this one is about the process.
+
+
+THREE CORRECTIONS MADE BEFORE BROADCAST
+
+Two of the three had already passed our fact-check. They were caught later,
+while the tracking numbers were being re-checked ahead of the picture work.
+That is the part worth saying out loud: a check that has been passed is not the
+same as a check that was right.
+
+
+1. DRAWSKO - "five burials, four with sickles" was wrong, and not only in the
+   number
+
+   An earlier draft said that at Drawsko five burials had been excavated, four
+   of them with sickles across the throat.
+
+   Both relevant papers say FIVE individuals with a sickle. Polcyn and Gajda
+   (Antiquity, 2015) give the population those five come from: a cemetery of
+   more than 250 burials, in use across the seventeenth and eighteenth
+   centuries. Gregoricka and colleagues (PLoS ONE, 2014) record six deviant
+   burials in total, five of them with a sickle, laid across the throat OR the
+   abdomen - the second placement understood to open the gut rather than take
+   the head.
+
+   The number was the smaller problem. The old wording read as though almost
+   every grave opened at Drawsko had held a sickle, which overstates how common
+   this practice was by orders of magnitude. The film now gives the
+   denominator, because "five out of more than two hundred and fifty" is both
+   the accurate finding and the more interesting one: rare, but repeated across
+   generations, and always with the same kind of object.
+
+   One further thing we did NOT do: the accessible reports do not set out which
+   of the five had the sickle at the throat and which at the abdomen. Our
+   on-screen graphic therefore gives both placements as a collective statement
+   and does not assign them to individuals. Where an age is not published, it
+   says "adult" rather than inventing one.
+
+
+2. THE OBJECT IN HER MOUTH - a detail we could not support, so we cut it
+
+   An earlier draft said the researchers had ruled out coins "on the size of
+   the stain". We could not find that in any accessible source, and a claim
+   about how a conclusion was reached is exactly the kind of thing that should
+   not be repeated on trust.
+
+   It is gone rather than softened. What the film says is what the study
+   reports: traces of copper, manganese and gold on the palate, from an object
+   placed in the mouth or nose after death, and no identification of what it
+   was.
+
+
+3. AN EXPLANATION WE ADDED, BECAUSE THE FILM WAS ASKING FOR TRUST
+
+   The film says that the strontium in this woman's enamel does not agree that
+   she travelled - which is what makes the contradiction with her genetic
+   ancestry interesting. But the draft never said why a tooth can know that,
+   which meant the whole passage rested on the viewer taking our word for it.
+
+   So the film now explains it: enamel forms in childhood and is never rebuilt
+   afterwards; while it forms it takes up strontium from local water and food;
+   and the ratio of strontium isotopes in the ground varies from region to
+   region. That is textbook archaeometry, not a finding of this study, and it
+   is on screen as a diagram rather than as a drawn tooth.
+
+
+WHAT IS NOT SHOWN, AND WHY
+
+No human remains appear anywhere in this film. Not a bone, not a skull, not a
+tooth, not a burial with a body in it, in any shot - not blurred, not in
+shadow, not implied.
+
+Three reasons, and they are not all the same kind of reason:
+
+  - The people here are real, named, published individuals. A generated
+    "skeleton" would be an invention about a particular human being.
+
+  - The closing section of this film criticises a 2023 facial reconstruction
+    for having been built by deforming the scan of a different person's skull.
+    A film that raises that objection cannot then show an invented face or
+    skeleton of these same women. It would be doing the thing it complains
+    about.
+
+  - This channel does not use gore.
+
+The grave positions are shown as drawn excavation plans instead. That is the
+form archaeology itself uses, it explains "wedged under the chin" more
+precisely than a picture could, and it is accurate because it is drawn. It is
+also why this film carries more diagrams than any other on the channel:
+fourteen of its fifty-two shots.
+
+One consequence worth admitting: this decision made a planned production step
+unnecessary. We had expected the image model's content filter to block skull
+and bone motifs, and had a fallback route prepared. With no such motifs in the
+film, there was nothing for it to block.
+
+
+HOW THE SOURCES WERE CHECKED
+
+Every DOI in the source list was checked against the Crossref record for title,
+journal, year, publication type and first author - not merely clicked. We do
+this by machine since a DOI in our own working notes once turned out to belong
+to a different paper entirely.
+
+The check also improved one point in the film. Our draft called the third
+objection to the Venice reading a public statement by an anthropologist at
+Pisa. It is more than that: it is a formal Commentary published in the same
+journal, two years after the original paper. The film's wording is, if
+anything, too cautious.
+
+
+WHERE THE EVIDENCE IS THINNEST
+
+The child at Lugnano in Teverina. The cemetery, its fifth-century date and the
+malaria epidemic behind it are published and long established. The particular
+burial - a child of about ten with a stone placed in the mouth, the teeth
+having left marks in it - was announced by the University of Arizona in
+October 2018 and rests on that announcement and the excavation reporting, not
+on a dedicated peer-reviewed paper.
+
+We ran it because the case is eight years old, consistently reported, and the
+film claims nothing beyond it. Note what the film does not say: it does not
+claim malaria was demonstrated for this child. The haemozoin evidence is from
+the cemetery. The sentence in the film is "the bones from that cemetery carry
+haemozoin", and the wording is deliberate.
+
+
+ON THE PICTURES AND THE SOUND
+
+Every photograph-like shot is generated and shows an example of a TYPE - an
+iron sickle, a triangular padlock, a limestone pebble - never a real,
+identifiable find. The prompts are kept in the production repository, along
+with a record of which ones failed our own review and what was sent instead.
+
+One of those failures is worth reporting, because it is the kind of thing that
+gets through. A shot of the Lugnano stone was specified as two shallow
+depressions side by side in a pale pebble. What came back read unmistakably as
+a skull: two dark hollows and an opening below them, in white bony-looking
+material. Nothing in the wording was wrong - two symmetrical hollows in a
+surface simply make a face, whatever you call them. It was recomposed as a row
+of marks along one edge, which is also closer to how a row of teeth would leave
+them.
+
+The maps and diagrams are drawn in code, which is why they carry no AI label:
+they are not generated, and their labelling is correct rather than plausible.
+
+No third-party images, footage or recordings are used, so no third-party rights
+apply. The music was composed for this film.
+
+
+Corrections are welcome and will be made out loud.

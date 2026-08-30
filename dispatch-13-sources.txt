@@ -1,0 +1,216 @@
+THE BURIED WORLD
+Dispatch 13 - The Sickle Was Under Her Chin
+Full source list
+
+Four graves, four centuries, two countries. The lead item is a study published
+in August 2026; the other three are older and are here because they show what
+the first one is part of.
+
+Every DOI below was checked against the Crossref record - title, journal, year,
+type and first author, not merely clicked. Where something rests on a
+university announcement rather than a peer-reviewed paper, this list says so.
+
+ONE THING THIS FILM DOES NOT SHOW: human remains. Not a bone, not a skull, not
+a tooth, not a burial with a body in it - in any shot. The graves are drawn as
+excavation plans instead. Three reasons, and the third is the one that matters
+most: the people in this film are real, named, published individuals; a
+generated "skeleton" would be an invention about a particular human being; and
+the closing section of this very film criticises a facial reconstruction for
+having been built from a scan of somebody else. A film that raises that
+objection cannot then show an invented face or skeleton of these women.
+[01]  0:00   RECONSTRUCTION  An empty excavated grave cut, northern Poland - reconstruction
+[02]  0:08   DIAGRAM         Grave 75 in plan: where the sickle and the padlock lay
+[03]  0:18   RECONSTRUCTION  A corroded iron padlock in a finds tray - reconstruction
+[04]  0:22   RECONSTRUCTION  An excavation area from above - reconstruction
+[05]  0:30   RECONSTRUCTION  A rural churchyard in the seventeenth century - reconstruction
+[06]  0:43   DIAGRAM         Four hundred years: burial, excavation, publication
+[07]  0:53   RECONSTRUCTION  A mass spectrometer bench - reconstruction
+[08]  1:11   RECONSTRUCTION  An empty finds tray and a blank label - reconstruction
+[09]  1:15   RECONSTRUCTION  Soil layers in the corner of a grave cut - reconstruction
+[10]  1:21   RECONSTRUCTION  Silver and gilded thread with decayed silk - reconstruction
+[11]  1:38   RECONSTRUCTION  A seventeenth-century silk cap - painted reconstruction
+[12]  1:46   RECONSTRUCTION  A Baltic shoreline in southern Scandinavia - reconstruction
+[13]  1:51   DIAGRAM         What enamel keeps: strontium, childhood, and no rebuilding
+[14]  2:08   RECONSTRUCTION  Bands of different stone in a rock face - reconstruction
+[15]  2:15   DIAGRAM         Two answers: ancestry and childhood are different questions
+[16]  2:25   RECONSTRUCTION  Rye bread and grain on a plank table - reconstruction
+[17]  2:32   RECONSTRUCTION  A micro-CT scanner - reconstruction
+[18]  2:41   DIAGRAM         The three questions the study leaves open
+[19]  2:49   RECONSTRUCTION  Copper corrosion at high magnification - reconstruction
+[20]  3:01   RECONSTRUCTION  Sealed sample tubes in a laboratory - reconstruction
+[21]  3:11   RECONSTRUCTION  A northern village in winter - painted reconstruction
+[22]  3:27   RECONSTRUCTION  An excavation at the edge of a pine wood - reconstruction
+[23]  3:43   RECONSTRUCTION  Five corroded iron harvest hooks - reconstruction
+[24]  3:56   DIAGRAM         The five at Drawsko: sex, age, and where the sickle lay
+[25]  4:04   DIAGRAM         Five out of more than two hundred and fifty
+[26]  4:18   RECONSTRUCTION  A sickle and a padlock side by side - reconstruction
+[27]  4:23   RECONSTRUCTION  Harvest work with hand sickles - painted reconstruction
+[28]  4:40   RECONSTRUCTION  A padlock, shackle closed - reconstruction
+[29]  4:51   DIAGRAM         The four graves on a map
+[30]  4:58   RECONSTRUCTION  The hills of central Italy - reconstruction
+[31]  5:11   RECONSTRUCTION  A smooth limestone pebble in a finds tray - reconstruction
+[32]  5:19   DIAGRAM         The stone from the child's grave, and where the marks sit
+[33]  5:25   RECONSTRUCTION  Dark needle crystals in a thin section - reconstruction
+[34]  5:36   RECONSTRUCTION  A Roman country villa at dusk - painted reconstruction
+[35]  5:44   RECONSTRUCTION  The three objects in a row: sickle, padlock, stone - reconstruction
+[36]  5:55   RECONSTRUCTION  The Venetian lagoon - reconstruction
+[37]  6:01   RECONSTRUCTION  Brick, tile and stone rubble in wet clay - reconstruction
+[38]  6:18   DIAGRAM         The three objections to one reading
+[39]  6:23   RECONSTRUCTION  An excavation through made ground - reconstruction
+[40]  6:41   RECONSTRUCTION  One brick half pressed into clay - reconstruction
+[41]  6:45   DIAGRAM         Where the shroud-eater belief is documented
+[42]  6:53   RECONSTRUCTION  Bound journal volumes on a shelf - reconstruction
+[43]  7:03   DIAGRAM         Anatomical deformation, shown as grids rather than skulls
+[44]  7:22   RECONSTRUCTION  The lagoon under a grey sky - reconstruction
+[45]  7:32   RECONSTRUCTION  An empty laboratory bench - reconstruction
+[46]  7:35   DIAGRAM         Grave 75 again: neither object falls into place
+[47]  7:43   RECONSTRUCTION  Marks along the edge of a stone - reconstruction
+[48]  7:48   DIAGRAM         What a find permits, and what it requires
+[49]  7:58   RECONSTRUCTION  A grave being closed at dusk - painted reconstruction
+[50]  8:12   RECONSTRUCTION  Insects over still water at dusk - reconstruction
+[51]  8:19   RECONSTRUCTION  A village small enough to take in at a glance - painted reconstruction
+[52]  8:28   RECONSTRUCTION  The empty tray and the blank label - reconstruction
+
+
+ITEM 1 - GRAVE 75 AT PIEN (the lead item)
+
+  Polinski, D. et al. (2026). A unique, non-normative burial of a young adult
+  female from a 17th-century cemetery in Pien, north-central Poland. A
+  multidisciplinary approach.
+  Journal of Archaeological Science: Reports, 2026.
+  doi.org/10.1016/j.jasrep.2026.105967
+
+  WHAT WAS FOUND: a woman of roughly 17-19, buried around the middle of the
+  seventeenth century, with a curved iron sickle laid across the neck, blade
+  turned inward, and a triangular iron padlock closed around the big toe of the
+  left foot. Excavated 2022 by the Institute of Archaeology, Nicolaus Copernicus
+  University; the analysis appeared in August 2026.
+
+  WHAT THE ANALYSIS SHOWS: metal threads near the skull, of pure silver and
+  gilded wire, from a silk headdress - an expensive burial, not an outcast's.
+  Genetic ancestry pointing to southern Scandinavia, while the strontium in the
+  enamel does not support that she herself migrated. Carbon and nitrogen values
+  placing her with the other adults of the cemetery. A haemangioma in the
+  sternal body which the researchers explicitly do not consider the cause of
+  death.
+
+  WHAT IT LEAVES OPEN, and the film says all three: traces of copper, manganese
+  and gold on the palate, from an object placed in the mouth or nose that has
+  not been identified; the cause of death, with testing continuing; and why this
+  woman in particular, where the team offers illness, hunger or misfortune as a
+  suggestion and presents it as one.
+
+  ONE CLAIM WE LEFT OUT: this is widely reported as the first documented Polish
+  grave combining sickle AND padlock. That is probably right, but a superlative
+  needs checking that the narrative does not need, so it is not in the film.
+
+  A CORRECTION MADE BEFORE BROADCAST: an earlier script draft said the copper
+  staining had ruled out coins "on the size of the stain". No accessible source
+  supports that, so it was cut rather than softened. What is in the film is what
+  the study reports: copper, manganese and gold, and no identification.
+
+
+ITEM 2 - THE FIVE AT DRAWSKO
+
+  Gregoricka, L. A., Betsinger, T. K., Scott, A. B. and Polcyn, M. (2014).
+  Apotropaic Practices and the Undead: A Biogeochemical Assessment of Deviant
+  Burials in Post-Medieval Poland.
+  PLoS ONE 9(11), e113564.
+  doi.org/10.1371/journal.pone.0113564
+
+  Polcyn, M. and Gajda, E. (2015). Buried with sickles: early modern interments
+  from Drawsko, Poland.
+  Antiquity 89(348), 1373-1387.
+  doi.org/10.15184/aqy.2015.129
+
+  🚨 A CORRECTION MADE BEFORE BROADCAST, and it changed the meaning: an earlier
+  script draft said five burials had been excavated at Drawsko, four of them
+  with sickles across the throat. Both papers say FIVE individuals with a
+  sickle, and Polcyn & Gajda give the population they come from - a cemetery of
+  more than 250 burials, in use across the seventeenth and eighteenth centuries.
+  The old wording read as though almost every excavated grave had one. It
+  overstated how common the practice was by orders of magnitude. The film now
+  gives the denominator, because five out of more than 250 is the actual finding
+  and it is the more interesting one.
+
+  ON THE SICKLES: they lay across the throat OR the abdomen - the second
+  placement understood to open the gut rather than take the head. Which lay
+  where, individual by individual, is not something the accessible reports set
+  out, so the film and the graphic both give it as a collective statement.
+
+  ON THE PEOPLE: Gregoricka records six deviant burials, five of them with a
+  sickle - one adult male, three adult females (one 45-49, one 30-39) and one
+  late adolescent female. Where an age is not published, our graphic says
+  "adult" rather than inventing one.
+
+
+ITEM 3 - THE CHILD AT LUGNANO IN TEVERINA
+
+  Soren, D. (2015). The Children's Cemetery of Lugnano in Teverina, Umbria.
+  In: The Archaeology of Childhood. State University of New York Press.
+  doi.org/10.1515/9781438458069-017
+
+  🚨 WHAT RESTS ON WHAT, because the two are not equally solid. The cemetery,
+  its fifth-century date and the malaria epidemic behind it are published and
+  long-established: haemozoin, a residue malaria leaves, was identified in bone
+  from the site. The particular burial in this film - the child of about ten
+  with a stone placed in the mouth, the teeth having left marks in it - was
+  announced by the University of Arizona in October 2018 and is documented
+  through that announcement and the excavation reporting, NOT through a
+  dedicated peer-reviewed paper.
+
+  We ran it anyway because the case is eight years old, consistently reported,
+  and the film claims nothing beyond it. Note in particular what the film does
+  NOT say: it does not claim malaria was demonstrated for this child. The
+  reporting notes an abscessed tooth consistent with the disease; the
+  haemozoin evidence is from the cemetery, not from this individual. The
+  sentence in the film is "the bones from that cemetery carry haemozoin", and
+  that is deliberate.
+
+
+ITEM 4 - THE WOMAN AT LAZZARETTO NUOVO, VENICE (the closing case)
+
+  Nuzzolese, E. and Borrini, M. (2010). Forensic Approach to an Archaeological
+  Casework of "Vampire" Skeletal Remains in Venice: Odontological and
+  Anthropological Prospectus.
+  Journal of Forensic Sciences 55(6).
+  doi.org/10.1111/j.1556-4029.2010.01525.x
+
+  Minozzi, S. et al. (2012). Commentary on: Nuzzolese E, Borrini M. Forensic
+  approach to an archaeological casework of "vampire" skeletal remains in
+  Venice.
+  Journal of Forensic Sciences 57(3).
+  doi.org/10.1111/j.1556-4029.2012.02100.x
+
+  WHY THIS CASE CLOSES THE FILM INSTEAD OF SUPPORTING IT: it is the most famous
+  "vampire burial" in the world and the weakest of the four. The 2010 reading -
+  a brick placed in the mouth to stop a shroud-eater - has been contested on
+  three separate grounds. First the ground itself: the remains lay among stones,
+  bricks and roof tiles, jaws fall open as a body decays, and things fall in; on
+  a neighbouring Venetian cemetery a skeleton was found with a thighbone in its
+  mouth, which nobody reads as ritual. Second the folklore, which is documented
+  for parts of the German-speaking world rather than for Italy. Third the
+  procedure, and here the film is if anything too cautious: the objection is not
+  a remark to the press but a formal Commentary published in the same journal
+  (the second DOI above).
+
+  AND THE FACE IS DISPUTED TOO: in 2023 a new facial reconstruction of the same
+  woman was produced by anatomical deformation - taking the scan of a different
+  person's skull and adjusting it to hers. The author of the original
+  reconstruction rejects it, and a paper about the dispute followed in 2024.
+  This is why the film shows the method as two abstract grids and not as a face.
+
+
+ON THE PICTURES
+
+  Every photographic-looking shot in this film is generated - there is no
+  photograph of any real find in it, and no real, identifiable object is
+  depicted. What is shown is an example of the TYPE: an iron sickle, a
+  triangular padlock, a limestone pebble. The prompts are in the production
+  repository.
+
+  The drawn graphics carry no AI label because they are not generated: they are
+  drawn in code, which is also why the labelling in them is correct.
+
+  No third-party images or footage are used anywhere in this film, so no
+  third-party rights apply.
