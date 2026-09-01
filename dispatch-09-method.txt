@@ -1,0 +1,188 @@
+THE BURIED WORLD
+Dispatch 09 - Nothing Here Happened All At Once
+How this film was made
+
+
+WHAT THE FILM IS
+
+Four papers, all in the Journal of Archaeological Science, carried by its
+September and October 2026 issues. A burnt house on Cyprus, three caves near
+Granada, 294 settlements in Belize, and 146 fragments of Roman glass from a
+villa in south-western France. They are together because each of them takes
+apart the same habit: reading an archaeological pattern as one simultaneous
+event.
+
+The full source list, with every DOI, is in the companion file
+dispatch-09-sources.txt.
+
+
+THE HONEST LIMIT OF THIS EPISODE, AND IT COMES FIRST
+
+The full texts of all four papers were not machine-readable from here.
+ScienceDirect answers automated requests with HTTP 403 - including from a real
+browser - and the two open repository copies sit behind bot checks. Every
+figure in this film therefore comes from the authors' own abstract, plus
+background material that is labelled as background wherever it appears.
+
+That distinction matters, so here it is spelled out. What IS verified: that
+these four papers exist, are peer-reviewed, and were written by the people
+named, in the journals named. Each DOI was checked machine-side against the
+Crossref record for type, journal, volume, pages and author list - not merely
+clicked. Since this episode the DATE fields are read as well, and read for what
+they are: `published-print` is an issue label, `published-online` is an event,
+and where the second is missing the record's own creation date is the closest
+thing to one. What is NOT verified: anything the full texts say beyond their
+abstracts. The film claims nothing beyond them.
+
+Where a number would have needed the full text, the film says so instead of
+estimating. It does not give a date for the burnt building at Palloures, it
+does not name the Roman villa, and it does not say how many times a piece of
+glass was remelted - the paper reports compositional groups, not cycles, and
+the commentary says that out loud.
+
+
+A CORRECTION MADE AFTER THE FIRST CUT, AND IT IS THE WORST ONE
+
+The first version of this film said the four papers were "published in
+September" and "published in October". They were not. September and October
+are ISSUE dates: Elsevier assigns a journal issue months ahead, and an article
+appears online long before the issue it is bound into.
+
+The Crossref records for all four carry only `published-print`. There is no
+online date in them at all. What the records do carry is their own creation
+date - 30 July, 3 August, 25 August and 27 August 2026. That is the deposit
+date of the DOI, which for this publisher sits at or very near the day the
+article went online. It is the closest thing to a publication day these records
+contain, and it is offered as that and not as more.
+
+How it happened: the DOIs were checked machine-side against Crossref for type,
+journal, volume, pages and author list, and the date field was read straight
+off and believed. A field labelled `published` was treated as an event when it
+was a label. That is precisely the mistake this film is about, committed while
+making it. It was caught before broadcast, by the obvious question nobody on
+this side had asked: how can a film recorded in August cite papers from
+October?
+
+The commentary now names the issues as issues: "a paper in the same journal's
+October issue", not "a paper out in October". The affected lines were re-recorded
+and the film re-cut.
+
+
+THREE CORRECTIONS MADE BEFORE RECORDING
+
+1. A landscape description that came from nowhere. The opening line described
+   the Cyprus site as sitting "on a hillside above the sea". That the site lies
+   on the coast north of Paphos is documented; that it sits on a hillside is
+   not, in any source consulted. It was not badly researched - it was not
+   researched at all, because it sounded like a good first picture. It now says
+   "on the west coast of Cyprus".
+
+   The principle: a setting is a factual claim too. Numbers get checked;
+   descriptions of places slip through.
+
+2. A quotation made too narrow. The script had the authors' phrase
+   "unequivocally problematised" applying to that one site. The abstract says
+   it for Chalcolithic Cyprus as a whole. The correction makes the claim
+   stronger, which is unusual - but quoting somebody more cautiously than they
+   wrote is still putting words in their mouth, only in the other direction.
+
+3. "Difficult" turned into "impossible". One radiocarbon date from Cariguela
+   is markedly older than the others, and the authors write that it "remains
+   difficult to interpret". An earlier draft had them unable to interpret it.
+   Between those two lies exactly the distinction this whole film is about, and
+   the line immediately afterwards - "that is in the paper; it is not a hedge I
+   am adding" - only works if the quotation is right.
+
+
+WHY THERE ARE NO HUMAN REMAINS IN THIS FILM
+
+The second item concerns cannibalism in the Neolithic. There is nevertheless
+no bone, no skull, no tooth and no burial anywhere in the fifty shots - not
+suggested, not blurred, not in shadow.
+
+Not squeamishness. The finding of that paper is a chronology: three cave sites
+long treated as one phenomenon turn out to be separated by more than a thousand
+years and to have been done differently each time. A picture of butchered bone
+would pull the attention exactly where the text is not looking, and would turn
+a dating result into a horror story. The five taphonomic signatures are shown
+as a drawn list instead, and the section is otherwise carried by places and
+instruments: a cave mouth, a sediment section, a dating laboratory, a dish of
+vermilion pigment.
+
+The music follows the same rule. The score for that section is deliberately no
+darker than the rest of the film.
+
+
+THE PICTURES
+
+Thirty-five shots are generated with nano_banana_pro at 2k and 16:9. Fifteen
+are not generated at all: they are drawn in code, which is also why the
+labelling in them is correct - image models set text unreliably, so every
+caption in this film sits in a drawn graphic.
+
+Three generated shots were redone, and two of those failures were instructive
+enough to record:
+
+  A scale bar that nobody asked for. The sherd-layer shot came back with a
+  measuring scale reading "10cm" - readable text in a film that carries none.
+  Removing the words "scale bar" from the prompt did nothing: it belongs to the
+  genre "excavation photograph from above", and the model delivers the genre.
+  What removed it was a different framing - closer on the sherds, with the
+  ground surface and the trench edge almost out of shot, and with them the
+  place where such a scale lies.
+
+  Cinnabar that read as blood. The Majolicas shot was meant to show cinnabar
+  ore: red mineral in pale rock. Sitting directly after the cannibalism
+  passage, wet-looking red on stone reads as one thing regardless of what the
+  prompt says. Asking for it dry and matte produced the same macro again. What
+  worked was changing the object: not the ore but the pigment made from it, as
+  dry powder in a glass dish on a laboratory bench.
+
+  Both are the same lesson. When a picture keeps coming back wrong, the next
+  sentence does not help; a different composition does, and if that is not
+  enough, a different object.
+
+
+THE GRAPHICS, AND WHAT THEY REFUSE TO DRAW
+
+The Belize map shows exactly 294 dots, because 294 is published - and their
+positions are schematic, because the coordinates are not. Both graphics that
+use it say "schematic" on their face. Drawing 294 invented dots on a real
+coastline would have made a claim the paper does not support.
+
+The radiocarbon graphic shows the SHAPE of the distributions - clustered,
+recurrent, one far older - and says on its face that these are not published
+probability values. The Cariguela bar has no endpoints, drawn dashed and
+running open, because the abstract gives none.
+
+The glass mechanism carries no numbers at all. That antimony and manganese
+oxidise the iron, and that their capacity is spent on remelting, is documented;
+ratios are not.
+
+
+THE SOUND
+
+Voice: ElevenLabs, one fixed voice used on every episode of this channel, at
+0.92 speed. Music: six pieces composed for this episode alone. Ambience: field
+recordings from a licensed library, never AI-generated - synthetic ambience
+sounds dead.
+
+One measurement worth passing on. This channel estimates episode length in
+CHARACTERS PER SECOND rather than words per minute, after a previous episode
+missed its target by 55 seconds. Predicted length here before the first
+recording: 8:59.9. Measured on the first cut: 8:53.0. The two most recent
+episodes came out at 15.49 and 15.47 characters per second while their words
+per minute differed by seven per cent - because words per minute also measures
+how long the words of the subject happen to be.
+
+
+LABELLING
+
+Every generated shot carries the EU AI-content mark and "AI RECONSTRUCTION"
+permanently in the lower left, and its shot number in the lower right. The
+official EU mark is shown large in the lower half of the frame from 0:03 to
+0:15. The drawn graphics carry no such mark, because they are not generated.
+
+No third-party images or footage are used anywhere in this film.
+
+Corrections are welcome and will be made out loud.

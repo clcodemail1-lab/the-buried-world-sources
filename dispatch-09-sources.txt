@@ -1,0 +1,262 @@
+THE BURIED WORLD
+Dispatch 09 - Nothing Here Happened All At Once
+Full source list
+
+Four papers, all in the Journal of Archaeological Science, carried by its
+September and October 2026 issues. They come from different fields and
+different continents, and they are together in one film because each of them
+takes the same habit apart: reading an archaeological pattern as one
+simultaneous event.
+
+🚨 A NOTE ON THOSE DATES, because it is the kind of thing this film is about.
+September and October are ISSUE dates, not publication days. Elsevier assigns a
+journal issue months ahead, and an article appears online long before the issue
+it is bound into. Crossref records only `published-print` for all four of these
+- there is no online date in the record at all - and the Crossref entries
+themselves were created on 30 July, 3 August, 25 August and 27 August 2026.
+That is the deposit date of the DOI, and for this publisher it sits at or very
+near the day the article went online - it is the closest thing to a publication
+day these records contain, and it is offered as that and not as more.
+
+An earlier version of this list, and of the film's commentary, said the papers
+were "published in September or October". That was wrong in exactly the way the
+film warns against: a date field was read as an event when it was a label. The
+commentary now names the issues as issues.
+
+Every DOI below was checked against the Crossref record - title, journal,
+volume, pages and author list, not merely clicked. That check is not decorum:
+in a previous dispatch a DOI that resolved perfectly turned out to belong to a
+different paper.
+
+WHAT THIS LIST HAS TO SAY ABOUT ITSELF, and it belongs at the top rather than
+in a footnote: the full texts of all four papers were not machine-readable from
+here. ScienceDirect refuses automated requests, and two repository copies sit
+behind bot checks. Every figure quoted in this film therefore comes from the
+authors' own abstract, plus background that is marked as background where it
+appears. Nothing in the film goes beyond what those abstracts state. Where a
+number would have needed the full text - how many times a piece of glass was
+remelted, the date of the burnt building, the name of the villa - the film says
+so instead of estimating.
+
+ONE THING THIS FILM DOES NOT SHOW: human remains. Not a bone, not a skull, not
+a tooth - in any shot, including the section on cannibalism. That section is
+carried by a drawn diagram and by pictures of places and instruments. The
+reason is not squeamishness: the finding being described is a chronology, and a
+picture of butchered bone would pull the attention exactly where the text is
+not looking.
+[01]  0:00   RECONSTRUCTION  A limestone coastal terrace in western Cyprus - reconstruction
+[02]  0:07   RECONSTRUCTION  A prehistoric room filled with stacked pottery - painted reconstruction
+[03]  0:16   RECONSTRUCTION  The broken face of a sun-dried mudbrick - reconstruction
+[04]  0:26   RECONSTRUCTION  A burnt layer in an excavation section - reconstruction
+[05]  0:36   RECONSTRUCTION  A floor of broken pottery sherds, from above - reconstruction
+[06]  0:44   RECONSTRUCTION  A surveying total station at the edge of a trench - reconstruction
+[07]  0:55   DIAGRAM         Where the Chalcolithic sits, and what it is
+[08]  1:06   RECONSTRUCTION  Finds trays of pottery sherds - reconstruction
+[09]  1:16   RECONSTRUCTION  Two sherds fitted back together - reconstruction
+[10]  1:27   DIAGRAM         One vessel, its sherds across the room, the refits between them
+[11]  1:35   DIAGRAM         The same refits, split into two separate deposits
+[12]  1:49   RECONSTRUCTION  The same room, only partly filled - painted reconstruction
+[13]  1:55   RECONSTRUCTION  A refit plot on a screen - reconstruction
+[14]  2:09   RECONSTRUCTION  A derelict mudbrick house - painted reconstruction
+[15]  2:18   DIAGRAM         The life of the building: use, dereliction, filling, fire, reuse
+[16]  2:26   RECONSTRUCTION  The mouth of a limestone cave in Andalusia - reconstruction
+[17]  2:37   DIAGRAM         The five taphonomic signatures, listed and not illustrated
+[18]  2:47   RECONSTRUCTION  A museum storeroom of finds boxes - reconstruction
+[19]  3:01   DIAGRAM         Three caves on one timeline, three separate bars
+[20]  3:10   DIAGRAM         What the dates do: clustered, recurrent, and one far older
+[21]  3:29   RECONSTRUCTION  A section through cave sediment - reconstruction
+[22]  3:42   RECONSTRUCTION  A radiocarbon preparation laboratory - reconstruction
+[23]  3:54   RECONSTRUCTION  Vermilion pigment in a dish - reconstruction
+[24]  4:06   DIAGRAM         One label across three separate episodes
+[25]  4:14   RECONSTRUCTION  An empty limestone cave chamber - reconstruction
+[26]  4:22   RECONSTRUCTION  Lowland tropical forest from above - reconstruction
+[27]  4:26   RECONSTRUCTION  A Maya lowland plaza in the late Classic - painted reconstruction
+[28]  4:34   DIAGRAM         294 sites in Belize: count exact, positions schematic
+[29]  4:48   RECONSTRUCTION  A polished section through a stalagmite - reconstruction
+[30]  4:56   DIAGRAM         Abandonment by region - the wetter half went first
+[31]  5:08   RECONSTRUCTION  A tropical freshwater lagoon - reconstruction
+[32]  5:23   RECONSTRUCTION  Raised fields in a wetland - painted reconstruction
+[33]  5:35   RECONSTRUCTION  A forest-covered mound - reconstruction
+[34]  5:44   RECONSTRUCTION  One fragment of ancient glass on a bench - reconstruction
+[35]  5:50   RECONSTRUCTION  A laser ablation sample chamber - reconstruction
+[36]  6:06   RECONSTRUCTION  Chunks of raw glass in a finds tray - reconstruction
+[37]  6:14   RECONSTRUCTION  Broken glass of many colours, heaped - reconstruction
+[38]  6:26   DIAGRAM         Why Roman glass is clear: antimony, manganese, iron
+[39]  6:38   DIAGRAM         Melt it again, and the capacity wears out
+[40]  6:47   RECONSTRUCTION  A glass fragment held against the sky - reconstruction
+[41]  7:00   RECONSTRUCTION  A late olive-green glass fragment - reconstruction
+[42]  7:15   DIAGRAM         Four papers, four scales
+[43]  7:22   RECONSTRUCTION  Four trays: a sherd, a pebble, a chart, a fragment of glass - reconstruction
+[44]  7:30   DIAGRAM         Each moment fans out into a sequence
+[45]  7:37   RECONSTRUCTION  Twenty thin layers within a hand's width - reconstruction
+[46]  7:53   DIAGRAM         Resolution: bag against sherd, region against site, phase against date
+[47]  8:07   RECONSTRUCTION  Dividers and the engraved edge of a rule - reconstruction
+[48]  8:11   RECONSTRUCTION  The weathered surface of ancient glass - reconstruction
+[49]  8:24   RECONSTRUCTION  An open trench at the end of the day - reconstruction
+[50]  8:37   RECONSTRUCTION  One tray, one sherd - reconstruction
+
+--------------------------------------------------------------------------
+THE PAPERS
+--------------------------------------------------------------------------
+
+ITEM 1 - THE BURNT BUILDING THAT WAS FILLED TWICE
+
+  Klinkenberg, V., Gavryushkina, M. and Hadjigavriel, M. (2026).
+  Unpacking the burnt building: 3D spatial analysis challenges single-event
+  interpretations of prehistoric house conflagration.
+  Journal of Archaeological Science 193, 106660. September 2026 issue;
+  Crossref record created 30 July 2026.
+  doi.org/10.1016/j.jas.2026.106660
+
+  WHAT WAS DONE: at Chlorakas-Palloures, a Chalcolithic settlement on the west
+  coast of Cyprus north of Paphos, a building that burned while filled with
+  stacks of ceramic and stone artefacts was excavated with every individual
+  sherd recorded separately in three dimensions. The refits between sherds were
+  then reconstructed inside a 3D GIS and placed back into the stratigraphy.
+
+  WHAT IT SHOWS: micro-histories of single vessels - and those show that the
+  sequence of destruction comprised at least two separate artefact depositions
+  rather than one event. The authors write that for Chalcolithic Cyprus the
+  results "unequivocally problematize" earlier interpretations of house
+  destruction, and call for a reassessment of the wider burnt building
+  phenomenon.
+
+  BACKGROUND, NOT FROM THIS PAPER: the site has been excavated since 2015 by
+  Leiden University and the University of Cyprus with the Department of
+  Antiquities, ahead of tourist development. The excavator's remark that a
+  mudbrick building is hard to burn and that fuel must have been brought in
+  comes from press coverage of the excavation, not from this article. The
+  statement that houses here were burned when already derelict, and that the
+  ground was often used again afterwards, comes from the project page of the
+  successor project IGNITE (University of Cyprus, 2025-2026). The film attributes
+  it to the project, not to the paper.
+
+  WHAT IS NOT CLAIMED: that the house burned twice. Two is the number of
+  depositions, not of fires. And no date is given for this particular building;
+  the film says "Chalcolithic", and the graphic that shows the period marks the
+  range as belonging to the period rather than to the building.
+
+
+ITEM 2 - THREE CAVES THAT WERE NEVER ONE THING
+
+  Saladie, P., Rodriguez-Hidalgo, A., Marginedas, F., Solari, A. and
+  Botella, M. C. (2026).
+  Multiphase human cannibalism in Neolithic southern Iberia: Chronological and
+  taphonomic evidence from Malalmuerzo, Cariguela, and Majolicas Caves.
+  Journal of Archaeological Science 194, 106666. October 2026 issue;
+  Crossref record created 25 August 2026.
+  doi.org/10.1016/j.jas.2026.106666
+
+  WHAT WAS DONE: three caves near Granada have been cited as textbook cases of
+  Neolithic cannibalism for decades - without direct radiocarbon dates and
+  without a standardised study of how the bones were damaged. This paper
+  supplies both: standardised taphonomic and demographic analysis together with
+  AMS radiocarbon dating of selected individuals from all three assemblages.
+
+  WHAT IT SHOWS: all three carry signs of systematic perimortem processing
+  compatible with cannibalism - cut marks from butchery, deliberate cranial
+  breakage, marrow extraction, boiling, human tooth marks. But each site has its
+  own signature. Malalmuerzo: a life-like demographic profile, blunt-force
+  cranial trauma, dates clustering tightly in the Early Neolithic at roughly
+  5300-4950 cal BC, consistent with a short concentrated episode that may have
+  involved interpersonal violence. Cariguela: repeated body processing including
+  skull-cup manufacture, across different phases of the Neolithic. Majolicas:
+  Late Neolithic, roughly 3950-3760 cal BC, less intensive long-bone
+  fragmentation, and human remains stained with cinnabar.
+
+  THE AUTHORS' OWN SUMMARY, quoted in the film: neither uniform nor synchronous,
+  but expressed through recurrent and context-dependent episodes.
+
+  WHAT THE FILM IS CAREFUL ABOUT: two of the Cariguela dates support recurrence;
+  a third is markedly older and, in the authors' words, "remains difficult to
+  interpret". An earlier draft of the script turned that into "the authors
+  cannot interpret it". It was corrected before recording - between difficult
+  and impossible lies exactly the distinction this film is about. The timeline
+  graphic gives Cariguela no endpoints for the same reason: none are published.
+
+
+ITEM 3 - THE DROUGHT THAT DOES NOT EXPLAIN THE PATTERN
+
+  McLellan, A., Metcalfe, S. E., Rushton, E. A. C., Akers, P. D.,
+  Barreda Bautista, B. de la, Mardero, S., Ambrogio Gali, O., Schrodt, F. and
+  Endfield, G. H. (2026).
+  Ancient Maya settlement abandonment and climate instability in Belize
+  (700-1600 CE): A spatial analysis of adaptive resilience.
+  Journal of Archaeological Science 193, 106661. September 2026 issue;
+  Crossref record created 3 August 2026.
+  doi.org/10.1016/j.jas.2026.106661
+
+  WHAT WAS DONE: 294 sites in Belize, their abandonment mapped against
+  high-resolution palaeoclimate data using relative-risk surfaces and cluster
+  analysis, across 700 to 1600 CE.
+
+  WHAT IT SHOWS: severe droughts occurred, and their effect was uneven. Western
+  and southern regions were abandoned earlier than the drier north-east, despite
+  receiving more annual rainfall. Sites near perennial water such as the New
+  River Lagoon stayed occupied for centuries while uplands and the upper reaches
+  of the major rivers were given up. The authors conclude that drought severity
+  was secondary to regional factors and adaptive strategies.
+
+  WHAT IS MARKED AS INTERPRETATION: wetland management appears in the paper as a
+  "potential determinant" of resilience. The film says likely, not proven, and
+  says it out loud.
+
+  A NOTE ON THE MAP IN THE FILM: the site positions shown are schematic. The
+  count is exact because the count is published; the coordinates are not, and
+  drawing 294 invented dots on a real coastline would have made a claim the
+  paper does not support. Both graphics say "schematic" on their face.
+
+  A NOTE ON WHERE THIS PAPER WAS FOUND: it circulated first as an SSRN preprint.
+  Under this channel's rule for the dispatch format, a preprint is not enough.
+  Crossref confirms it as a regular peer-reviewed article in the September issue,
+  which is why it is here.
+
+
+ITEM 4 - THE GLASS THAT KEEPS ITS OWN RECORD
+
+  Schibille, N., Tisseyre, P., Cormier, L. and Neuville, D. R. (2026).
+  Multi-analytical study of the effects of secondary working and recycling in
+  Roman glass.
+  Journal of Archaeological Science 194, 106681. October 2026 issue;
+  Crossref record created 27 August 2026.
+  doi.org/10.1016/j.jas.2026.106681
+
+  WHAT WAS DONE: 146 glass finds from a Roman villa in south-western France,
+  analysed by laser ablation ICP mass spectrometry for trace elements, with
+  optical absorption and Raman spectroscopy for the state of the iron.
+
+  WHAT IT SHOWS: four primary compositional groups plus three further groups
+  produced by recycling and mixing. In primary Roman glass, antimony and
+  manganese act as decolourants by promoting the oxidation of the iron that is
+  naturally present. On remelting their oxidative capacity diminishes and the
+  Fe2+/Fe3+ balance shifts back towards Fe2+ - visible in the optical absorption
+  spectra and corroborated by Raman. Only the fourth- to fifth-century HIMT
+  glass, showing minimal evidence of recycling, can be attributed reliably to
+  local secondary production; the earlier material is presumed to come from
+  secondary workshops elsewhere.
+
+  WHAT IS NOT CLAIMED, and the film says so in the commentary: a number of
+  remeltings. The paper reports groups, not cycles. The villa is not named in
+  the publicly available record either, so the film says "a Roman villa in
+  south-western France" and leaves it there.
+
+  BACKGROUND, NOT FROM THIS PAPER: that Roman raw glass was made in the eastern
+  Mediterranean is long-established and is not a finding of this study.
+
+
+--------------------------------------------------------------------------
+ON THE PICTURES
+
+  Every photographic-looking shot in this film is generated - there is no
+  photograph of any real find in it, and no real, identifiable object is
+  depicted. What is shown is an example of the TYPE: a pottery sherd, a
+  fragment of blue-green glass, a cave mouth in limestone. The prompts are in
+  the production repository.
+
+  The fifteen drawn graphics carry no AI label because they are not generated:
+  they are drawn in code, which is also why the labelling in them is correct.
+
+  No third-party images or footage are used anywhere in this film, so no
+  third-party rights apply.
+
+  Corrections are welcome and will be made out loud.
