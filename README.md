@@ -34,6 +34,7 @@ why, rather than quietly absorbing it.
 | 10 | The Only Way To Read Them Was To Destroy Them | [sources](episode-10-sources.txt) | [method](episode-10-method.txt) |
 | 11 | The Four Under The Stairs | [sources](episode-11-sources.txt) | [method](episode-11-method.txt) |
 | 12 | Nobody Ever Found One In Rome | [sources](episode-12-sources.txt) | [method](episode-12-method.txt) |
+| 13 | The Oldest Plague | [sources](episode-13-sources.txt) | [method](episode-13-method.txt) |
 
 ## Dispatches
 
