@@ -1,0 +1,180 @@
+THE BURIED WORLD
+Episode 13 - The Oldest Plague
+
+How this film was made, and what the fact-check changed
+
+Last updated 4 September 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel is checked before it is recorded, and the
+corrections are published. Not because they are flattering - this one is not -
+but because a channel that uses machine-generated images has no standing to
+ask for trust unless it shows its working.
+
+This episode has an unusual entry in that list: a place where I did not merely
+get a number wrong, but had a finding exactly backwards, and said so in the
+film with an air of scrupulousness. That correction is number 3.
+
+
+THE SOURCE SITUATION, AND HOW IT CHANGED MID-PRODUCTION
+
+The script was written against the ABSTRACT of the Nature paper. The full text
+was not machine-accessible: nature.com redirects to an authentication wall, and
+the bioRxiv preprint answered every request with HTTP 429. The first version of
+this file said so and listed four things the film therefore left out.
+
+Then the full text arrived, obtained through a university library, and it
+changed four things - three of which confirmed the caution, and one of which
+exposed a mistake.
+
+The lesson worth publishing is the shape of that: a carefully documented
+abstract-only chain is a stopgap, not a substitute. It kept three errors out of
+the film. It let a fourth one in, because an abstract is a SELECTION of two
+hundred and fifty words from a twenty-page paper, and what it leaves out is not
+thereby absent from the work.
+
+
+1. FORTY-TWO OR FORTY-SIX INDIVIDUALS - SETTLED BY ARITHMETIC
+
+Nature's own press release says 42 individuals were sampled. The press
+coverage says 46. Both say 18 tested positive.
+
+The abstract gives neither figure. It gives a detection rate: 39 per cent.
+
+    18 of 46 = 39.1 per cent   - matches
+    18 of 42 = 42.9 per cent   - does not
+
+So 46 is right, and the full text confirmed it: "We generated shotgun-sequenced
+ancient DNA from 46 Late Neolithic individuals."
+
+The arithmetic beat the more official source. Two sources that contradict each
+other are not always a matter of judgement; where a third figure RECONCILES one
+of them and not the other, the sum decides.
+
+
+2. THE END OF THE SECOND OUTBREAK PHASE - CUT, AND STILL CUT
+
+Sources disagreed: 4,425 or 4,235 cal BP. Without the full text the figure was
+unresolvable, so it was dropped under the standing rule that a number the
+sources do not carry uniformly gets cut rather than picked.
+
+The full text settles it at 5315-4235 cal BP, and adds a qualification no
+secondary source carried: that range has a long tail because the second phase
+rests on only TWO dates, and the most likely window is about 5050-4850 cal BP.
+
+The figure stays out of the spoken text anyway - not because it is uncertain
+now, but because a range with a caveat attached costs more narration time than
+it earns. It is in the source list instead.
+
+
+3. THE MARMOTS - WHERE I HAD IT BACKWARDS
+
+This is the correction that matters.
+
+The press coverage all named marmots as the likely source. The abstract does
+not mention them. I concluded that this was a journalistic addition, and wrote
+into the film:
+
+    "Press coverage of the Baikal paper reached for marmots ... It is a
+    reasonable idea. It is not, however, a finding of the paper, and it is
+    not treated as one here."
+
+The full text devotes half a column to marmots, and the discussion says:
+
+    "These outbreaks were probably the result of zoonotic spillover from wild
+    marmot populations at Lake Baikal."
+
+The authors set out the evidence: Marmota sibirica is the principal
+contemporary reservoir of plague in the region; hunting them for meat and fur
+still causes infections, particularly in young men during skinning and
+butchery; and prehistoric marmot procurement at these sites is attested by
+marmot teeth used as grave goods - though in Early Neolithic Kitoi graves
+rather than the later ones.
+
+How it happened: I read an absence in the abstract as an absence in the paper.
+Finding nothing is only a finding once the search was complete, and my search
+had covered two hundred and fifty words of a twenty-page article.
+
+It was the expensive kind of error, because the film would not merely have
+omitted something. It would have ASSERTED THE OPPOSITE - and done it in a
+sentence that congratulated itself on being careful. A viewer who read the
+paper would have caught the film preening about its own accuracy.
+
+Act 7 was rewritten completely. It now carries both of the authors' answers -
+droplet spread within the group, a continent-wide rodent reservoir across the
+distance - and the marmots as what they are: the probable origin.
+
+
+4. THE NAMES OF THE FOUR CEMETERIES - NOT GUESSED, AND JUST AS WELL
+
+The five best-documented mid-Holocene cemeteries of the Cis-Baikal region are
+well known from the literature: Shamanka II, Lokomotiv, Ust'-Ida I,
+Khuzhir-Nuge XIV and Kurma XI. Which four the study used was not in the
+abstract, so the film named none of them.
+
+The full text: Ust'-Ida I, Shumilikha, Bratskii Kamen and Serovo.
+
+Of my four obvious candidates, exactly ONE was right. Three plausible,
+unsupported names would have gone into the film. The episode now names Bratskii
+Kamen - where the grave of three girls was found - and the river Angara, on
+whose banks all four sites lie. Both are in the paper, word for word.
+
+
+5. "TWICE IN EIGHT YEARS" - COUNTED INSTEAD OF ESTIMATED
+
+The draft said the picture "has changed twice in eight years". That was an
+estimate dressed as a fact. There are four papers: Spyrou 2018, Andrades
+Valtuena 2022, Macleod 2026 and Sun 2026 - two of them five weeks apart. The
+line now names the years.
+
+
+6. THE SUPERANTIGEN - SHARPENED, NOT TRIMMED
+
+The draft said a superantigen "provokes the immune system into an enormous,
+undirected response". True, and useless: nobody knows how enormous that is.
+
+The line now carries the magnitudes. An ordinary infection activates on the
+order of one T-cell in a hundred thousand. A superantigen can switch on one in
+five. Yersinia pseudotuberculosis, which carries this locus, is the only
+gram-negative bacterium known to produce a superantigen at all.
+
+The limit is spoken in the film as well: nobody has shown that this locus is
+what killed those children.
+
+
+7. THE ypm LOCUS - A GRAPHIC THAT CLAIMED MORE THAN THE PAPER
+
+A drawn graphic in act 8 first showed the later plague lineages with the label
+"ypm - absent". The paper does not say that. It says that TEN OPEN READING
+FRAMES AROUND the locus are present in the ancestral form and absent in later
+ones - a different and narrower statement.
+
+The graphic now reads "ypm + 10 flanking ORFs" against "flanking ORFs absent".
+A graphic that simplifies still asserts, and this one had asserted something
+the source does not.
+
+
+WHAT WAS CUT AND NOT REPLACED
+
+- A death toll. The paper reports detection rates, not casualties.
+- The end date of the second outbreak phase (see 2).
+- The names of three cemeteries (see 4).
+- The 2022 Kyrgyzstan finding on the origin of the Black Death of 1347.
+  Documented and interesting, but a different event on a different timescale;
+  in a film about a lineage 5,500 years old it would have blurred two eras.
+
+
+A NOTE ON THE PICTURES
+
+Thirty-eight of the 86 shots are drawn rather than generated - the highest
+share this channel has run, and the reason is that the subject is data.
+
+The pictures also carry a restriction that is worth stating. The victims of
+these outbreaks were mostly children between seven and eleven. There is no
+depiction of a sick, dying or dead person in this film, and none of a child.
+Where the narration speaks about them, the picture is a grave plan or an age
+distribution. A drawn grave number is what survives of those three girls at
+Bratskii Kamen; a painted face would have been an invention at the one place
+where this film can least afford one.
