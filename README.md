@@ -49,6 +49,7 @@ why, rather than quietly absorbing it.
 | 07 | What Lay Next To It | [sources](dispatch-07-sources.txt) | [method](dispatch-07-method.txt) |
 | 08 | The Carrier Was Never The Message | [sources](dispatch-08-sources.txt) | [method](dispatch-08-method.txt) |
 | 09 | Nothing Here Happened All At Once | [sources](dispatch-09-sources.txt) | [method](dispatch-09-method.txt) |
+| 10 | The Animals Were Keeping The Records | [sources](dispatch-10-sources.txt) | [method](dispatch-10-method.txt) |
 | 13 | The Sickle Was Under Her Chin | [sources](dispatch-13-sources.txt) | [method](dispatch-13-method.txt) |
 
 ## Marking
