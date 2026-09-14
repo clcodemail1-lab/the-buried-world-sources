@@ -1,0 +1,122 @@
+THE BURIED WORLD
+Dispatch 10 - The Animals Were Keeping The Records
+How this film was made, and what the fact check changed
+
+
+WHY THESE FOUR PAPERS
+
+They were not chosen because they are about animals. They were chosen because
+each one answers a question about PEOPLE that no person wrote down, and in each
+case the evidence is an animal that lived alongside them. That is the whole
+frame of the film, and it can be said in one sentence without a technical term
+in it: the animals kept the books.
+
+That constraint is deliberate and it is new. The previous dispatch in this
+series was built around a frame that needed a specialist word to work at all,
+and the channel's own verdict on it was that the subject was uninteresting
+because it was too specific. So this one carries a rule: if the idea cannot be
+stated in one sentence that a stranger understands, it is not the idea.
+
+The papers came from a search of the current volumes of the Journal of
+Archaeological Science, its Reports series, Antiquity, Archaeological and
+Anthropological Sciences, the Journal of Anthropological Archaeology and the
+International Journal of Osteoarchaeology, filtered to items deposited in the
+three weeks before the run. Peer-reviewed publication is a condition: an
+excavation announcement without a paper is not material for this series, no
+matter how photogenic.
+
+
+SIX THINGS THE FACT CHECK CHANGED
+
+1. "Twenty-one dogs" became "twenty-one dog samples". The abstract says
+   samples. Samples and individuals are not the same count, and the difference
+   is exactly the kind of small slide this series is supposed to catch.
+
+2. A sentence saying "wild animals were buried too" was cut. It is a reasonable
+   inference from the fourth paper, and it is not what the abstract states. The
+   commentary now says only what a grave does and does not establish.
+
+3. The number three went back IN. An earlier draft described animal burials as
+   sorting into "distinct kinds of treatment" without a count, which was vaguer
+   than the source: the abstract says three general categories. Being vaguer
+   than your source is also a form of inaccuracy.
+
+4. No publication month appears anywhere in the film. In the previous dispatch,
+   a Crossref field called `published` was read as an event when it was a
+   label - Elsevier assigns issue dates months in advance - and the commentary
+   had to be re-cut. All four records here again carry only `published-print`,
+   so the film names no month at all. A date that is not stated cannot be
+   wrong, and the source list explains the situation in full.
+
+5. The lineage labels came out. The dog paper works with named haplogroups, and
+   naming them in a nine-minute film would have added a term that the viewer
+   has to look up in order to hear the sentence. The commentary says "maternal
+   lines" and "the western half of Eurasia".
+
+6. "Nine thousand years ago" was checked against the excavation literature
+   rather than against the paper. The paper dates the abandonment horizon to
+   the early seventh millennium BC; the Final Pre-Pottery Neolithic occupation
+   at Motza is reported at about 7100-6700 cal BC. Both fit the phrase, and the
+   source list carries the range.
+
+
+WHAT THE FILM COULD NOT GET AT
+
+The full texts were not readable from here: ScienceDirect refuses automated
+requests. Every figure in the commentary therefore comes from the authors' own
+abstracts, with background marked as background. Where a number would have
+required the full text, the film says so instead of estimating - how many
+animals were in each assemblage, what the three burial categories are called,
+which household any cat belonged to.
+
+This is the same limitation as the previous dispatch, and it is stated at the
+top of the source list rather than in a footnote.
+
+
+TWO PICTURES THAT WERE THROWN AWAY
+
+The first version of shot [04] was meant to be a vertical section through an
+occupation layer. What came back read as a burial: bones spread across a
+horizontal surface, exactly the image this film has no business showing. It was
+not cropped or relabelled, it was regenerated with a tighter frame and a
+different subject - plaster fragments and charcoal instead of bone.
+
+The first version of shot [33] put its object at the edge of the frame with the
+middle empty. Also regenerated rather than salvaged in the edit.
+
+Both follow the same rule the channel has learned the hard way: when an image
+keeps coming back wrong, the fix is a different frame or a different object,
+never another sentence of prohibition in the prompt.
+
+
+A TOOL THAT LIED, AND WHAT IT COST
+
+The script that downloads generated images reported both replacements as
+present, with file sizes, and they were the OLD images. The call had been made
+with image numbers but no addresses, and the loop that reads those arguments
+only handled them in pairs, so nothing was forced and nothing was re-fetched.
+
+Two pictures were briefly judged that the model had never produced. The tool
+now forces a re-fetch when a number is named on its own, and the incident is
+recorded here because it is the second time in this project that a success
+message described a FILE rather than an ACTION.
+
+
+WHAT IS DRAWN AND WHAT IS GENERATED
+
+Seventeen of the forty-seven shots are diagrams drawn in code. They carry no AI
+label because nothing about them is generated, and that is also why their
+labelling is correct - a picture model cannot be trusted with a number on an
+axis.
+
+The diagrams state their own limits on the picture: the map of the southern
+Levant says that the count is from the paper and the positions are schematic;
+the scatter plots say that they show the shape of a result and carry no
+published values; the burial diagram says that the three categories are not
+named here.
+
+Every photographic-looking shot is generated, and none of them depicts a real,
+identifiable find. No third-party images or footage are used, so no third-party
+rights apply.
+
+Corrections are welcome and will be made out loud.

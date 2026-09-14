@@ -1,0 +1,238 @@
+THE BURIED WORLD
+Dispatch 10 - The Animals Were Keeping The Records
+Full source list
+
+Four papers. In three of them a question about people is answered by an animal
+that lived alongside them: why one Stone Age village held while its neighbours
+emptied, how far an early Chinese state reached, who in a medieval Baltic port
+was eating what. The fourth is the condition attached to all of it - that the
+reading only works once you know what the animal was.
+
+Three are in the Journal of Archaeological Science, one in its companion
+Journal of Archaeological Science: Reports.
+
+A NOTE ON DATES, because a previous dispatch got this wrong and the correction
+is worth keeping in sight. Elsevier assigns an issue months in advance, and an
+article appears online long before the issue it is bound into. Crossref records
+only `published-print` for all four of these papers - October 2026 for the
+three in JAS, November 2026 for the one in Reports - and there is no online
+date in the record at all. The Crossref entries themselves were created on
+26 August, 10 September, 12 September and 13 September 2026. That is the
+deposit date of the DOI, and for this publisher it sits at or very near the day
+the article went online. This film therefore names no publication month at all,
+in the commentary or here: the issue dates are labels, and the deposit dates
+are the closest thing to an event these records contain.
+
+Every DOI below was checked against the Crossref record - title, journal,
+volume, pages and author list, not merely clicked. That check is not decorum:
+in an earlier dispatch a DOI that resolved perfectly turned out to belong to a
+different paper.
+
+WHAT THIS LIST HAS TO SAY ABOUT ITSELF: the full texts of all four papers were
+not machine-readable from here. ScienceDirect refuses automated requests. Every
+figure quoted in this film therefore comes from the authors' own abstract, plus
+background that is marked as background where it appears. Nothing in the film
+goes beyond what those abstracts state. Where a number would have needed the
+full text - how many animals were in each assemblage, which lineages carry
+which labels, what the three categories of animal burial are called - the film
+says so instead of estimating.
+
+ONE THING THIS FILM DOES NOT SHOW: slaughter. The first paper turns on culling
+and the fourth on burial, and there is no carcass, no blood and no killing in
+any shot. What is shown is measurement: trays, callipers, sections, benches.
+The reason is not squeamishness. The findings here are counts and comparisons,
+and a picture of a dying animal would carry a claim none of these papers make.
+[01]  0:00   RECONSTRUCTION  A dry terraced hillside in the Judean highlands - reconstruction
+[02]  0:05   RECONSTRUCTION  A dense Stone Age village of mudbrick houses - painted reconstruction
+[03]  0:14   RECONSTRUCTION  The same kind of village, abandoned - painted reconstruction
+[04]  0:21   RECONSTRUCTION  An ashy occupation layer in a section - reconstruction
+[05]  0:32   RECONSTRUCTION  A finds tray of cleaned animal bones - reconstruction
+[06]  0:42   RECONSTRUCTION  An animal molar, close - reconstruction
+[07]  0:51   DIAGRAM         Four papers, four animals, four questions about people
+[08]  0:58   RECONSTRUCTION  Three trays of bones sorted by size - reconstruction
+[09]  1:13   DIAGRAM         The southern Levant: the count is from the paper, the positions are schematic
+[10]  1:22   RECONSTRUCTION  An open excavation on a dry hillside - reconstruction
+[11]  1:33   DIAGRAM         Twelve settlements plotted: two groups that do not overlap
+[12]  1:43   RECONSTRUCTION  Sheep and goats grazing at a distance - painted reconstruction
+[13]  1:53   RECONSTRUCTION  Callipers set against an animal jaw - reconstruction
+[14]  2:08   DIAGRAM         The line between the groups is how much pig
+[15]  2:22   RECONSTRUCTION  A pig enclosure beside a house wall - painted reconstruction
+[16]  2:34   DIAGRAM         Body size across the phases, and the age profile of the herd
+[17]  2:46   RECONSTRUCTION  Open grazing land from a ridge - reconstruction
+[18]  3:04   DIAGRAM         What the paper shows, and what it proposes
+[19]  3:14   DIAGRAM         Erlitou on the Central Plains - schematic outline
+[20]  3:28   RECONSTRUCTION  An early Bronze Age compound on the loess plain - painted reconstruction
+[21]  3:42   RECONSTRUCTION  A molecular biology clean bench - reconstruction
+[22]  3:52   DIAGRAM         Maternal lines as branches; one belongs to western Eurasia
+[23]  4:06   DIAGRAM         Directions of origin, drawn as arrows
+[24]  4:23   RECONSTRUCTION  A dish of husked millet - reconstruction
+[25]  4:42   RECONSTRUCTION  The edge of a settlement at dusk, a dog crossing far off - painted reconstruction
+[26]  4:45   DIAGRAM         A lineage that sits earlier than the accepted sequence allows
+[27]  5:01   RECONSTRUCTION  A medieval Baltic port from the water - painted reconstruction
+[28]  5:13   RECONSTRUCTION  A river mouth on a flat northern coast - reconstruction
+[29]  5:22   RECONSTRUCTION  Two trays: grain and fish bones - reconstruction
+[30]  5:34   DIAGRAM         Twelve cats measured the standard way: one cloud
+[31]  5:41   DIAGRAM         The same twelve, measured finer: pulled apart
+[32]  5:59   RECONSTRUCTION  An isotope ratio mass spectrometer - reconstruction
+[33]  6:07   RECONSTRUCTION  A small animal jawbone on a bench - reconstruction
+[34]  6:21   RECONSTRUCTION  A warehouse quay, a cat far down the wall - painted reconstruction
+[35]  6:32   DIAGRAM         The city was not uniform; the measurement was
+[36]  6:38   RECONSTRUCTION  An empty grave pit after excavation - reconstruction
+[37]  6:50   DIAGRAM         Three kinds of animal burial, unnamed
+[38]  7:04   RECONSTRUCTION  A dog-like animal crossing open ground - painted reconstruction
+[39]  7:12   DIAGRAM         The chain from grave to dog, and where it breaks
+[40]  7:23   RECONSTRUCTION  A comparative collection of animal skulls - reconstruction
+[41]  7:30   RECONSTRUCTION  A measuring rule across a bone - reconstruction
+[42]  7:36   RECONSTRUCTION  Four trays: a molar, a jaw, a vertebra, and an empty one - reconstruction
+[43]  7:52   DIAGRAM         Three questions about people, three answers read off animals
+[44]  7:58   RECONSTRUCTION  Twenty thin layers within a hand's width - reconstruction
+[45]  8:10   DIAGRAM         First establish what the animal was, then ask it
+[46]  8:17   RECONSTRUCTION  A bench with callipers, brush and wipe - reconstruction
+[47]  8:30   RECONSTRUCTION  One tray, one tooth - reconstruction
+
+--------------------------------------------------------------------------
+THE PAPERS
+--------------------------------------------------------------------------
+
+ITEM 1 - THE VILLAGE THAT HELD, AND THE PIGS
+
+  Katzir, N., Khalaily, H., Vardi, J. and Sapir-Hen, L. (2026).
+  Subsistence strategy and the divergent fates of PPNB megasites: Pig
+  intensification as a key to settlement persistence into the seventh
+  millennium BC.
+  Journal of Archaeological Science 194, 106683. October 2026 issue;
+  Crossref record created 26 August 2026. Open access, CC BY 4.0.
+  doi.org/10.1016/j.jas.2026.106683
+
+  WHAT WAS DONE: a new faunal assemblage from Motza, a large settlement in the
+  Judean hills that stayed densely occupied through the Final Pre-Pottery
+  Neolithic B, was analysed and its economic structure compared with eleven
+  contemporary settlements of the same class across the southern Levant.
+
+  WHAT IT SHOWS: settlements that persisted and settlements that were abandoned
+  occupy distinct, non-overlapping regions of the multivariate space. The
+  separation is not driven solely by the dominant taxa - sheep and goats - but
+  by how far pig husbandry was integrated into the subsistence economy.
+  Biometric and demographic data from different phases at Motza indicate
+  managed production rather than incidental presence: body size reduction and
+  intensive juvenile culling.
+
+  WHAT IS PROPOSED, AND MARKED AS A PROPOSAL IN THE FILM: that pig
+  intensification worked as a settlement-proximate, household-level
+  provisioning strategy, reducing dependence on landscape-scale grazing and
+  buffering the logistical costs of aggregation.
+
+  BACKGROUND, NOT FROM THIS PAPER: Motza is a site of roughly 30 hectares in
+  the hills west of Jerusalem, with the Final PPNB occupation dated in the
+  excavation reports to about 7100-6700 cal BC. The film's "nine thousand years
+  ago" refers to that range.
+
+  WHAT IS NOT CLAIMED: that pigs saved anybody. The paper demonstrates a
+  pattern and offers a reason for it.
+
+
+ITEM 2 - TWENTY-ONE DOGS AND THE TRAFFIC INTO AN EARLY STATE
+
+  Xiaokaiti, X., Li, Z., Zhao, X., Zhao, H. and Wang, X. (2026).
+  Ancient mitochondrial genomes of Erlitou dogs reveal diverse population
+  dynamics during early state formation in China.
+  Journal of Archaeological Science 194, 106692. October 2026 issue;
+  Crossref record created 13 September 2026.
+  doi.org/10.1016/j.jas.2026.106692
+
+  WHAT WAS DONE: 21 ancient dog samples from Erlitou (c. 1750-1520 cal BC) in
+  the Central Plains were analysed for maternal genetic structure - the
+  mitochondrial line, which passes only from mother to offspring.
+
+  WHAT IT SHOWS: high maternal diversity, which phylogenetic and network
+  analyses suggest derives from multiple geographic sources; one individual
+  carries a western Eurasian lineage. Combined with previously published
+  isotopic evidence for millet-based diets, the authors read this as dogs of
+  diverse maternal lineages being incorporated into the local agricultural
+  system. They also note that one lineage identified at Erlitou traces its
+  presence in the Central Plains to the Early Bronze Age, so established
+  chronologies of canine lineage replacement require reassessment.
+
+  WHY NO LINEAGE NAMES APPEAR IN THE FILM: the haplogroup labels are precisely
+  the kind of term that has to be looked up before it means anything. The
+  commentary says "maternal lines" and "the western half of Eurasia", which is
+  what the labels amount to here.
+
+  WHAT IS NOT CLAIMED: anything resting on that single western Eurasian animal.
+  It is one dog, and the film says so.
+
+
+ITEM 3 - WHAT THE CATS OF A MEDIEVAL PORT WERE EATING
+
+  Krajcarz, M., Choy, K., Yun, H., Makowiecki, D., Grezak, A., Iwaszczuk, U.,
+  Van Neer, W. and Krajcarz, M. (2026).
+  Tracking individual dietary choices in complex past food webs: Integrated
+  bulk collagen and compound-specific stable isotope analysis of urban cats.
+  Journal of Archaeological Science 194, 106687. October 2026 issue;
+  Crossref record created 12 September 2026.
+  doi.org/10.1016/j.jas.2026.106687
+
+  WHAT WAS DONE: cat bone collagen from medieval Gdansk and six regional
+  comparative sites was measured two ways - bulk collagen carbon, nitrogen and
+  sulphur, and compound-specific carbon and nitrogen on individual amino acids.
+  Cats are used as dietary proxies because they forage opportunistically and so
+  sample the resources around them.
+
+  WHAT IT SHOWS: despite apparent isotopic homogeneity in the conventional
+  two-isotope space, the expanded framework reveals substantial
+  individual-level dietary variability - marine baselines, grain imported from
+  inland regions, freshwater and terrestrial sources - and individual trophic
+  positions that are uncorrelated with the bulk values.
+
+  THE POINT THE FILM TAKES FROM IT: a uniform result can be an artefact of the
+  instrument.
+
+  WHAT IS NOT CLAIMED: which household any cat belonged to. That is not in the
+  data, and the film says so.
+
+
+ITEM 4 - A DELIBERATELY BURIED CANID IS NOT NECESSARILY A DOG
+
+  Siegenthaler, A., Larson, G. and Charlton, S. (2026).
+  A deliberately buried canid is not necessarily a dog.
+  Journal of Archaeological Science: Reports 75, 106049. November 2026 issue;
+  Crossref record created 10 September 2026. Open access, CC BY-NC 4.0.
+  doi.org/10.1016/j.jasrep.2026.106049
+
+  WHAT WAS DONE: the correlation between domestic status and burial was
+  analysed within the general practice of animal inhumation. Canid interment,
+  alone or as part of a human burial, is documented worldwide across the last
+  15,000 years, and such burials have been used extensively to support claims
+  about the emergence of dog domestication.
+
+  WHAT IT SHOWS: three general categories of animal interment - and that animal
+  burial alone cannot be taken as evidence for domestic status.
+
+  WHAT IS NOT CLAIMED HERE, AND THE FILM KEEPS TO IT: the abstract does not
+  name the three categories, and it does not say which wild species were
+  buried. The commentary therefore states only what a grave does and does not
+  establish.
+
+
+--------------------------------------------------------------------------
+ON THE PICTURES
+
+  Every photographic-looking shot in this film is generated - there is no
+  photograph of any real find in it, and no real, identifiable object is
+  depicted. What is shown is an example of the TYPE: a cleaned jawbone, a tray
+  of bones, a grave pit after excavation. The prompts are in the production
+  repository.
+
+  The seventeen drawn graphics carry no AI label because they are not
+  generated: they are drawn in code, which is also why the labelling in them is
+  correct.
+
+  Living animals appear only in painted reconstructions, at a distance and
+  turned away. That is a decision about the argument, not about taste: these
+  animals are instruments in the papers, and a portrait would say something
+  the papers do not.
+
+  No third-party images or footage are used anywhere in this film, so no
+  third-party rights apply.
+
+  Corrections are welcome and will be made out loud.
