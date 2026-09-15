@@ -1,0 +1,230 @@
+THE BURIED WORLD
+Dispatch 11 - Nothing Of It Survived. They Found It Anyway.
+Full source list
+
+Four papers with one shape in common: the object under discussion no longer
+exists, and it is established anyway. A bed, a house, a piece of cloth, and a
+courtly practice. In every case the proof is a by-product - the seeds that
+travelled in the stuffing, the plaster that was pressed against the timber, the
+crushed stone that fixed a colour, the bones of what a hawk was fed.
+
+Two are in the Journal of Archaeological Science: Reports, one in Antiquity,
+one in the International Journal of Osteoarchaeology.
+
+WHAT THIS LIST HAS TO SAY ABOUT ITSELF, AND IT IS NOT THE SAME FOR ALL FOUR.
+One paper - the Czarnowko cemetery, published open access in Antiquity - was
+read IN FULL. The other three were not reachable: ScienceDirect and Wiley both
+refuse automated requests, and the same refusal came back through a browser.
+For those three, every figure quoted in the film comes from the authors' own
+abstract and nothing else.
+
+That difference is audible in the film, and it should be. Three things in the
+first section exist nowhere in that paper's abstract: that not one of the
+twenty-three samples contained moss although one deposit had been catalogued
+as a moss pillow for years; that the cattail fluff is essentially gone because
+each hair is about seventeen microns thick and shatters into single cells; and
+that the circular impression in one deposit is thirty-two millimetres across
+and matches the foot of a silver cup from the same grave exactly. Nothing of
+that kind was available for the other three cases, so those sections stay
+closer to the surface. Where a number would have needed a full text - how many
+daub fragments were analysed, how much crushed stone was recovered, how many
+bird bones the six per cent represents - the film says nothing rather than
+estimating.
+
+A NOTE ON DATES. Two of these records carry a real online publication date
+(11 September and 26 August 2026). The two Elsevier records carry only
+`published-print` - November 2026 - which is an issue label assigned months in
+advance, not an event; their Crossref entries were created on 31 August and
+10 September 2026, which for this publisher sits at or very near the day the
+article went online. Because the four are not comparable in this respect, the
+film names no month at all. A previous dispatch read that label as a date and
+had to be re-cut.
+
+Every DOI below was checked against the Crossref record - title, journal,
+volume, pages and author list, not merely clicked. That check is not decorum:
+in an earlier dispatch a DOI that resolved perfectly turned out to belong to a
+different paper.
+
+ONE THING THIS FILM DOES NOT SHOW: human remains. Three of the four cases
+involve graves or cemeteries, and there is no body, no bone and no burial scene
+in any shot. What is shown is the empty cut, the tray, the section, the bench.
+The reason is not squeamishness - it is that the findings here are about
+materials, and a picture of a burial would carry a claim none of these papers
+make.
+[01]  0:00   RECONSTRUCTION  An excavation area cut into pale Baltic sand - reconstruction
+[02]  0:05   RECONSTRUCTION  A grave cut with a dark stain in its floor and nothing in it - reconstruction
+[03]  0:13   RECONSTRUCTION  A fragment of compacted organic matter in a finds tray - reconstruction
+[04]  0:22   RECONSTRUCTION  A museum box, the index card lying face down - reconstruction
+[05]  0:26   DIAGRAM         What the thirteen samples contained, and what they did not
+[06]  0:29   RECONSTRUCTION  A microscope bench with a dish of dark fragments - reconstruction
+[07]  0:40   RECONSTRUCTION  Cattail seeds at high magnification - reconstruction
+[08]  0:47   DIAGRAM         Czarnowko on the southern Baltic: schematic, no coastline drawn
+[09]  1:01   RECONSTRUCTION  An empty grave cut, cleaned and scraped flat - reconstruction
+[10]  1:08   RECONSTRUCTION  A stand of cattail at the edge of standing water - reconstruction
+[11]  1:19   RECONSTRUCTION  A burst cattail head, the fluff pushing out - reconstruction
+[12]  1:32   RECONSTRUCTION  A sack of plant down beside a roll of wool - painted reconstruction
+[13]  1:40   DIAGRAM         The hair: about seventeen thousandths of a millimetre
+[14]  1:48   DIAGRAM         The seed beside it: about one millimetre
+[15]  1:58   DIAGRAM         The same handful when it went in, and when it came out
+[16]  2:07   RECONSTRUCTION  Woven wool at very high magnification - reconstruction
+[17]  2:20   RECONSTRUCTION  A circular impression pressed into the organic mass - reconstruction
+[18]  2:27   RECONSTRUCTION  The foot of a small silver cup, inverted - reconstruction
+[19]  2:36   RECONSTRUCTION  A cup standing on soft cloth - painted reconstruction
+[20]  2:43   RECONSTRUCTION  Corroded bronze and iron in a finds tray - reconstruction
+[21]  2:50   DIAGRAM         Why these four survived: preservation is not evenly spread
+[22]  3:00   DIAGRAM         Pillows, mattresses, or linings - the paper offers three
+[23]  3:14   RECONSTRUCTION  Four trays, four graves - reconstruction
+[24]  3:22   DIAGRAM         Borsodivanka on the Hungarian plain: schematic
+[25]  3:30   RECONSTRUCTION  A low settlement mound on flat ploughed ground - reconstruction
+[26]  3:45   DIAGRAM         A timber frame with mud packed over it - schematic section
+[27]  3:59   DIAGRAM         Fired, and the shape of the timber stays behind
+[28]  4:06   RECONSTRUCTION  A lump of fired daub with a timber channel in it - reconstruction
+[29]  4:16   RECONSTRUCTION  Daub fragments and thin sections on a bench - reconstruction
+[30]  4:34   RECONSTRUCTION  A polished section through fired daub - reconstruction
+[31]  4:46   RECONSTRUCTION  A timber-framed wall, cut away - painted reconstruction
+[32]  4:56   DIAGRAM         Castro de Sao Martinho in central Portugal: schematic
+[33]  5:06   DIAGRAM         Four kinds of find from a fireplace and an adjacent pit
+[34]  5:23   RECONSTRUCTION  An excavated hearth after the ash was lifted - reconstruction
+[35]  5:28   RECONSTRUCTION  Freshly crushed iron-rich stone - reconstruction
+[36]  5:36   DIAGRAM         What a mordant does, and what happens without one
+[37]  5:45   RECONSTRUCTION  Dry seed capsules from a wild shrub - reconstruction
+[38]  5:54   RECONSTRUCTION  Two strips of linen, one dyed - reconstruction
+[39]  5:57   RECONSTRUCTION  A granite hilltop under rock-rose scrub - reconstruction
+[40]  6:11   RECONSTRUCTION  Spindle whorls in a finds tray - reconstruction
+[41]  6:17   RECONSTRUCTION  Small bird bones laid out in a tray - reconstruction
+[42]  6:23   DIAGRAM         Tver in north-west Russia: schematic
+[43]  6:34   DIAGRAM         What the birds were for: hawk, decoy, feed, quarry
+[44]  6:46   DIAGRAM         Raptors inside the kremlin walls, and outside them
+[45]  6:53   RECONSTRUCTION  A hawk on a block in open ground - painted reconstruction
+[46]  7:04   RECONSTRUCTION  A river bank in late-winter thaw - reconstruction
+[47]  7:15   RECONSTRUCTION  A trench between masonry footings - reconstruction
+[48]  7:28   DIAGRAM         The four things to look for where the writing is silent
+[49]  7:41   DIAGRAM         Four objects that are gone
+[50]  7:44   DIAGRAM         And the four by-products that are not
+[51]  7:57   RECONSTRUCTION  Seeds, fired daub, crushed stone, bird bone - reconstruction
+[52]  8:06   RECONSTRUCTION  A museum store shelf of identical boxes - reconstruction
+[53]  8:17   RECONSTRUCTION  A microscope with the brown layer under it - reconstruction
+[54]  8:25   DIAGRAM         Not what is here - what was here, and what it would have left
+
+--------------------------------------------------------------------------
+THE PAPERS
+--------------------------------------------------------------------------
+
+ITEM 1 - THE BEDDING THAT ROTTED, AND THE SEEDS THAT DID NOT
+Skora, K., Mueller-Bieniek, A., Schuster, J. & Antosik, L. (2026).
+"Pillows, mattresses or log coffin linings: use of cattail (Typha sp.) in
+Roman period funerary rituals at Czarnowko in Pomerania."
+Antiquity, pages 1-15.
+https://doi.org/10.15184/aqy.2026.10419
+Open access, CC BY 4.0. Published online 11 September 2026.
+READ IN FULL - the only one of the four.
+
+  Twenty-three samples of compacted organic material from four inhumation
+  graves at the Wielbark culture cemetery of Czarnowko in northern Poland;
+  thirteen still held identifiable plant remains, and every one of those
+  thirteen contained cattail seeds. Not one contained moss, although one of
+  the deposits had been catalogued as a "moss pillow". Three samples also
+  held woven wool - one running sixteen to eighteen threads per centimetre
+  in the warp and twelve in the weft, spun from core-free fleece. One
+  fragment carries a circular impression 32 mm across that matches the foot
+  of a silver cup from the same grave. The graves date to the first two
+  centuries AD; the cemetery holds over 2,000 and was in use from the
+  mid-second century BC to the first half of the third century AD. The
+  authors attribute preservation to contact with metal: salts migrating out
+  of bronze and iron conserved what touched them.
+
+  What the paper does NOT settle, and the film says so: whether these were
+  pillows, mattresses or coffin linings. All three are in its title.
+
+
+ITEM 2 - THE HOUSE THAT ONLY SURVIVES BECAUSE IT BURNT
+Mancini, N., Drunagel, E., Ropke, A. K., Vomberg, F. V., Salata, D., Zerl, T.,
+Ebel, F. B., Peto, A., Gomori, A., Felegyhazi, F., Fischl, K. P., Kienlin,
+T. L. & Anvari, J. (2026).
+"Daub as a socio-environmental archive: studying construction materials to
+understand their availability and selection at Bronze Age Borsodivanka,
+Hungary."
+Journal of Archaeological Science: Reports 75, 105992.
+https://doi.org/10.1016/j.jasrep.2026.105992
+Open access, CC BY 4.0. Crossref entry created 31 August 2026; print issue
+labelled November 2026.
+ABSTRACT ONLY - ScienceDirect refuses automated access.
+
+  Daub - mud mixed with organic and mineral tempers and packed onto a timber
+  frame - becomes durable archaeological material when it is exposed to fire
+  and then preserved under favourable conditions. It carries impressions of
+  the wood and plant stems that were in contact with it. The authors combine
+  macroscopic and micromorphological analysis of daub from the Bronze Age
+  tell of Borsodivanka with wood charcoal, plant remains and stratigraphic
+  samples from beneath the mound, and read out of it a set of decisions
+  about which sediments were available and chosen, how they were processed,
+  and how daub and daub-like elements - walls, wall decorations, repeatedly
+  heated fragments - were used. They note that the material is usually
+  neglected because it is morphologically complex and because reading it
+  properly needs several specialists.
+
+
+ITEM 3 - THE WORKSHOP WITH NO CLOTH IN IT
+Thacker, P. T., Pereira, C. M. C. & Amoss, J. T. (2026).
+"An archaeology of natural dyes and mordants: bridging gaps in Iron Age
+textile chaines operatoires."
+Journal of Archaeological Science: Reports 75, 106042.
+https://doi.org/10.1016/j.jasrep.2026.106042
+CC BY-NC-ND 4.0. Crossref entry created 10 September 2026; print issue
+labelled November 2026.
+ABSTRACT ONLY.
+
+  An Iron Age fireplace and an adjacent pit at Castro de Sao Martinho in
+  central Portugal produced spindle whorls, seed capsules and flower calyces
+  of a wild rock-rose, and crushed magnetite-rich dolerite - but no fibre
+  artefacts at all. The authors show in controlled laboratory trials, by
+  sequential iron speciation and spectroscopic identification, that iron
+  from that dolerite can be converted into iron acetate, a mordant known
+  from Bronze and Iron Age Europe. Actualistic experiments using the same
+  species and the same plant tissues as the macrobotanical remains from the
+  pit yielded a colourfast deep olive green on linen. Their conclusion is
+  that the association of hearth, spindle whorls, dye plants and crushed
+  dolerite is coherently explained by small-scale or household dyeing.
+
+
+ITEM 4 - THE PASTIME THAT NOBODY WROTE DOWN
+Zinoviev, A. V. (2026).
+"Falconry in Medieval Tver (Russia): Osteoarchaeological and Historical
+Accounts."
+International Journal of Osteoarchaeology, article oa.70163.
+https://doi.org/10.1002/oa.70163
+Subscription. Published online 26 August 2026.
+ABSTRACT ONLY - Wiley refuses automated access.
+
+  Excavations in the kremlin of the medieval Principality of Tver (12th-15th
+  centuries) produced gyrfalcons and goshawks, decoy species (buzzards, owls
+  and corvids), provisioning pigeons, and game birds (capercaillie, black
+  grouse, hazel grouse). Birds of prey make up 6.0 per cent of the kremlin
+  bird assemblage - markedly elevated, spatially confined to elite areas and
+  almost absent outside the walls. No written source documents falconry at
+  Tver; the evidence rests on the zooarchaeological signature alone. The
+  paper reports this as the first zooarchaeological evidence of falconry
+  from any medieval Russian principality, and sets out diagnostic criteria -
+  female-biased raptors, jesses, training corvids, provisioning pigeons -
+  for other sites that lack written documentation.
+
+
+--------------------------------------------------------------------------
+WHAT IS DRAWN AND WHAT IS GENERATED
+--------------------------------------------------------------------------
+
+Twenty of the fifty-four shots are diagrams drawn in code. They carry no AI
+label because nothing about them is generated, and that is also why their
+labelling is correct - a picture model cannot be trusted with a number.
+
+The diagrams state their own limits on the picture: all four maps say
+"schematic - position approximate, no coastline drawn"; the raptor chart says
+its bar heights are not to scale and that no figure is given for outside the
+walls; the preservation diagram says the extent of the effect is not stated in
+the paper.
+
+Every photographic-looking shot is generated and none depicts a real,
+identifiable find. No third-party images or footage are used, so no third-party
+rights apply.
+
+Corrections are welcome and will be made out loud.
