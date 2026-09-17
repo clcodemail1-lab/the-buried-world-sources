@@ -52,6 +52,7 @@ why, rather than quietly absorbing it.
 | 09 | Nothing Here Happened All At Once | [sources](dispatch-09-sources.txt) | [method](dispatch-09-method.txt) |
 | 10 | The Animals Were Keeping The Records | [sources](dispatch-10-sources.txt) | [method](dispatch-10-method.txt) |
 | 11 | Nothing Of It Survived. They Found It Anyway. | [sources](dispatch-11-sources.txt) | [method](dispatch-11-method.txt) |
+| 12 | Nobody Writes Down What Everybody Knows | [sources](dispatch-12-sources.txt) | [method](dispatch-12-method.txt) |
 | 13 | The Sickle Was Under Her Chin | [sources](dispatch-13-sources.txt) | [method](dispatch-13-method.txt) |
 
 ## Marking

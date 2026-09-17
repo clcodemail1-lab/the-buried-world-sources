@@ -1,0 +1,130 @@
+THE BURIED WORLD
+Dispatch 12 - Nobody Writes Down What Everybody Knows
+How this film was made, and what the fact check changed
+
+
+WHY THESE FOUR PAPERS
+
+They share a shape rather than a subject. Each of the four sits at a place where
+the written record is unusually rich - Sumerian administrative tablets, the
+chronicles of a nomadic court, a Roman town buried mid-sentence, Roman
+descriptions of household rite - and each answers a question those texts never
+bothered to answer, because everyone alive at the time already knew it. What
+people actually ate. Where a mobile camp got its meat. What was burnt under a
+bread oven. What went into a censer in a house shrine.
+
+The idea can be said without a technical term in it: nobody writes down what
+everybody knows. That constraint is a standing rule for this series, adopted
+after the channel judged an earlier dispatch uninteresting because its frame
+needed a specialist word to work at all. Nothing in this film's title, opening
+or thumbnail asks the viewer to know what a zinc isotope, a nabo or a
+morphotype is.
+
+The papers came from the current volumes of the Proceedings of the National
+Academy of Sciences, the Journal of Archaeological Science, Antiquity and
+Archaeological and Anthropological Sciences. Peer-reviewed publication is a
+condition of this series: an excavation announcement without a paper is not
+material.
+
+
+NO FULL TEXTS THIS TIME
+
+Unlike Dispatch 11, this film is built on abstracts and publisher metadata
+alone. No paywalled full text was used, and none was needed for anything the
+film states - but it sets a hard limit on how far any of the four sections can
+go, and that limit is visible in the writing. Where Dispatch 11 could name a
+figure from page seven of an article, this one stays inside what the authors
+themselves published openly.
+
+Two consequences, both deliberate:
+
+ - The film gives no counts. Not of the olive stones, not of the bones, not of
+   the individuals sampled. Those numbers exist; they were not accessible, and
+   a number that cannot be checked is worse than no number.
+ - The Abu Tbeirah section is the longest of the four, because its abstract is
+   the most specific. That is a property of the sources, not a judgement about
+   which case matters most.
+
+
+TWO ERRORS IN OUR OWN NOTES, BOTH FOUND BY THE DOI CHECK
+
+The two Pompeii cases had been sitting in this channel's stock of candidate
+topics since Dispatch 09, waiting for a Pompeii episode to clear out of the
+schedule. Both entries were wrong, and both errors survived being copied
+forward through three later dispatches:
+
+1. The olive stone paper was recorded as article 106659. It is 106648. A source
+   list built on the note would have pointed the audience at a different paper
+   in the same issue.
+
+2. The incense paper was recorded as being in the Journal of Archaeological
+   Science. It is in Antiquity.
+
+Neither was caught by re-reading the note - a note reads the same whether it is
+right or wrong. Both were caught by resolving the DOI at Crossref and comparing
+the returned record field by field. That check is now done for every citation
+in every episode, and it is also why the dates below are given per field.
+
+
+DATES: THE ISSUE LABEL IS NOT THE DAY
+
+Four papers, four different relationships between "published online", the print
+issue label and the day the record was created. The olive stone paper has no
+online date at all; its record was created on 18 July 2026 and it carries a
+September issue label. The film therefore names the ISSUE for that one and a
+month for the other three. It never converts an issue label into a day.
+
+The full table is in dispatch-12-sources.txt.
+
+
+WHAT WAS CUT, AND WHY
+
+ - "The elite ate differently." Press coverage of the Abu Tbeirah paper says
+   so. The paper does not: it studied a NONELITE population and reports that
+   diet did not vary by sex within it. An elite comparison would be a claim
+   about something the study never measured. This cut also removed the frame
+   the episode was originally planned around - "who got what to eat was a
+   decision" - because that frame stood on a finding that does not exist. The
+   frame was rebuilt; the finding was not invented.
+
+ - Tucume. It was in the stock as a third diet case and could not be verified:
+   no publication was findable. Under this series' rule, that ends it.
+
+ - The Latin name of the Roman rite. The rite is in the film, the word is not.
+   The frame has to work without a dictionary.
+
+ - Stratonikeia, for the sixth time. The University of Warsaw still says the
+   full publication is in preparation. It is checked again at Dispatch 13, and
+   if nothing has appeared by then it comes out of the stock rather than being
+   passed forward again. A candidate that has been carried for six rounds is
+   not a candidate any more.
+
+
+WHAT THE FILM IS CAREFUL NOT TO SAY
+
+The incense section ends on the authors' own caution, in their terms: no
+sediment control samples were preserved from either findspot, so later
+contamination cannot be excluded. That caution is theirs, not an objection
+raised by this film, and the diagram that carries it says so on the picture.
+
+The grape product is reported as identified, not as certain.
+
+The film does not say what the resin was used for beyond being burnt.
+
+
+THE PICTURES
+
+Thirteen of the forty-nine shots are diagrams drawn in code from the published
+figures. Every other shot is generated, labelled on screen as required, and
+depicts no real, identifiable find, site or person. No ancient text is
+reproduced anywhere in the film: where writing appears in a diagram it is blank
+ruled lines standing for text.
+
+One shot was re-made twice. The cut marks on a bone in the Houmingzi section
+first came back with regular incised strokes that read as script - in a film
+about what was never written down, the worst possible accident. The fix was not
+a better prompt but a different object: broken bone fragments with fractured
+ends, where nothing can be mistaken for a sign.
+
+
+Corrections are welcome and will be made out loud.
