@@ -1,0 +1,131 @@
+THE BURIED WORLD
+Episode 14 - Nobody Counted The Small Ones
+
+How this film was made, and what was corrected before recording
+
+Last updated 17 September 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel is checked line by line against the publications
+before it is recorded, and the corrections are published. They are the most
+useful thing here: they show where the ordinary version of a story is wrong,
+and they show what this film got wrong first.
+
+Seven things changed between the first draft and the recorded script. Two of
+them were versions of the story that circulate widely and do not hold.
+
+
+1. THE NINE FINGERS BELONG TO THE MONKEY, NOT TO THE HANDS
+
+The draft said the plain carries "a pair of hands with nine fingers". The
+nine-fingered figure that is actually documented is the MONKEY - spiral tail,
+nine fingers. The separate figure known as the Hands has five fingers on one
+hand and four on the other, which also comes to nine, and the two facts have
+been merged in popular retellings until they are hard to separate.
+
+Corrected to the attribution that is actually documented. The film now says
+"a spider, a monkey with a spiral tail and nine fingers".
+
+
+2. THE DATED POST, AND A CIRCULAR ARGUMENT
+
+The draft said that wooden stakes at the ends of the straight lines "have been
+radiocarbon dated, and they are as old as the lines they stand at".
+
+Two problems. The plural overstates the evidence: what is documented is a
+small number of posts, one of which was dated to around 525 CE. And the second
+half of the sentence is circular - the lines were dated partly THROUGH such
+posts, so the posts cannot then confirm the age of the lines.
+
+Corrected to the single documented date, with no claim attached to it.
+
+
+3. KOSOK WATCHED THE SUNSET THE DAY AFTER THE SOLSTICE
+
+The widely repeated version has Paul Kosok standing on the pampa at the winter
+solstice of 1941. The date usually given in the literature is 22 June 1941 -
+the day AFTER the southern winter solstice.
+
+This matters more here than it would elsewhere, because the whole passage is
+about alignment claims and how easily they are made. The film now gives the
+date and the one-day offset.
+
+
+4. MARIA REICHE'S FIFTY YEARS
+
+The draft said she "came to Peru as a governess and stayed for fifty years".
+She arrived in 1932 and died in Peru in 1998 - sixty-six years. The round
+number was a guess that had not been checked against either date.
+
+Corrected to "came to Peru in nineteen thirty-two as a private tutor and never
+went home".
+
+
+5. HAWKINS: WHICH YEAR TO NAME
+
+The dates for Hawkins's test scatter across the sources - the computation is
+placed in 1967, the fieldwork in 1968, and the final report is dated 1969.
+Under this channel's rule for scattered dates, the number gets replaced by the
+named work rather than picked. The film now says the result was reported in
+1969, and the source list gives the report.
+
+
+6. THE RESERVE IS NOT THE SIZE OF TRINIDAD
+
+The draft compared the 5,600 square kilometres of the archaeological reserve to
+the island of Trinidad, which is 4,768 square kilometres - about fifteen per
+cent out. Replaced by the English county of Norfolk (5,371 square kilometres),
+which is both closer and more familiar to most of this channel's audience.
+
+
+7. THE VISIBILITY STUDY SAYS SOMETHING BETTER THAN THE POPULAR VERSION
+
+The draft used the line that circulates in popular accounts: that a survey of
+one neighbouring area found "every geoglyph in it could be seen from ground
+level". That is not what the study found, and the real finding is stronger.
+
+Lambers and Sauerbier compared how much of the surrounding terrain the geoglyph
+sites in the Palpa valleys can be seen from against the same measure for random
+points in the same terrain, using a two-tailed Kolmogorov-Smirnov test. The
+geoglyph sites came out significantly better. Their conclusion is that good
+visibility was a criterion when a place was chosen for a new geoglyph - that
+is, being seen from the ground was part of the decision.
+
+The film now states the comparison and the conclusion, not the slogan.
+
+
+WHAT WAS DELIBERATELY LEFT OUT
+
+- The further geoglyphs reported by the same team in 2025. That report was
+  presented at an exhibition, not published in a journal. The film names it in
+  the spoken text as a caution and does not count the figures.
+
+- Ancient astronauts, in either direction. The film neither entertains the idea
+  nor argues against it. A film that sets out to refute a claim ends up in the
+  same place as the claim, and this channel has already learned that the
+  expensive way. What is in the film instead is a finding: the figures are not
+  only visible from the air, and the small ones were made to be seen by someone
+  arriving on foot.
+
+- Any casualty, ritual or religious claim attached to the severed-head motif.
+  It appears in this film as what it is in the paper: a share of a motif count,
+  32.9 per cent, and a plain outline in the ground.
+
+
+HOW THE PICTURES WERE MADE
+
+Every photograph-like shot in this film is generated, and the film says so on
+screen throughout. 34 of the 91 shots are drawings - maps, timelines, charts -
+made in code from the published figures, because a generated image cannot be
+trusted to place a number, a boundary or a proportion correctly.
+
+The geoglyph outlines in those drawings are schematic. They are not tracings of
+the real figures and are not to be read as survey drawings; every panel that
+carries one says so in its footer.
+
+The full shot list, with the source of every claim, is in
+folge-14-sources.txt.
+
+Corrections are welcome and will be made out loud.
