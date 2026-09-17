@@ -35,6 +35,7 @@ why, rather than quietly absorbing it.
 | 11 | The Four Under The Stairs | [sources](episode-11-sources.txt) | [method](episode-11-method.txt) |
 | 12 | Nobody Ever Found One In Rome | [sources](episode-12-sources.txt) | [method](episode-12-method.txt) |
 | 13 | The Oldest Plague | [sources](episode-13-sources.txt) | [method](episode-13-method.txt) |
+| 14 | Nobody Counted The Small Ones | [sources](episode-14-sources.txt) | [method](episode-14-method.txt) |
 
 ## Dispatches
 
