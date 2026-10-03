@@ -39,7 +39,7 @@ why, rather than quietly absorbing it.
 
 ## Explainers
 
-A second, lighter format in test: a flagship film retold shorter, in dialogue,
+A second, lighter format: a flagship film retold shorter, in dialogue,
 with drawn figures. It introduces no new claim and no new source — every line
 is tied to a numbered block of the film it comes from, so that a simplified
 version cannot quietly become more certain than the original.
