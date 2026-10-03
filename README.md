@@ -37,6 +37,17 @@ why, rather than quietly absorbing it.
 | 13 | The Oldest Plague | [sources](episode-13-sources.txt) | [method](episode-13-method.txt) |
 | 14 | Nobody Counted The Small Ones | [sources](episode-14-sources.txt) | [method](episode-14-method.txt) |
 
+## Explainers
+
+A second, lighter format in test: a flagship film retold shorter, in dialogue,
+with drawn figures. It introduces no new claim and no new source — every line
+is tied to a numbered block of the film it comes from, so that a simplified
+version cannot quietly become more certain than the original.
+
+| # | Title | Lines | Method |
+|---|---|---|---|
+| 1 | Roman Concrete Heals Itself. Nobody Meant It To. | [lines](erklaer-01-sources.txt) | [method](erklaer-01-method.txt) |
+
 ## Dispatches
 
 | # | Title | Sources | Method |

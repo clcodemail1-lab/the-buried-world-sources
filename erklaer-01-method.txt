@@ -1,0 +1,124 @@
+THE BURIED WORLD — EXPLAINER 01, METHOD
+Roman Concrete Heals Itself. Nobody Meant It To.
+
+
+WHY THIS FILM EXISTS
+
+The channel's films run twelve to eighteen minutes and assume you will sit
+still for them. This is a test of a second, lighter way in: the same material,
+shorter, in dialogue, with drawn figures doing the explaining.
+
+It is a test and is published as one. If it does not bring viewers who were
+not already here, it will not become a series.
+
+
+HOW THE CONDENSATION WAS MADE
+
+The long film has 63 blocks and 12,703 characters of speech. This has
+160 lines and 7479 characters — a little under half. Every line was written
+against a block and carries that block's number, in the film's source list and
+in the script file itself. Nothing was written from memory of the long film.
+
+Four things were cut. None of them is a claim; all of them are detail that
+does not survive the shorter form:
+
+  - the composition in detail, and the term opus caementicium. The channel's
+    rule is that a hook must work without a dictionary.
+  - the ROMACONS cores by site. A list of place names needs a map, and this
+    film has no map.
+  - the Smeaton/Aspdin history, compressed from four blocks to two. Names and
+    dates do not carry here without pictures of what they made.
+  - nothing else.
+
+Blocks of the long film not cited anywhere in this one, each with its reason:
+
+  [10]  where the ash was quarried, and that it was shipped — detail
+  [16]  what makes the ash reactive: unstable silica and alumina — detail
+  [20]  the Pantheon dome by its span and date — detail; the shorter film
+        keeps only that aggregate was chosen by height in a dome [19]
+  [21]  transition ("so the recipe is not a secret")
+  [22]  restates the lumps, already carried by [05]
+  [38]  the ROMACONS sites by name — needs a map
+  [39]  core dimensions — detail
+  [46]  transition into the popular story
+
+🚨 A ninth block was on this list when it was first written, and should not
+have been. [61] says the written evidence is ambiguous exactly where it would
+matter: Vitruvius uses one word for the lime that goes into plasterwork and
+another for the lime that goes into structures, and whether the second means
+what hot mixing needs it to mean is a question about Latin. That is not a
+transition — it is the reason the intent question cannot be settled, and the
+shorter film had dropped it. It was caught while listing these gaps, and four
+lines were added to the film and re-recorded. The list above is what remains.
+
+This is the failure mode a simplified version has: not a false claim, but a
+missing limit. It is the reason this file exists.
+
+
+WHAT WAS DELIBERATELY KEPT
+
+Every place where the long film limits itself is also in this one:
+
+  [36]  self-repair does not mean indestructible
+  [45]  what increases is resistance to cracking — nobody has shown that a
+        Roman pier gets stronger in the sense an engineer means
+  [49]  by the property engineers design to, Roman mortar is not close to
+        modern concrete and would not be allowed in a modern frame
+  [54]  survivorship: the structures that fell down are not there to be
+        measured, so to some degree we are admiring a museum of successes
+  [07]  whether anyone intended a self-repairing material is an open argument
+
+A simplified film that is more confident than the one it simplifies would be
+worse than no film at all. That is the whole reason the block numbers are
+published.
+
+
+THE SECOND VOICE
+
+B is not there to feed lines. Every objection B raises is one the long film
+raises and answers itself — that the lumps are mistakes in the mix [23], that
+water entering a crack should be the end of it [32], that the finding is only
+a model [33], that the recipe was lost [47], that we cannot reproduce it [48],
+that Roman concrete is simply better [49], that steel is simply better [52],
+that the failures are missing from the sample [54].
+
+And B is right once, at the end. A says the Romans built a material that heals
+itself; B says they may have stumbled into one. Block [07] leaves exactly that
+open, so A concedes. If the format ever has B lose every exchange, it has
+stopped being honest.
+
+
+WHAT WE GOT WRONG WHILE MAKING THIS
+
+  - The voice cache was keyed by line number. Cutting one line would have
+    shifted every recording after it by one, and the film would have spoken
+    the wrong sentences from that point on without raising a single error. It
+    is now keyed by the text itself.
+  - Three places in the code referred to lines by number. All four numbers
+    were stale on the first run and would have animated the schematic against
+    the wrong sentences. Each number now carries a sample of its line and the
+    build stops if they disagree.
+  - A third schematic was built, for the mineral plates growing in the pores,
+    and then deleted. The background there is the electron micrograph of those
+    plates; the drawing stood beside it and showed the same thing worse.
+  - The subtitle timing let one line end after the next began.
+
+None of these changed a claim. They are listed because the channel publishes
+its workings, and because every one of them would have been invisible in the
+finished film.
+
+
+LABELLING
+
+The EU AI Act mark is on screen from 0:03 to 0:15 in the lower half, and a
+small permanent mark sits bottom left for the whole film, so it survives a
+clip taken out of the middle. Proven on the finished file, not on the script:
+across the 15-second edge, 54.1 % of pixels change in the mark's area against
+0.2 % in a control area of the same size.
+
+
+Sources, and the literature behind every claim:
+https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/erklaer-01-sources.txt
+https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-04-sources.txt
+
+Corrections are welcome and will be made out loud.

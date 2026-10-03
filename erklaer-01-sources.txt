@@ -1,0 +1,240 @@
+THE BURIED WORLD — EXPLAINER 01
+Roman Concrete Heals Itself. Nobody Meant It To.
+
+WHAT THIS FILM IS
+
+A shorter, simpler retelling of the flagship film
+"Rome's Concrete Is Still Healing Itself" (15:21, published 18 Aug 2026).
+Two drawn figures work through the same material in dialogue.
+
+It introduces NO new claim, NO new source and NO new research.
+Every sentence is tied below to a numbered block of the long film, and the
+literature for all of them is in one place:
+
+  https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-04-sources.txt
+  https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-04-method.txt
+
+If a sentence here says more than the block it cites, that is an error in
+this film, and we want to hear about it.
+
+
+WHAT IS A PHOTOGRAPH AND WHAT IS A DRAWING
+
+Backgrounds   generated images, carried over unchanged from the long film,
+              labelled on screen throughout (EU AI Act, Article 50)
+Figures       drawn in code (cut-paper style). Not generated, not people.
+Schematics    drawn in code, labelled "schematic" in the frame. Two of them:
+              the repair cycle, and tension/compression in a loaded beam.
+
+No photograph is altered. Where the film shows a process, the process is
+drawn as a drawing and is recognisable as one — a white line closing a crack
+ON a photograph would be a claim about that photograph.
+
+
+EVERY LINE, WITH ITS BLOCK IN THE LONG FILM
+
+A = narrating voice   B = the voice that objects
+[NN] = block number in the long film's script
+
+
+--- THE BLOCK IN THE SEA --------------------------
+
+ 0:03  A  [01]    On the coast north of Rome, a block of concrete stands in the sea.
+ 0:07  A  [01]    No steel inside it. Nobody maintains it.
+ 0:10  A  [01]    Waves have gone over it every day for two thousand years.
+ 0:13  A  [01]    It is still there.
+ 0:15  B  [02]    And ours?
+ 0:17  A  [02]    Poured into the same sea a hundred years ago.
+ 0:19  A  [02]    It is already being repaired.
+ 0:21  A  [02]    Rust runs down the face of it in streaks.
+ 0:24  B  [03]    So what did they put in it?
+ 0:27  A  [03]    Volcanic ash. That is the textbook answer, and it is true.
+ 0:30  A  [04]    It also explains almost nothing.
+ 0:33  B  [04]    Why not?
+ 0:34  A  [04]    Ash gives you a mortar that sets.
+ 0:37  A  [04]    It does not give you a harbour wall that survives two thousand winters without a single repair.
+ 0:43  A  [05]    The thing that does has been in plain view the whole time.
+
+--- THE LUMPS -------------------------------------
+
+ 0:47  A  [05]    Roman mortar is full of small white lumps.
+ 0:50  A  [05]    A millimetre or two across.
+ 0:52  B  [23]    And those are what, exactly?
+ 0:54  A  [05]    For most of a century, they were read as careless work.
+ 0:58  A  [23]    Badly burnt lime. Badly stirred. Leftovers.
+ 1:01  A  [23]    The term was relict lime — a word that already assumes it should not be there.
+ 1:06  A  [06]    In twenty twenty-three, a team at MIT said the lumps are not carelessness.
+ 1:11  A  [06]    They are a repair system.
+ 1:13  A  [06]    And it has never stopped running.
+
+--- WHAT THE MATERIAL IS --------------------------
+
+ 1:17  B  [08]    Is it our concrete with something added?
+ 1:20  A  [08]    No. That is the part the popular version gets wrong.
+ 1:23  A  [08]    It is a different material, made a different way.
+ 1:26  A  [09]    Lime, water, volcanic ash, and fist-sized lumps of broken rock.
+ 1:31  A  [11]    And it was not poured.
+ 1:33  B  [11]    Not poured?
+ 1:35  A  [11]    No mixer. No wet slurry filling a mould.
+ 1:38  B  [11]    Then how do you get a dome out of it?
+ 1:41  A  [11]    Layers of mortar and layers of rubble, laid by hand and tamped down.
+ 1:45  A  [12]    It is closer to careful masonry than to anything that comes out of a truck.
+
+--- WHY THE ASH MATTERS ---------------------------
+
+ 1:51  A  [13]    Lime mortar is far older than Rome.
+ 1:54  A  [13]    Burn limestone, add water, and it hardens slowly.
+ 1:57  A  [13]    It takes carbon dioxide back out of the air.
+ 2:00  B  [14]    So it needs air.
+ 2:02  A  [14]    Deep inside a thick wall there is none.
+ 2:05  A  [14]    And under water, plain lime mortar does not set at all. It washes away.
+ 2:09  A  [15]    The ash changes which reaction you rely on.
+ 2:12  A  [15]    Lime with volcanic ash reacts with itself.
+ 2:15  A  [15]    In water. In the dark. In the middle of a wall.
+ 2:18  B  [17]    Did they know that?
+ 2:20  A  [17]    They wrote it down.
+ 2:22  A  [17]    Around twenty-five BC, Vitruvius describes a powder from near Baiae that hardens under the sea.
+ 2:29  A  [18]    A century later, Pliny is blunter.
+ 2:32  A  [18]    A dust from the hills of Puteoli which, the moment it meets the waves, becomes a single stone.
+ 2:38  A  [18]    One the sea cannot break, and which grows stronger every day.
+
+--- HOT MIXING ------------------------------------
+
+ 2:43  B  [24]    Then why would people like that mix badly?
+ 2:47  A  [24]    That is exactly what caught Admir Masic.
+ 2:49  A  [24]    They chose their ash by quarry.
+ 2:51  A  [19]    And their aggregate by height in a dome.
+ 2:54  A  [24]    And then did not mix?
+ 2:56  B  [24]    It does look unlikely when you put it like that.
+ 3:00  A  [25]    In twenty sixteen, his group took samples from a city wall at Privernum.
+ 3:04  A  [25]    Two thousand years old, straight out of the masonry.
+ 3:07  A  [26]    The lumps had not survived the mixing.
+ 3:10  A  [26]    They had been produced by it.
+ 3:12  B  [26]    Produced how?
+ 3:14  A  [26]    By heat. Far above anything a normal wet mix ever reaches.
+ 3:18  A  [27]    Instead of slaking the lime first, you tip the quicklime straight in.
+ 3:22  A  [27]    With the ash and the water together.
+ 3:24  A  [28]    That reaction is violent. The mix steams.
+ 3:27  A  [28]    They call it hot mixing.
+ 3:29  A  [29]    And it leaves the lumps behind — brittle, full of internal surface, scattered right through.
+
+--- THE REPAIR MACHINE ----------------------------
+
+ 3:37  A  [30]    And that is the machine.
+ 3:39  A  [30]    Concrete cracks. All concrete cracks.
+ 3:41  A  [30]    The only question is what happens next.
+ 3:44  A  [31]    A crack takes the easiest path,
+ 3:46  A  [31]    and the easiest thing to break is the brittle lump.
+ 3:49  A  [31]    So the crack finds the calcium by itself.
+ 3:52  B  [32]    Then the sea gets in. That should be the end of it.
+ 3:56  A  [32]    In any other concrete, it would be.
+ 3:58  A  [32]    Here the water dissolves calcium out of the broken lump,
+ 4:02  A  [32]    carries it into the crack,
+ 4:03  A  [32]    and it comes back out as new stone.
+ 4:06  A  [32]    The crack fills itself.
+ 4:09  B  [33]    Is that just a model?
+ 4:11  A  [33]    No. Filled microcracks have been found in Roman mortar.
+ 4:14  A  [33]    Among other places, in the tomb of Caecilia Metella on the Appian Way.
+ 4:19  B  [33]    Found, though. Not watched happening.
+ 4:22  A  [34]    And it was tested forwards.
+ 4:24  A  [34]    They cast cylinders, broke them, held the halves apart, and ran water through the gap.
+ 4:29  A  [35]    The Roman-style sample sealed itself shut in one to three weeks.
+ 4:34  A  [35]    The control leaked for the whole test and never closed.
+ 4:37  A  [36]    Which does not mean the stuff is indestructible.
+ 4:40  A  [36]    Only that it carries its own repair material, and has not run out.
+
+--- THE SEA ---------------------------------------
+
+ 4:46  A  [37]    The hardest place for any concrete is the sea.
+ 4:49  A  [40]    For modern concrete that environment is lethal.
+ 4:52  A  [40]    Salt reaches the steel. The steel rusts.
+ 4:55  A  [40]    And rust needs more room than the metal did.
+ 4:57  A  [40]    The concrete is split apart from the inside.
+ 5:01  B  [41]    And the Roman piers?
+ 5:03  A  [41]    There the seawater is doing the opposite.
+ 5:06  A  [41]    It dissolves part of the ash, and the fluid grows new minerals in the pores.
+ 5:10  A  [42]    Thin plates, interlocking, growing out into the gaps.
+ 5:14  A  [43]    Plates like that are very good at stopping a crack.
+ 5:17  A  [43]    Nobody put them there.
+ 5:18  A  [43]    They grew out of the sea that was supposed to be destroying them.
+ 5:22  B  [44]    So Pliny was right.
+ 5:25  A  [44]    With none of the chemistry, he was describing something that really happens.
+ 5:29  A  [45]    With one caution.
+ 5:31  A  [45]    What increases is the resistance to cracking.
+ 5:34  A  [45]    Nobody has shown that a Roman pier gets stronger the way an engineer means the word.
+
+--- THE POPULAR STORY, TAKEN APART ----------------
+
+ 5:40  B  [47]    People say the recipe was lost.
+ 5:43  A  [47]    It was not.
+ 5:44  A  [47]    Vitruvius has been on the shelf since the fifteenth century.
+ 5:47  A  [47]    He says what the ash is, and where to go and get it.
+ 5:51  B  [48]    That we cannot reproduce it.
+ 5:53  A  [48]    The MIT group made it in a laboratory, and it healed.
+ 5:57  A  [48]    A company now sells a cement built on the principle.
+ 6:01  B  [49]    That it is better than ours.
+ 6:03  A  [49]    By the property engineers actually design to, it is not close.
+ 6:07  A  [49]    Roman wall mortar would not be allowed in a modern frame.
+ 6:11  B  [50]    Then why did ours win?
+ 6:13  A  [50]    The difference is not chemistry. It is steel.
+ 6:16  A  [51]    Steel takes the tension, concrete takes the compression.
+ 6:20  A  [51]    That is why a building can be thin and stand on slender columns.
+ 6:23  A  [51]    Roman concrete could do none of that.
+ 6:26  B  [52]    So steel is just better.
+ 6:28  A  [52]    But the steel is also the clock.
+ 6:31  A  [52]    Take the steel out, and most of the ways a structure dies leave with it.
+ 6:35  A  [53]    There is a second clock. The schedule.
+ 6:37  A  [53]    Modern concrete has to reach its strength in twenty-eight days, because that is how a building site is financed.
+ 6:45  A  [53]    Roman concrete improves over decades.
+ 6:47  A  [53]    No contractor on earth can build to that.
+ 6:50  B  [54]    And the ones that fell down?
+ 6:52  A  [54]    Not there to be measured.
+ 6:54  A  [54]    To some degree we are admiring a museum of successes.
+
+--- WHY IT FADED, AND WHY IT IS FUNDED NOW --------
+
+ 6:59  B  [55]    If it was that good, why did anyone stop?
+ 7:02  A  [55]    Because the thing that made it possible was the empire.
+ 7:06  A  [55]    Ash from one bay, shipped across a sea, to a site paid for by a state that expected to still be there in a century.
+ 7:14  A  [55]    Take that apart and the material has no reason to exist.
+ 7:17  A  [56]    It came back the slow way.
+ 7:19  A  [56]    An English engineer needed a lighthouse that would set under water, and went looking in the old books.
+ 7:25  A  [57]    Seventy years later somebody patented a powder that did the same job without a volcano.
+ 7:30  A  [57]    That powder is what the world builds with now.
+ 7:33  B  [58]    So why dig the Roman version up again?
+ 7:36  A  [58]    Because making that powder is one of the largest single sources of carbon dioxide on the planet.
+ 7:42  A  [58]    A material that repairs itself is a material you replace less often.
+ 7:46  A  [58]    The interest is not nostalgia. It is arithmetic.
+
+--- DID THEY KNOW? --------------------------------
+
+ 7:51  A  [59]    Which leaves the smallest question in the story, and the most interesting one.
+ 7:56  A  [59]    Did the Romans know?
+ 7:58  A  [60]    The lumps prove the process.
+ 8:00  A  [60]    They do not prove the intention.
+ 8:02  A  [60]    The team proposes hot mixing. They do not claim anyone set out to build a repair system.
+ 8:08  B  [61]    Doesn't Vitruvius settle it?
+ 8:10  A  [61]    He uses one word for the lime that goes into plasterwork,
+ 8:13  A  [61]    and a different word for the lime that goes into structures.
+ 8:17  A  [61]    Whether that second word means what hot mixing needs it to mean is a question about Latin, not about concrete.
+ 8:23  A  [07]    So they built a material that heals itself.
+ 8:26  B  [07]    Or they stumbled into one.
+ 8:29  A  [07]    Whether they meant to is still an open argument.
+ 8:32  A  [62]    We can see exactly what the material does.
+ 8:35  A  [62]    We cannot see what they thought they were doing.
+ 8:38  A  [63]    Meanwhile the calcite went on forming in the cracks of that tomb,
+ 8:42  A  [63]    for two thousand years after the last man who mixed the mortar was dead.
+ 8:47  A  [63]    Nobody had to know.
+ 8:48  A  [63]    It worked anyway.
+
+
+COVERAGE
+
+  160 lines, 7479 characters of speech
+  55 of the long film's 63 blocks are cited
+  B speaks 27 of them (16 %)
+
+The nine blocks not cited are listed in the method file, with the reason.
+
+Corrections are welcome and will be made out loud.
+
