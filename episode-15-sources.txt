@@ -1,0 +1,271 @@
+THE BURIED WORLD
+Episode 15 - The Ship Had Rotted Away. They Excavated It Anyway.
+
+Sutton Hoo: three absences, and how they were read
+Full source list
+
+Last updated 7 October 2026
+
+
+HOW THIS EPISODE WAS CHECKED
+
+Every figure spoken in this film was traced to a publication and the date
+fields of each DOI were read individually, because a journal's print date is
+an issue label and not the day a paper appeared. Three statements were cut
+during that check rather than softened, and one argument changed direction
+entirely. Both are described below.
+
+
+THE PUBLICATIONS THIS EPISODE RESTS ON
+
+Burger, P., Stacey, R. J., Bowden, S. A., Hacke, M. and Parnell, J. (2016).
+  Identification, Geochemical Characterisation and Significance of Bitumen
+  among the Grave Goods of the 7th Century Mound 1 Ship-Burial at Sutton Hoo
+  (Suffolk, UK). PLOS ONE 11 (12), e0166276.
+  Published online 1 December 2016. Open access.
+  https://doi.org/10.1371/journal.pone.0166276
+  -- Read in full. Source of the finding that fragments catalogued for decades
+  as Stockholm tar are in fact natural bitumen; that its geochemistry points to
+  the Middle East, most probably the Dead Sea region or Syria, with molecular
+  analogies to oil-stained rocks near Umm El Tlel and the Jebel Bichri in
+  Syria; that the two analysed fragments came from the head and the foot of
+  the coffin and are each smaller than a sugar cube; and of the authors'
+  conclusion that material acquired over that distance is unlikely to have
+  been viewed in utilitarian terms - that it was valued as a prestige raw
+  material in its own right, or formed part of a fabricated object that has
+  otherwise decayed. Also the source of the statement that no human body was
+  found, and that chemical analyses evidenced phosphate enrichment of the
+  grave goods.
+
+Fenwick, V. (2023). Sutton Hoo: Re-Imaging the Ship and Chamber.
+  The Antiquaries Journal 103, 36-62.
+  Published online 22 June 2023; October 2023 issue.
+  https://doi.org/10.1017/S0003581523000021
+  -- Abstract and published summary. Source of the digital three-dimensional
+  recording of the ship's iron fastenings and the extrapolation of the lines of
+  the missing rivets; of the reconstruction of the chamber roof from the
+  position and damage of the fallen objects; of the proposal that the grave
+  goods were passed through a temporary opening in the east wall; of the
+  statement that residues of phosphate, Middle Eastern bitumen, tar and tape
+  cumulatively suggest embalming practices; and of the conclusion that the
+  most valuable object relinquished is deduced to be the ship. Also the source
+  of the wording that the man in the chamber is not identifiable and that
+  Raedwald is often presumed.
+
+Phillips, C. W. (1940). The Excavation of the Sutton Hoo Ship-burial.
+  The Antiquaries Journal 20 (2), 149-202. April 1940 issue.
+  https://doi.org/10.1017/S0003581500009677
+  -- The excavation report of the man who took over the burial chamber from
+  Basil Brown in June 1939. Cited as the primary record of the excavation
+  itself; the figures it contains are not quoted here, because the paper was
+  not accessible in full.
+
+The Sutton Hoo Ship-Burial (1940). Nature 145, 231-232.
+  Published 10 February 1940.
+  https://doi.org/10.1038/145231a0
+  -- The first scientific notice of the find, under nine months after the
+  excavation.
+
+Barker, H. (1950). Unusual Phosphatic Material in the Sutton Hoo Ship Burial.
+  Nature 166, 348. Published 26 August 1950.
+  https://doi.org/10.1038/166348a0
+  -- Cited for its EXISTENCE only. The film states that phosphatic material
+  was reported in 1950 and does NOT state what the note concluded, because the
+  text sits behind a paywall and was not read.
+
+British Museum, collection pages on the Anglo-Saxon ship burial at Sutton Hoo,
+  including the recorded statements of Sue Brunning, Curator of Early Medieval
+  European Collections.
+  -- Source of the ship's length of 27 m; of the description of the burial as
+  the richest intact early medieval grave in Europe; of the wear analysis of
+  the sword, from which Brunning concludes the owner wore it on the right and
+  drew it with the left hand, and that the mourners laid it on the dead man's
+  right; of the garnets' origin in Sri Lanka; of the silver platter stamped in
+  Constantinople and already a century old when buried; of the nested set of
+  ten silver bowls; of the two silver spoons with Greek lettering, one
+  inscription less careful than the other; of the gold belt buckle of over
+  400 g; of the helmet lying wrapped in cloth near the left side of the head,
+  with only one garnet eyebrow backed with gold foil; and of the curatorial
+  wording that the king cannot be named for certain.
+
+Dating of the burial to between 610 and 635 follows the analysis of the
+  Merovingian coins by Gareth Williams, Curator of Early Medieval Coinage at
+  the British Museum.
+
+The Bromeswell bucket: the 2024 and 2025 excavation campaigns at Sutton Hoo
+  were run by the National Trust with FAS Heritage and Time Team. The 2025
+  analysis is reported through those organisations and in contemporaneous
+  coverage. Source of the complete base of the vessel and the previously
+  missing parts of its frieze; of the cremated human and animal bone inside,
+  including a skull fragment and part of an ankle; of the unburnt antler comb;
+  and of the Greek inscription, "use this in good health, Master Count, for
+  many happy years". The attribution of its manufacture to Antioch is given in
+  that coverage as probable, and the film says so.
+
+The two reconstructions of the helmet - Herbert Maryon, 1945 to 1947, and
+  Nigel Williams, 1970 to 1971, the latter comprising four months to
+  disassemble, five months of study and nine months to rebuild - are given on
+  secondary authority and are not drawn from a primary publication.
+
+
+WHERE THIS EPISODE DIFFERS FROM THE USUAL ACCOUNT
+
+- The usual account presents the embalming reading as the current state of
+  knowledge. It is one of two published readings of the same material. The
+  2016 study of the bitumen itself - the only one of the four residues with a
+  dedicated geochemical publication - reaches a different conclusion and
+  rejects a utilitarian explanation outright. The film gives both and says
+  that neither is settled. This is not a weakness in the evidence; it is what
+  the episode is about.
+- The usual account dates the chemical answer to the soil analyses of 1967. A
+  note on phosphatic material from this grave had already appeared in Nature
+  in 1950. The film says that, and no more than that.
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- It does not claim that Raedwald was buried there. The two most recent
+  authorities both decline to name him: "not identifiable" and "we can't name
+  that king for certain". Raedwald is, in the same sentence, "often presumed".
+- It does not claim that a body was definitely present. The phosphate is real;
+  so is the absence of shroud ties and the arrangement of the objects. The
+  cenotaph reading has never gone away, and the film says explicitly that it
+  is not going to settle this.
+- It does not state what the 1950 Nature note concluded, only that it exists.
+- It does not use a rivet count or a total object count. The sources say
+  "nearly all" of the rivets survived and give no figure, and the frequently
+  quoted total of 263 objects is not borne out by the source checked.
+- It does not give the soil pH as a number. The acidity is documented; the
+  value is not, in anything read for this film.
+- It does not give the ship's beam, depth, plank count or frame count, because
+  the primary record for those figures was not accessible.
+- It does not date the 2023 study to October. That is the issue label; the
+  paper appeared online on 22 June 2023.
+- It says the comb MAY carry surviving DNA. That is a stated hope of the
+  excavators, not a result.
+[01]  0:00   RECONSTRUCTION  a low grass-covered burial mound in a wide level field of heather and cropped turf in eastern England at first light
+[02]  0:10   RECONSTRUCTION  an open rectangular excavation trench cut down into pale dry sand
+[03]  0:12   RECONSTRUCTION  close view down onto a swept sand floor where a faint grey discolouration curves across it and a row of corroded iron lumps sits along the curve
+[04]  0:33   RECONSTRUCTION  a long section of a hull-shaped discolouration in the floor of a sand pit
+[05]  0:38   DIAGRAM         plan of the burial chamber, with the body-shaped gap in the middle
+[06]  0:45   DIAGRAM         the same plan with the grave goods removed - only the gap
+[07]  0:48   RECONSTRUCTION  a large brick country house standing on a low bluff above an estuary in eastern England
+[08]  1:02   RECONSTRUCTION  a man in the heavy working clothes and flat cap of the nineteen thirties pushing an empty wheelbarrow up the flank of a low grass mound in a wide field
+[09]  1:18   DIAGRAM         the cemetery above the river, with Mound 1 marked
+[10]  1:32   RECONSTRUCTION  a single corroded iron rivet lying in pale sand
+[11]  1:37   RECONSTRUCTION  a kneeling figure in nineteen-thirties working clothes brushing sand away from a row of small rust-coloured iron lumps in the floor of a sand trench
+[12]  1:49   RECONSTRUCTION  a long hull-shaped discolouration in the floor of a huge open sand pit
+[13]  2:00   DIAGRAM         section through the mound: hull, chamber at its lowest point
+[14]  2:15   RECONSTRUCTION  an excavation camp beside a large open sand pit in summer
+[15]  2:33   RECONSTRUCTION  a tall stack of folded newspapers seen from the side so that only the cut paper edges face the camera
+[16]  2:39   RECONSTRUCTION  the interior of a small empty village hall
+[17]  2:48   DIAGRAM         the legal question of 1939, as a decision tree
+[18]  3:05   RECONSTRUCTION  a large early medieval gold belt buckle lying flat
+[19]  3:16   RECONSTRUCTION  a woman in nineteen-thirties clothing standing at a tall window with her back to the room
+[20]  3:22   DIAGRAM         the chamber in plan: helmet at the head, sword on the right
+[21]  3:30   RECONSTRUCTION  an early medieval iron face-mask helmet seen in three-quarter view
+[22]  3:46   RECONSTRUCTION  a pair of curved gold shoulder clasps lying side by side
+[23]  3:50   DIAGRAM         four origins in one chamber - Sri Lanka, Constantinople, Syria, Francia
+[24]  4:06   RECONSTRUCTION  two long-handled silver spoons lying parallel on a dark neutral surface
+[25]  4:18   RECONSTRUCTION  a low stack of grave goods set down together on sand
+[26]  4:26   RECONSTRUCTION  the inside of a timber burial chamber
+[27]  4:43   RECONSTRUCTION  a small gold purse lid lying flat
+[28]  4:52   RECONSTRUCTION  a single small thin gold coin lying flat on a dark surface
+[29]  5:08   DIAGRAM         the coins place the burial between 610 and 635
+[30]  5:28   DIAGRAM         the gap: no bone, no tooth, no skull
+[31]  5:30   RECONSTRUCTION  a swept flat area of pale sand in the floor of an excavation
+[32]  5:42   RECONSTRUCTION  a cut vertical section through sandy ground showing the layers in profile
+[33]  5:59   RECONSTRUCTION  a row of plain glass sample jars part-filled with sand standing on a stainless steel laboratory bench
+[34]  6:26   RECONSTRUCTION  a timber burial chamber seen from above
+[35]  6:32   DIAGRAM         two findings that do not agree: phosphate against arrangement
+[36]  6:49   RECONSTRUCTION  a wide view across the empty floor of a large excavated chamber cut into sand
+[37]  7:02   RECONSTRUCTION  an expanse of bare pale sand filling the whole frame under flat even light
+[38]  7:16   RECONSTRUCTION  the hilt of an early medieval sword seen close
+[39]  7:23   RECONSTRUCTION  an early medieval iron sword lying full length on a dark neutral surface
+[40]  7:36   DIAGRAM         the wear on the sword: carried on the right, drawn with the left
+[41]  7:42   DIAGRAM         where the sword lay - on the right side of the body space
+[42]  7:49   RECONSTRUCTION  a sword grip and guard in extreme close-up
+[43]  7:59   RECONSTRUCTION  a single hand closed around the grip of a sword
+[44]  8:11   RECONSTRUCTION  an early medieval iron face-mask helmet seen straight from the front against a dark background
+[45]  8:17   RECONSTRUCTION  dozens of small irregular fragments of heavily corroded iron laid out loose on a plain pale surface
+[46]  8:27   RECONSTRUCTION  a figure in a nineteen-forties laboratory coat bent over a workbench under a single hanging lamp
+[47]  8:47   DIAGRAM         two reconstructions of the helmet, 1947 and 1971
+[48]  8:59   RECONSTRUCTION  a workbench seen from above with corroded iron fragments arranged in careful ordered rows across it
+[49]  9:05   RECONSTRUCTION  corroded iron fragments laid out in long straight rows on a pale workbench
+[50]  9:09   RECONSTRUCTION  an early medieval iron face-mask helmet standing alone on a dark neutral surface under museum lighting
+[51]  9:22   DIAGRAM         the helmet in three dates: 1939 fragments, 1947, 1971
+[52]  9:38   RECONSTRUCTION  rows of small corroded iron lumps sitting in pale sand
+[53]  9:47   DIAGRAM         the surviving rivets as points, the missing ones extrapolated
+[54]  10:09  RECONSTRUCTION  the timber roof structure of a buried chamber seen from inside and below
+[55]  10:28  DIAGRAM         the temporary opening in the east wall
+[56]  10:41  RECONSTRUCTION  a long hull-shaped discolouration in a sand pit seen obliquely in low evening light
+[57]  10:48  DIAGRAM         the scale of what was given up: a 27-metre ship
+[58]  11:05  RECONSTRUCTION  a tiny irregular fragment of black glossy natural bitumen lying on a plain pale surface
+[59]  11:13  DIAGRAM         the four residues recorded in the chamber
+[60]  11:22  RECONSTRUCTION  a low wooden bier inside a timber chamber with a length of pale linen cloth laid smooth along it
+[61]  11:39  RECONSTRUCTION  a present-day analytical instrument on a laboratory bench
+[62]  11:59  DIAGRAM         the bitumen: Dead Sea or Syria, by geochemistry
+[63]  12:14  RECONSTRUCTION  a tiny black fragment resting on a sheet of fine pale grid paper
+[64]  12:32  DIAGRAM         the same material, two readings - 2016 and 2023
+[65]  12:43  RECONSTRUCTION  a single object inside a glass museum case lit from above
+[66]  12:57  RECONSTRUCTION  the interior of a large timber hall in early medieval northern Europe
+[67]  13:01  DIAGRAM         candidates inside the coin window
+[68]  13:25  RECONSTRUCTION  an early medieval iron face-mask helmet seen from the front against a nearly black background
+[69]  13:34  DIAGRAM         two careful formulations about who is not identifiable
+[70]  13:50  RECONSTRUCTION  the empty swept floor of an excavated chamber at dusk
+[71]  14:01  RECONSTRUCTION  a wide shallow copper-alloy bucket
+[72]  14:09  RECONSTRUCTION  close view of the raised band on a corroded copper-alloy vessel
+[73]  14:27  DIAGRAM         the bucket, found in three stages: 1986, 2012, 2024
+[74]  14:39  RECONSTRUCTION  a large rectangular block of soil sitting on a laboratory trolley under a fixed overhead instrument
+[75]  14:53  RECONSTRUCTION  a shallow white laboratory dish holding a small number of pale calcined bone fragments
+[76]  15:03  RECONSTRUCTION  a small comb of pale antler lying on a dark surface
+[77]  15:12  DIAGRAM         the Greek inscription on the bucket, and what it says
+[78]  15:26  RECONSTRUCTION  a small group at a graveside in low evening light
+[79]  15:43  DIAGRAM         the whole site: mounds, Mound 17, the later burials
+[80]  15:58  RECONSTRUCTION  several shallow empty rectangular grave cuts in close-cropped turf
+[81]  16:17  RECONSTRUCTION  the hull-shaped discolouration in the sand seen from directly above at dusk
+[82]  16:21  DIAGRAM         the three absences: ship, body, name
+[83]  16:31  RECONSTRUCTION  an early medieval iron face-mask helmet against a dark background
+[84]  16:46  RECONSTRUCTION  a sword grip in extreme close-up
+[85]  17:01  RECONSTRUCTION  a low grass burial mound in a wide open field at evening
+[86]  17:11  RECONSTRUCTION  the same low grass mound in the last of the evening light
+
+
+WHAT THE IMAGES ARE NOT
+
+None of these images is a photograph of a real find. Every one of them was
+generated or drawn for this film, and they stand for the things the film
+describes rather than depicting particular ones. Where a specific site is
+named in the commentary - Bratskii Kamen, the Angara, Smithfield - the image
+beside it is a stand-in, not that place.
+
+THIRTY-EIGHT of the 86 shots are drawn rather than generated, and that is the
+highest share this channel has ever run. The reason is the subject. Detection
+rates set against each other, pedigrees with carriers marked, two age
+distributions, a phylogeny with a polytomy, three maps and two timelines are
+statements an image model cannot make without inventing them. They are drawn
+in Python, and every one of them carries its source in its own footer.
+
+The drawn distributions are SCHEMATIC and say so on the image itself. The
+curves illustrate what the paper reports - a mortality peak at 7.5 to 11 years
+and the scarcity of deaths between 20 and 35 - and they carry no counts,
+because the paper publishes none in that form.
+
+The maps show ENDPOINTS and distances, not routes. The film does not claim a
+migration path: the authors argue explicitly for a continent-wide rodent
+reservoir rather than a continuous chain of human contact, and drawing a line
+of travel would have contradicted the very finding the act rests on.
+
+
+A NOTE ON WHAT IS NOT SHOWN
+
+The victims of these outbreaks were mostly children between seven and eleven
+years old. There is no depiction of a sick, dying or dead person anywhere in
+this film - not photographic, not painted, not implied. Where the commentary
+speaks about the children, the picture is a grave plan or an age
+distribution, because a drawn grave number is precisely what survives of
+them, and a painted face would be an invention at the one place where the
+film can least afford one.
+
+The shot that accompanies the line "there is nothing to illustrate here" is an
+empty gravel terrace above a grey lake, and it carries no sound bed either.

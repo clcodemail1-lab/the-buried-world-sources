@@ -1,0 +1,128 @@
+THE BURIED WORLD
+Episode 15 - The Ship Had Rotted Away. They Excavated It Anyway.
+
+How this film was made, and what was corrected before recording
+
+Last updated 7 October 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel is checked line by line against the publications
+before it is recorded, and the corrections are published. They are the most
+useful thing here: they show where the ordinary version of a story is wrong,
+and they show what this film got wrong first.
+
+For Sutton Hoo, the checking changed the film more than usual. One correction
+reversed an argument the draft had already made. Four figures were cut rather
+than softened.
+
+
+1. THE EMBALMING IS ONE OF TWO READINGS, NOT THE ANSWER
+
+This is the correction that changed the film.
+
+The 2023 study of the ship and chamber lists four residues recorded in the
+burial over the years - phosphate, tar, linen tape and bitumen - and argues
+that taken together they suggest the body was prepared, or embalmed. The first
+draft of this script carried that argument, correctly attributed, and left it
+there.
+
+What the draft did not do was check whether the residues have studies of their
+own. One of them does. The bitumen was published in 2016 in PLOS ONE, open
+access, by a team doing geochemical work on the fragments themselves. They
+established that material catalogued for decades as Stockholm tar is natural
+bitumen from the Middle East, most probably the Dead Sea region or Syria - and
+then reached a conclusion that is not embalming at all. They argue that
+material acquired across that distance is unlikely to have been viewed in
+utilitarian terms, and that it was either valued as a prestige raw material in
+its own right or formed part of a fabricated object that has since decayed.
+
+So: the only one of the four residues with a dedicated geochemical publication
+points somewhere else. The draft would have carried a hypothesis as though it
+were the state of the field, simply by not asking what else had been written
+about the same substance.
+
+The film now gives both readings, says that both are published and neither is
+settled, and spends an act on the fact that the same handful of material yields
+different answers depending on how wide you draw the frame. That is not a
+weakness in the episode. It turned out to be the episode.
+
+
+2. THE CHEMICAL ANSWER IS OLDER THAN THE USUAL ACCOUNT SAYS
+
+The common version dates the resolution of the missing-body question to soil
+analyses carried out in 1967. A note on "unusual phosphatic material in the
+Sutton Hoo ship burial" had already appeared in Nature in August 1950.
+
+This film says that the 1950 note exists and says nothing about what it
+concluded, because the text sits behind a paywall and was not read. Citing a
+paper for its existence is legitimate. Citing it for a finding you have not
+read is not.
+
+
+3. FOUR FIGURES WERE CUT RATHER THAN SOFTENED
+
+- A RIVET COUNT. The sources describe "nearly all" of the rivets as surviving
+  and give no number. A figure the sources do not carry does not go in.
+
+- A TOTAL OBJECT COUNT. The figure of 263 objects is quoted very widely. It is
+  not borne out by the source checked for this film, which lists categories
+  rather than a total.
+
+- THE SOIL pH. The acidity of the subsoil is documented and is the reason the
+  bone is gone. The specific value is not documented in anything read here, so
+  the film describes the ground as acidic enough to dissolve bone and gives no
+  number.
+
+- THE SHIP'S BEAM, DEPTH, PLANK COUNT AND FRAME COUNT. The primary record for
+  these is the 1940 excavation report, which was not accessible in full. The
+  length of 27 m is confirmed independently by the British Museum and is used;
+  the rest is not.
+
+
+4. A DATE FIELD THAT MEANS SOMETHING DIFFERENT THAN IT LOOKS
+
+The 2023 study carries two dates in its metadata: a print date of October 2023
+and an online date of 22 June 2023. The October date is an ISSUE LABEL, not the
+day the work appeared. The film says "published in 2023" throughout and never
+"in October 2023".
+
+This is a standing rule here rather than a one-off: every DOI used on this
+channel has its date fields read individually, because the field that looks
+like a publication date often is not one.
+
+
+5. THE MAN IS NOT NAMED
+
+Raedwald is the obvious candidate: he ruled the East Angles inside the window
+the coins allow, and a contemporary chronicler credited him with authority over
+other English kings. He is not, however, the answer, and the two most recent
+authorities both say so in almost the same words. The 2023 study calls the man
+in the chamber "not identifiable" and Raedwald "often presumed". The British
+Museum's own curator says the king cannot be named for certain.
+
+The film follows them. It gives the candidate, gives the reasoning, and then
+quotes both formulations rather than resolving them.
+
+
+HOW THE PICTURES WERE MADE
+
+Every photograph-like shot in this film is generated, and the EU marking is on
+screen in the first fifteen seconds. Nothing in this film is a photograph of a
+real object or place.
+
+The 26 plans, maps and timelines are drawn in code from the published figures.
+Six of them are the same chamber plan with different markings - it is a schema
+following the recorded find positions, not a survey drawing, and every one of
+them says so in its own footer. The body-shaped gap in that plan is drawn as a
+dashed empty outline and not as a figure, because the film does not claim
+somebody lay there.
+
+Where two readings stand against each other - phosphate against arrangement,
+prestige material against embalming - both sides are given the same area, the
+same type size and the same colour. The film does not decide between them, so
+the graphics are not allowed to decide either.
+
+
+Corrections to anything here are welcome and will be made out loud.
