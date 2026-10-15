@@ -47,6 +47,7 @@ version cannot quietly become more certain than the original.
 | # | Title | Lines | Method |
 |---|---|---|---|
 | 1 | Roman Concrete Heals Itself. Nobody Meant It To. | [lines](erklaer-01-sources.txt) | [method](erklaer-01-method.txt) |
+| 2 | The Herculaneum Scrolls: They Read One Without Opening It | [lines](erklaer-02-sources.txt) | [method](erklaer-02-method.txt) |
 
 ## Dispatches
 
