@@ -12,7 +12,7 @@ in dialogue, with drawn figures doing the explaining.
 HOW THE CONDENSATION WAS MADE
 
 The long film has 63 blocks and 12,703 characters of speech. This has
-160 lines and 7479 characters — a little under half. Every line was written
+160 lines and 7,479 characters — 59 per cent of it. Every line was written
 against a block and carries that block's number, in the film's source list and
 in the script file itself. Nothing was written from memory of the long film.
 
@@ -111,7 +111,8 @@ The EU AI Act mark is on screen from 0:03 to 0:15 in the lower half, and a
 small permanent mark sits bottom left for the whole film, so it survives a
 clip taken out of the middle. Proven on the finished file, not on the script:
 across the 15-second edge, 54.1 % of pixels change in the mark's area against
-0.2 % in a control area of the same size.
+0.2 % in a control area of the same size. The permanent mark was checked at
+8 points spread over the film, the last at 526 seconds.
 
 
 Sources, and the literature behind every claim:

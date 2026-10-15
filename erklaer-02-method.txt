@@ -1,0 +1,163 @@
+THE BURIED WORLD — EXPLAINER 02, METHOD
+The Scrolls. Nobody Could Read Them. Then Somebody Did.
+
+
+WHY THIS FILM EXISTS
+
+The channel's films run twelve to eighteen minutes and assume you will sit
+still for them. This is a second, lighter way in: the same material, shorter,
+in dialogue, with drawn figures doing the explaining.
+
+
+HOW THE CONDENSATION WAS MADE
+
+The long film has 84 blocks and 13,882 characters of speech. This has
+178 lines and 7,765 characters — 56 per cent of it. Every line was written
+against a block and carries that block's number, in the film's source list and
+in the script file itself. Nothing was written from memory of the long film.
+
+Four things were cut. None of them is a claim; all of them are detail that
+does not survive the shorter form:
+
+  - the inventory in figures: eighteen hundred scrolls and fragments, perhaps
+    eight hundred books, five hundred and eighty-five unrolled, around two
+    hundred published. Four numbers in one breath do not carry when spoken.
+  - the second and third scrolls by name — Oxford, seventy columns. The title
+    page stays, because it is the thing the reporting merged with the complete
+    reading, and that merge is corrected out loud in this film.
+  - the two synchrotrons by name. Two institute names in a row carry nothing
+    without a picture of the machines.
+  - the levels reached in the nineteen-nineties below the Bourbon floor. Cut
+    for length at the last pass, and it is the one omission that costs
+    something: it is the clearest evidence of how much of the villa is still
+    there.
+
+Blocks of the long film not cited anywhere in this one, each with its reason:
+
+  [05]  the inventory in figures — four numbers in one spoken breath
+  [06]  a forward glance at the June announcement; this film reaches it in order
+  [07]  transition into the house
+  [29]  restated inside the exchange about what the library is worth [26][27][30]
+  [55]  the second and third scrolls by count — the title page is kept, the tally is not
+  [56]  the title itself is spoken in the film, as the claim B then corrects [59][60]
+  [57]  that the work ran to at least eight books — detail
+  [58]  transition ("now the part that got compressed in the reporting")
+  [67]  transition, in the first person
+  [71]  the nineteen-nineties levels — cut for length, see above
+  [78]  transition into the closing section
+
+One block was missing from this film entirely when the script was first
+written, and it is the one that mattered most. [54] is where the long film
+stops to say what "complete" means: the scroll was unwrapped along its whole
+length, but the reading is not clean, and where the surface is lost the text
+has holes. Without it, this film would have let "read from end to end" stand
+unchallenged — and would have sounded more certain than its own source. It was
+caught while looking for objections to give to B, not by any of the checks.
+Four lines were added and recorded.
+
+This is the failure mode a simplified version has: not a false claim, but a
+missing limit. It is the reason this file exists.
+
+
+WHERE THIS FILM HOLDS BACK, AND WHY
+
+The long film qualifies in four places. All four are in here, because a
+shorter version that sounds more certain than its source would be worse than
+no shorter version at all.
+
+  - the owner of the villa. The best-supported guess is a Roman senator, the
+    father-in-law of Julius Caesar. The film says, in the same breath, that
+    there is no deed and that it stays a guess [14].
+  - what "read from end to end" means. The scroll was unwrapped along its
+    whole length; the reading is not clean, and where the surface is lost the
+    text has holes. The team says so, and so does this film — B asks, and A
+    takes it back [54].
+  - the attribution of the newly read text. A Stoic handbook in an almost
+    entirely Epicurean collection is a reason to be more careful, not less;
+    that is the papyrologist's own phrasing [63][64]. The film also carries
+    the caution that cuts the other way: Chrysippus was already in this
+    library, so a Stoic on those shelves is not unheard of [65].
+  - the second, Latin library. It is the single most repeated claim about this
+    site, and nobody has seen it. The film calls it a hypothesis [72][73].
+
+One more thing belongs here, because it is the objection a viewer will have
+and the film does not dodge it: a model trained on text we already have,
+reading text nobody has seen, could in principle invent a word. The answer
+given is the one the record supports — the prize conditions were fixed before
+anybody read anything: four passages of a hundred and forty characters, at
+eighty-five per cent legibility [45][49]. That is a check, not a proof, and
+the film does not call it more than it is.
+
+
+THE SECOND VOICE
+
+B is not there to feed lines. Every objection B raises is one the long film
+raises and answers itself — that the lumps of charcoal were worth throwing
+away [16], that peeling one scroll in four years is not a method [22][23],
+that a library of one man's lecture notes is a disappointment [26][30], that a
+model reading unseen text could be inventing it [45], that "read end to end"
+cannot mean every word [54], that a Stoic book in an Epicurean library is a
+small thing to call a discovery [66], that archaeologists who would rather not
+dig are being convenient [77], and that nobody bothered with these scrolls for
+two hundred and fifty years [79].
+
+And B is right once. A gives the announcement the way it was reported
+everywhere — the first scroll read from end to end, Philodemus, On the Gods,
+book eight. B takes it apart: those are two different scrolls. The title page
+came off one, the complete reading off another, and they were announced
+together. A concedes [59][60]. If the format ever has B lose every exchange,
+it has stopped being honest.
+
+
+WHAT WE GOT WRONG WHILE MAKING THIS
+
+All of these were caught before publication, most of them by checks that
+exist because an earlier film went wrong in the same way:
+
+  - The script was written at 220 lines and would have run to 10:38, against
+    8:54 for the first explainer. A difference in retention could then have
+    been the subject or the two extra minutes, and the comparison would have
+    answered neither. Cut to length twice — not by removing objections, but by
+    having A describe less and answer more.
+  - Both cuts broke the text where they joined. Eight places: an answer to a
+    question removed while the question stayed, two pronouns left without a
+    referent, a line ending in a comma, a sentence that read as present tense
+    where it described a position since overturned. Found by reading the
+    speech aloud end to end; the build now lists every join a cut created, so
+    the next one is read in twenty places instead of a hundred and seventy.
+  - The scene read its audio lengths from the first film's folder. It found
+    nothing there, fell back line by line to an estimate, and built a timing
+    grid twenty seconds short — every background change and both schematics
+    would have sat against the wrong sentences. Nothing reported an error. It
+    was caught only by the check that holds the assembled audio against the
+    computed grid.
+  - The flag that says "this film is voiced" asked whether any recordings
+    existed, not whether these lines had them. The other film's recordings
+    answered yes.
+  - Two numbers in the script cited the wrong block, and one stated one and a
+    half metres of papyrus where the long film says roughly one point four.
+    Found by a check that now holds every figure in a line against the block
+    it cites.
+  - This file itself, on its first run, carried the first film's title and
+    block count with this film's line count.
+
+None of these changed a claim that reached the screen. They are listed because
+the channel publishes its workings, and because every one of them would have
+been invisible in the finished film.
+
+
+LABELLING
+
+The EU AI Act mark is on screen from 0:03 to 0:15 in the lower half, and a
+small permanent mark sits bottom left for the whole film, so it survives a
+clip taken out of the middle. Proven on the finished file, not on the script:
+across the 15-second edge, 56.4 % of pixels change in the mark's area against
+0.1 % in a control area of the same size. The permanent mark was checked at
+8 points spread over the film, the last at 553 seconds.
+
+
+Sources, and the literature behind every claim:
+https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/erklaer-02-sources.txt
+https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-10-sources.txt
+
+Corrections are welcome and will be made out loud.

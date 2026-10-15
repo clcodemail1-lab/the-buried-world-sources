@@ -1,0 +1,265 @@
+THE BURIED WORLD — EXPLAINER 02
+The Scrolls. Nobody Could Read Them. Then Somebody Did.
+
+WHAT THIS FILM IS
+
+A shorter, simpler retelling of the flagship film
+"The Only Way To Read Them Was To Destroy Them" (16:12, published 29 Sep 2026).
+Two drawn figures work through the same material in dialogue.
+
+It introduces NO new claim, NO new source and NO new research.
+Every sentence is tied below to a numbered block of the long film, and the
+literature for all of them is in one place:
+
+  https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-10-sources.txt
+  https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-10-method.txt
+
+If a sentence here says more than the block it cites, that is an error in
+this film, and we want to hear about it.
+
+
+WHAT IS A PHOTOGRAPH AND WHAT IS A DRAWING
+
+Backgrounds   generated images, carried over unchanged from the long film,
+              labelled on screen throughout (EU AI Act, Article 50)
+Figures       drawn in code (cut-paper style). Not generated, not people.
+Schematics    drawn in code, labelled "schematic" in the frame. Two of them:
+              the rolled scroll unwound into a line, and why a density
+              scan cannot separate carbon ink from a carbon page.
+
+No photograph is altered. Where the film shows a process, the process is
+drawn as a drawing and is recognisable as one — a white line closing a crack
+ON a photograph would be a claim about that photograph.
+
+
+EVERY LINE, WITH ITS BLOCK IN THE LONG FILM
+
+A = narrating voice   B = the voice that objects
+[NN] = block number in the long film's script
+
+
+--- THE LUMP --------------------------------------
+
+ 0:03  A  [01]    Seventeen fifty-two, in a tunnel under a town south of Naples.
+ 0:07  A  [01]    Twenty metres down, in old mudflow rock.
+ 0:10  A  [01]    A workman hands something up.
+ 0:12  A  [01]    About the length of your forearm.
+ 0:14  A  [01]    Black all the way through, light in the hand.
+ 0:17  A  [02]    Everybody agrees what it is.
+ 0:18  A  [02]    Charcoal.
+ 0:20  A  [02]    And there are hundreds more.
+ 0:22  B  [03]    They were wrong.
+ 0:24  A  [03]    Every one of those lumps is a book.
+ 0:26  A  [03]    Rolled shut, cooked solid by a volcano, and still holding its text.
+ 0:31  B  [04]    So read them.
+ 0:33  A  [04]    For the next two hundred and seventy-five years,
+ 0:36  A  [04]    the only reliable way to read one of these was to destroy it.
+
+--- WHY THEY SURVIVED AT ALL ----------------------
+
+ 0:41  B  [11]    Why did paper survive a volcano at all?
+ 0:44  A  [09]    It is how the town was buried. Pompeii got pumice from the sky.
+ 0:48  A  [08]    Herculaneum got surges of hot gas that filled every room.
+ 0:51  A  [09]    Up to twenty metres of it, and it set hard.
+ 0:54  A  [09]    And it went in hot.
+ 0:56  A  [10]    So the wood did not rot. It carbonised.
+ 0:59  A  [10]    Doors are still there. Beams. A cradle. Bread.
+ 1:02  B  [11]    And papyrus is a plant.
+ 1:04  A  [11]    It did what the beams did.
+
+--- THE HOUSE -------------------------------------
+
+ 1:07  A  [12]    In seventeen fifty the town was not excavated. It was mined.
+ 1:11  A  [13]    Two years later a tunnel broke into a villa.
+ 1:14  A  [13]    A garden a hundred metres long, and a library.
+ 1:17  B  [14]    Whose house?
+ 1:19  A  [14]    A Roman senator, probably. There is no deed. It stays a guess.
+ 1:23  A  [14]    What is not a guess is what sat on his shelves.
+
+--- READING MEANT DESTROYING ----------------------
+
+ 1:27  A  [15]    Here is what the eighteenth century did with it.
+ 1:29  A  [16]    Charred scrolls look like firewood.
+ 1:32  A  [16]    By the accounts of the dig, some were thrown out unexamined.
+ 1:36  B  [16]    Or burnt.
+ 1:37  A  [16]    Or burnt.
+ 1:39  A  [17]    Then the second problem. Opening them.
+ 1:41  A  [17]    Think of a rolled-up wafer that has been in a fire.
+ 1:44  A  [17]    The layers are fused, the whole thing warped into an oval.
+ 1:47  A  [18]    A draughtsman had a method,
+ 1:49  A  [18]    he cut the scroll in half lengthways.
+ 1:52  A  [18]    Then he scraped away a layer, copied what was underneath, and the next.
+ 1:56  A  [19]    Words came out.
+ 1:58  B  [19]    Hold on. Every layer he read destroyed the one under it.
+ 2:02  A  [19]    Yes. Hundreds of scrolls went through that.
+
+--- THE MACHINE -----------------------------------
+
+ 2:06  A  [20]    Four years later, a conservator built a machine.
+ 2:09  A  [21]    A wooden frame, silk threads, and screws.
+ 2:12  A  [21]    You glue the scroll's outer surface to a membrane.
+ 2:16  A  [21]    The threads pull the membrane away. Millimetres a day.
+ 2:19  A  [21]    Peeling it open along its length, not across it.
+ 2:23  B  [22]    Did it work?
+ 2:24  A  [22]    The first scroll took him four years.
+ 2:27  B  [22]    Four years.
+ 2:29  A  [23]    Four years, one scroll. That is the honest scale of it.
+ 2:32  B  [23]    And could he read it?
+ 2:35  A  [23]    A strip of black material with slightly blacker letters on it,
+ 2:38  A  [23]    in pieces, glued to a backing, unreadable in ordinary light.
+
+--- WHAT IS IN THEM -------------------------------
+
+ 2:44  B  [24]    So what was in them?
+ 2:46  A  [25]    Philodemus — fill-oh-DEE-mus — a Greek philosopher of the school of Epicurus.
+ 2:51  A  [26]    Forty-four of his works are down there.
+ 2:54  B  [28]    No lost plays?
+ 2:55  A  [28]    No.
+ 2:57  B  [28]    No Sophocles. No missing books of Livy.
+ 3:00  A  [28]    None of that.
+ 3:02  B  [30]    So the greatest library of the ancient world,
+ 3:05  B  [26]    is one man's lecture notes on anger and property management.
+ 3:10  A  [27]    Mostly. And substantial parts of Epicurus, On Nature,
+ 3:13  A  [27]    which does not survive anywhere else.
+ 3:16  A  [30]    Serious work for a specialist,
+ 3:18  B  [30]    and a disappointment for everybody else.
+ 3:21  A  [31]    By the late twentieth century, the position was this.
+ 3:24  A  [31]    The readable ones had been read, the rest damaged beyond hope,
+ 3:28  A  [31]    and opening another cost more than it returned.
+ 3:31  A  [32]    So several hundred scrolls sat in a library in Naples.
+ 3:35  A  [32]    Not lost. Not undiscovered. Just closed.
+
+--- THE DETOUR ------------------------------------
+
+ 3:39  A  [33]    The way out did not come from papyrology.
+ 3:41  A  [34]    It came from a computer scientist in Kentucky,
+ 3:44  A  [33]    who had spent twenty years on the problem, unasked.
+ 3:48  B  [34]    So how do you read a book that will not open?
+ 3:51  A  [35]    Scan the object in three dimensions.
+ 3:54  A  [35]    Find the surface of the rolled sheet inside the volume.
+ 3:57  A  [35]    Follow it, wrap by wrap, and flatten it into a page.
+ 4:01  B  [36]    Simple to say.
+ 4:03  A  [36]    Doing it is the hard part.
+ 4:05  A  [36]    The layers touch. They split. They merge.
+ 4:07  A  [37]    In twenty fifteen they tested it elsewhere.
+ 4:10  A  [37]    A burnt lump from the Dead Sea, never opened.
+ 4:13  A  [38]    They unwrapped it in software and read it.
+ 4:16  A  [38]    It was the opening of the book of Leviticus.
+
+--- THE WALL --------------------------------------
+
+ 4:20  B  [39]    So the problem was solved.
+ 4:22  A  [39]    No. That one worked because the ink contained metal.
+ 4:25  A  [39]    Metal is dense. It shows up in an X-ray scan.
+ 4:28  A  [40]    Herculaneum ink is carbon.
+ 4:30  A  [40]    Soot and gum, on a sheet that has itself become carbon.
+ 4:34  B  [41]    Carbon letters on a carbon page.
+ 4:37  A  [41]    In a density scan they are the same substance.
+ 4:41  A  [41]    That is the wall the whole project ran into.
+
+--- THE BREAKTHROUGH ------------------------------
+
+ 4:45  A  [42]    What got past it was not a better scanner. It was an admission.
+ 4:48  A  [42]    That the ink might show in a way too subtle for a person to spot.
+ 4:52  A  [43]    The scans were made at particle accelerators,
+ 4:55  A  [43]    where the beam separates a surface with ink from one without.
+ 5:00  B  [44]    And you can see ink in that?
+ 5:02  A  [44]    Not a difference you can see. A difference in texture.
+ 5:05  A  [45]    A machine's work. Train it where the text is known.
+ 5:09  A  [45]    Then let it mark the same signature where nobody has read.
+ 5:12  A  [46]    In twenty twenty-three the scans went online with prize money.
+ 5:16  A  [47]    In October, a twenty-one-year-old student read a word.
+ 5:20  A  [48]    Five letters, inside a scroll shut since the eruption.
+ 5:23  A  [48]    por-FEE-ras. Purple.
+ 5:25  B  [48][83]  One word. After two hundred and seventy-five years.
+ 5:29  A  [49]    Four months later, a team of three read two thousand characters.
+ 5:33  B  [45]    A model trained on text we already have,
+ 5:36  B  [45]    reading text nobody has seen. How would anyone catch it inventing a word?
+ 5:42  A  [49]    The prize had conditions, set before anybody read anything.
+ 5:46  A  [49]    Four passages of a hundred and forty characters, at eighty-five per cent legible.
+ 5:51  A  [50]    And then it stopped being passages.
+
+--- A WHOLE SCROLL — AND A CORRECTION -------------
+
+ 5:54  A  [51]    On the twenty-fifth of June, twenty twenty-six,
+ 5:57  A  [51]    the project announced that a scroll had been read end to end.
+ 6:02  B  [54]    End to end. Every word?
+ 6:04  A  [54]    No — and that is a word doing a lot of work.
+ 6:07  A  [54]    Unwrapped along its whole length, yes. The reading is not clean.
+ 6:11  A  [54]    Where the surface is lost, the text has holes. The team says so.
+ 6:15  A  [52]    Without opening it, though. One point four metres of papyrus,
+ 6:19  A  [53]    twenty-two columns of Greek, still the black lump of seventy-nine.
+ 6:23  A  [59]    And it is Philodemus, On the Gods, book eight.
+ 6:27  B  [60]    No, it isn't.
+ 6:28  B  [60]    That title came off a different scroll.
+ 6:31  A  [60]    — You're right. Those are two separate objects.
+ 6:34  A  [60]    The title page is on one. The complete reading is on another.
+ 6:38  A  [60]    They were announced together, and they merged on the way out.
+ 6:41  B  [61]    So what was on the one they read right through?
+ 6:44  A  [62]    A work of ethics. On human nature, and on moral progress.
+ 6:48  A  [62]    And the last surviving column names a pupil of the rival school.
+ 6:53  B  [62]    The Stoics.
+ 6:54  B  [63]    In an Epicurean library.
+ 6:56  A  [63]    Which is a reason to be more careful, not less.
+ 7:00  A  [64]    The attribution is open — the researchers' own words.
+ 7:03  A  [65]    And one caution the other way.
+ 7:05  A  [65]    A Stoic on those shelves is not unheard of.
+ 7:07  A  [65]    Parts of two of his works were identified here long ago.
+ 7:11  B  [66]    So a book that might be Stoic, in a library where that is not unusual.
+ 7:17  B  [66]    That is the discovery?
+ 7:19  A  [66]    What is new is not that the school is surprising.
+ 7:22  A  [66]    It is that a scroll nobody could open,
+ 7:25  A  [66]    now has a beginning, a middle and an end.
+
+--- WHAT FOLLOWS FROM IT --------------------------
+
+ 7:28  A  [69]    The physical constraint is gone.
+ 7:31  A  [69]    Several hundred unopened scrolls sit in Naples,
+ 7:34  A  [69]    and the method that read one will, in principle, read those.
+ 7:38  B  [74]    Then dig up the rest of the villa.
+ 7:40  A  [70]    The villa was tunnelled, not excavated.
+ 7:43  A  [70]    Most of it has never been dug at all.
+ 7:45  A  [72]    Some classicists argue a Latin library should exist too.
+ 7:49  A  [73]    That is a hypothesis. Nobody has seen a second library.
+ 7:53  B  [74]    So why not dig?
+ 7:55  A  [75]    Because of what is on top of it.
+ 7:57  A  [75]    The villa lies under a modern town, not under a field.
+ 8:01  A  [76]    And the last excavation had to be stopped and stabilised,
+ 8:04  A  [76]    because what was exposed deteriorated faster than it could be conserved.
+ 8:09  B  [77]    Archaeologists who would rather not dig. That is convenient.
+ 8:14  A  [77]    Some of them see the new readings as a pressure to resist,
+ 8:17  A  [77]    not an opportunity.
+
+--- WHAT ACTUALLY CHANGED -------------------------
+
+ 8:20  B  [79]    Nothing was found.
+ 8:23  A  [79]    No new site. No new object. Nothing came out of the ground.
+ 8:26  A  [79]    Every scroll here has been in a library in Naples,
+ 8:30  A  [79]    for two hundred and fifty years.
+ 8:32  A  [79]    Catalogued, numbered, available to anybody.
+ 8:35  B  [79]    So for two hundred and fifty years nobody bothered.
+ 8:39  A  [68]    Nobody could. The constraint was physical, not a lack of interest.
+ 8:43  A  [80]    They just stopped counting as unreadable.
+ 8:46  A  [81]    And the thing that did it was not a discovery.
+ 8:49  A  [81]    It was a scanner, a competition, prize money,
+ 8:52  A  [81]    and a student who downloaded a file.
+ 8:55  A  [82]    The first word out was purple.
+ 8:57  A  [82]    Not a revelation. Just a word, in the middle of a sentence,
+ 9:00  A  [82]    in a book that has been closed since the year seventy-nine.
+ 9:04  A  [83]    Two hundred and seventy-five years of trying to open these things,
+ 9:08  A  [83]    destroyed most of what it touched.
+ 9:10  A  [83]    The method that finally worked never touches them at all.
+ 9:14  A  [84]    The scrolls were never the difficult part.
+ 9:16  A  [84]    We were.
+
+
+COVERAGE
+
+  178 lines, 7765 characters of speech
+  74 of the long film's 84 blocks are cited
+  B speaks 37 of them (20 %)
+
+The eleven blocks not cited are listed in the method file, with the reason.
+
+Corrections are welcome and will be made out loud.
+

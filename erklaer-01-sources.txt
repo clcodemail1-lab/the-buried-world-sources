@@ -234,7 +234,7 @@ COVERAGE
   55 of the long film's 63 blocks are cited
   B speaks 27 of them (16 %)
 
-The nine blocks not cited are listed in the method file, with the reason.
+The eight blocks not cited are listed in the method file, with the reason.
 
 Corrections are welcome and will be made out loud.
 
