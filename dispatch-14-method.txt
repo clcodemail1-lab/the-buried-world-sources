@@ -1,0 +1,122 @@
+THE BURIED WORLD
+Dispatch 14 - These Four Graves Were Closed. Somebody Came Back Anyway
+How this film was made, and what the fact check changed
+
+
+WHY THESE FOUR PAPERS
+
+They share a shape rather than a subject. In each of the four, a grave was
+closed and then opened again - and the gap between those two events grows
+across the film, from a few years at Shanidar to more than fifteen hundred in
+Dorset. That is the whole claim. It is not a claim about how common the
+practice was, and the film says so where it would otherwise be implied.
+
+
+THE FRAME BROKE ONCE, AND THE FOURTH CASE WAS REPLACED
+
+The episode was first built on a different frame: that the people sharing a
+grave had not necessarily arrived together. Three of the four cases fitted it.
+The fourth was a study of 142 genomes from three early Christian churchyards in
+Sweden, and reading its discussion in full killed the frame: it states that
+almost all the multiple burials examined represent primary, SIMULTANEOUS
+interments of people who likely died at or around the same time. They did
+arrive together; they were simply not related.
+
+Keeping that case would have required the viewer to overhear the difference.
+Instead the frame was narrowed to temporal reuse, and the Swedish study was
+replaced by the southwestern England genomes, where the reuse is the finding.
+The Swedish paper is a good episode on its own and will probably become one.
+
+
+WHAT THE FULL TEXTS CHANGED
+
+Reading the four papers in full - rather than their abstracts or the press
+coverage - changed six things:
+
+1. SHANIDAR IS NOT A MURDER. The scapula perforation is perimortem and shows no
+   bone regrowth, so the injury appears to have been fatal. But the paper states
+   that whether it resulted from a hunting accident or from interpersonal
+   violence cannot be known, and that violence between individuals or groups
+   cannot be demonstrated. Headlines announcing the world's first murder are not
+   a reading of this paper. The film says so.
+
+2. THE FLOWER BURIAL IS NOT REVIVED. The paper treats that interpretation as
+   having failed further scrutiny. It appears in the film for one sentence, in
+   order to be dropped.
+
+3. THE THEBAN STACK HAS SETTLED. The paper cautions that the present vertical
+   positions of the bodies should not be read as their original depositional
+   heights: coffins, wrappings and soft tissue collapse and sediment runs in.
+   The stacking is real; the heights are not a measurement of it.
+
+4. "THREE CENTURIES" WAS WRONG. That figure came from a press release. The
+   published phase sequence runs from the twenty-fifth dynasty through the
+   Persian period into Ptolemaic times, which is roughly four and a half
+   centuries. The film says "call it four and a half centuries" and the sources
+   file says the span is derived rather than quoted.
+
+5. WESTMINSTER IS STRONGER THAN REPORTED. No press account carried the second
+   reuse: when Henry III began rebuilding the abbey in the 1240s, this burial
+   was among those exhumed and reinterred, about 1258, in the new sacristy
+   courtyard. The coffin was therefore reused once and moved once more.
+   The attribution to Abbot Aelfwig is stated by the author as an argument, not
+   a finding, and the film keeps that wording.
+
+6. THE DORSET INTERPRETATION IS HEDGED THREE TIMES. The authors write that the
+   later burials MAY reflect an attempt to anchor newcomers in an older
+   landscape, that this POTENTIALLY invokes imagined ancestral affiliations, and
+   that the interpretation SHOULD REMAIN CAUTIOUS. All three hedges are in the
+   film.
+
+
+TWO ERRORS IN OUR OWN WORK, FOUND WHILE WRITING THE SOURCE LIST
+
+The Shanidar article number was written as 28714. It is 30042. The number was
+not copied from anywhere - it was simply wrong, and it would have pointed
+readers at a different paper.
+
+The source list also stated that all four publications are open access. Three
+are, under CC BY 4.0. The Journal of the British Archaeological Association
+article is not; it was read through institutional access. Both errors were
+caught by resolving the DOIs against the Crossref record rather than by
+re-reading the draft.
+
+Resolving the DOIs also turned up something useful: the Theban tomb has a
+number, TT 209, which no press account mentioned.
+
+
+WHAT THE FILM SHOWS, AND WHAT IT REFUSES TO SHOW
+
+There are no human remains anywhere in this film. In all four cases the finding
+is at the level of the body, and in all four it is shown as a drawn excavation
+plan or section - the form archaeology itself works in - rather than as a
+picture of the dead. That decision is why 23 of the 57 shots are diagrams,
+a higher share than in any previous episode of this channel.
+
+The decision also shaped the writing of the image prompts. Three generated
+shots were rejected and remade, and all three failed the same way: the motif
+was described correctly and its ARRANGEMENT was left open, so the model filled
+the gap with the likeliest reading. Linen resting on boards became a shrouded
+body. An open expanse of chalk rubble became a farm track. An "excavated
+section" became a pit instead of a section face. Describing positively is not
+enough when the forbidden thing is the obvious completion.
+
+
+LENGTH
+
+The first voiced version ran 8:06,47 of speech against an estimate of 8:28,1 -
+the channel's character-rate formula was 21,6 seconds high, more than four
+times its documented spread. Measuring the real rate of all fourteen dispatches
+showed why: the constant has been drifting upward for fourteen productions and
+the value in the playbook describes the state of late August. It has been
+corrected.
+
+The episode was then lengthened, because 8:15,5 would have left only 14,5
+seconds above this channel's mid-roll threshold and would have been the
+shortest dispatch in more than a year. The three blocks added are the two
+sampling cautions from the Dorset paper and the answer to the obvious question
+- was this normal? - which the paper answers with five further sites and the
+word "unclear".
+
+
+Corrections are welcome and will be made out loud.
