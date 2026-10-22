@@ -66,6 +66,7 @@ version cannot quietly become more certain than the original.
 | 11 | Nothing Of It Survived. They Found It Anyway. | [sources](dispatch-11-sources.txt) | [method](dispatch-11-method.txt) |
 | 12 | Nobody Writes Down What Everybody Knows | [sources](dispatch-12-sources.txt) | [method](dispatch-12-method.txt) |
 | 13 | The Sickle Was Under Her Chin | [sources](dispatch-13-sources.txt) | [method](dispatch-13-method.txt) |
+| 14 | These Four Graves Were Closed. Somebody Came Back Anyway | [sources](dispatch-14-sources.txt) | [method](dispatch-14-method.txt) |
 
 ## Marking
 
