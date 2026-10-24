@@ -1,0 +1,199 @@
+THE BURIED WORLD
+Dispatch 14 - Who Made The Terracotta Army? Look At Their Fingerprints
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+Fridays on this channel have so far carried three or four short excavation
+reports at a time. This one carries a single find and a single thought, like
+the longer Tuesday films: 79 fingerprints left in the clay of 36 soldiers of
+the Terracotta Army, measured and published in October 2026. The thought is
+one sentence long. The stamps on the soldiers name the workshop. The
+fingerprints name the hands - and the hands were not only those of grown men.
+
+
+WHAT WAS READ, AND WHAT COULD NOT BE
+
+The paper (Li et al. 2026, Journal of Cultural Heritage) is open access, but
+its full text could not be retrieved from here: the publisher's site refuses
+automated requests. The authors' own abstract was read in full, and it carries
+every number in the film, the age threshold of fifteen, and all four of the
+authors' cautions.
+
+Five further details come from news reports that quote the full text: where on
+the figures the prints sit, the 91 prints first recorded and the 12 set aside,
+the six prints on separately made armour ornaments, the Qin bamboo texts on
+apprenticeship, and the inscriptions on Qin lacquerware. Four of these rest on
+a single report (ScienceAlert); they are marked as such in the table below. If
+any of them turns out to be wrong against the full text, it will be corrected
+out loud.
+
+The background on how the soldiers were made comes from a second paper that
+WAS read in full: Quinn, Zhang, Xia and Li (2017) in Antiquity, a microscopic
+study of the clay.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. THE START OF WORK HAS NO SINGLE YEAR. Our draft said work on the mausoleum
+   began in 247 BC. That is the year in the 2017 Antiquity paper; other
+   standard accounts give 246 BC. The film now says "in the third century BC,
+   when the future emperor came to the throne of Qin as a boy of thirteen",
+   which both versions support.
+
+2. "SEVEN THOUSAND FACES" WAS WRONG. The figure of around seven thousand in the
+   2017 paper counts warriors, generals AND horses. The closing line was about
+   faces made to look like somebody, so it now says "thousands of faces".
+
+3. "A BOY OF FOURTEEN" WAS OURS, NOT THE PAPER'S. The overlap between an
+   adolescent boy's prints and an adult woman's is in the reports; the age of
+   fourteen was an illustration we had added. The film now says "a teenage
+   boy".
+
+4. NO SINGLE PRINT IS ASSIGNED. The method estimates the mixture of the whole
+   set and cannot say who left any one print. The opening print is therefore
+   introduced with "nobody knows whose it is", and no sentence in the film
+   attributes any individual print to a child or a woman.
+
+5. THE HEADLINE IS CORRECTED, NOT REPEATED. Several reports said the army may
+   have been built "mainly" or "mostly" by women and children. The paper's
+   estimate puts adult men at 45 percent of the prints, the largest single
+   group, and the authors themselves say their reference data may overestimate
+   women and juveniles. The film says this in so many words.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | Checked | Result
+
+79 prints, 36 figures, Unit T23 in Pit 1 | Li et al. 2026, abstract (79, T23,
+  Pit 1); ScienceAlert and Ancient Origins (36 figures) | 24.10.2026 | confirmed
+Published in October | Crossref record: created 13.10.2026, no online date,
+  issue date November 2026 | 24.10.2026 | confirmed; the film names the month
+  of appearance, not the issue
+Lead author's institution looks after the army | Li et al. 2026, affiliation:
+  Emperor Qinshihuang's Mausoleum Site Museum | 24.10.2026 | confirmed
+Around 7000 life-size figures in battle order in three pits | Quinn et al. 2017,
+  p. 967 | 24.10.2026 | confirmed (count includes horses, see change 2)
+Work began when the 13-year-old came to the throne; ended with his death less
+  than 40 years later | Quinn et al. 2017, p. 966 (247 BC; completion 210 BC,
+  p. 976) | 24.10.2026 | confirmed; year removed from the film, see change 1
+Workforce may have run to 700,000 craftsmen and labourers, some of them slaves
+  | Quinn et al. 2017, pp. 966-967 ("may have involved up to") | 24.10.2026 |
+  confirmed, kept as "may have"
+Long-held assumption: exclusively adult male labour | Li et al. 2026, abstract
+  | 24.10.2026 | confirmed
+Figures up to 2 m tall, clay walls up to 10 cm thick | Quinn et al. 2017,
+  p. 967 (1.8-2 m; wall thickness up to 0.1 m) | 24.10.2026 | confirmed
+Parts from moulds in standard shapes, assembled in many combinations | Quinn et
+  al. 2017, p. 977 | 24.10.2026 | confirmed
+Local loess clay, sand from Mount Lishan to the south | Quinn et al. 2017,
+  p. 977 | 24.10.2026 | confirmed
+Strict recipe, probably mixed by a separate crew and handed to workshops |
+  Quinn et al. 2017, p. 977 (the authors' favoured interpretation) |
+  24.10.2026 | confirmed, kept as "probably"
+About a thousand tonnes of clay and sand; 150-200 kg per figure | Quinn et al.
+  2017, p. 976 (approximately 1050 metric tonnes; 150-200 kg) | 24.10.2026 |
+  confirmed
+Workshop location unknown; kiln remains reported c. 200 m from Pit 1 during
+  museum construction, never investigated in detail | Quinn et al. 2017,
+  pp. 967, 976 | 24.10.2026 | confirmed
+Fired, nothing sustained above c. 850 C | Quinn et al. 2017, p. 975 |
+  24.10.2026 | confirmed
+Stamps and inscriptions read as administrative or quality-control marks /
+  workshop marks | Quinn et al. 2017, pp. 976-977 ("may indicate") |
+  24.10.2026 | confirmed, kept as "read as"
+Prints mainly on heads and arms, also armour, hands, collars, one foot |
+  ScienceAlert; Ancient Origins citing phys.org | 24.10.2026 | two reports agree
+91 recorded, 12 set aside as likely repeats | ScienceAlert only | 24.10.2026 |
+  SINGLE REPORT - to be checked against the full text
+73 prints from shaping and assembly, 6 on separately made ornaments pressed on,
+  armour only | ScienceAlert only | 24.10.2026 | SINGLE REPORT
+Ridge breadth grows with age and is on average wider in men | Kamp et al. 1999,
+  abstract; Fowler et al. 2020 | 24.10.2026 | confirmed
+Method used on fired clay since the 1990s: Arizona, the Levant, Egypt | Kamp et
+  al. 1999 (northern Arizona); Fowler et al. 2020 (Tell es-Safi/Gath);
+  Lichtenberger and Moran 2018 (Beit Nattif); Hoff 2024 (Thonis-Heracleion) |
+  24.10.2026 | confirmed
+Thonis-Heracleion: preliminary; men, women and children; Greek writers present
+  the craft as male | Hoff 2024, abstract | 24.10.2026 | confirmed, kept as
+  "preliminary"
+Overlap between adolescent boys and adult women; no single print can be sorted
+  | ScienceAlert; Ancient Origins; Li et al. 2026 abstract (population-level
+  estimate) | 24.10.2026 | confirmed; "fourteen" removed, see change 3
+Mixture model estimates the whole set instead of labelling prints | Li et al.
+  2026, abstract | 24.10.2026 | confirmed
+Older regression approach treats ridge breadth and ridge density as
+  independent | Li et al. 2026, abstract | 24.10.2026 | confirmed, attributed
+  to the authors ("the authors argue")
+Corrections for clay shrinkage and population differences | ScienceAlert;
+  shrinkage principle Fowler et al. 2020 | 24.10.2026 | confirmed
+Under-15 threshold from Qin legal texts on age-based legal responsibility |
+  Li et al. 2026, abstract | 24.10.2026 | confirmed
+45.0 / 32.7 / 22.3 percent | Li et al. 2026, abstract | 24.10.2026 | confirmed;
+  the film rounds to 45 / 33 / 22 and "about a third", "roughly one in five"
+The authors find the result fits the written record | Li et al. 2026 as quoted
+  by ScienceAlert ("highly corroborates numerous historical records") |
+  24.10.2026 | confirmed
+Qin bamboo texts: master trains apprentices, one year for an apprentice, two
+  for a new artisan | ScienceAlert (Yuelu Academy Qin slips); Ancient Origins
+  (apprentices under experienced artisans, without the years) | 24.10.2026 |
+  the years rest on a SINGLE REPORT
+Qin lacquerware inscriptions mention adult women, young girls, young boys, in
+  state-supervised production | Ancient Origins; Asianet citing phys.org ("da
+  nuzi", "xiao nuzi", "xiao nanzi") | 24.10.2026 | two reports agree
+Younger apprentices may have done simpler tasks such as attaching armour
+  details | ScienceAlert only | 24.10.2026 | SINGLE REPORT, kept as "the
+  authors suggest ... may"
+"Diverse workforce including women and children" | Li et al. 2026, abstract |
+  24.10.2026 | confirmed
+Shares of prints, not of people | Li et al. 2026, abstract | 24.10.2026 |
+  confirmed, in the film
+Inexperienced workers may leave more prints | Li et al. 2026, abstract
+  ("behavioral biases"); ScienceAlert | 24.10.2026 | confirmed, in the film
+Modern European reference data may overestimate women and juveniles |
+  Li et al. 2026, abstract | 24.10.2026 | confirmed, in the film
+One unit in one pit; a larger set from other pits is the next step | Li et al.
+  2026, abstract (Unit T23); Ancient Origins | 24.10.2026 | confirmed
+Headlines said "mainly / mostly women and children" | South China Morning Post
+  and Asianet headlines, 2026 | 24.10.2026 | confirmed; the film corrects it
+"Not exclusively composed of adult males" | Li et al. 2026 as quoted by
+  Asianet and Ancient Origins | 24.10.2026 | confirmed
+First systematic demographic reconstruction | Li et al. 2026, abstract |
+  24.10.2026 | confirmed ("the first systematic attempt")
+Fifty years of study | discovery of the pits in 1974 | 24.10.2026 | "half a
+  century"
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 24.10.2026
+
+10.1016/j.culher.2026.09.014  journal-article, Journal of Cultural Heritage 82,
+  274-281, Li, Shen, Lan, Wang, Yu, Cai, Xia, Zhou. created 2026-10-13,
+  published-print 2026-11, no published-online.
+10.15184/aqy.2017.126  journal-article, Antiquity 91(358), 966-979, Quinn,
+  Zhang, Xia, Li.
+10.2307/2694281  journal-article, American Antiquity 64(2), 309-315, Kamp,
+  Timmerman, Lind, Graybill, Natowsky.
+10.1371/journal.pone.0231046  journal-article, PLOS ONE 15(4), e0231046,
+  Fowler, Ross, Walker, Barritt-Cleary et al.
+10.15184/aqy.2018.2  journal-article, Antiquity 92(361), e3, Lichtenberger, Moran.
+10.1111/ojoa.12308  journal-article, Oxford Journal of Archaeology 43(4),
+  399-418, Hoff.
+
+
+WHAT THE FILM SHOWS
+
+There is no real object in this film. Every photograph-like shot is generated,
+labelled on screen, and shows a soldier, a surface or a print of the TYPE
+described, not a published object. No generated image shows a legible
+inscription; where a stamp is the subject, it is shown worn beyond reading.
+Diagrams are drawn in code from the published figures.
+
+Because much of this audience watches on a television, the opening seconds
+are built to work without sound - the find first, then a caption naming the
+place and the period - and the on-screen text throughout is set larger than in
+earlier dispatches.
+
+
+Corrections are welcome and will be made out loud.

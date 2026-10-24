@@ -1,0 +1,172 @@
+THE BURIED WORLD
+Dispatch 14 - Who Made The Terracotta Army? Look At Their Fingerprints
+
+SOURCES AND LIMITS
+
+One publication carries this film. Its full text is open access but could not
+be retrieved from here, so every figure from it comes from the authors' own
+abstract; five further details come from news reports that quote the full
+text, and are marked as such. The background on how the soldiers were made
+comes from a second paper that was read in full. The companion file
+dispatch-14-method.txt holds the complete fact-check table.
+
+
+THE PUBLICATION
+
+1. Li, X., Shen, J., Lan, D., Wang, J., Yu, Y., Cai, J., Xia, Y. and Zhou, P.
+  (2026). Who produced Emperor Qin Shihuang's Terracotta Army, China? A
+  Bayesian mixture model approach to fingerprint age and sex determination.
+  Journal of Cultural Heritage 82, 274-281. Available October 2026 (Crossref
+  record created 13 October 2026; issue dated November 2026). Open access,
+  CC BY-NC-ND.
+  doi:10.1016/j.culher.2026.09.014
+  -- From the abstract: the 79 well-preserved fingerprints from Unit T23 of
+  Pit 1; the mean ridge breadth measurements and the Bayesian mixture model;
+  the criticism that earlier linear-regression approaches treat ridge breadth
+  and ridge density as independent; the estimate of 45.0 % adult males,
+  32.7 % adult females and 22.3 % juveniles under 15; the under-15 threshold
+  taken from Qin legal texts on age-based legal responsibility; the
+  "diverse workforce including women and children"; and the authors' own
+  cautions - that the proportions are fingerprint frequencies, not counts of
+  people, and that behavioural biases and a modern European reference dataset
+  may overestimate women and juveniles.
+  -- From reports quoting the full text (ScienceAlert; Ancient Origins and
+  Asianet citing phys.org): the 36 figures; the location of the prints, mainly
+  on heads and arms, also on armour, hands, collars and one foot; the 91 prints
+  first recorded and 12 set aside as probable repeats [ScienceAlert only]; 73
+  prints from shaping and assembly and 6 on separately made ornaments pressed
+  onto the armour [ScienceAlert only]; corrections for clay shrinkage and
+  population differences; Qin bamboo texts on apprenticeship (one year for an
+  apprentice, two for a new artisan [ScienceAlert only]); Qin lacquerware
+  inscriptions naming adult women, young girls and young boys; and the
+  authors' suggestion that younger apprentices may have done simpler tasks
+  such as attaching armour details [ScienceAlert only].
+
+
+BACKGROUND, READ IN FULL
+
+2. Quinn, P. S., Zhang, S., Xia, Y. and Li, X. (2017). Building the
+  Terracotta Army: ceramic craft technology and organisation of production at
+  Qin Shihuang's mausoleum complex. Antiquity 91(358), 966-979.
+  doi:10.15184/aqy.2017.126
+  -- Source of: around 7,000 life-size figures (warriors, generals and horses)
+  in three pits; work beginning when the 13-year-old came to the throne and
+  ending with his death less than forty years later; a workforce that may have
+  run to 700,000 craftsmen and labourers, some of them slaves; figures 1.8-2 m
+  tall with clay walls up to 0.1 m thick, weighing 150-200 kg; local loess
+  clay tempered with sand from Mount Lishan; a standardised paste probably
+  prepared centrally and handed to the workshops; about 1,050 tonnes of clay
+  and temper; component parts from moulds assembled in many combinations;
+  firing with no sustained temperature above about 850 C; stamps and
+  inscriptions read as administrative or quality-control marks; kiln remains
+  reported about 200 m from Pit 1 and never investigated in detail.
+
+
+THE METHOD BEFORE THIS STUDY (abstracts)
+
+3. Kamp, K. A., Timmerman, N., Lind, G., Graybill, J. and Natowsky, I.
+  (1999). Discovering childhood: using fingerprints to find children in the
+  archaeological record. American Antiquity 64(2), 309-315.
+  doi:10.2307/2694281  -- ridge breadth grows with age; northern Arizona.
+4. Fowler, K. D., Ross, J., Walker, E., Barritt-Cleary, C., Greenfield, H. J.
+  and Maeir, A. M. (2020). Fingerprint evidence for the division of labour and
+  learning pottery-making at Early Bronze Age Tell es-Safi/Gath, Israel.
+  PLOS ONE 15(4), e0231046. doi:10.1371/journal.pone.0231046  -- the Levant;
+  clay shrinkage in drying and firing.
+5. Lichtenberger, A. and Moran, M. (2018). Ancient fingerprints from Beit
+  Nattif. Antiquity 92(361), e3. doi:10.15184/aqy.2018.2
+6. Hoff, L. (2024). Fingerprints on figurines from Thonis-Heracleion. Oxford
+  Journal of Archaeology 43(4), 399-418. doi:10.1111/ojoa.12308  --
+  preliminary; men, women and children in figurine production, against Greek
+  literary sources that present the craft as male.
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- It does not claim that any single print was left by a child or a woman. The
+  method estimates the mixture of the whole set and cannot assign one print.
+- It does not claim that the army was mostly made by women and children. Adult
+  men are the largest single group of prints in the estimate, and the authors
+  say their reference data may push the share of women and juveniles up.
+- It does not claim that the proportions are proportions of workers. They are
+  proportions of prints.
+- It does not claim the result holds for the whole army. All 79 prints come
+  from one excavation unit in one pit.
+- It shows no real object. Every photograph-like shot is generated.
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the published figures, not generated.
+
+[01]  0:00   RECONSTRUCTION  A fingerprint in the grey clay of a life-size figure - reconstruction
+[02]  0:10   RECONSTRUCTION  The back of a clay soldier's head, fingertip marks behind the ear - reconstruction
+[03]  0:21   RECONSTRUCTION  Rows of clay soldiers in a trench of the pit - reconstruction
+[04]  0:33   RECONSTRUCTION  A building yard of men carrying earth and shaping clay - reconstruction painting
+[05]  0:47   DIAGRAM         A fingerprint has a size: ridge spacing in child, woman and man (schematic)
+[06]  0:59   DIAGRAM         The estimate: 45 % adult men, a third adult women, one in five under 15
+[07]  1:10   DIAGRAM         From the throne at thirteen to his death in 210 BC: under forty years
+[08]  1:25   RECONSTRUCTION  A vast building site in the loess country - reconstruction painting
+[09]  1:34   RECONSTRUCTION  A broken fragment of a clay soldier showing its thick wall - reconstruction
+[10]  1:46   DIAGRAM         Assembled, not carved: parts from moulds in many combinations (schematic)
+[11]  1:57   RECONSTRUCTION  Loess banks and a gully, a mountain ridge to the south - reconstruction
+[12]  2:07   RECONSTRUCTION  A thin section of fired clay under the microscope - reconstruction
+[13]  2:18   RECONSTRUCTION  A heap of prepared clay in a timber shed - reconstruction
+[14]  2:27   DIAGRAM         Where were the workshops? Kiln remains reported about 200 m from Pit 1
+[15]  2:39   RECONSTRUCTION  The inside of a wood-fired kiln - reconstruction
+[16]  2:50   RECONSTRUCTION  A worn stamp impression in the clay of a figure - reconstruction
+[17]  3:02   RECONSTRUCTION  Overlapping fingertip impressions and smoothing marks - reconstruction
+[18]  3:17   RECONSTRUCTION  A magnifying lens over a clay soldier in a laboratory - reconstruction
+[19]  3:25   DIAGRAM         Where the prints sit: heads and arms above all (schematic)
+[20]  3:34   DIAGRAM         91 recorded, 12 set aside as probable repeats, 79 analysed
+[21]  3:46   RECONSTRUCTION  The studded armour of a clay soldier - reconstruction
+[22]  4:01   RECONSTRUCTION  A single excavation unit marked out on the pit floor - reconstruction
+[23]  4:11   DIAGRAM         What was measured: ridge breadth (schematic)
+[24]  4:19   DIAGRAM         Ridge breadth grows with the child and differs by sex (schematic)
+[25]  4:29   RECONSTRUCTION  A broken clay figurine with fingertip impressions - reconstruction
+[26]  4:39   RECONSTRUCTION  A Ptolemaic terracotta figurine from Egypt - reconstruction
+[27]  4:50   DIAGRAM         The overlap: a teenage boy or a grown woman? (schematic)
+[28]  5:02   DIAGRAM         A mixture model: the whole set at once (schematic, not the data)
+[29]  5:14   RECONSTRUCTION  A cloakroom rail of adults' and children's coats - reconstruction
+[30]  5:21   DIAGRAM         One print at a time, or the whole set together (schematic)
+[31]  5:33   RECONSTRUCTION  The same fingertip impression in wet and in fired clay - reconstruction
+[32]  5:44   DIAGRAM         Under 15: the age line from Qin legal texts
+[33]  5:53   DIAGRAM         The result: 45 / 33 / 22 per cent of the prints
+[34]  6:05   RECONSTRUCTION  A bundle of ancient bamboo writing slips - reconstruction
+[35]  6:17   RECONSTRUCTION  A Qin-period lacquered cup - reconstruction
+[36]  6:27   RECONSTRUCTION  A man and an apprentice pressing studs onto a clay soldier - reconstruction painting
+[37]  6:38   RECONSTRUCTION  Men, women and youths at work in a clay workshop - reconstruction painting
+[38]  6:47   DIAGRAM         Prints are not people: ten prints from one worker, none from another
+[39]  6:58   RECONSTRUCTION  A clumsy cluster of smudged fingertip impressions - reconstruction
+[40]  7:07   DIAGRAM         The yardstick: reference data from modern Europeans
+[41]  7:18   RECONSTRUCTION  Broken clay figures half buried in an unexcavated part of a pit - reconstruction
+[42]  7:30   DIAGRAM         What went round, and what the paper says
+[43]  7:38   RECONSTRUCTION  A row of clay soldiers' faces, each different - reconstruction
+[44]  7:45   RECONSTRUCTION  A single fingertip impression on a clay sleeve - reconstruction
+[45]  7:56   RECONSTRUCTION  A worn stamp and a fingerprint side by side in the clay - reconstruction
+[46]  8:03   RECONSTRUCTION  A clay soldier's head being photographed in a laboratory - reconstruction
+[47]  8:13   RECONSTRUCTION  A worker bent over the wet clay of an unfinished figure - reconstruction painting
+[48]  8:23   RECONSTRUCTION  Ranks of clay soldiers across the pit, seen from above - reconstruction
+[49]  8:30   RECONSTRUCTION  A fingertip impression in fired clay - reconstruction
+
+--------------------------------------------------------------------------
+HOW THIS FILM WAS MADE
+--------------------------------------------------------------------------
+
+The narration is synthetic speech. Every still is generated; none of them
+reproduces a real find, a real site photograph or a real person. Where a stamp
+or a written slip is the subject, it is shown worn beyond reading - no
+generated image carries invented legible writing. The diagrams are drawn in
+code; every curve in them is schematic and says so, because the 79 published
+measurements were not available to us.
+
+The opening seconds are built to work without sound - the find first, then a
+caption naming the place and the period - and on-screen text is set larger
+than in earlier dispatches, for viewers watching on a television.
+
+The film carries the EU marking for AI-generated content.
+
+Corrections and questions: the comment thread under the video.
