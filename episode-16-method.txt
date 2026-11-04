@@ -1,0 +1,196 @@
+THE BURIED WORLD
+Episode 16 - Solved Every Few Years. Read By Nobody: The Voynich Manuscript
+
+How this film was made, and what was corrected before recording
+
+Last updated 5 November 2026
+
+
+WHY THIS FILE EXISTS
+
+Every episode of this channel is checked line by line against the publications
+before it is recorded, and the corrections are published. They are the most
+useful thing here: they show where the ordinary version of a story is wrong,
+and they show what this film got wrong first.
+
+For the Voynich manuscript the checking was unusually strict, because the film
+is about claims. A film that says "none of these readings passed the test" has
+to pass its own. Nine statements in the first draft were cut or rewritten. The
+table at the end lists every statement of fact in the film with its source and
+the date it was checked.
+
+
+1. "ABOUT 240 PAGES" IS NOT WHAT THE LIBRARY SAYS
+
+The figure of about 240 pages is everywhere, including in the 2009 materials
+report and in the press coverage of the radiocarbon date. It is not in the
+Beinecke Library's own catalogue, which gives the extent as "ff. 102 +1", that
+is one hundred and two leaves plus one, several of them folding out into
+multiple panels. The film uses the catalogue's count and says that some leaves
+fold out. The two figures are not in conflict - they count different things -
+but a film about precision uses the catalogued one.
+
+
+2. THE RADIOCARBON RANGE IS GIVEN WITHOUT A CONFIDENCE FIGURE
+
+The parchment was dated at the University of Arizona in 2009 and the result,
+1404-1438, was announced in February 2011. The first draft added "with
+ninety-five per cent confidence". The underlying report is not public; the
+confidence figure appears only in a secondary recalculation, which also arrives
+at a slightly different upper bound (1435). The film gives the range as
+announced and nothing more. It also says plainly what the date is a date of:
+the animal skins, not the writing on them.
+
+
+3. THE EMPEROR'S PURCHASE IS HEARSAY, AND THE FILM SAYS SO
+
+The story that Rudolf II paid six hundred ducats for the book comes from one
+letter, written in Prague in 1665 or 1666 (the library itself gives both years)
+and addressed to Athanasius Kircher. The writer reports what he had been told
+by a third person. The library's own summary page states the purchase as a
+fact; the library's transcription of the letter shows it is not. The film calls
+it "a story the writer had been told".
+
+What the film gives instead as hard evidence is the faded signature on the
+first page, legible under ultraviolet light and in the 2024 multispectral
+images: the name of a man who served at Rudolf's court and died in 1622.
+
+
+4. "NOT A SINGLE CONFIRMED WORD" WAS CUT
+
+It is a good line and the sources do not support it. Several short stretches of
+the book are in ordinary letters and can be read: the month names on the
+zodiac pages, the lines on the last page, the alphabet columns on the first.
+What the sources do support is weaker and more precise: the Beinecke says that
+"cryptographic approaches have failed to decipher the text, if it is indeed
+encoded", and the 2021 review in the Annual Review of Linguistics says that
+"there is at present no consensus on the language underlying the manuscript".
+The film says nobody has produced a reading that anybody else accepts.
+
+
+5. THE WORD-REPETITION CLAIM WAS WRONG AND WAS REPLACED
+
+The first draft said that words repeat side by side "far more often than any
+language allows". The 2021 review measured it: the rate of a word being
+repeated immediately is 0.84 per cent in one dialect and 0.94 per cent in the
+other, which the authors describe as "within the realm of plausibility for
+natural language texts". The claim was removed. The anomalies the film does
+describe are the ones the review supports: words sitting beside near-copies of
+themselves that differ by a single sign, the line behaving as a unit, and a
+conditional entropy lower than in any of the 250 languages compared.
+
+
+6. THE AI VIDEO IS DESCRIBED AS IT IS, NOT AS ITS TITLE SOUNDS
+
+The video that prompted this episode - a million views in six weeks - is
+titled as if an artificial intelligence had found something nobody expected.
+Watched to the end, it does something more modest and more honest: it hands the
+text to a commercial AI and asks it to measure rather than translate, and it
+ends in what it calls a verdict of ambiguity. Its own description says that
+nothing in it claims the manuscript has revealed its secret. The film reports
+that, and credits it. The one claim in the video the sources contradict - that
+no language repeats words the way this text does - is not repeated here.
+
+
+7. DATES THAT NEEDED CARE
+
+- The Bristol announcement of May 2019 was published on 15 May and removed
+  within days; the university's statement is dated 16 May and other reports
+  give 17 May. The film says "within days".
+- The 2019 paper carries a print date of January 2019 and an online date of
+  29 April 2019; the film says "2019".
+- The 2020 paper on the generating algorithm appeared online in May 2019 and
+  in a 2020 issue; the film says "2020", the issue year.
+- The Pylos tablet that confirmed Linear B was excavated in June 1952, the same
+  summer as the decipherment was announced, and read by its excavator in the
+  spring of 1953. An earlier draft said "the next year"; corrected.
+
+
+8. NAMES THAT ARE NOT SPOKEN
+
+The researchers behind the 1921, 2014, 2017 and 2019 readings are not named in
+the narration. They are named here and in the source list. The film's argument
+is about a pattern - a reading that stops where somebody else would have to
+use it - and not about any individual, two of whom are living. The quotations
+from the University of Bristol's statement are given in the statement's own
+words.
+
+
+HOW THE PICTURES WERE MADE
+
+Twenty-four of the fifty-six shots show the manuscript itself. These are not
+generated. They are the Beinecke Library's own high-resolution scans of MS 408,
+taken from the library's IIIF image service, shown whole or cropped and
+otherwise unaltered; a list of every file with its source address is kept with
+the production. Credit: Beinecke Rare Book and Manuscript Library, Yale
+University.
+
+The legal basis for using them is stated here because the channel's own
+guidelines flag photographs of public-domain objects as a risk under German
+law: (1) the manuscript is an anonymous work of the fifteenth century and in
+the public domain; (2) since June 2021, section 68 of the German Copyright Act
+provides that reproductions of public-domain visual works are not protected by
+related rights, so the photographer's right that would otherwise attach to a
+reproduction does not apply; (3) the Beinecke's copyright page states that
+"Yale University claims no rights in public domain works", and Yale's 2011
+open-access policy makes images of works believed to be in the public domain
+available without restriction. The library's object page carries a general
+notice that use "may be subject to the copyright law of the United States" and
+does not itself declare the scans public domain; the film therefore does not
+say the library "released" them, only that it put them online for study, which
+is what its own description says.
+
+The remaining twenty photograph-like shots - offices, laboratories, a reading
+room, a bookshop, four painted historical scenes - are generated, and the EU
+marking is on screen in the first fifteen seconds and on every such shot. No
+generated image shows a page of the manuscript, and no generated image contains
+writing of any kind: in a film about a script nobody can read, invented script
+would be a falsehood. No generated image shows the face of any real person.
+
+The twelve diagrams are drawn in code. Where they show measurements that were
+not made for this film - the word-frequency curve, the entropy bars, the
+distribution of the two dialects - they say "schematic" in their own footers.
+Where three possibilities are set side by side, each gets the same area, the
+same type size and the same colour. The film does not decide between them, so
+the graphics are not allowed to decide either.
+
+
+STATEMENTS OF FACT, SOURCES AND DATES CHECKED
+
+Format: statement | source | checked | result. DOIs were resolved against the
+Crossref record and the date fields read individually (print, online,
+created), never the summary field.
+
+MS 408 extent "ff. 102 +1 : 225 x 160 mm", parchment | Beinecke catalogue (IIIF manifest 2002046; pre1600.ms408.HTM) | 4 Nov 2026 | confirmed; "240 pages" not catalogue wording, cut
+Six sections: herbal, astronomical/astrological, balneological, cosmological, pharmaceutical, recipes | Beinecke highlights page | 4 Nov 2026 | confirmed
+Script written fluently, few corrections; sign count "twenty-odd" | Davis 2020 (title: how many glyphs); range in the literature 20-36 | 4 Nov 2026 | kept deliberately vague ("depending on how you count")
+Radiocarbon 1404-1438, four samples from four leaves, 2009, announced 2011 | University of Arizona announcement as reported (LiveScience 11 Feb 2011; medievalists.net 11 Feb 2011); Yale News 31 Oct 2016; Clemens (ed.) 2016, "Physical Findings" | 4 Nov 2026 | confirmed; confidence figure cut (only in Zandbergen's recalculation, 1404-1435)
+Ink iron gall; azurite, copper green, red ochre; nothing anachronistic | McCrone Associates, report of 1 April 2009 to the Beinecke (library.yale.edu PDF) | 4 Nov 2026 | confirmed as "nothing out of its time"; the report does not say "no modern materials" in those words
+Bought by Wilfrid Voynich in 1912 from the Jesuit college at Frascati | Beinecke catalogue provenance | 4 Nov 2026 | confirmed; "Villa Mondragone" not in library wording, cut
+Letter of 1665/1666 to Kircher; 600 ducats as hearsay; Bacon attribution | Beinecke transcription of the Marci letter (pre1600.ms408.HTM) | 4 Nov 2026 | confirmed as hearsay ("retulit mihi D. Doctor Raphael")
+Signature of Jacobus Horcicky de Tepenecz (d. 1622) on f1r, visible under UV / multispectral | McCrone 2009 (UV); Davis, Manuscript Road Trip, 8 Sep 2024 | 4 Nov 2026 | confirmed
+Newbold 1921: microscopic shorthand, Bacon, microscope; refuted 1931 as cracked ink | Manly, Speculum 6(3), 345-391, 1931, DOI 10.2307/2848508 | 4 Nov 2026 | confirmed
+Kraus bought 1961, gave to Yale 1969 | Beinecke highlights page; catalogue | 4 Nov 2026 | confirmed
+Zipf's law holds for both dialects | Bowern & Lindemann, Annu. Rev. Linguist. 7, 285-308, 2021, DOI 10.1146/annurev-linguistics-011619-030613 | 4 Nov 2026 | confirmed (preprint read; print 14 Jan 2021)
+Keywords cluster by section; strongest herbal-pharmaceutical link | Montemurro & Zanette, PLOS ONE 8(6) e66344, online 21 Jun 2013, DOI 10.1371/journal.pone.0066344 | 4 Nov 2026 | confirmed
+Near-copies differing by one sign; line as a unit | Bowern & Lindemann 2021 (Currier's line argument) | 4 Nov 2026 | confirmed
+Conditional entropy lower than in any of 250 languages compared | Bowern & Lindemann 2021 | 4 Nov 2026 | confirmed ("significantly lower than any other language text in our sample")
+Immediate word repetition within natural-language range | Bowern & Lindemann 2021 (0.84 % / 0.94 %) | 4 Nov 2026 | draft claim contradicted, removed
+Two dialects, Currier A and B, 1970s, US naval cryptanalyst | Currier 1976, Washington seminar papers (ed. D'Imperio); Bowern & Lindemann 2021 | 4 Nov 2026 | confirmed via review
+At least four, more likely five scribes | Davis, Manuscript Studies 5(1), 164-180, 2020, DOI 10.1353/mns.2020.0011; wording per Bowern & Lindemann | 4 Nov 2026 | confirmed via review (abstract itself paywalled)
+Friedman's group, 1944-46, after hours; conclusion: artificial language | D'Imperio, The Voynich Manuscript: An Elegant Enigma, NSA, 1978 | 4 Nov 2026 | confirmed in substance; anagram wording paraphrased
+Friedman's team broke the Japanese diplomatic cipher (1940) | standard histories (PURPLE, Signal Intelligence Service) | 4 Nov 2026 | confirmed
+NSA survey 1978, title An Elegant Enigma | D'Imperio 1978 | 4 Nov 2026 | confirmed
+2014: applied linguist, plant names and a star, "provisional, partial" | Bax, A proposed partial decoding of the Voynich script, Jan 2014 (file: "provisional-partial-decoding"); Bowern & Lindemann | 4 Nov 2026 | confirmed; word count not given (sources disagree: 5 to 10)
+2017: TLS, Latin abbreviations, women's health; two lines published | TLS, Sep 2017 (paywalled, title only); Bowern & Lindemann: "Only two lines have been published" | 4 Nov 2026 | confirmed via review
+2019: proto-Romance, compiled by nuns for a queen of Aragon; university announced, then removed | Cheshire, Romance Studies 37(1), 30-67, online 29 Apr 2019, DOI 10.1080/02639904.2019.1599566; University of Bristol statement, May 2019 | 4 Nov 2026 | confirmed; "within days"; statement quoted in its words ("entirely the author's own work", "concerns have been raised about the validity")
+2026: video, nine thousand subscribers, a million views, AI measures rather than translates, verdict of ambiguity | yt-dlp metadata 4 Nov 2026 (1,068,539 views, uploaded 20 Sep 2026); video transcript and description | 4 Nov 2026 | confirmed; snapshot figures
+Linear B: Ventris, architect, 1952; Pylos tripod tablet found 1952, read 1953 by its excavator | Ventris & Chadwick, JHS 73, 84-103, 1953, DOI 10.2307/628239; Blegen's letter of 16 May 1953 | 4 Nov 2026 | confirmed; "next year" corrected
+2004: syllable table and grille reproduce the statistics; forger at Rudolf's court; grille described 1550 | Rugg, Cryptologia 28(1), 31-46, 2004, DOI 10.1080/0161-110491892755 | 4 Nov 2026 | confirmed (abstract paywalled; via review and Rugg & Taylor 2016, DOI 10.1080/01611194.2016.1206753)
+2020: copy the previous word and change a sign reproduces the profile | Timm & Schinner, Cryptologia 44(1), 1-19, online 25 May 2019, DOI 10.1080/01611194.2019.1596999 | 4 Nov 2026 | confirmed via review
+Month names in a form of French/Occitan; last-page lines in Latin script | Bowern & Lindemann 2021 | 4 Nov 2026 | confirmed; language of the month names left open in the film
+2024: multispectral images, three alphabet columns on f1r, not a key | Davis, Manuscript Road Trip, 8 Sep 2024 | 4 Nov 2026 | confirmed
+Beinecke scans: legal basis | gesetze-im-internet.de, UrhG section 68 (read 4 Nov 2026); Beinecke copyright page; Yale News 10 May 2011 | 4 Nov 2026 | confirmed; library's own page carries no public-domain declaration, film wording adjusted
+
+
+Corrections to anything here are welcome and will be made out loud.

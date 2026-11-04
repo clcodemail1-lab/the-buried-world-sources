@@ -1,0 +1,304 @@
+THE BURIED WORLD
+Episode 16 - Solved Every Few Years. Read By Nobody: The Voynich Manuscript
+
+The Voynich manuscript: five decipherments, and what a decipherment has to do
+Full source list
+
+Last updated 5 November 2026
+
+
+HOW THIS EPISODE WAS CHECKED
+
+Every figure spoken in this film was traced to a publication, and the date
+fields of each DOI were read individually, because a journal's print date is
+an issue label and not the day a paper appeared. Nine statements in the first
+draft were cut or rewritten during that check; they are described, one by one,
+in the methods file that accompanies this list.
+
+
+THE LIBRARY: THE MANUSCRIPT AND WHAT IT SAYS ABOUT ITSELF
+
+Beinecke Rare Book and Manuscript Library, Yale University. MS 408 (the
+  "Voynich manuscript"): catalogue record and IIIF manifest 2002046;
+  provenance and physical description (pre1600.ms408.HTM).
+  https://collections.library.yale.edu/
+  -- Source of the shelfmark; of the extent "ff. 102 +1" (the catalogue's own
+  count, used instead of the often-quoted "about 240 pages"); of the six
+  sections; and of the provenance, including the Jesuit college at Frascati
+  and the purchase by Wilfrid Voynich in 1912. Source of every page image of
+  the manuscript shown in this film.
+
+Beinecke Rare Book and Manuscript Library. Highlights page for MS 408.
+  -- Used for: the list of sections and the sequence of owners after Voynich,
+  including the purchase by H. P. Kraus in 1961 and the gift to Yale in 1969.
+
+Beinecke Rare Book and Manuscript Library. Transcription of the letter of Johannes
+  Marcus Marci to Athanasius Kircher, 1665/1666 (pre1600.ms408.HTM).
+  -- Used for: the letter that sent the book to Kircher, the report of a price
+  of 600 ducats given as hearsay ("retulit mihi D. Doctor Raphael"), and the
+  attribution to Roger Bacon, likewise reported at second hand.
+
+
+THE MATERIAL EVIDENCE
+
+McCrone Associates (2009). Report to the Beinecke Library on the pigments and
+  ink of MS 408, 1 April 2009 (PDF hosted by library.yale.edu).
+  -- Used for: the finding of iron gall ink; azurite; a copper-based green; a
+  red ochre; nothing out of its time; and the ultraviolet examination of the
+  signature on f1r.
+
+University of Arizona (2011). Announcement of the radiocarbon dating of four
+  samples from four leaves of MS 408 (dated 2009, announced February 2011),
+  as reported by LiveScience and medievalists.net, 11 February 2011.
+  -- Used for: the range 1404-1438, given without a confidence figure because
+  the underlying report is not public.
+
+Yale News (31 October 2016). News item on the dating of MS 408.
+  -- Used for: the radiocarbon range and the account of the dating.
+
+Clemens, R. (ed.) (2016). The Voynich Manuscript. New Haven: Yale University
+  Press. ISBN 9780300217230.
+  -- Used for: the chapter on the physical findings (radiocarbon, pigments).
+
+Davis, L. F. (2024). Multispectral Imaging and the Voynich Manuscript.
+  Manuscript Road Trip, 8 September 2024.
+  https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/
+  -- Used for: the signature of Jacobus Horcicky de Tepenecz on f1r and the
+  three alphabet columns on f1r, which the author describes as not being a key.
+
+
+THE SCRIBES, THE TEXT AND ITS STATISTICS
+
+Davis, L. F. (2020). How Many Glyphs and How Many Scribes? Digital
+  Paleography and the Voynich Manuscript. Manuscript Studies 5 (1), 164-180.
+  DOI 10.1353/mns.2020.0011
+  -- Used for: the number of hands (at least four, more likely five) and the
+  discussion of how many glyphs the script has. The abstract is paywalled;
+  the wording follows the review by Bowern and Lindemann.
+
+Bowern, C. and Lindemann, L. (2021). The Linguistics of the Voynich
+  Manuscript. Annual Review of Linguistics 7, 285-308.
+  DOI 10.1146/annurev-linguistics-011619-030613
+  -- Used for: Zipf's law in both dialects; near-copies of words differing by
+  one sign; the line as a unit; conditional entropy lower than in any of the
+  250 languages compared; the rate of immediate word repetition, which is
+  within the natural-language range; Currier's two dialects; the month names
+  in a form of French or Occitan; the lines in Latin script on the last page;
+  and the statement that only two lines of the 2017 reading were published.
+
+Montemurro, M. A. and Zanette, D. H. (2013). Keywords and Co-Occurrence
+  Patterns in the Voynich Manuscript: An Information-Theoretic Analysis.
+  PLOS ONE 8 (6), e66344. Published online 21 June 2013.
+  DOI 10.1371/journal.pone.0066344
+  -- Used for: keywords clustering by section, with the strongest link between
+  the herbal and the pharmaceutical sections.
+
+Currier, P. (1976). Contribution to the Washington seminar papers on the
+  Voynich manuscript, edited by M. E. D'Imperio.
+  -- Used for: the division of the text into two dialects, A and B (cited via
+  Bowern and Lindemann 2021, which was read in full).
+
+D'Imperio, M. E. (1978). The Voynich Manuscript: An Elegant Enigma.
+  Fort Meade: National Security Agency / Central Security Service.
+  -- Used for: the account of the Friedman group's work of 1944-46 and its
+  conclusion that the text is an artificial language; the survey itself.
+
+
+THE READINGS
+
+Manly, J. M. (1931). Speculum 6 (3), 345-391. DOI 10.2307/2848508
+  -- Used for: the refutation of the 1921 reading (microscopic shorthand, Roger
+  Bacon, a microscope), which Manly showed to rest on cracked ink.
+
+Bax, S. (2014). A proposed partial decoding of the Voynich script.
+  January 2014 (preprint).
+  -- Used for: the 2014 reading of plant names and a star, described by its
+  author as provisional and partial. The number of words is not given in the
+  film because the sources disagree (five or ten).
+
+Times Literary Supplement (September 2017). Article presenting a reading of
+  the manuscript as abbreviated Latin on women's health.
+  -- Paywalled; title and date only. Used for: the existence and the year of
+  the claim. Two lines were published (Bowern and Lindemann 2021).
+
+Cheshire, G. (2019). The Language and Writing System of MS408 (Voynich)
+  Explained. Romance Studies 37 (1), 30-67. Online 29 April 2019.
+  DOI 10.1080/02639904.2019.1599566
+  -- Used for: the 2019 reading as proto-Romance, compiled by nuns for a queen
+  of Aragon.
+
+University of Bristol (May 2019). Statement on the Voynich manuscript.
+  https://www.bristol.ac.uk/news/2019/may/voynich-manuscript.html
+  -- Used for: the announcement and its withdrawal within days, quoted in the
+  statement's own words.
+
+YouTube video "Wrongly Assumed" (uploaded 20 September 2026).
+  https://www.youtube.com/watch?v=Q1cNb8kVdY8
+  Retrieved 4 November 2026.
+  -- Used for: the account of the video that hands the text to a commercial AI
+  to measure rather than translate, ending in a verdict of ambiguity. Views and
+  subscriber figures are a snapshot of 4 November 2026.
+
+
+THE TEST: HOW A DECIPHERMENT IS CHECKED
+
+Ventris, M. and Chadwick, J. (1953). Evidence for Greek Dialect in the
+  Mycenaean Archives. Journal of Hellenic Studies 73, 84-103.
+  DOI 10.2307/628239
+  -- Used for: the decipherment of Linear B, announced in 1952-53, and the
+  Pylos tablet that tested it.
+
+
+THE OTHER POSSIBILITY
+
+Rugg, G. (2004). An Elegant Hoax? A Possible Solution to the Voynich
+  Manuscript. Cryptologia 28 (1), 31-46. DOI 10.1080/0161-110491892755
+  -- Used for: the syllable table and the grille that reproduce the
+  statistics; the grille described in 1550.
+
+Rugg, G. and Taylor, G. (2016). Hoaxing Statistical Features of the Voynich
+  Manuscript. Cryptologia 41 (3).
+  DOI 10.1080/01611194.2016.1206753
+  -- Used for: the follow-up work on the 2004 proposal.
+
+Timm, T. and Schinner, A. (2020). A Possible Generating Algorithm of the
+  Voynich Manuscript. Cryptologia 44 (1), 1-19. Online 25 May 2019.
+  DOI 10.1080/01611194.2019.1596999
+  -- Used for: the self-citation method (copy the previous word, change one
+  sign) that reproduces the statistical profile.
+
+
+THE LAW AND THE PICTURES
+
+Urheberrechtsgesetz (German Copyright Act), section 68.
+  https://www.gesetze-im-internet.de/urhg/__68.html
+  -- Used for: the provision that reproductions of public-domain visual works
+  carry no related right (in force since June 2021).
+
+Beinecke Rare Book and Manuscript Library. Copyright and use page.
+  -- Used for: the statement that Yale University claims no rights in public
+  domain works, and the general notice that use may be subject to the copyright
+  law of the United States.
+
+Yale News (10 May 2011). Report on Yale's open access policy for images.
+  -- Used for: the policy under which images of works believed to be in the
+  public domain are made available without restriction.
+
+
+WHERE THIS EPISODE DIFFERS FROM THE USUAL ACCOUNT
+
+- It gives the library's own count, ff. 102 +1, and not "about 240 pages".
+- It gives the radiocarbon range without a confidence figure.
+- It does not say that a Prague nobleman or the emperor bought the book. The
+  price of 600 ducats is hearsay in the Marci letter; what is documented is a
+  signature on f1r.
+- It does not say that the book is a hoax, a language or a cipher, and it does
+  not say that any of the five readings has been proved wrong. It says that none
+  has been used on the next page by somebody else.
+- It does not say that words repeat more often than in any language. The
+  review's finding concerns immediate repetition, which is within the range of
+  natural language.
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- It does not claim that the Beinecke "released" the scans. The library put them
+  online for study; the legal basis for using them is stated in the methods
+  file.
+- It does not name the researchers behind the readings of 2014, 2017 and 2019 in
+  the narration, because the argument is about a pattern and not about a
+  person. They are named in this list.
+- It does not claim that the manuscript is, or is not, a language.
+
+
+THE SHOTS
+
+Each entry gives the number of the shot, its start time in the film and a short
+description. DIAGRAM entries are drawn in code; RECONSTRUCTION entries are
+generated images or, where the manuscript itself is shown, a Beinecke scan.
+
+[01]  0:00   RECONSTRUCTION  a red-brick university building in an English city on a bright May morning
+[02]  0:12   LIBRARY SCAN    Beinecke scan, f2r: herbal page, tall plant with root, stem and flower
+[03]  0:27   RECONSTRUCTION  a tall stack of folded newspapers seen from the side so that only the cut paper edges face the camera
+[04]  0:48   RECONSTRUCTION  an empty corridor in a modern university office building
+[05]  0:52   LIBRARY SCAN    Beinecke scan, f103r: three lines of the script, pen strokes close up
+[06]  1:11   DIAGRAM         timeline: parchment 1404-1438, the book surfaces in 1912, nothing between
+[07]  1:24   RECONSTRUCTION  the reading room of a modern rare-book library
+[08]  1:41   LIBRARY SCAN    Beinecke scan, f16r: herbal page, thick pale root and star-shaped leaves
+[09]  2:04   LIBRARY SCAN    Beinecke scan, f70v: zodiac rosette with rings of small figures
+[10]  2:11   LIBRARY SCAN    Beinecke scan, f78r: bathing figures in green pools joined by channels
+[11]  2:25   LIBRARY SCAN    Beinecke scan, f88r: rows of jars beside plant roots
+[12]  2:37   LIBRARY SCAN    Beinecke scan, f111r: the script close, a dense block of lines
+[13]  2:50   RECONSTRUCTION  a radiocarbon accelerator mass spectrometer in a physics laboratory
+[14]  3:05   RECONSTRUCTION  a single dark brown ink stroke on cream parchment seen through a laboratory microscope at high magnification
+[15]  3:22   LIBRARY SCAN    Beinecke scan, f1r: the first page
+[16]  3:44   RECONSTRUCTION  a sunlit stone courtyard of an Italian college in the hills
+[17]  4:00   RECONSTRUCTION  a seventeenth-century letter folded into a small packet and lying closed on dark oak
+[18]  4:28   RECONSTRUCTION  a high vaulted study at a central European court around 1600 in cool daylight
+[19]  4:37   LIBRARY SCAN    Beinecke scan, f1r: the top margin with the faded signature
+[20]  4:55   RECONSTRUCTION  a London antiquarian bookshop of around 1920
+[21]  5:20   RECONSTRUCTION  a dark brown ink line on parchment under extreme magnification
+[22]  5:34   LIBRARY SCAN    Beinecke scan: the front cover of plain limp vellum
+[23]  5:46   DIAGRAM         word frequency by rank (log-log): both Voynich dialects against Latin
+[24]  6:06   DIAGRAM         the six sections of the book as fields, herbal-pharmaceutical link strongest
+[25]  6:21   DIAGRAM         one line in transcription: neighbouring words one sign apart
+[26]  6:43   DIAGRAM         conditional entropy: Voynich against English, Latin, German and 250 languages
+[27]  6:59   DIAGRAM         the leaves f1-f116 as a band, dialect A and dialect B in two tones
+[28]  7:13   LIBRARY SCAN    Beinecke scan, f1r and f103r side by side: two hands
+[29]  7:22   LIBRARY SCAN    Beinecke scan, ff. 85-86: the rosettes foldout
+[30]  7:42   RECONSTRUCTION  a plain government office in the nineteen-forties after hours
+[31]  8:11   RECONSTRUCTION  a thick government report of the nineteen-seventies lying closed on a grey steel desk
+[32]  8:26   LIBRARY SCAN    Beinecke scan, f33v: the plant with a word beside it
+[33]  8:49   RECONSTRUCTION  a stack of broadsheet literary supplements on a plain wooden table
+[34]  9:10   RECONSTRUCTION  a Victorian stone university building in a west-of-England city in May
+[35]  9:28   RECONSTRUCTION  an empty present-day university press office
+[36]  9:48   RECONSTRUCTION  a laptop open on a wooden desk in a dim room in the evening
+[37]  10:20  DIAGRAM         the readings on a timeline: 1921, 1944-46, 1978, 2014, 2017, 2019, 2026
+[38]  10:35  RECONSTRUCTION  a palm-sized Bronze Age clay tablet of the Aegean
+[39]  10:54  RECONSTRUCTION  a flat clay tablet lying half uncovered in pale dry earth on the floor of an excavation trench in the Greek sun
+[40]  11:15  DIAGRAM         four conditions a decipherment must meet, tick or gap for each reading
+[41]  11:33  LIBRARY SCAN    Beinecke scan, f49v: a herbal page
+[42]  11:45  LIBRARY SCAN    Beinecke scan, f105r: the script close, starred paragraphs
+[43]  12:12  RECONSTRUCTION  a sixteenth-century scribe at a slanted desk by a window
+[44]  12:19  DIAGRAM         syllable table and a card with three windows: a word appears
+[45]  12:51  DIAGRAM         self-citation: a word, a copy with one sign changed, the next word
+[46]  13:14  LIBRARY SCAN    Beinecke scan, f111r: a dense page of text
+[47]  13:29  LIBRARY SCAN    Beinecke scan, f25v: the root of the plant, drawn with care
+[48]  13:49  DIAGRAM         three readings side by side: cipher, unknown language, no content
+[49]  14:16  LIBRARY SCAN    Beinecke scan, f116v: the last page, marginal lines at the top
+[50]  14:39  LIBRARY SCAN    Beinecke scan, f71r: the zodiac page, centre of the ring
+[51]  14:51  LIBRARY SCAN    Beinecke scan, f1r: top left, the faint columns
+[52]  15:13  LIBRARY SCAN    Beinecke scan, f68r: the star foldout
+[53]  15:26  LIBRARY SCAN    Beinecke scan: the front cover, close
+[54]  15:30  DIAGRAM         what is documented: 1404-1438, five hands, two dialects, no accepted reading
+[55]  15:47  LIBRARY SCAN    Beinecke scan, f115v: a few lines of the script, close
+[56]  15:54  LIBRARY SCAN    Beinecke scan, f116r: the open page
+
+
+WHAT THE IMAGES ARE
+
+TWENTY-FOUR of the 56 shots show the manuscript itself. They are not generated.
+They are the Beinecke Library's own scans of MS 408, taken from its IIIF image
+service, shown whole or cropped and otherwise unaltered.
+Credit: Beinecke Rare Book and Manuscript Library, Yale University.
+The legal basis is stated in the methods file: the book is an anonymous work of
+the fifteenth century in the public domain, section 68 of the German Copyright
+Act removes any related right in the reproduction, and the library's own page
+states that Yale University claims no rights in public domain works.
+
+The other TWENTY photograph-like shots - offices, a university building, a
+corridor, a reading room, laboratories, a bookshop, a letter, and four painted
+historical scenes - are generated, and are marked as such on screen with the EU
+marking in the first fifteen seconds and on every such shot. No generated image
+shows a page of the manuscript, and no generated image contains writing of any
+kind: in a film about a script nobody can read, invented script would be a
+falsehood. No generated image shows the face of any real person.
+
+The TWELVE diagrams are drawn in code. Where they show measurements that were
+not made for this film - the word-frequency curve, the entropy bars, the
+distribution of the two dialects - they say "schematic" in their own footers.
+Where three possibilities are set side by side, each gets the same area, the
+same type size and the same colour, because the film does not decide between
+them and the graphics are not allowed to decide either.
+
+Corrections are welcome and will be made out loud.

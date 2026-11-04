@@ -68,6 +68,7 @@ version cannot quietly become more certain than the original.
 | 13 | The Sickle Was Under Her Chin | [sources](dispatch-13-sources.txt) | [method](dispatch-13-method.txt) |
 | 14 | Who Made The Terracotta Army? Look At Their Fingerprints | [sources](dispatch-14-sources.txt) | [method](dispatch-14-method.txt) |
 | 15 | These Four Graves Were Closed. Somebody Came Back Anyway | [sources](dispatch-15-sources.txt) | [method](dispatch-15-method.txt) |
+| 16 | Solved Every Few Years: The Voynich Manuscript | [sources](episode-16-sources.txt) | [method](episode-16-method.txt) |
 
 ## Marking
 
