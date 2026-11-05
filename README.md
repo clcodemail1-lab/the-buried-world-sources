@@ -38,6 +38,7 @@ why, rather than quietly absorbing it.
 | 14 | Nobody Counted The Small Ones | [sources](episode-14-sources.txt) | [method](episode-14-method.txt) |
 | 15 | The Ship Had Rotted Away. They Excavated It Anyway. | [sources](episode-15-sources.txt) | [method](episode-15-method.txt) |
 | 16 | Solved Every Few Years: The Voynich Manuscript | [sources](episode-16-sources.txt) | [method](episode-16-method.txt) |
+| 17 | Henry VIII's Ship Came Back Without an Answer: The Mary Rose | [sources](episode-17-sources.txt) | [method](episode-17-method.txt) |
 
 ## Explainers
 
