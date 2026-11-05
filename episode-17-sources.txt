@@ -1,0 +1,204 @@
+THE BURIED WORLD
+Episode 17 - The Mary Rose
+
+The Mary Rose: what is known about the ship, the men and the sinking
+Full source list
+
+Last updated 5 November 2026
+
+
+HOW THIS EPISODE WAS CHECKED
+
+Every figure spoken in this film was traced to a publication, and the date
+fields of each DOI were read individually, because a journal's print date is
+an issue label and not the day a paper appeared. The statements that were cut
+or rewritten during that check are described, one by one, in the methods file
+that accompanies this list (see the last line of the sources below).
+
+
+PRIMARY TEXTS
+
+Calendar of State Papers, Spain, vol. 8 (1545-1546), no. 101, pp. 184-195.
+  Letter of Francois van der Delft to Charles V, 23-24 July 1545.
+  https://www.british-history.ac.uk/cal-state-papers/spain/vol8/pp184-195
+
+Hall's Chronicle (1548 continuation), ed. Henry Ellis. London, 1809, p. 863.
+  https://archive.org/details/hallschronicleco00hall
+
+Hooker, J. The Life and Times of Sir Peter Carew, ed. John Maclean. London,
+  1857, pp. 32-34.
+  https://archive.org/details/cu31924027957699
+
+State Papers published under the authority of His Majesty's Commission: King
+  Henry the Eighth, vol. 1. London, 1830. No. CCXVI, p. 794: Lord Russell to
+  Paget, 23 July 1545. Suffolk to Paget, 1 August 1545, pp. 796-797.
+  https://archive.org/details/statepaperspubli01grea
+
+
+PEER-REVIEWED LITERATURE
+
+Scorrer, J., Faillace, K. E., Hildred, A., Nederbragt, A. J., Andersen, M. B.,
+  Millet, M.-A., Lamb, A. L. and Madgwick, R. (2021). Diversity aboard a Tudor
+  warship: investigating the origins of the Mary Rose crew using multi-isotope
+  analysis. Royal Society Open Science 8 (5), 202106. Online 5 May 2021.
+  DOI 10.1098/rsos.202106
+
+Shankland, S. I., Hildred, A., Taylor, A. M. and Kerns, J. G. (2024). Shining
+  light on the Mary Rose: identifying chemical differences in human aging and
+  handedness in the clavicles of sailors using Raman spectroscopy. PLOS ONE 19
+  (10), e0311717. Online 30 October 2024.
+  DOI 10.1371/journal.pone.0311717
+
+Bell, L. S., Lee Thorp, J. A. and Elkerton, A. (2009). The sinking of the Mary
+  Rose warship: a medieval mystery solved? Journal of Archaeological Science
+  36 (1), 166-173 (issue of January 2009).
+  DOI 10.1016/j.jas.2008.08.006
+  -- Cited for the figure of 415 men and 35 survivors, as reported by the Open
+  University.
+
+
+MARY ROSE TRUST (https://maryrose.org, all pages accessed 5 November 2026)
+
+Timeline (discover/history/timeline).
+The life of the Mary Rose (discover/history/life-of-the-mary-rose).
+The myth of the maiden voyage.
+Why did the Mary Rose sink?
+Recovering the Mary Rose.
+The ship (conservation).
+Mary Rose 40 (https://maryrose.org/40).
+The men of the Mary Rose.
+Skeletal remains.
+How tall were the crew.
+Great guns, and The weaponry of the Mary Rose.
+Longbows and arrows.
+Meet the crew: The Royal Archer, The Surgeon, The Pilot, Hatch, Henry.
+The ship's bell.
+Why we're not rebuilding the Mary Rose.
+News item on the multicultural crew, 5 May 2021.
+
+
+OTHER SOURCES
+
+Open University. Analytical science: secrets of the Mary Rose, section 3.
+
+Association of Independent Museums. The Mary Rose: past, present and future.
+  10 June 2025.
+
+Swansea University. Press release on the archer reconstruction, 14 June 2013.
+
+Wikipedia, "Mary Rose". Used only as a guide to Marsden 2003 and 2009, Gardiner
+  2005, Rule 1983 and Stirland 2000. The volumes themselves were not consulted.
+
+Mary Rose Archaeology series, named here as the standard publications and not
+  consulted directly:
+  Marsden, P. (ed.) (2003). Sealed by Time.
+  Marsden, P. (2009). Your Noblest Shippe.
+  Gardiner, J. (ed.) (2005). Before the Mast.
+  Hildred, A. (ed.) (2011). Weapons of Warre.
+
+
+IMAGES AND THE LAW
+
+Anthony Roll, c. 1546. Pepys Library 2991, Magdalene College, Cambridge.
+  Reproduction from Wikimedia Commons (File:AnthonyRoll-2_Mary_Rose.jpg,
+  PD-Art).
+
+Hans Holbein the Younger, Portrait of Henry VIII, 1537. Reproduction from
+  Wikimedia Commons / Google Art Project (public domain).
+
+Legal basis in Germany: both works are in the public domain, and section 68 of
+  the Urheberrechtsgesetz (German Copyright Act) gives reproductions of
+  public-domain visual works no related rights.
+  https://www.gesetze-im-internet.de/urhg/__68.html
+  No image of the Mary Rose Trust was used.
+
+Method note:
+  https://github.com/clcodemail1-lab/the-buried-world-sources/blob/main/episode-17-method.txt
+
+
+THE SHOTS
+
+Each entry gives the number of the shot, its start time in the film and a short
+description. DIAGRAM entries are drawn in code; REPRODUCTION entries are
+reproductions of public-domain works; RECONSTRUCTION entries are generated
+images.
+
+[01]  0:00   RECONSTRUCTION  a wide view from a shingle shore across the Solent on a hazy July afternoon in 1545
+[02]  0:20   RECONSTRUCTION  the open water of the Solent today on a grey morning
+[03]  0:44   REPRODUCTION    Anthony Roll, c. 1546, Pepys Library 2991, Magdalene College Cambridge; reproduction via Wikimedia Commons
+[04]  0:55   RECONSTRUCTION  seen from the high stern deck of a Tudor warship
+[05]  1:07   RECONSTRUCTION  the surviving side of a sixteenth-century warship inside a dark museum hall
+[06]  1:22   DIAGRAM         timeline 1511 / 1545 / 1982 / 2016 (Mary Rose Trust, timeline)
+[07]  1:35   RECONSTRUCTION  portsmouth Harbour on a grey morning
+[08]  1:52   REPRODUCTION    Anthony Roll, c. 1546, Pepys Library 2991, Magdalene College Cambridge; reproduction via Wikimedia Commons
+[09]  2:07   RECONSTRUCTION  a bronze ship's bell of the sixteenth century photographed from slightly below as a museum object
+[10]  2:19   RECONSTRUCTION  a Thames-side wharf in 1511
+[11]  2:34   DIAGRAM         the ship's side after the 1536 refit, schematic (Mary Rose Trust)
+[12]  2:46   RECONSTRUCTION  a heavy bronze muzzle-loading gun of the sixteenth century on a wooden four-wheeled carriage
+[13]  2:56   RECONSTRUCTION  a still stretch of the Solent at midday under thin haze
+[14]  3:01   REPRODUCTION    Hans Holbein the Younger, Henry VIII, 1537; reproduction via Wikimedia Commons / Google Art Project
+[15]  3:11   DIAGRAM         the Solent as points, no coastline; positions approximate
+[16]  3:22   RECONSTRUCTION  the grey stone walls of a squat Tudor artillery fort on a shingle shore
+[17]  3:39   RECONSTRUCTION  the gun deck of a Tudor warship heeled over to one side
+[18]  4:03   DIAGRAM         the anti-boarding net, schematic (Mary Rose Trust, great guns page)
+[19]  4:19   RECONSTRUCTION  the surface of the sea at Spithead on a windy grey day
+[20]  4:33   RECONSTRUCTION  two tall Tudor warships passing close under sail on a hazy afternoon
+[21]  5:01   RECONSTRUCTION  a sixteenth-century letter folded into a small packet and lying closed on dark oak
+[22]  5:14   DIAGRAM         the four accounts (CSP Spain 8; Hall 1548; Hooker; du Bellay)
+[23]  5:23   RECONSTRUCTION  a salvage attempt in the Solent in the summer of 1545
+[24]  5:42   RECONSTRUCTION  the deck of a wooden boat on the Solent in the eighteen-thirties
+[25]  6:03   RECONSTRUCTION  a small open motor boat on the Solent in the nineteen-sixties
+[26]  6:19   RECONSTRUCTION  underwater in dim green-brown water thick with silt
+[27]  6:28   DIAGRAM         how the hull lay, schematic (Mary Rose Trust, recovering page)
+[28]  6:42   RECONSTRUCTION  an underwater excavation in murky brown water
+[29]  6:59   RECONSTRUCTION  a grey morning on the Solent in October 1982
+[30]  7:16   RECONSTRUCTION  close view inside a dark museum hall of the surviving side of a sixteenth-century warship
+[31]  7:32   RECONSTRUCTION  the surviving timbers of a ship's hull in a dark hall under a fine mist of spray from rows of nozzles on pipes overhead
+[32]  8:09   DIAGRAM         conservation timeline (Mary Rose Trust)
+[33]  8:14   RECONSTRUCTION  a dim museum gallery
+[34]  8:35   RECONSTRUCTION  a rack of long wooden bow staves standing upright side by side as museum objects
+[35]  8:55   RECONSTRUCTION  an open wooden chest of the sixteenth century as a museum object
+[36]  9:05   RECONSTRUCTION  a small fiddle with its bow
+[37]  9:13   RECONSTRUCTION  a small round brass compass in a turned wooden box and a pair of brass dividers lying on a dark grey ground
+[38]  9:25   RECONSTRUCTION  a wooden backgammon board with its hinged halves open
+[39]  9:30   DIAGRAM         the dog, drawn outline (Mary Rose Trust, Hatch page)
+[40]  9:40   DIAGRAM         finds counted (Mary Rose Trust; handguns after Wikipedia)
+[41]  9:46   RECONSTRUCTION  a worn leather shoe
+[42]  9:54   DIAGRAM         the skeletal assemblage (Mary Rose Trust; Shankland 2024)
+[43]  10:14  DIAGRAM         what is known about the men (Mary Rose Trust; Shankland 2024)
+[44]  10:24  DIAGRAM         scapula with unfused acromion, drawing (after Stirland)
+[45]  10:43  RECONSTRUCTION  an archer seen from behind on the open deck of a Tudor warship
+[46]  10:51  RECONSTRUCTION  a mass spectrometer in a geochemistry laboratory
+[47]  11:02  DIAGRAM         eight men by isotope (Scorrer et al. 2021)
+[48]  11:22  RECONSTRUCTION  a benchtop laser spectrometer in a laboratory
+[49]  11:44  RECONSTRUCTION  an empty museum hall in near darkness
+[50]  11:50  RECONSTRUCTION  close view of the side of a sixteenth-century warship's hull inside a dark museum hall
+[51]  12:02  DIAGRAM         four explanations and what the wreck says (CSP Spain 8; Marsden 2009; Mary Rose Trust)
+[52]  12:17  RECONSTRUCTION  a heavy bronze gun on its wooden carriage seen from the front in a dark museum hall
+[53]  12:44  RECONSTRUCTION  a tall Tudor warship under full sail seen from a distance across the water
+[54]  13:05  DIAGRAM         the French account (du Bellay, after Marsden 2003)
+[55]  13:14  RECONSTRUCTION  the surviving side of a sixteenth-century warship inside a dark museum hall
+[56]  13:28  REPRODUCTION    Anthony Roll, c. 1546, Pepys Library 2991, Magdalene College Cambridge; reproduction via Wikimedia Commons
+[57]  13:32  DIAGRAM         what is actually known (Mary Rose Trust; Scorrer 2021)
+[58]  14:01  RECONSTRUCTION  the planking of a sixteenth-century ship's hull very close inside a dark hall
+[59]  14:18  RECONSTRUCTION  the Solent in the evening
+
+
+WHAT THE IMAGES ARE
+
+4 of the 59 shots are reproductions of public-domain works: the Anthony Roll
+of about 1546 (Pepys Library 2991, Magdalene College, Cambridge) and Holbein's
+portrait of Henry VIII of 1537. They are not generated. They come from
+Wikimedia Commons and are shown whole or cropped and otherwise unaltered. The
+legal basis is stated in the methods file: both works are in the public domain,
+and section 68 of the German Copyright Act removes any related right in a
+reproduction. No image of the Mary Rose Trust was used.
+
+The 16 diagrams are drawn in code. Where they show measurements or positions
+that were not made for this film - the Solent, the hull on the seabed, the
+counts of finds - they say "schematic" or "approximate" in their own footers.
+
+The other 39 shots are generated images and are marked as such on screen with
+the EU marking in the first fifteen seconds and on every such shot.
+
+Corrections are welcome and will be made out loud.
