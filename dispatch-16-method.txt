@@ -1,0 +1,225 @@
+THE BURIED WORLD
+Dispatch 16 - This Ethiopian Palace Could Have Stood 16 Floors High
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+Fridays on this channel now carry a single find and a single thought. The
+find here is a wall at Yeha, in northern Ethiopia, with square holes in it
+where wooden beams burned away more than two thousand years ago - the
+ground floor of the palace Grat Be'al Gibri, built around 800 BC. The thought
+is one sentence long: one floor is left, and the walls could have carried
+sixteen. That is the result of the first structural calculation ever run on
+this way of building, published in July 2026, and it is why the engineers
+think the building did not fall under its own weight.
+
+
+WHAT WAS READ
+
+The paper (Drieschner and Schnelle 2026, Heritage) is open access under
+CC BY 4.0 and was read in full, including the sections on geometry, loads,
+the deterministic and the uncertainty results, and the discussion with the
+authors' own list of what is still open. Every figure in the film is in it.
+The press release of the Brandenburg University of Technology (25 September
+2026) and two news reports (scinexx, 29 September; HeritageDaily, 1 October)
+were read for the way the number travelled - the film says where they
+differ from the paper. Background on the kingdom of the period comes from
+reference works and is marked as such.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. "THE WIDTH OF A HAND" BECAME "A HAND'S SPAN". The beam impressions measure
+   about 21 to 28 centimetres, most of them 24. A hand is about ten
+   centimetres wide; a hand's span is about twenty.
+
+2. "TWO GERMANS" BECAME "TWO RESEARCHERS IN GERMANY". The paper gives
+   institutions, not nationalities.
+
+3. THE DOORWAY WALL GETS NO NUMBER OF ITS OWN. The paper derives sixteen
+   floors from the worst case of the wall corner (scaling factor 19, divided
+   by 1.2). The doorway's worst case is 23, which would give about nineteen -
+   but the authors do not state that figure, so the film says "a little
+   more".
+
+4. NINETEEN VERSUS SIXTEEN. The university's press release said "at least 19
+   storeys"; the paper's discussion says 16. A scaling factor of 19 for the
+   wall corner stands in the paper; 19 divided by the authors' load factor
+   of 1.2 is 15.8. The film reports both numbers and the arithmetic that
+   links them, and attributes the link to the figures in the paper rather
+   than to a statement by the authors, who do not comment on the release.
+
+5. NOTHING IN THE FILM CLAIMS A NUMBER OF FLOORS. The film says sixteen is a
+   ceiling on what the walls could bear, not a count of what stood on them,
+   and that the excavators' reconstruction still shows eight. That is the
+   authors' own position.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | Checked | Result
+
+Square beam impressions in the walls, beams burnt | Drieschner & Schnelle
+  2026 (D&S), sect. 1: "burnt beam fragments still partially in situ and
+  their imprints in the clay mortar" | 7.11.2026 | confirmed
+Beam size about a hand's span | D&S 1.3: "approx. 0.21 to 0.28 m ... most
+  beams having edge lengths of 0.24 m" | 7.11.2026 | confirmed; see change 1
+Built around 800 BC | D&S 1: "dated to around 800 BC using 14C dating" |
+  7.11.2026 | confirmed
+Largest palace of its age known in East Africa or South Arabia | D&S
+  abstract: "the largest known palace-like structure from the early first
+  millennium BC in South Arabia and East Africa" | 7.11.2026 | confirmed
+Only ground floor and platform survive | D&S 1: "only parts of the ground
+  floor walls and the podium have survived" | 7.11.2026 | confirmed
+Reconstruction with eight storeys, from walls, staircase, pillar height | D&S
+  1.2: "five regular floors and an additional three recessed floors above";
+  grounds: wall thicknesses, staircase, 10 m pillars | 7.11.2026 | confirmed
+No structural analysis before this one | D&S 1: "To the best of our
+  knowledge, there are no structural analyses of the number of stories in
+  ancient buildings in South Arabia" | 7.11.2026 | confirmed
+Two researchers in Germany: structural engineer, building archaeologist of
+  the excavation | D&S affiliations: BTU Cottbus-Senftenberg, Chair of
+  Structural Analysis and Dynamics; DAI Orient Department, Sanaa branch,
+  building research | 7.11.2026 | confirmed; see change 2
+Published this summer | Crossref: published-online and created 9 July 2026;
+  MDPI page: received 30 April, accepted 7 July, published 9 July 2026 |
+  7.11.2026 | confirmed
+Software used to test modern structures | D&S 2.4: finite element program
+  ANSYS 2024 R1 | 7.11.2026 | confirmed (general-purpose FE software)
+Sixteen floors in the most unfavourable case | D&S 4: "In the worst-case
+  scenario, the building could have been 16 stories tall." | 7.11.2026 |
+  confirmed
+Yeha in Tigray, northern Ethiopia; ground of dark volcanic stone | D&S 1,
+  Fig. 1; 2.3.2: "Phonolite is a Cambrian volcanic rock that occurs locally in
+  northern Ethiopia, in the area around Yeha" | 7.11.2026 | confirmed
+Centre of an "Ethio-Sabaean" culture with ties to South Arabia | D&S 1:
+  "the center of the Ethio-Sabaean community"; "cultural contacts between
+  South Arabia and northern Ethiopia" | 7.11.2026 | confirmed
+Saba in what is now Yemen | reference works (Wikipedia, "Dʿmt" and "Sabaeans")
+  | 7.11.2026 | background, not from the paper
+1906 German Aksum Expedition; 1971-73 Ethiopian-French team; since 2009
+  Ethiopian-German project | D&S 1.1 | 7.11.2026 | confirmed ("early
+  nineteen-seventies" for 1971-1973; led by F. Anfray)
+About 60 by 60 m | D&S 1: "approximately 60 m x 60 m in floor area" |
+  7.11.2026 | confirmed
+Platform six metres high, chambers packed with loose rubble | D&S 1.2:
+  "six-meter-high chamber wall system, whereby the chambers were filled with
+  small, loose quarry stones" | 7.11.2026 | confirmed
+Platform walls 2.20 m, ground-floor walls 1.90 m, inner walls as thick | D&S
+  1.2 | 7.11.2026 | confirmed
+Six monolithic sandstone pillars, about 10 m, up to 20 t each | D&S 1.2 and
+  1.3: "six monolithic pillars"; "approximately 10 m high"; "weighed up to
+  20 t each"; sandstone from deposits near Yeha | 7.11.2026 | confirmed
+One narrow doorway, the only entrance found | D&S 1.2: "the only known
+  entrance to the building, designed as a relatively narrow passageway" |
+  7.11.2026 | confirmed
+Two long corridors, many rooms, staircase in one corner | D&S 1.2 |
+  7.11.2026 | confirmed (south-east corner)
+Stone bases for wooden posts less than 2 m apart; heavy ceilings | D&S 1.3:
+  "pillar bases, which consist of large, flat, plate-like stones"; "Pillar
+  spacing of less than 2 m ... indicates enormous ceiling loads from the
+  upper floors" | 7.11.2026 | confirmed
+Beams every 24 cm, squared hardwood | D&S 1.3 and 2.1: design grid 0.24 m;
+  model height 3.36 m = 14 beam layers of 0.24 m | 7.11.2026 | confirmed
+Layers alternate along and across; wooden pegs | D&S 1.3: "alternating layers
+  in the longitudinal and transverse directions"; "connected to each other
+  with wooden nails" | 7.11.2026 | confirmed ("pegs" for "wooden nails")
+African olive and Cordia; all beams horizontal | D&S 1.3 | 7.11.2026 |
+  confirmed
+South Arabian walls set beams upright as well as flat | D&S 1: "in which
+  beams were usually laid alternately horizontally and vertically" |
+  7.11.2026 | confirmed
+Rock and wall paintings show nine storeys and more | D&S 1: "at least nine
+  stories" | 7.11.2026 | confirmed
+At least three floors proved by the pillars | D&S 1.2: "at least three
+  stories high" | 7.11.2026 | confirmed
+Engineer in Cottbus, south-east of Berlin; field: structures with uncertain
+  materials | D&S affiliation; the uncertainty framework PolyUQ (D&S 2.2) |
+  7.11.2026 | confirmed
+Finite elements; blocks of 12 cm | D&S 2.4: "uniform element edge length of
+  0.12 m" | 7.11.2026 | confirmed
+Two wall pieces, 3.36 m high, 14 beam layers: outer corner and inner wall
+  with doorway | D&S 2.1 | 7.11.2026 | confirmed
+Self-weight stacked floor by floor until failure | D&S 3.1: "The self-weight
+  is scaled by an integer gamma" | 7.11.2026 | confirmed
+Clay fails first, in tension | D&S 3.1: "Tension in the clay layers is the
+  decisive factor in both models" | 7.11.2026 | confirmed
+48 and 56 floors with average materials | D&S 3.1: "corresponding to 48 and
+  56 possible floors" | 7.11.2026 | confirmed
+No test data for the clay and stone; no figures for the two woods, another
+  African hardwood stood in | D&S 2.3.2: "no further geological studies are
+  available"; 2.3.1: "Due to the unavailability of data for these two types
+  of wood ... Wenge ... is used as a substitute" | 7.11.2026 | confirmed
+Ranges and thousands of runs | D&S 2.2 and 3.2: interval variables; Monte
+  Carlo sampling | 7.11.2026 | confirmed (sample count in the paper's
+  equations)
+Best case eighty floors and more | D&S 3.2.2: best-case gamma 97-143 (corner)
+  and 119-136 (doorway); divided by 1.2 gives 81-119 | 7.11.2026 | confirmed
+  by our arithmetic from the paper's figures
+Worst case: weakest clay, heaviest stone, plus a fifth for other loads,
+  sixteen floors | D&S 3.2.2 and 4: gamma 19; "additional loads were taken
+  into account by a factor of 1.2"; "16 stories" | 7.11.2026 | confirmed
+Doorway wall a little more | D&S 3.2.2: worst-case gamma 23 | 7.11.2026 |
+  confirmed; see change 3
+Kind of wood almost irrelevant | D&S 4: "the type of wood used is almost
+  irrelevant to the load-bearing capacity" | 7.11.2026 | confirmed
+Both woods resistant to termites | D&S 4: "high resistance to pest
+  infestation, such as wood-eating termites" | 7.11.2026 | confirmed
+Even performance of the two pieces points to a refined design, a tradition
+  | D&S 4: "an indication of good load distribution and, thus, an economical
+  design. This, in turn, points to a longer period of technical development"
+  | 7.11.2026 | confirmed ("generations" is our paraphrase of a longer
+  period of development)
+Sixteen is a ceiling, not a count | D&S 4: "theoretically, more stories are
+  possible"; HeritageDaily 1.10.2026: "does not mean that Grat Be'al Gibri
+  actually had 16 floors" | 7.11.2026 | confirmed; the film states the
+  paper's position in its own words
+Vertical load only; wind, ground, floors left for later; two pieces, not a
+  building | D&S abstract and 4: "applied purely vertically"; outlook lists
+  ceiling loads, overall geometry and horizontal forces, soil stiffness |
+  7.11.2026 | confirmed
+Press release said nineteen | BTU press release 25.9.2026: "Nach ersten
+  Berechnungen waere eine Bebauung mit mindestens 19 Stockwerken statisch
+  moeglich gewesen." | 7.11.2026 | confirmed; see change 4
+Reconstruction still eight, paper gives no reason to change it | D&S 4: "a
+  loss of load-bearing capacity can be ruled out for the number of stories
+  assumed in the virtual reconstruction" | 7.11.2026 | confirmed
+Destroyed by fire in antiquity, beams charred inside the walls | D&S 1 and
+  abstract: "destroyed by a severe fire in ancient times"; burnt beam
+  fragments in situ | 7.11.2026 | confirmed
+Exceptional load, not self-weight, caused the failure; fire fits | D&S 4:
+  "an exceptional load must have caused the system failure, as it is known
+  that the building was completely destroyed by a catastrophic fire" |
+  7.11.2026 | confirmed
+Fire scenario not yet modelled; next study | D&S 4: "This failure scenario
+  must be examined in more detail in further studies" | 7.11.2026 |
+  confirmed
+Ruin used as a quarry, ploughed over | D&S 1: "misused as a source of raw
+  materials for building stones and were transformed by village and
+  agricultural use" | 7.11.2026 | confirmed
+Same walls later in Aksumite architecture and Ethiopian churches | D&S 4:
+  "in Aksumite architecture and traditional Ethiopian church construction" |
+  7.11.2026 | confirmed
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 7.11.2026
+
+10.3390/heritage9070270  journal-article, Heritage 9(7), 270, Drieschner,
+  Schnelle. published-online 2026-07-09, created 2026-07-09, no print date.
+  License CC BY 4.0.
+
+
+WHAT THE FILM SHOWS
+
+No photograph of the Yeha excavation is used. Every photograph-like shot is
+generated and labelled on screen; it shows a wall, a pillar, a landscape of
+the TYPE described, not a published image. The reconstructions of the
+palace are painted, labelled, and follow the written description in the
+paper (sixty metres square, six-metre podium, six pillars, eight floors in
+the excavators' drawing) without copying its figures. Diagrams are drawn in
+code from the paper's figures and tables; every stress field in them is
+schematic.
+
+
+Corrections are welcome and will be made out loud.

@@ -1,0 +1,148 @@
+THE BURIED WORLD
+Dispatch 16 - This Ethiopian Palace Could Have Stood 16 Floors High
+
+SOURCES AND LIMITS
+
+One publication carries this film, and it was read in full: an open-access
+structural study of the walls of the palace Grat Be'al Gibri at Yeha, in
+northern Ethiopia. Every number in the film is in it. Three reports about the
+paper were read for the way its central number travelled, and the film says
+where they differ from the paper. The companion file dispatch-16-method.txt
+holds the complete fact-check table.
+
+
+THE PUBLICATION
+
+1. Drieschner, M. and Schnelle, M. (2026). Numerical Investigations of
+  Timber-Reinforced Wall Constructions with Uncertain Material Parameters for
+  the Ancient Palace Grat Be'al Gibri in Yeha, Ethiopia. Heritage 9(7), 270.
+  Published 9 July 2026 (Crossref: published-online and created 9 July 2026).
+  Open access, CC BY 4.0.
+  doi:10.3390/heritage9070270
+  -- Source of: the 14C date of around 800 BC; the footprint of about 60 by
+  60 m and the claim of the largest known palace-like building of its age in
+  South Arabia and East Africa; the six-metre podium of stone chambers packed
+  with loose rubble; wall thicknesses of 2.20 m (podium) and 1.90 m (ground
+  floor), interior walls no thinner; the six monolithic sandstone pillars of
+  about 10 m and up to 20 t; the single narrow entrance, the two long
+  corridors, the staircase in the south-east corner, the post bases less than
+  2 m apart; beams of 0.21-0.28 m, mostly 0.24 m, laid exclusively horizontally
+  in alternating layers and joined with wooden nails; African olive and
+  Cordia africana; the South Arabian practice of beams laid horizontally and
+  vertically; rock and wall paintings of at least nine storeys; the
+  reconstruction of five regular and three recessed floors; the finite element
+  models of a wall corner and a doorway wall, 3.36 m high, elements of 0.12 m;
+  tension in the clay as the decisive failure; 48 and 56 floors in the
+  deterministic case; the material ranges and the Monte Carlo sampling; the
+  worst-case scaling factors 19 and 23 and the best-case ranges 97-143 and
+  119-136; the load factor 1.2; the conclusion of 16 storeys in the worst case;
+  the small influence of the wood and the termite resistance of the two
+  species; the reading of even performance as a refined design; the
+  conclusion that an exceptional load caused the failure, consistent with the
+  fire; the outlook listing ceiling loads, the overall geometry, horizontal
+  forces, soil stiffness and the fire scenario as open; the later use of the
+  same wall construction in Aksumite architecture and Ethiopian churches; and
+  the research history (1906, 1971-1973, 2009).
+
+
+HOW THE NUMBER TRAVELLED
+
+2. Brandenburg University of Technology Cottbus-Senftenberg, press release of
+  25 September 2026, "BTU-Statiker liefert neue Erkenntnisse zu antikem Palast
+  in Aethiopien": "Nach ersten Berechnungen waere eine Bebauung mit mindestens
+  19 Stockwerken statisch moeglich gewesen."
+  https://www.b-tu.de/news/artikel/32371-btu-statiker-liefert-neue-erkenntnisse-zu-antikem-palast-in-aethiopien
+3. scinexx.de, 29 September 2026, Kathrin Klatt, "16 Stockwerke? 2.800 Jahre
+  alter aethiopischer Palast war ein Hochhaus" - notes the difference between
+  the paper's 16 and the institutions' 19.
+4. HeritageDaily, 1 October 2026, "Ancient Ethiopian palace could have stood
+  16 storeys high, study finds".
+
+
+BACKGROUND
+
+5. The kingdom of the period and its ties to Saba (Yemen): reference works
+  (Wikipedia, "Dʿmt"; "Sabaeans"), consulted 7 November 2026. Used only for
+  the sentence locating Saba in what is now Yemen.
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- It does not claim that the palace had sixteen floors. Sixteen is the number
+  of floors the ground-floor walls could have carried in the authors'
+  worst-case calculation; the excavators' reconstruction still shows eight.
+- It does not claim a number for the doorway wall beyond "a little more".
+- It does not claim that the authors commented on the press release. The link
+  between 19 and 16 is arithmetic on figures that stand in the paper.
+- It does not claim that fire has been modelled. The authors say it is the
+  next study.
+- It shows no real photograph of the site. Every photograph-like shot is
+  generated and labelled.
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the paper's text and figures, schematic.
+
+[01]  0:00   RECONSTRUCTION  A rubble wall with rows of square beam cavities - reconstruction
+[02]  0:14   RECONSTRUCTION  A charred beam end in its cavity - reconstruction
+[03]  0:20   RECONSTRUCTION  The ruin on its platform in highland farmland - reconstruction
+[04]  0:32   RECONSTRUCTION  The palace as the excavators have drawn it, eight storeys - reconstruction painting
+[05]  0:46   DIAGRAM         A wall as drawn, then under a finite-element mesh (schematic)
+[06]  1:01   DIAGRAM         Eight (the drawing) against sixteen (the worst case)
+[07]  1:09   DIAGRAM         Yeha in Tigray; Saba across the Red Sea (places at true coordinates)
+[08]  1:26   DIAGRAM         1906, 1971-73, 2009, 2026: a century of digging
+[09]  1:43   DIAGRAM         Sixty metres a side; a six-metre podium (schematic)
+[10]  1:51   RECONSTRUCTION  The top of a wall nearly two metres thick - reconstruction
+[11]  2:01   RECONSTRUCTION  A fallen monolithic sandstone pillar - reconstruction
+[12]  2:15   DIAGRAM         The ground floor: corridors, rooms, staircase, post bases (schematic)
+[13]  2:33   RECONSTRUCTION  A wall with beam cavities in regular rows - reconstruction
+[14]  2:45   RECONSTRUCTION  Builders laying a layer of beams into the wall - reconstruction painting
+[15]  3:00   DIAGRAM         Every beam flat; in South Arabia upright as well (schematic)
+[16]  3:12   RECONSTRUCTION  A tower house as in South Arabian paintings - reconstruction painting
+[17]  3:19   RECONSTRUCTION  The reconstructed facade, five floors and three stepped back - reconstruction painting
+[18]  3:29   RECONSTRUCTION  The entrance porch of six pillars - reconstruction painting
+[19]  3:39   RECONSTRUCTION  An engineer's desk with a study model - reconstruction
+[20]  3:47   DIAGRAM         A piece of wall, cut into blocks, loaded from above (schematic)
+[21]  4:01   RECONSTRUCTION  The excavated corner of two walls - reconstruction
+[22]  4:14   DIAGRAM         Floor after floor until something gives way (schematic)
+[23]  4:23   RECONSTRUCTION  Clay mortar between stones, a crack opening - reconstruction
+[24]  4:35   DIAGRAM         48 and 56 floors with average material values
+[25]  4:46   RECONSTRUCTION  Samples of stone, clay and hardwood - reconstruction
+[26]  5:03   DIAGRAM         A range for every material; thousands of runs (schematic)
+[27]  5:12   DIAGRAM         Best case 80 floors and more, worst case 16, the drawing 8
+[28]  5:29   RECONSTRUCTION  The cut end of a squared hardwood beam - reconstruction
+[29]  5:46   RECONSTRUCTION  An older builder showing a younger one where a beam lies - reconstruction painting
+[30]  6:03   DIAGRAM         A ceiling, not a count (schematic)
+[31]  6:15   DIAGRAM         What the model knows, and what it does not yet (schematic)
+[32]  6:30   DIAGRAM         19 in the press release, 16 in the paper, the factor 1.2 between them
+[33]  6:47   RECONSTRUCTION  Archaeologists at work along the wall - reconstruction
+[34]  6:59   RECONSTRUCTION  A charred beam in a cavity, the clay reddened by fire - reconstruction
+[35]  7:12   RECONSTRUCTION  The morning after the fire - reconstruction painting
+[36]  7:27   RECONSTRUCTION  An empty cavity blackened with soot - reconstruction
+[37]  7:39   RECONSTRUCTION  A present-day village of the same dark stone, the ruin beyond - reconstruction
+[38]  7:52   RECONSTRUCTION  An Ethiopian church wall with protruding beam ends - reconstruction
+[39]  8:07   RECONSTRUCTION  The ruin at dusk - reconstruction
+[40]  8:17   RECONSTRUCTION  A single square beam cavity - reconstruction
+
+--------------------------------------------------------------------------
+HOW THIS FILM WAS MADE
+--------------------------------------------------------------------------
+
+The narration is synthetic speech. Every still is generated; none of them
+reproduces a real find, a real site photograph, a figure from the paper or a
+real person. The reconstructions of the standing palace are paintings made
+from the paper's written description, not copies of its figures. No
+generated image carries writing of any kind. The diagrams are drawn in code;
+the ranges and runs in them are schematic and say so.
+
+The opening seconds are built to work without sound - the find first, then a
+caption naming the place and the period - and on-screen text is set large
+for viewers watching on a television.
+
+The film carries the EU marking for AI-generated content.
+
+Corrections and questions: the comment thread under the video.
