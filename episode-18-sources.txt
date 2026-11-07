@@ -1,0 +1,179 @@
+THE BURIED WORLD
+Episode 18 - The Devil's Arrows
+
+The Devil's Arrows: where the stones came from, and what is still unknown
+Full source list
+
+Last updated 7 November 2026
+
+
+HOW THIS EPISODE WAS CHECKED
+
+Every figure spoken in this film was traced to the paper it comes from, and
+the date fields of its DOI were read individually. The statements that were
+cut or rewritten during that check are described, one by one, in the methods
+file that accompanies this list (see the last line of the sources below).
+
+
+THE PUBLICATION (read in full)
+
+Clarke, A., Leary, J. and Kirkland, C. (2026). Deliberate prehistoric sourcing
+  of the Devil's Arrows, Britain's tallest stone row. Proceedings of the Royal
+  Society A 482(2345), 20260504. Published 9 September 2026 (Crossref:
+  published-online and created 9 September 2026). Open access, CC BY 4.0.
+  doi:10.1098/rspa.2026.0504
+  -- Source of: the heights 6.86 / 6.7 / 5.5 m and the cross-sections; the
+  174 m line, not perfectly straight; the spacing of 110 m; "approximately
+  7 m" and "25-tonne"; the rank after the Rudston Monolith; the lowland
+  setting; the Late Neolithic to Early Bronze Age date and "the lack of recent
+  excavation"; the weathering grooves; the sockets of 1709, 1876 and 1881,
+  1.5 m deep with a flat bottom; the Millstone Grit (Namurian, approx.
+  326-313 Ma) and the Sherwood Sandstone underfoot, about 200 Ma younger; the
+  nearest outcrops approximately 5 km west; Plumpton Rocks approximately 13 km
+  south-west, "often identified as the probable source (for instance, in the
+  Historic England Official List entry)"; Brimham Rocks approximately 18 km
+  west; the glacial-erratic hypothesis (Thorpe and Williams-Thorpe 1991;
+  Burl 1991); Leland, Camden, Aubrey 1687, the Peg Bridge and Aldborough
+  manor, Walbran and the Battle Cross (5.5 m, 1322, fifteenth century, moved
+  1852); the possible ford, the seven henges between Swale and Ure, the
+  Langthorpe enclosure, the geophysical patches, the 1993 socket, the
+  "putative 'Great North Route'"; the peel method (20 cm of tape, 5 min, less
+  than 0.1 g), turpentine, magnet, heavy liquid, 25 mm resin discs, electron
+  microscopy, LA-ICP-MS; the 1 kg outcrop samples; 67, 64 and 105 grains,
+  236 combined, ages 3743-377 Ma; the statistics of table 2 (Brimham p = 0.77,
+  Plumpton p = 6.7 x 10^-5, Sherwood p = 2.9 x 10^-4); the same-interval
+  explanation for Plumpton (channels on the km-scale); the ice-flow argument
+  and the word "improbable"; the apatite results; the Battle Cross and Peg
+  Bridge grains; the Stonehenge, Orkney and Irish comparisons (750, 225,
+  30 km; 60 km); the interpretation (spiritual significance; favourable joints
+  and bedding planes); the 3 m cup-and-ring stone with around 21 marks and the
+  "might conceivably" cup marks on Stone 3; the words "most likely source"
+  and "closest correspondence".
+
+
+THE PRESS RELEASES (read for their wording)
+
+University of York, 9 September 2026, "Neolithic 'Devil's Arrow' stones
+  travelled miles...": Leary, "We have now proved that Neolithic communities
+  moved several 25-tonne stones 18km across Yorkshire"; Clarke, "we proved the
+  megaliths were quarried 18km away at Brimham Rocks".
+  https://www.york.ac.uk/news-and-events/news/2026/research/neolithic-devils-arrow-stones-travelled-miles/
+Curtin University, 9 September 2026, "Prehistoric builders hauled 25-tonne
+  stones 18km...": "Each stone weighs more than 25 tonnes"; "without causing
+  damage"; "possibly around 2000 BC".
+  https://www.curtin.edu.au/research/news/prehistoric-builders-hauled-25-tonne-stones-18km-to-build-britains-tallest-stone-row
+
+
+BACKGROUND (reference works, marked in the methods file)
+
+The legend of the Devil's arrows (Camden's "Devills Bolts"; the Devil on a
+  hill aiming at Aldborough): Wikipedia, "Devil's Arrows";
+  thenorthernantiquarian.org. Consulted 7 November 2026.
+Thornborough Henges, about 240 m across: Wikipedia, "Thornborough Henges".
+The road: the stones stand beside the A1(M)/A168 west of Boroughbridge
+  (Wikipedia, "Devil's Arrows").
+
+
+WORKS CITED IN THE PAPER AND NAMED IN THE FILM
+
+Thorpe, R. S. and Williams-Thorpe, O. (1991). The myth of long-distance
+  megalith transport. Antiquity 65, 64-73. doi:10.1017/S0003598X00079308
+Burl, A. (1991). The Devil's Arrows: the archaeology of a stone row.
+  Yorkshire Archaeological Journal 63, 1-24.
+Rooke, H. (1787). Some account of the Brimham Rocks in Yorkshire.
+  Archaeologia 8, 209-217. (Not used in the final cut.)
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- A route, a method or a crew for moving the stones. The paper gives none.
+- A date for the erection. The paper: "their precise date remains unknown".
+- That Brimham is proved beyond doubt. The paper: "most likely", "closest
+  correspondence"; "proved" is the press release.
+- That the marks at the foot of the northern stone are cup marks. The paper:
+  "might conceivably".
+- Any real photograph. Every photograph-like shot is generated and labelled.
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the paper's text and tables; schematic.
+
+[01]  0:00   RECONSTRUCTION  a single huge gritstone pillar in a Yorkshire field seen close from below
+[02]  0:13   RECONSTRUCTION  the three standing stones in a line across two fields
+[03]  0:32   DIAGRAM         map: the nearest grit 5 km, Plumpton Rocks 13 km (places at true coordinates)
+[04]  0:57   RECONSTRUCTION  a gloved hand pressing a strip of plain adhesive tape flat against the rough grey-brown surface of a standing stone
+[05]  1:15   RECONSTRUCTION  tiny prismatic mineral crystals scattered on a dark surface seen through a microscope
+[06]  1:25   DIAGRAM         map: Brimham Rocks 18 km west, the source (places at true coordinates)
+[07]  1:42   RECONSTRUCTION  the River Ure near Boroughbridge
+[08]  1:58   DIAGRAM         the three stones in profile, 6.86 / 6.7 / 5.5 m (paper, section 1)
+[09]  2:14   RECONSTRUCTION  the top of a standing stone very close
+[10]  2:31   DIAGRAM         the socket, 1.5 m deep; digs of 1709, 1876, 1881 (paper, section 1)
+[11]  2:48   RECONSTRUCTION  the foot of a standing stone in long grass seen close
+[12]  3:07   RECONSTRUCTION  a sixteenth-century scholar in a dark gown and flat cap on horseback
+[13]  3:19   RECONSTRUCTION  seventeenth-century villagers in rough coats breaking up a fallen gritstone pillar with hammers and iron wedges
+[14]  3:32   RECONSTRUCTION  a tall slender medieval stone cross on a square stepped base on a village green
+[15]  3:50   DIAGRAM         seven henges between Swale and Ure; Thornborough real, four schematic
+[16]  4:10   RECONSTRUCTION  aerial view of three great circular earthwork banks in a row in flat farmland
+[17]  4:16   DIAGRAM         geophysics and the 1993 socket, schematic (paper, section 1)
+[18]  4:33   RECONSTRUCTION  a line of tall grooved standing stones running away across an open late-Neolithic landscape of rough grass and scrub
+[19]  4:45   RECONSTRUCTION  the middle standing stone leaning very slightly
+[20]  5:01   RECONSTRUCTION  a wide view westward across the flat Vale of York
+[21]  5:09   DIAGRAM         Sherwood Sandstone and Millstone Grit, schematic section (paper, sections 1, 4a)
+[22]  5:32   RECONSTRUCTION  a gritstone crag on heather moorland
+[23]  5:51   RECONSTRUCTION  weathered
+[24]  6:09   RECONSTRUCTION  brimham Rocks
+[25]  6:24   DIAGRAM         three candidates by distance, and the ice (paper; Thorpe and Williams-Thorpe 1991)
+[26]  6:35   DIAGRAM         a sandstone as a mixture of grains, schematic
+[27]  6:53   RECONSTRUCTION  the surface of coarse gritstone extremely close
+[28]  7:06   RECONSTRUCTION  a strip of adhesive tape being peeled slowly away from the rough face of a standing stone
+[29]  7:25   RECONSTRUCTION  a laboratory bench
+[30]  7:43   RECONSTRUCTION  a small round disc of clear epoxy resin the size of a coin
+[31]  7:54   DIAGRAM         the uranium-lead clock, schematic
+[32]  8:15   RECONSTRUCTION  a laser ablation instrument in a darkened laboratory
+[33]  8:23   DIAGRAM         67 + 64 + 105 = 236 grains; 377 million to over 3,700 million years (paper, section 3a)
+[34]  8:37   DIAGRAM         age fingerprint, schematic (after paper, figure 3)
+[35]  8:55   RECONSTRUCTION  two people with rucksacks collecting small pieces of rock from the foot of a gritstone tower on heather moor
+[36]  9:05   RECONSTRUCTION  the three standing stones seen from the south so that they overlap in a staggered line
+[37]  9:17   DIAGRAM         Arrows against Brimham, Plumpton, Sherwood, schematic (after paper, figure 4, table 2)
+[38]  9:33   DIAGRAM         Kolmogorov-Smirnov p-values, table 2 of the paper
+[39]  9:46   RECONSTRUCTION  two fist-sized hand specimens of coarse grey-brown gritstone side by side on a plain grey surface
+[40]  10:07  DIAGRAM         ice flow NW to SE, Brimham outside it (paper, section 4a)
+[41]  10:36  RECONSTRUCTION  a small old stone bridge of one low arch over a narrow slow stream
+[42]  10:49  RECONSTRUCTION  the shaft of a medieval stone cross very close
+[43]  10:58  DIAGRAM         transport distances compared (paper, section 4c)
+[44]  11:23  RECONSTRUCTION  brimham Rocks in evening light
+[45]  11:47  RECONSTRUCTION  a long rectangular block of gritstone lying at Brimham
+[46]  12:07  RECONSTRUCTION  a flat gritstone slab on moorland carved with cup-and-ring marks and wavy lines
+[47]  12:29  RECONSTRUCTION  late-Neolithic people in skins and wool at a gritstone tower on a moor
+[48]  12:46  RECONSTRUCTION  the southern standing stone entire against a bright sky
+[49]  13:00  DIAGRAM         answered and not answered (paper, sections 1 and 4a)
+[50]  13:17  RECONSTRUCTION  a wide view from the edge of the moor at Brimham looking east and down into the lowland
+[51]  13:33  DIAGRAM         the paper's words and the press release's (paper, section 4c; York, 9.9.2026)
+[52]  13:51  RECONSTRUCTION  the face of a standing stone close
+[53]  14:07  RECONSTRUCTION  the same row of stones at evening
+[54]  14:27  RECONSTRUCTION  the three standing stones at dusk
+[55]  14:47  RECONSTRUCTION  the grooved summit of the northern stone and
+[56]  15:01  DIAGRAM         where from: Brimham, 18 km; when: unknown
+[57]  15:14  RECONSTRUCTION  the southern standing stone from directly below against the sky
+
+
+WHAT THE IMAGES ARE
+
+None of the 57 shots is a photograph of the Devil's Arrows, of Brimham Rocks,
+of Plumpton Rocks, of the Battle Cross or of the laboratory. The 38
+photograph-like shots are generated images of the TYPE described - a grooved
+gritstone pillar in a field, a moorland tor, a tape on a stone - and are marked
+as such on screen with the EU marking in the first fifteen seconds and on every
+such shot. The scenes of antiquaries and of prehistoric people are painted
+and marked the same way.
+
+The 19 diagrams are drawn in code. Where they show an age distribution, a
+map or a spacing, they say "schematic" or "positions approximate" in their own
+footers; the maps place towns and outcrops at true coordinates and draw no
+coastline and no river course.
+
+Corrections are welcome and will be made out loud.

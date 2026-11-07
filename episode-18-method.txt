@@ -1,0 +1,193 @@
+THE BURIED WORLD
+Episode 18 - The Devil's Arrows
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+Three standing stones in a field at Boroughbridge, Yorkshire, each around
+twenty-five tonnes, the tallest stone row in Britain - and, for as long as the
+question has been asked, a source thirteen kilometres away that nobody had
+tested. In September 2026 a geochemist and an archaeologist published the
+test: adhesive tape pressed to the stones, mineral grains from the dust, and
+uranium-lead ages for two hundred and thirty-six grains of zircon. The grains
+say the stones came from Brimham Rocks, eighteen kilometres to the west, past
+the nearer source. The film is about how that is measured, what it answers
+(where from) and what it cannot (when, how, by whom).
+
+
+WHAT WAS READ
+
+The paper (Clarke, Leary and Kirkland 2026, Proceedings of the Royal Society
+A) is open access under CC BY 4.0 and was read in full, including the
+methods, the two tables of statistics, the discussion of glacial transport
+and the authors' own caveats. The press releases of the University of York
+and Curtin University were read for their wording, and the film says where
+it differs from the paper. Three details come from reference works and are
+marked as such below: the legend of the Devil's arrows, the size of the
+Thornborough henges, and the road.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. THE LASER SPOT LOST ITS SIZE. The draft said the laser burns a pit "a few
+   thousandths of a millimetre across". The paper does not give the spot
+   size, so the film says "a tiny pit".
+
+2. THE YEAR OF THE SAMPLING WAS REMOVED. The draft said "one day in 2024".
+   The paper gives the date of the consent (23 October 2024), not the day
+   of the sampling. The film says "one day not long ago".
+
+3. "TWO KILOMETRES" BECAME "A SHORT WALK". The distance from the stones to
+   the Battle Cross in Aldborough was our estimate, not a figure in the
+   paper.
+
+4. NOTHING IN THE FILM SAYS HOW THE STONES WERE MOVED. No sledges, no
+   rivers, no number of people, no duration. The paper gives none, and
+   says why: nothing has been found that could show it.
+
+5. "PROVED" IS NOT USED FOR BRIMHAM. The paper writes "most likely source"
+   and "closest correspondence"; the press release of the University of
+   York writes "proved". The film quotes both and keeps the authors'
+   wording.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | Checked | Result
+
+Beside the road that runs north from London | reference works: the stones
+  stand beside the A1(M)/A168 west of Boroughbridge (Wikipedia, "Devil's
+  Arrows"); paper figure 2 shows "major rivers, towns and transport routes"
+  | 7.11.2026 | background
+Taller than a house; southern stone nearly 7 m | Clarke et al. 2026 (CLK),
+  sect. 1: Stone 1 "approximately 6.86 m" | 7.11.2026 | confirmed
+Stands on a different rock; date unknown | CLK 1 and 4a: Triassic Sherwood
+  Sandstone underlies the Arrows; "their precise date remains unknown" |
+  7.11.2026 | confirmed
+Three stones, line not quite straight, 174 m | CLK 1: "three unevenly spaced
+  standing stones"; "stretching across 174 m, although they do not form a
+  perfectly straight line" | 7.11.2026 | confirmed
+Tallest stone row in Britain | CLK abstract and 1 | 7.11.2026 | confirmed
+Around 25 tonnes each | CLK abstract: "25-tonne Devil's Arrows"; Curtin press
+  release, Clarke: "Each stone weighs more than 25 tonnes" | 7.11.2026 |
+  confirmed; no individual weights exist
+Millstone Grit; nearest outcrop 5 km west | CLK 1 | 7.11.2026 | confirmed
+Plumpton Rocks 13 km, commonly cited, in the official listing | CLK 1 and 4c
+  ("for instance, in the Historic England Official List entry") | 7.11.2026
+  | confirmed
+Three scientists, this September | CLK authors; Crossref published-online
+  9.9.2026 | 7.11.2026 | confirmed
+No permission to cut or drill; tape for five minutes; dust | CLK 2a:
+  Scheduled Monument Consent; "20 cm sections of adhesive tape ... After
+  5 min of contact, the tape was removed and the affixed grains were
+  retained" | 7.11.2026 | confirmed
+Zircon grains, each with a clock | CLK 1 and 4a: U-Pb detrital zircon |
+  7.11.2026 | confirmed
+Brimham Rocks, 18 km west | CLK abstract | 7.11.2026 | confirmed
+Boroughbridge, the Ure, slope to the south, possible ford | CLK 1: "aligned
+  towards a possible ford in the River Ure"; "gently southward-sloping
+  ground" | 7.11.2026 | confirmed (town geography: reference works)
+Heights 6.86 / 6.7 / 5.5 m; middle stone 110 m on, leans; northern broader |
+  CLK 1 | 7.11.2026 | confirmed
+Grooves cut by rain; same on the crags; pointed people to Plumpton | CLK 1:
+  "deep, weathering-induced grooves"; "fluted, weathered blocks closely
+  resemble the surface textures" | 7.11.2026 | confirmed
+1709 socket 1.5 m deep; 1876 and 1881 similar | CLK 1 | 7.11.2026 |
+  confirmed
+Late Neolithic to Early Bronze Age; no recent excavation | CLK 1 |
+  7.11.2026 | confirmed
+Leland counted four; Camden found the fourth prone | CLK 1 | 7.11.2026 |
+  confirmed
+Aubrey 1687: broken up, Peg Bridge over the Tutt, top to Aldborough manor |
+  CLK 1 | 7.11.2026 | confirmed
+Medieval cross 5.5 m, battle of 1322, 15th century, from a monolith (19th-c.
+  suggestion) | CLK 1 (Walbran) | 7.11.2026 | confirmed
+Seven henges between Swale and Ure, densest concentration | CLK 1 |
+  7.11.2026 | confirmed
+Thornborough henges about 240 m across | reference works (Wikipedia,
+  "Thornborough Henges") | 7.11.2026 | background; the paper names the
+  henges without a size
+Geophysics: two patches; 1993 possible socket; line may continue; way-markers
+  on a "Great North Route" | CLK 1: "may represent former positions of
+  stones"; "putative 'Great North Route'" | 7.11.2026 | confirmed, as a
+  suggestion
+The legend: Devil's bolts shot at the old towns; Devil on a hill aiming at
+  Aldborough | reference works (Wikipedia; thenorthernantiquarian.org,
+  quoting Camden's "Devills Bolts") | 7.11.2026 | background; not in the
+  paper
+Sherwood Sandstone red, desert, about 200 million years younger; grit about
+  320 million years, river deltas | CLK 4a: "red to brown ... arid
+  fluvial-aeolian"; "approx. 200 Ma difference"; CLK 1: Namurian "approx.
+  326-313 Ma" | 7.11.2026 | confirmed ("deltas": general geology of the
+  Millstone Grit, reference works)
+1991: two geologists argued for glacial erratics | CLK 1: Thorpe and
+  Williams-Thorpe 1991, Antiquity | 7.11.2026 | confirmed
+Brimham mentioned as a source | CLK 1 | 7.11.2026 | confirmed
+A sandstone remembers; different channels, different mixtures | CLK 1 and
+  4a: "individual fluvial channels on the km-scale delivered sediment from
+  different source regions" | 7.11.2026 | confirmed
+Turpentine, hand magnet, heavy liquid, a tenth of a gram or less; Australia |
+  CLK 2a; Curtin University, Perth | 7.11.2026 | confirmed
+Resin disc the size of a coin; electron microscope | CLK 2a: 25 mm epoxy
+  discs; field-emission SEM | 7.11.2026 | confirmed
+The uranium-lead clock | general geochronology; CLK 1 ("U-Pb age
+  fingerprints") | 7.11.2026 | confirmed
+Laser, mass spectrometer | CLK 2b: LA-ICP-MS | 7.11.2026 | confirmed; see
+  change 1
+236 grains; 377 million to over 3,700 million years | CLK 3a | 7.11.2026 |
+  confirmed
+Hump around 430 million, smaller humps over a billion, thin old tail | CLK
+  3a and figure 3 | 7.11.2026 | confirmed
+About a kilogram from Brimham and Plumpton | CLK 2a | 7.11.2026 | confirmed
+Three stones indistinguishable; one source | CLK 3a and 4a | 7.11.2026 |
+  confirmed
+Brimham matches, Plumpton does not, Sherwood very different | CLK 4a, table
+  2 | 7.11.2026 | confirmed
+"Cannot tell them apart"; "one in fifteen thousand" | CLK table 2: Brimham
+  p = 0.77; Plumpton p = 6.7 x 10^-5 (1/14,925) | 7.11.2026 | confirmed
+Same rock, same layer; channels a few kilometres apart | CLK 4a: "both Upper
+  Plumpton Grit outcrops"; "km-scale" | 7.11.2026 | confirmed
+Ice from northwest to southeast; Brimham west, high, outside; models coarse;
+  "improbable" | CLK 4a | 7.11.2026 | confirmed
+Peg Bridge and Battle Cross grains fit | CLK 4b: "No analysed grains are
+  inconsistent" | 7.11.2026 | confirmed
+Altar Stone 750 km, bluestones 225 km, sarsens 30 km | CLK 4c | 7.11.2026 |
+  confirmed
+Brimham otherworldly; joints and bedding planes; a block already half made |
+  CLK 4c | 7.11.2026 | confirmed, attributed to the authors
+Cup-and-ring stone, 3 m, about 21 marks; faint marks at Stone 3 "might" |
+  CLK 4c | 7.11.2026 | confirmed
+Stonehenge, Orkney, Irish tombs: relational, not logistical | CLK 4c and 5 |
+  7.11.2026 | confirmed
+The tape did not date, did not find the route | CLK 1 and 4a, outlook of the
+  Curtin release (targeted excavation) | 7.11.2026 | confirmed
+"Most likely", "closest"; the press release wrote "proved" | CLK 4c;
+  University of York press release 9.9.2026 (Leary: "We have now proved that Neolithic communities moved several 25-tonne stones 18km across Yorkshire"; Clarke: "we proved the megaliths were quarried 18km away")
+  | 7.11.2026 | confirmed; see change 5
+Stone unmarked after sampling | Curtin press release: "without causing
+  damage"; CLK 5: "where conventional sampling is not permissible or too
+  destructive" | 7.11.2026 | confirmed
+Stood for perhaps four thousand years | CLK 1: Late Neolithic to Early
+  Bronze Age; Curtin release: "possibly around 2000 BC" | 7.11.2026 | kept
+  as "perhaps"
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 7.11.2026
+
+10.1098/rspa.2026.0504  journal-article, Proc. R. Soc. A 482(2345), 20260504,
+  Clarke, Leary, Kirkland. published-online 2026-09-09, created 2026-09-09.
+  License CC BY 4.0.
+
+
+WHAT THE FILM SHOWS
+
+No photograph of the Devil's Arrows, of Brimham Rocks or of the laboratory is
+used. Every photograph-like shot is generated and labelled on screen; it
+shows stones, crags, instruments and landscapes of the TYPE described, not
+the real monument. The scenes of antiquaries and of prehistoric people are
+painted and labelled. The diagrams are drawn in code from the paper's text
+and tables; the age fingerprints in them are schematic, not the data.
+
+
+Corrections are welcome and will be made out loud.
