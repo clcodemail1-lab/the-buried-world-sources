@@ -39,6 +39,7 @@ why, rather than quietly absorbing it.
 | 15 | The Ship Had Rotted Away. They Excavated It Anyway. | [sources](episode-15-sources.txt) | [method](episode-15-method.txt) |
 | 16 | Solved Every Few Years: The Voynich Manuscript | [sources](episode-16-sources.txt) | [method](episode-16-method.txt) |
 | 17 | Henry VIII's Ship Came Back Without an Answer: The Mary Rose | [sources](episode-17-sources.txt) | [method](episode-17-method.txt) |
+| 18 | Britain's Tallest Stone Row Came From the Farther Hill: The Devil's Arrows | [sources](episode-18-sources.txt) | [method](episode-18-method.txt) |
 
 ## Explainers
 
