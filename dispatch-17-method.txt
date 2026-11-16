@@ -1,0 +1,223 @@
+THE BURIED WORLD
+Dispatch 17 - Anglo-Saxon Kings Had Silver. They Paid in Copper Anyway
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+Fridays on this channel carry a single find and a single thought. The find
+here is a coin: the small copper-alloy styca of ninth-century Northumbria,
+the only coinage in early medieval western Europe from which the silver was
+removed entirely. The thought is one sentence long: the kings had silver,
+and they paid in copper anyway. For decades the coins were read as the
+sign of a poor and dying kingdom. A paper published in November 2026 tests
+that reading against everything else made of silver and gold that has come
+out of the ground of ninth-century Northumbria.
+
+
+WHAT WAS READ
+
+The paper (Carson 2026, Antiquity, First View) is open access under CC BY
+4.0 and was read in full on 16 November 2026: introduction, the section on
+the older narrative of decline, materials and methods, results with Tables
+1 to 7, discussion and conclusion. The online supplementary material (the
+database itself and maps S1 to S5) was not read; nothing in the film depends
+on it. The silver content of the coins (up to 40 per cent, then at most 10,
+then none) is not measured in this paper; Carson cites it from Rory
+Naismith (2017), and the film names Naismith as its source. Two news reports
+(scinexx, 10 November; archaeologymag, 10 November) were read for the way
+the result travelled; where they go beyond the paper, the film follows the
+paper. The photographs of coins and a strap-end are records of the Portable
+Antiquities Scheme, published by York Museums Trust under CC BY 2.0, checked
+on Wikimedia Commons on 16 November 2026.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. ONE AUTHOR, NOT A TEAM. The first news summaries read like a group
+   study. The paper has a single author, John Luke Carson of the Department
+   of Archaeology, Durham University. The film says "an archaeologist at
+   Durham" and "Carson".
+
+2. "THE FIRST VIKING RAID" BECAME "THE FIRST RECORDED VIKING RAID ON
+   NORTHUMBRIA". The paper says the raid on Lindisfarne in 793 was the first
+   recorded raid on Northumbria. It was not the first Viking raid recorded
+   in England.
+
+3. THE PERCENTAGES ARE NAISMITH'S. "Up to forty per cent, then ten at most,
+   then none" comes from Naismith 2017 as cited by Carson. The film
+   attributes it.
+
+4. COUNTED, NOT WEIGHED. A news report said the finds cannot show how much
+   silver there was. The paper says the silver cannot be quantified by
+   weight, but treats the count, the size of the objects and the share of
+   precious metal as reliable indicators that silver was available. The film
+   says exactly that: nobody can say how much, only that there was some, and
+   enough for fine work.
+
+5. THE MOTIVE STAYS OPEN. News reports turned the paper into "a deliberate
+   policy to put more small coins into circulation". The paper offers
+   profit as the likely first motive and everyday usefulness as a later one,
+   and says that neither a fiscal nor a monetary reading is proven; it may
+   have been both. The film ends on that, and its last two lines are framed
+   as Carson's argument ("If Carson is right").
+
+6. "FEWER KINGS MURDERED" BECAME "FEWER USURPATIONS AND ASSASSINATIONS".
+   That is the paper's wording for 805-866 against 736-796.
+
+7. NO SILVER SOURCE IS NAMED. The paper says the silver probably did not
+   come from mining in Northumbria and that its origin is presently unclear.
+   The film says it is still unknown.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | checked | result
+
+In the 840s all silver was removed from the coinage | Carson I, para 1,
+  citing Naismith 2017: 120-21: "during the second reign of Aethelred II
+  (844-848/9), when all silver was removed" | 16.11.2026 | confirmed
+No other kingdom in early medieval western Europe did this | Carson
+  abstract: "a unique move away from silver coinage in early medieval
+  western Europe"; I, para 1: "The only western European exception" |
+  16.11.2026 | confirmed
+Small coin, about half an inch across | Carson Fig. 2: coin of Aethelred II,
+  diameter 12.4 mm | 16.11.2026 | confirmed (12.4 mm = about half an inch)
+Old reading: copper money = out of silver, testimony of a dying kingdom |
+  Carson N, para 2: Dolley, Smyth, Griffiths, "a testimony to the weakness
+  of the dying Northumbrian kingdom" | 16.11.2026 | confirmed
+Poppleton hoard, near York, eight ninth-century silver strap-ends, all
+  larger than examples south of the Humber | Carson R, para 1 (Thomas 2006:
+  147-59) | 16.11.2026 | confirmed
+Published this month by an archaeologist at Durham | Crossref
+  published-online 2026-11-10; single author, Department of Archaeology,
+  Durham University | 16.11.2026 | confirmed (broadcast 27.11.2026)
+Northumbria from the Humber to the Firths of Forth and Clyde, Irish Sea to
+  North Sea | Carson I, para 1 | 16.11.2026 | confirmed
+793 first recorded raid on Northumbria, at Lindisfarne | Carson N, para 2 |
+  16.11.2026 | confirmed; see change 2
+867 fall to the Vikings | Carson N, para 3 (Yorke 2003: 97) | 16.11.2026 |
+  confirmed
+Thin written sources plus that ending gave a misleading picture | Carson N,
+  para 3: "the paucity of contemporaneous texts, coupled with the fall ...
+  gives a misleading picture of a kingdom dangerously close to
+  disintegrating" | 16.11.2026 | confirmed
+Fewer usurpations and assassinations in the final decades | Carson N, para
+  3: 805-866 against 736-796 | 16.11.2026 | confirmed; see change 6
+Stycas found in fields in Yorkshire; name from the late seventeenth century,
+  original name unknown | Carson I, para 1 (Naismith 2017: 115); PAS records
+  from Yorkshire (York Museums Trust, FindIDs 866286, 866302, 866346) |
+  16.11.2026 | confirmed
+Silver the material of coinage in northern and western Europe from the late
+  seventh century | Carson I, para 1 | 16.11.2026 | confirmed
+Coins regulated by kings and archbishops | Carson I, para 1 | 16.11.2026 |
+  confirmed (archbishops of York)
+Up to 40 per cent silver until the later reign of Eanred (c. 830-840/1),
+  then at most 10 per cent | Carson I, para 1, citing Naismith 2017 |
+  16.11.2026 | confirmed; see change 3
+Aethelred II was Eanred's son | Carson N, para 6: "Eanred handed over the
+  reins of power to his son Aethelred II" | 16.11.2026 | confirmed
+Even the worst debasements elsewhere left some silver; Northumbria the one
+  western European exception | Carson I, para 1 | 16.11.2026 | confirmed
+Only other case before the fifteenth century: thirteenth-century Hungary |
+  Carson I, para 2 (Spufford 1988) | 16.11.2026 | confirmed ("four hundred
+  years later": 840s to 1200s)
+"The first independently evolved base-metal currency in post-Roman western
+  Europe" | Carson I, para 1, quoting Naismith 2023: 313 | 16.11.2026 |
+  confirmed (paraphrased and attributed to Naismith)
+Value rested on trust | Carson I, para 3: "a fiduciary coin, whose use
+  depended on trust rather than any intrinsic value" | 16.11.2026 |
+  confirmed
+Silver penny of Eanred and pierced gold solidus of Archbishop Wigmund, single
+  pieces, likely special issues | Carson I, para 2 | 16.11.2026 | confirmed
+Same small thick flan; issuer's name on obverse, moneyer's on reverse;
+  design first used on silver coins of the late 780s | Carson N, para 5 |
+  16.11.2026 | confirmed
+Copper available, zinc and tin not; tin likely from Cornwall, zinc likely
+  from the Aachen area | Carson N, para 4 (Naismith 2023: 313); D, para 7 |
+  16.11.2026 | confirmed
+"A drastic economic collapse" | Carson N, para 2, quoting Booth 1987: 73 |
+  16.11.2026 | confirmed ("one study")
+Reasons given: tribute to Mercia, silver hoarded by tax-exempt churches,
+  Viking raids | Carson N, para 2 | 16.11.2026 | confirmed
+Method: database of every gold and silver find from the literature and
+  other sources | Carson M, para 1 | 16.11.2026 | confirmed
+Over half recorded by the Portable Antiquities Scheme | Carson M, para 1 |
+  16.11.2026 | confirmed (PAS records finds made by the public, most of them
+  by metal-detector users; background, PAS)
+Cannot be weighed: mixed objects, composition often unknown; counted, with
+  size and share of precious metal | Carson M, paras 3-4 | 16.11.2026 |
+  confirmed; see change 4
+27 certain and 7 likely silver finds; 23 certain and 8 likely with silver
+  decoration | Carson R, paras 1 and 3; Table 1 | 16.11.2026 | confirmed
+Strap-ends the commonest silver object type; finger-rings | Carson Table 2:
+  strap-end 14 certain; finger-ring 3 certain, 1 likely | 16.11.2026 |
+  confirmed
+Two sword pommels, Gilling West and York, with considerable silver
+  decoration | Carson R, para 3 | 16.11.2026 | confirmed
+Ingleton pommel, silver band with inlaid gold and niello panels | Carson R,
+  para 6 | 16.11.2026 | confirmed
+Gold: 11 certain, 1 likely | Carson R, para 4; Table 1 | 16.11.2026 |
+  confirmed
+Eighth century: no certain gold find | Carson Fig. 5 caption: "There are no
+  certain gold finds and only one likely gold" | 16.11.2026 | confirmed
+Poppleton items rival those made south of the Humber | Carson N, para 6
+  (Thomas 2006: 159) | 16.11.2026 | confirmed
+Debasement probably not forced by a shortage of silver | Carson C, para 1 |
+  16.11.2026 | confirmed
+Eighth century: coin production non-existent or limited for much of it;
+  ninth a revival | Carson D, para 2 and Fig. 5 | 16.11.2026 | confirmed
+Copper coins struck in greater quantities, wider distribution, north and
+  west of the kingdom for the first time in quantity | Carson D, para 3 |
+  16.11.2026 | confirmed
+Greatest debasement in political stability, Eanred to Aethelred II; rate no
+  greater than Rome 1st-3rd century AD | Carson N, para 6 (Naismith 2020:
+  198) | 16.11.2026 | confirmed
+Comparison with Charlemagne's reform of 793 and Melle silver; kings may
+  have been involved in the supply of metals | Carson D, para 7 (Kershaw et
+  al. 2024) | 16.11.2026 | confirmed
+Byzantium, eleventh century: debasement of gold read as fiscal or monetary
+  | Carson D, para 6 | 16.11.2026 | confirmed
+Usual medieval reason: profit, minting that could be taxed; may have been
+  the start | Carson D, para 4; C, para 1 | 16.11.2026 | confirmed
+Lower-value coin for everyday use by more of the population | Carson D,
+  para 4 | 16.11.2026 | confirmed
+May have fostered social cohesion and a shared identity across internal
+  divisions | Carson D, para 5 (Webb 2021: 254-56) | 16.11.2026 | confirmed
+Finds uneven, mostly North and East Yorkshire, possibly an older trend |
+  Carson R, para 7 | 16.11.2026 | confirmed
+Vikings moved portable wealth; some objects may come from outside | Carson
+  M, para 3 | 16.11.2026 | confirmed
+Silver probably not from Northumbrian mines; North Pennine lead yielded
+  little silver; origin unclear | Carson D, para 8; C, para 1 | 16.11.2026 |
+  confirmed; see change 7
+Neither fiscal nor monetary motive proven; possibly both | Carson D, para 6
+  | 16.11.2026 | confirmed; see change 5
+"If Carson is right ... the money of one that decided its coins did not
+  need it" | Carson C, para 1: "a kingdom that actively debased its own
+  currency"; "the product of a rich and vibrant ninth-century Northumbria,
+  not an impoverished kingdom" | 16.11.2026 | confirmed as the author's
+  argument, framed as such
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 16.11.2026
+
+10.15184/aqy.2026.10454  journal-article, Antiquity (First View, pp. 1-16,
+  no volume or issue yet), Carson (single author). published-online
+  2026-11-10, created 2026-11-10, no print date. License CC BY 4.0.
+
+
+WHAT THE FILM SHOWS
+
+Four photographs are real finds recorded by the Portable Antiquities
+Scheme, photographed by Lydia Prosser for York Museums Trust and published
+under CC BY 2.0: a copper-alloy styca of Eanred (FindID 866286), a base
+silver styca of Eanred (866346), a copper-alloy styca of Aethelred
+(866302) and a silver strap-end (868436). They carry no AI label. Every
+other photograph-like shot is generated and labelled on screen; it shows an
+object or a landscape of the TYPE described, not a published find.
+Inscriptions on generated coins are not attempted. Maps and charts are
+drawn in code from the paper's text and tables.
+
+
+Corrections are welcome and will be made out loud.

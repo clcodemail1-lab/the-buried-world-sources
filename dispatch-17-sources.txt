@@ -1,0 +1,126 @@
+THE BURIED WORLD
+Dispatch 17 - Anglo-Saxon Kings Had Silver. They Paid in Copper Anyway
+
+SOURCES AND LIMITS
+
+One publication carries this film, and it was read in full: an open-access
+study of the gold and silver finds of ninth-century Northumbria, published in
+Antiquity in November 2026. The silver content of the coins is not measured
+in it; it comes from the work of Rory Naismith, which the paper cites and the
+film names. Two news reports were read for the way the result travelled, and
+the film follows the paper where they go further. The companion file
+dispatch-17-method.txt holds the complete fact-check table.
+
+
+THE PUBLICATION
+
+1. Carson, J. L. (2026). Debasement and the production of copper-alloy coins
+  in ninth-century Northumbria. Antiquity (First View), pp. 1-16.
+  Published online 10 November 2026 (Crossref: published-online and created
+  10 November 2026; no volume or issue yet). Open access, CC BY 4.0.
+  doi:10.15184/aqy.2026.10454
+  -- Source of: the removal of all silver in the 840s and its uniqueness in
+  early medieval western Europe; the extent of Northumbria; the raid on
+  Lindisfarne in 793 and the fall of the kingdom in 867; the older reading of
+  the coins as the sign of a dying kingdom, and its reasons; the design and
+  the fiduciary nature of the coins; the special silver and gold pieces of
+  Eanred and Archbishop Wigmund; imported tin and zinc; the method (counting
+  finds, not weighing them, over half recorded by the Portable Antiquities
+  Scheme); the counts of 27 certain and 7 likely silver finds, 23 and 8 with
+  silver decoration, 11 and 1 of gold; the Poppleton hoard; the sword pommels
+  of Gilling West, York and Ingleton; the comparison with the eighth century,
+  with Rome, with Charlemagne and with Byzantium; the motives of profit,
+  everyday usefulness and shared identity; and every limit the film states.
+
+2. Naismith, R. (2017, 2023), as cited in (1): the silver content of the coins
+  (up to 40 per cent, then at most 10, then none) and the description of the
+  styca as the first independently evolved base-metal currency in post-Roman
+  western Europe.
+
+
+THE PHOTOGRAPHS
+
+Four real finds recorded by the Portable Antiquities Scheme, photographed by
+Lydia Prosser for York Museums Trust, licensed CC BY 2.0 and published on
+Wikimedia Commons. The white background has been replaced with the channel's
+dark ground and the scale bars cut away; the objects themselves are unchanged.
+  - Copper-alloy styca of Aethelred of Northumbria, c. 841-849, PAS FindID 866302
+  - Copper-alloy styca of Eanred of Northumbria, c. 829-840, PAS FindID 866286
+  - Base silver styca of Eanred of Northumbria, c. 810-841, PAS FindID 866346
+  - Silver strap-end, c. 800-950, PAS FindID 868436 (not from the Poppleton hoard)
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+PHOTOGRAPH     = real find, credited above, no AI label.
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the paper's text and tables.
+
+[01]  0:00   PHOTOGRAPH      Copper-alloy styca of Aethelred II, both faces (PAS 866302)
+[02]  0:09   PHOTOGRAPH      The same coin, one face
+[03]  0:14   RECONSTRUCTION  A coin tray and a magnifying glass on a study desk - reconstruction
+[04]  0:21   RECONSTRUCTION  A ploughed field in Yorkshire - reconstruction
+[05]  0:25   DIAGRAM         Poppleton, York and the Humber (places at true coordinates)
+[06]  0:35   RECONSTRUCTION  A worn copper coin beside a silver strap-end - reconstruction
+[07]  0:45   DIAGRAM         Northumbria from the Humber to the Forth and Clyde (places at true coordinates)
+[08]  0:55   DIAGRAM         793 and 867
+[09]  1:06   RECONSTRUCTION  The causeway to Holy Island, Lindisfarne - reconstruction
+[10]  1:16   DIAGRAM         736-796 against 805-866
+[11]  1:24   PHOTOGRAPH      Copper-alloy styca of Eanred, both faces (PAS 866286)
+[12]  1:40   DIAGRAM         Silver content: up to 40 per cent (after Naismith 2017)
+[13]  1:52   DIAGRAM         Silver content: at most 10 per cent
+[14]  2:08   DIAGRAM         Silver content: none
+[15]  2:14   PHOTOGRAPH      Base silver styca of Eanred, both faces (PAS 866346)
+[16]  2:26   DIAGRAM         Northumbria and Hungary: the only two cases before the fifteenth century
+[17]  2:31   PHOTOGRAPH      Copper-alloy styca of Eanred, one face (PAS 866286)
+[18]  2:43   DIAGRAM         Two single pieces: a silver penny of Eanred, a gold coin of Archbishop Wigmund
+[19]  3:00   DIAGRAM         The design: issuer on the obverse, moneyer on the reverse (schematic)
+[20]  3:13   DIAGRAM         Tin from Cornwall, zinc from around Aachen (probably)
+[21]  3:29   DIAGRAM         'A drastic economic collapse' (Booth 1987, as cited by Carson)
+[22]  3:40   RECONSTRUCTION  Viking ships off a headland - reconstruction painting
+[23]  3:50   RECONSTRUCTION  Durham, cathedral and river - reconstruction
+[24]  4:00   RECONSTRUCTION  A finds-recording table - reconstruction
+[25]  4:08   RECONSTRUCTION  A metal-detectorist in a ploughed field - reconstruction
+[26]  4:19   RECONSTRUCTION  A copper-alloy mount with silver inlay - reconstruction
+[27]  4:33   DIAGRAM         Finds of silver: 27 + 7, and 23 + 8 with silver decoration
+[28]  4:46   PHOTOGRAPH      Silver strap-end, c. 800-950, front and back (PAS 868436)
+[29]  4:58   RECONSTRUCTION  A sword pommel with a silver band, gold and niello - reconstruction
+[30]  5:09   DIAGRAM         Finds of gold: 11 + 1; in the eighth century, no certain find
+[31]  5:23   RECONSTRUCTION  Silver strap-ends in a museum case - reconstruction
+[32]  5:30   RECONSTRUCTION  A silver strap-end lifted from the soil - reconstruction
+[33]  5:38   DIAGRAM         Eighth century against ninth
+[34]  5:53   DIAGRAM         Copper coins reach the north and west (arrows schematic)
+[35]  6:06   DIAGRAM         A quiet handover; no faster than Rome
+[36]  6:21   DIAGRAM         Charlemagne's reform of 793: Melle, Aachen, Cornwall, York
+[37]  6:37   RECONSTRUCTION  A moneyer striking coins - reconstruction painting
+[38]  6:46   DIAGRAM         Byzantium: fiscal or monetary
+[39]  6:59   RECONSTRUCTION  A small market in ninth-century Northumbria - reconstruction painting
+[40]  7:13   RECONSTRUCTION  A valley in ninth-century Northumbria - reconstruction painting
+[41]  7:26   RECONSTRUCTION  An empty balance scale - reconstruction
+[42]  7:39   DIAGRAM         Most finds from North and East Yorkshire (area schematic)
+[43]  7:50   RECONSTRUCTION  North Pennine moorland with old lead workings - reconstruction
+[44]  7:59   DIAGRAM         Profit, usefulness, or both
+[45]  8:04   RECONSTRUCTION  York in the ninth century with Viking ships - reconstruction painting
+[46]  8:12   RECONSTRUCTION  A worn copper coin in a ploughed field - reconstruction
+[47]  8:23   PHOTOGRAPH      Copper-alloy styca of Aethelred II, both faces (PAS 866302)
+
+--------------------------------------------------------------------------
+HOW THIS FILM WAS MADE
+--------------------------------------------------------------------------
+
+The narration is synthetic speech. Apart from the four credited
+photographs, every still is generated; none of the generated images
+reproduces a real find, a real site photograph, a figure from the paper or a
+real person. Generated coins are deliberately shown worn smooth, so that no
+invented inscription appears; every coin you can read in this film is real.
+The diagrams are drawn in code.
+
+The opening seconds are built to work without sound - the find first, then a
+caption naming the place and the period - and on-screen text is set large
+for viewers watching on a television.
+
+The film carries the EU marking for AI-generated content.
+
+Corrections and questions: the comment thread under the video.
