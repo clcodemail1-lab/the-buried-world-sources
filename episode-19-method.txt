@@ -1,0 +1,271 @@
+THE BURIED WORLD
+Episode 19 - Were the Inca Children Drugged Before Sacrifice? Their Hair Disagrees
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+In November 2026 a team from Poland, Peru, Argentina and the United States
+published the widest toxicological study yet of the children sacrificed by
+the Inca on the summits of the Andes: eight individuals from five mountains,
+tested for ten substances in hair and nails. Since 2013 the common short
+version has been that the children were sedated with coca and alcohol. The
+new results are more varied than that, and the paper's own conclusion is
+that there was no clear pattern. The film follows that open question - why
+every mountain gives a different answer - and the limits of what hair can
+show.
+
+
+WHAT WAS READ
+
+The paper (Socha et al. 2026, Antiquity, online ahead of print) is open
+access under CC BY 4.0 and was read in full as a PDF on 16 November 2026,
+including Tables 1 and 2, which were checked against the page images
+because text extraction breaks them. The online supplementary material
+(detection limits, chromatograms) was not read; nothing in the film depends
+on it. The two earlier studies of the Llullaillaco children by Wilson and
+colleagues (PNAS 2007 and 2013) were read in full through PubMed Central.
+Two news reports (HeritageDaily and Archaeology News, both 3 November 2026)
+were read for the way the result travelled; where they go beyond the paper,
+the film follows the paper. Background on the ritual comes from the Spanish
+chronicles as cited in these papers; the film marks it as chronicle, not as
+finding. Background on the restitution debate comes from a 2022 news report
+(El Heraldo / Telam).
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. "COCAINE IN ALL EIGHT" BECAME "COCA IN EVERY HAIR SAMPLE - ALL SIX".
+   News reports said all eight children had taken coca. The paper found
+   cocaine and its breakdown product in all six hair samples; the two nail
+   samples (Ampato #1 and Quehuar) showed none.
+
+2. "ALCOHOL IN FOUR" IS COUNTED FROM TABLE 1. The abstract says cocaethylene
+   was found "in two (Chuscha and Llullaillaco)" - two sites. Table 1 shows
+   it in four individuals: Chuscha and the three Llullaillaco children.
+
+3. THE HARMINE FINDING IS PRESENTED AS THE WEAKEST IN THE STUDY. It is one
+   trace (0.6 pg/mg) in one nail sample, from the girl known as Juanita; the
+   authors describe the nail samples as contaminated, probably by
+   environmental pollution, and ask for her hair to be tested. Harmine also
+   occurs in plants other than Banisteriopsis. News reports turned it into
+   an ayahuasca drink; the paper does not show a drink.
+
+4. THE PAPER'S OWN INCONSISTENCY IS STATED. The discussion says all
+   individuals buried on Ampato received the same substances; Table 1 shows
+   harmine in Ampato #1 (nail) and none in Ampato #4 (hair). The statement
+   appears to rest on the authors' earlier study of two other Ampato
+   children (2022), which the film also reports.
+
+5. "SEDATED" IS ATTRIBUTED. "Heavily sedated" is the 2013 team's
+   conclusion about the oldest Llullaillaco girl, not a measurement. The
+   2026 reading ("wellbeing and mood") is likewise the authors'
+   interpretation. The film says neither reading is something the hair can
+   prove.
+
+6. AGES ARE GIVEN AS ESTIMATES. Studies give different ages for the
+   Llullaillaco children (2007: 15, 7, 6; 2013: 13 and 4-5; 2026: about 14,
+   7 and 6). The film uses the 2026 figures with "about" and says the
+   estimates differ.
+
+7. "COCA ON EVERY SUMMIT" BECAME "COCA IN EVERY CHILD WHOSE HAIR COULD BE
+   TESTED". From Quehuar only a nail sample was analysed, and it showed no
+   coca; the same holds for the nail of Ampato #1. An earlier draft also had
+   every child carried up "with coca"; that line was cut.
+
+8. NO CAUSE OF DEATH, NO MUMMY PHOTOGRAPHS. The film describes no killing
+   and shows no body. It shows summits, shrines, objects of the type buried
+   with the children, a laboratory and a plant.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | checked | result
+
+Eight individuals, five mountains, ten substances, hair and nails | Socha
+  et al. 2026 p. 4, p. 2, p. 9 | 16.11.2026 | confirmed (Chuscha, Ampato,
+  Sara Sara, Quehuar, Llullaillaco)
+About five hundred years ago | Socha p. 2: Inca Empire late 13th century to
+  1572 | 16.11.2026 | confirmed (approximate)
+Most of the ten substances were not found | Table 1: only cocaine,
+  benzoylecgonine, cocaethylene and (once) harmine detected | 16.11.2026 |
+  confirmed
+Since 2013: coca and alcohol, "heavily sedated" | Wilson et al. 2013, PNAS
+  110: 13322-13327, Results | 16.11.2026 | confirmed; see change 5
+More than 500 times the coca | Table 1: Llullaillaco Doncella 16,740 pg/mg
+  cocaine against Chuscha 31 | 16.11.2026 | confirmed (540x)
+On a mountain in Peru, barely a trace | Table 1: Sara Sara 1.5 pg/mg |
+  16.11.2026 | confirmed
+Fingernail of Juanita, faint trace of harmine | Table 1: Ampato #1 nail,
+  harmine 0.6 pg/mg; p. 4-5 Ampato #1 = the girl found 1995 | 16.11.2026 |
+  confirmed; see change 3
+Harmine best known from a vine that grows only in the Amazon | Socha p. 14:
+  Banisteriopsis or other Malpighiaceae, "grow only in the Amazon
+  rainforest" | 16.11.2026 | confirmed
+Capacocha = capac "royal" + cocha "lake, water or body" | Socha p. 4
+  (Holguin 1608) | 16.11.2026 | confirmed
+Held in response to drought, famine, political instability | Socha p. 2
+  (Cobo 1653) | 16.11.2026 | confirmed (chronicle)
+Children of both sexes and young women, to the most important deities |
+  Socha p. 2 (Reinhard & Ceruti 2010) | 16.11.2026 | confirmed
+Messengers between the living and gods/ancestors | Socha p. 2 | 16.11.2026
+  | confirmed
+Volunteered by families, hostages raised in Cusco, tribute | Socha p. 4 |
+  16.11.2026 | confirmed (chronicle)
+Ranking provincial deities, control over local communities (Cieza de Leon)
+  | Socha p. 4 | 16.11.2026 | confirmed (chronicle)
+Young women from the acllas | Socha p. 4 (Acosta 1589) | 16.11.2026 |
+  confirmed (chronicle)
+Cobo 1653: a major offence for parents to show sadness | quoted in Wilson
+  et al. 2013, Discussion | 16.11.2026 | confirmed (chronicle, quoted at
+  second hand)
+Chronicles written by Spaniards after the conquest | Wilson 2013; Socha p.
+  2-8 (Cobo 1653, Ramos 1621, Acosta 1589) | 16.11.2026 | confirmed
+Well over 100 ritual sites, 5,200-6,700 m | Wilson et al. 2007, PNAS 104:
+  16456-16461 | 16.11.2026 | confirmed
+Frozen mummies | Socha title, "Inca frozen mummies" | 16.11.2026 |
+  confirmed
+Chuscha: girl about eight, taken by grave robbers in the 1920s, sold to
+  private collections | Socha p. 4 | 16.11.2026 | confirmed
+Ampato 1995, Reinhard and Zarate, girl about 14, platform at 6,300 m
+  partly collapsed, bundle fell out | Socha p. 4-5 | 16.11.2026 | confirmed
+Known as Juanita | Wilson 2013; news reports; Socha uses "Ampato #1" |
+  16.11.2026 | confirmed (common name)
+Ampato 1997: girl and boy about eight and six, stone-walled tombs, plateau
+  5,800 m | Socha p. 5 | 16.11.2026 | confirmed
+Ampato #4, girl about ten, in this study; secondary burial | Socha p. 5
+  (CT, Socha et al. 2026 JAS Reports) | 16.11.2026 | confirmed
+Sara Sara 1996, girl about 14 | Socha p. 6 | 16.11.2026 | confirmed
+Quehuar 1999, shrine blown open by looters with explosives, girl about ten
+  damaged by the blast | Socha p. 6 | 16.11.2026 | confirmed (the film does
+  not describe the damage)
+Llullaillaco 1999, 6,715 m, two girls about 14 and 6, boy about 7; highest
+  archaeological site in the world | Socha p. 7 | 16.11.2026 | confirmed;
+  see change 6
+2007: selected, raised in status, prepared for the climb | Wilson et al.
+  2007, Abstract | 16.11.2026 | confirmed
+2013: all three Llullaillaco children had taken coca and alcohol | Wilson
+  et al. 2013, Results | 16.11.2026 | confirmed
+Oldest girl: coca rising about a year before death, alcohol peaking in
+  final weeks | Wilson et al. 2013, Results ("death minus 12 mo"; "peak
+  alcohol consumption was in her final weeks") | 16.11.2026 | confirmed
+Coca quid between her teeth | Wilson et al. 2013, Results (CT); Socha p. 7
+  | 16.11.2026 | confirmed
+Chicha residues in vessels buried with the Llullaillaco children | Socha p.
+  7 (Ogalde et al. 2024) | 16.11.2026 | confirmed
+Earlier tests on Chuscha and Sara Sara negative | Socha p. 7 (Schobinger
+  2001, 2004; Wilson et al. 2007) | 16.11.2026 | confirmed
+Study led by Dagmara Socha, University of Warsaw | Socha p. 1, first and
+  corresponding author | 16.11.2026 | confirmed
+Keratin of hair and nails stores substances | Socha p. 2 | 16.11.2026 |
+  confirmed
+1 cm nearest the scalp = roughly the last month | Socha p. 9: 0-10 mm
+  "approximately the last month of life" | 16.11.2026 | confirmed
+Advances justify reanalysis of negative samples | Socha p. 2 | 16.11.2026 |
+  confirmed
+Validated against drug-free hair and nails | Socha p. 10-11 | 16.11.2026 |
+  confirmed
+Six hair samples, two nail samples; nails without a timeline | Socha p. 9
+  | 16.11.2026 | confirmed
+Washed; the wash liquid tested for external contamination | Socha p. 10 |
+  16.11.2026 | confirmed
+Ground, extracted, LC-MS/MS | Socha p. 10 | 16.11.2026 | confirmed (plain
+  description)
+Laboratory: Department of Forensic Medicine, Torun | Socha p. 1
+  (Sykutera) | 16.11.2026 | confirmed
+Ten substances listed | Socha p. 2 | 16.11.2026 | confirmed
+Coca in all six hair samples | Socha p. 11 | 16.11.2026 | confirmed; see
+  change 1
+Chuscha and Sara Sara now positive; better methods | Socha p. 11, p. 2 |
+  16.11.2026 | confirmed
+Alcohol marker in four children, all in Argentina | Table 1 | 16.11.2026 |
+  confirmed; see change 2
+Chronicles: chicha to go to the god joyfully, to dull the senses | Socha p.
+  8 (Ramos 1621, Cobo 1653) | 16.11.2026 | confirmed (chronicle)
+Ampato #4 buried with miniature wooden cups, no cocaethylene; cups possibly
+  symbolic or for another drink | Socha p. 13-14 | 16.11.2026 | confirmed
+No hallucinogens in any hair sample | Socha p. 11 | 16.11.2026 | confirmed
+16,740 / 31 / 1.5 pg/mg cocaine | Table 1 | 16.11.2026 | confirmed
+Paper does not explain the gap; decay lowers detectable levels | Socha p.
+  11 (taphonomic processes) | 16.11.2026 | confirmed
+Ampato #4: faintest coca, no alcohol; secondary burial | Table 1; p. 5, p.
+  14 | 16.11.2026 | confirmed
+Chuscha six 10-mm sections; coca fluctuating, falling in the last month;
+  cocaethylene only in the last month | Socha p. 9, p. 11, Table 2 |
+  16.11.2026 | confirmed
+Read as entry into the final stage, possibly an artefact of preservation |
+  Socha p. 14 | 16.11.2026 | confirmed
+2022 study of two Ampato children: cocaine, harmine, harmaline | Socha p.
+  2 (Socha et al. 2022b, JAS Reports 43, 103415) | 16.11.2026 | confirmed
+  as cited
+Substances followed the deity, not the child; Apus | Socha p. 2, p. 11, p.
+  15 | 16.11.2026 | confirmed (hypothesis)
+Same substances on Ampato vs Table 1 | Socha p. 11; Table 1 | 16.11.2026 |
+  confirmed; see change 4
+Banisteriopsis caapi, basic ingredient of ayahuasca | Socha p. 9; Morales-
+  Garcia et al. 2017, Sci. Rep. 7 | 16.11.2026 | confirmed
+Grows only in the Amazon; likely traded over long distances | Socha p. 14
+  | 16.11.2026 | confirmed
+Thousand-year-old ritual bundle, Bolivian highlands, harmine, DMT, coca |
+  Miller et al. 2019, PNAS 116: 11207-11212, Abstract | 16.11.2026 |
+  confirmed (abstract)
+Inca rulers favoured mass alcohol consumption over hallucinogens | Biwer et
+  al. 2022, Antiquity 96: 142-158, Abstract | 16.11.2026 | confirmed
+  (abstract)
+Harmine an MAO inhibitor; may have calmed the children, kept mood up |
+  Socha p. 9, p. 15 | 16.11.2026 | confirmed
+Nail samples contaminated, probably environmental; hair needed | Socha p.
+  11 | 16.11.2026 | confirmed
+Harmine in other plants, unlikely sources here | Socha p. 14 | 16.11.2026
+  | confirmed
+Conclusion: only coca, alcohol, harmine for wellbeing and mood; not
+  hallucinogens, potentially lethal on the climb | Socha p. 15 | 16.11.2026
+  | confirmed
+Plants may have helped the children endure the journey | Socha p. 2, p. 4
+  | 16.11.2026 | confirmed
+Coca against hunger, fatigue, altitude sickness | general reference | 16.11.2026
+  | background
+Divination possibly in the later cult at the shrines | Socha p. 15 |
+  16.11.2026 | confirmed
+Single drinking event leaves no trace; tryptamines incorporate poorly;
+  decay; isolated consumption could be invisible | Socha p. 11, p. 14-15 |
+  16.11.2026 | confirmed
+Seven of eight female | Socha p. 11 | 16.11.2026 | confirmed
+No clear pattern; each ritual considered separately | Socha p. 15 |
+  16.11.2026 | confirmed
+Authors include the excavator and staff of both museums | Socha p. 1
+  (Reinhard; MAAM Salta; Museo Santuarios Andinos, Arequipa) | 16.11.2026 |
+  confirmed
+2022: INAI declared Llullaillaco a sacred site; Kolla community of Tolar
+  Grande asked for restitution; MAAM director: everyone should sit down
+  and talk | El Heraldo / Telam, 4.7.2022 | 16.11.2026 | confirmed
+Permit from Peru's Ministry of Culture; no consultation described | Socha
+  p. 16 | 16.11.2026 | confirmed (absence stated, not interpreted)
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 16.11.2026
+
+10.15184/aqy.2026.10439  journal-article, Antiquity (online ahead of print,
+  pp. 1-19, no volume or issue yet), Socha, Sykutera, Martinez Sulca,
+  Recagno, Reinhard, Zigaran, Bernaski, Grupp. published-online 2026-11-03,
+  created 2026-11-03, no print date. License CC BY 4.0.
+10.1073/pnas.1305117110  Wilson et al. 2013, PNAS 110(33): 13322-13327.
+10.1073/pnas.0704276104  Wilson et al. 2007, PNAS 104(42): 16456-16461.
+10.1016/j.jasrep.2022.103415  Socha et al. 2022, J. Archaeol. Sci.: Reports
+  43, 103415.
+10.1073/pnas.1902174116  Miller et al. 2019, PNAS 116: 11207-11212.
+10.15184/aqy.2021.177  Biwer et al. 2022, Antiquity 96: 142-158.
+10.1038/s41598-017-05407-9  Morales-Garcia et al. 2017, Sci. Rep. 7.
+
+
+WHAT THE FILM SHOWS
+
+No photograph of any of the children, their bodies or their faces is used,
+and no image shows a killing. Every photograph-like shot is generated and
+labelled on screen; it shows a summit, a shrine, an object or a laboratory
+of the TYPE described, not a published image. Maps, tables and the
+month-by-month chart for Chuscha are drawn in code from the paper's text
+and Tables 1 and 2.
+
+
+Corrections are welcome and will be made out loud.
