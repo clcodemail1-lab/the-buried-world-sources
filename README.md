@@ -75,6 +75,7 @@ version cannot quietly become more certain than the original.
 | 15 | These Four Graves Were Closed. Somebody Came Back Anyway | [sources](dispatch-15-sources.txt) | [method](dispatch-15-method.txt) |
 | 16 | This Ethiopian Palace Could Have Stood 16 Floors High | [sources](dispatch-16-sources.txt) | [method](dispatch-16-method.txt) |
 | 17 | Anglo-Saxon Kings Had Silver. They Paid in Copper Anyway | [sources](dispatch-17-sources.txt) | [method](dispatch-17-method.txt) |
+| 18 | 125,000 Years Ago, Someone Knew the Poison Tree | [sources](dispatch-18-sources.txt) | [method](dispatch-18-method.txt) |
 
 ## Marking
 
