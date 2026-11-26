@@ -1,0 +1,166 @@
+THE BURIED WORLD
+Dispatch 18 - 125,000 Years Ago, Someone Knew the Poison Tree
+
+SOURCES AND LIMITS
+
+One publication carries this film, and it was read in full together with its
+supplementary materials: a study in Science, published in the issue of 12
+November 2026, of a stone-tool site on the shore of a former lake in southern
+Saudi Arabia. A second study, published in January 2026, supplies the record
+the film compares it with; for the two facts taken from it (its age and its
+source plant), its abstract was read. The photographs of residues come from
+the authors' own data set. The companion file dispatch-18-method.txt holds the
+complete fact-check table.
+
+
+THE PUBLICATIONS
+
+1. Clarkson, C., Price, G. J., Kalifi, A., Losi, G., Matheson, C., Al-Jibreen,
+  F., Alsharekh, A. M., Armitage, S. J., Blilou, I., Boivin, N., Breeze, P. S.,
+  Drake, N., Duval, M., Gradwell, S., Groucutt, H. S., Guagnin, M., Guzman,
+  J., Hapiot, L., Martinez-Pillado, V., Haj Messaoud, J., Norman, K., Rots, V.,
+  Sobbe, I. H., Stewart, M., Petraglia, M. D. and van Buchem, F. (2026).
+  Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old
+  Arabian paleolakeshore. Science 394 (6825), 746-751, with supplementary
+  materials. Issue of 12 November 2026 (Crossref: published-print and created
+  12 November 2026; no published-online date). doi:10.1126/science.aef9342
+  -- Source of: the site, the lake (area, depth, shoreline, outlet), the
+  dating, the fossils and their counts, the stone tools and refits, the state
+  of the site, the residue study and its controls, the plants identified, the
+  seven tools with compounds most likely from Acokanthera schimperi and the
+  one point with sap at its tip, the hafting resins, the footprints in the
+  Nefud as cited, and every limit the film states.
+
+2. Isaksson, S., Hoegberg, A. and Lombard, M. (2026). Direct evidence for
+  poison use on microlithic arrowheads in Southern Africa at 60,000 years ago.
+  Science Advances 12 (2). Crossref: created 7 January 2026, published-print
+  9 January 2026. doi:10.1126/sciadv.adz3281
+  -- Source of: the record of 60,000 years, the bulb poison (Boophone
+  disticha) and the small backed blades used as arrowheads.
+
+3. Clarkson, C. (2026). Data to support analysis of artefacts from 'Uruq
+  Aljelibah, version v1. Zenodo, published 14 August 2026, CC BY 4.0.
+  doi:10.5281/zenodo.21927501
+  -- Source of the six residue photographs listed below.
+
+
+THE PHOTOGRAPHS
+
+Six micrographs and residue maps from the authors' data set (3), by Chris
+Clarkson, licensed CC BY 4.0. They are shown framed on the channel's dark
+ground, enlarged, with the status bar of the microscope software cut away;
+the images themselves are unchanged.
+  - MDF87 230-2: bast fibre and a wood fragment on a Levallois point
+  - MDF87 264-2: where the residues sit on the tool (residue map)
+  - MDF87 303: palm leaf tissue (scale bar 100 micrometres)
+  - MDF87 504-1: plant fibres on a toothed tool
+  - MDF87 230-2: residue along the working edge
+  - MDF87 Lev Pt: resin near the base of a Levallois point
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+PHOTOGRAPH     = real photograph from the authors' data, credited above, no AI label.
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the paper's text.
+
+[01]  0:00   RECONSTRUCTION  A stone point of the type found at the site - reconstruction
+[02]  0:07   DIAGRAM         60,000 years: the oldest known poison on a hunting weapon (January 2026)
+[03]  0:11   RECONSTRUCTION  Small backed blades of the kind used as arrowheads - reconstruction
+[04]  0:17   DIAGRAM         Umhlatuzana and Mundafan (places at true coordinates)
+[05]  0:24   RECONSTRUCTION  A flowering branch of the arrow poison tree, Acokanthera schimperi - reconstruction
+[06]  0:29   DIAGRAM         'The oldest evidence of hunting poisons in the world' (supplementary materials)
+[07]  0:37   RECONSTRUCTION  A stone point under a magnifier - reconstruction
+[08]  0:40   DIAGRAM         Seven tools with sap of the arrow poison tree; six from work on the tree
+[09]  0:47   DIAGRAM         The one point with sap on the tip and animal fat and collagen
+[10]  0:51   RECONSTRUCTION  A fossil hippopotamus canine in lake sediment - reconstruction
+[11]  0:56   RECONSTRUCTION  A dry basin with an old shoreline at dusk - reconstruction
+[12]  1:07   RECONSTRUCTION  Arabia in a wet phase - reconstruction painting
+[13]  1:15   RECONSTRUCTION  A freshwater lake from above - reconstruction painting
+[14]  1:20   DIAGRAM         'Uruq Aljelibah, Mundafan basin, southern Saudi Arabia (places at true coordinates)
+[15]  1:29   RECONSTRUCTION  Tilted layers of lake sediment - reconstruction
+[16]  1:37   DIAGRAM         The lake in cross-section: shoreline ~890 m, up to ~29 m deep, ~340 km2 (schematic)
+[17]  1:45   DIAGRAM         The outlet to the north: filled to spill (schematic)
+[18]  1:50   RECONSTRUCTION  Tiny freshwater snail and ostracod shells - reconstruction
+[19]  2:00   DIAGRAM         Timeline: dune sand ~148,000 years ago, then the lake
+[20]  2:08   DIAGRAM         Timeline: the shoreline ~125,000 years ago
+[21]  2:16   RECONSTRUCTION  A fossil hippopotamus molar sampled for dating - reconstruction
+[22]  2:20   RECONSTRUCTION  Sampling sand for luminescence dating - reconstruction
+[23]  2:23   DIAGRAM         How luminescence dating works (principle, simplified)
+[24]  2:32   RECONSTRUCTION  Survey flags marking finds - reconstruction
+[25]  2:37   DIAGRAM         The fossils, counted: hippopotamus, ostrich, buffalo, camel, oryx, gazelle
+[26]  2:45   RECONSTRUCTION  Fragments of fossil ostrich eggshell - reconstruction
+[27]  2:50   RECONSTRUCTION  The lakeshore with hippopotamus, long-horned buffalo, gazelles, ostriches - reconstruction painting
+[28]  2:59   RECONSTRUCTION  A hippopotamus with a calf - reconstruction painting
+[29]  3:03   RECONSTRUCTION  Bone fragments among stone flakes - reconstruction
+[30]  3:12   RECONSTRUCTION  A hippopotamus canine beside a chert flake - reconstruction
+[31]  3:21   RECONSTRUCTION  A surface scattered with stone flakes - reconstruction
+[32]  3:27   RECONSTRUCTION  Laying out a survey grid - reconstruction
+[33]  3:34   RECONSTRUCTION  A block of chert rebuilt from its flakes - reconstruction
+[34]  3:41   RECONSTRUCTION  Two flakes fitted together - reconstruction
+[35]  3:44   RECONSTRUCTION  An eroded surface with flakes - reconstruction
+[36]  3:51   RECONSTRUCTION  An old shoreline terrace at golden hour - reconstruction
+[37]  3:59   RECONSTRUCTION  A stone flake under a stereo microscope - reconstruction
+[38]  4:05   RECONSTRUCTION  Tools in find bags - reconstruction
+[39]  4:12   PHOTOGRAPH      Bast fibre and wood on tool MDF87 230-2 (Clarkson, Zenodo, CC BY 4.0)
+[40]  4:18   PHOTOGRAPH      Where the residues sit on tool MDF87 264-2 (Clarkson, Zenodo, CC BY 4.0)
+[41]  4:22   RECONSTRUCTION  A point bound into a wooden shaft (craft reconstruction) - reconstruction
+[42]  4:28   PHOTOGRAPH      Palm leaf tissue on tool MDF87 303 (Clarkson, Zenodo, CC BY 4.0)
+[43]  4:32   RECONSTRUCTION  Fronds of a modern date palm - reconstruction
+[44]  4:39   PHOTOGRAPH      Plant fibres on toothed tool MDF87 504-1 (Clarkson, Zenodo, CC BY 4.0)
+[45]  4:45   RECONSTRUCTION  Cord, a palm-leaf mat and a bound handle (craft reconstructions) - reconstruction
+[46]  4:52   RECONSTRUCTION  Bitter apple on desert sand - reconstruction
+[47]  4:59   RECONSTRUCTION  A mass spectrometer - reconstruction
+[48]  5:05   RECONSTRUCTION  A second laboratory - reconstruction
+[49]  5:10   RECONSTRUCTION  A tool going into a find bag - reconstruction
+[50]  5:13   RECONSTRUCTION  Sample vials and controls - reconstruction
+[51]  5:21   RECONSTRUCTION  An arrow poison tree on a hillside - reconstruction
+[52]  5:28   RECONSTRUCTION  Fruit of the arrow poison tree - reconstruction
+[53]  5:31   RECONSTRUCTION  Milky sap from a cut twig - reconstruction
+[54]  5:38   DIAGRAM         The abstract and the supplement, side by side
+[55]  5:42   PHOTOGRAPH      Residue along the working edge of MDF87 230-2 (Clarkson, Zenodo, CC BY 4.0)
+[56]  5:49   DIAGRAM         Where the traces sit on the one point (schematic)
+[57]  5:55   RECONSTRUCTION  The broken tip of a stone point - reconstruction
+[58]  6:03   PHOTOGRAPH      Resin near the base of a Levallois point (Clarkson, Zenodo, CC BY 4.0)
+[59]  6:09   RECONSTRUCTION  Resin on the bark of a desert date - reconstruction
+[60]  6:14   DIAGRAM         Four kinds of trace, each alone open to another explanation
+[61]  6:17   DIAGRAM         Together: deliberate use 'more plausible than incidental contact'
+[62]  6:27   RECONSTRUCTION  A stone point on dark stone - reconstruction
+[63]  6:30   DIAGRAM         What the residues cannot show
+[64]  6:38   RECONSTRUCTION  A figure with a spear at a lake at dawn - reconstruction painting
+[65]  6:44   DIAGRAM         A point bound to a shaft: yes. Arrow and bow: no evidence
+[66]  6:49   DIAGRAM         Umhlatuzana and Mundafan compared
+[67]  6:58   RECONSTRUCTION  A stone point beside a twig of the arrow poison tree - reconstruction
+[68]  7:03   RECONSTRUCTION  An empty shoreline at dusk - reconstruction
+[69]  7:07   RECONSTRUCTION  Fossil footprints in a dry lake bed - reconstruction
+[70]  7:13   DIAGRAM         The Nefud and Mundafan (places at true coordinates)
+[71]  7:18   RECONSTRUCTION  A dry basin among dunes from the air - reconstruction
+[72]  7:22   DIAGRAM         Arabia as a corridor between Africa and Asia (arrow schematic)
+[73]  7:30   RECONSTRUCTION  People arriving at the lakeshore - reconstruction painting
+[74]  7:34   RECONSTRUCTION  Work at a lakeshore camp - reconstruction painting
+[75]  7:40   RECONSTRUCTION  The lake at evening - reconstruction painting
+[76]  7:46   DIAGRAM         Timeline: the lake phase ends
+[77]  7:51   DIAGRAM         Timeline: water again ~79,000 years ago, then dry
+[78]  7:58   RECONSTRUCTION  A stone point on sand at dusk - reconstruction
+[79]  8:06   RECONSTRUCTION  The tip of a stone point - reconstruction
+[80]  8:09   RECONSTRUCTION  An arrow poison tree at dusk - reconstruction
+
+--------------------------------------------------------------------------
+HOW THIS FILM WAS MADE
+--------------------------------------------------------------------------
+
+The narration is synthetic speech. Apart from the six credited photographs,
+every still is generated; none of the generated images reproduces a real
+find, a real site photograph, a figure from the paper or a real person. The
+generated stone point shows the TYPE of tool described, not the published
+point. No figure of the paper is reproduced. The diagrams are drawn in code.
+
+The opening seconds are built to work without sound - a stone point first,
+then a caption naming the place and the period - and on-screen text is set
+large for viewers watching on a television.
+
+The film carries the EU marking for AI-generated content.
+
+Corrections and questions: the comment thread under the video.

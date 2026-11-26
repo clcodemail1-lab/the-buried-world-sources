@@ -1,0 +1,268 @@
+THE BURIED WORLD
+Dispatch 18 - 125,000 Years Ago, Someone Knew the Poison Tree
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+Fridays on this channel carry a single find and a single thought. The find
+here is a stone point from the shore of a lake that dried up long ago, in
+the Mundafan basin of southern Saudi Arabia, about 125,000 years old. On its
+tip, chemists found compounds that point to the sap of Acokanthera
+schimperi, known in Africa as the arrow poison tree. The thought: whoever
+stood on that shore knew the poison tree, and what they did with it the
+stone tells only by half. In January 2026 a study from South Africa had put
+the oldest known poison on a hunting weapon at 60,000 years. The Arabian
+paper was quickly reported as doubling that record. The film tests the
+headline against the paper's own results.
+
+
+WHAT WAS READ
+
+The paper (Clarkson et al. 2026, Science 394, 746-751) was read in full on
+26 November 2026, together with the supplementary materials (156 pages),
+which were read for the luminescence dating, the lithic and residue sections
+and the summary of the chemical results. The paper is not open access; the
+full text was obtained through a university library. The authors' data set
+on Zenodo (doi:10.5281/zenodo.21927501, CC BY 4.0) was downloaded on 26
+November 2026; its residue photographs appear in the film. For the
+comparison, the abstract of Isaksson, Hoegberg and Lombard (2026, Science
+Advances) was read through Crossref; the full text was not needed for the
+two facts the film takes from it (age and source plant). News reports were
+read only to see how the result travelled.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. SEVEN TOOLS, BUT ONE POINT. The abstract says that several points carry
+   poison residues. The supplement is more precise: seven artifacts carry
+   compounds most likely from the latex of Acokanthera schimperi, and for
+   six of them the distribution of the residue suggests working the wood of
+   the tree or harvesting its latex. One point carries the latex on its tip
+   together with compounds of animal origin. The film is built on that
+   difference. An early draft said the six were "most likely" used on the
+   tree; the supplement says they "may have been", and the film now says
+   they "seem to have been".
+
+2. NO ARROWS. The paper speaks of hafted weapon tips in composite hunting
+   systems. It does not mention arrows or bows, and it says that the
+   fractures cannot tell thrusting from throwing. The film says "points
+   bound to shafts" and "nothing here shows a bow".
+
+3. "THE OLDEST" IS THE SUPPLEMENT'S CLAIM, NOT THE PAPER'S. The phrase "the
+   oldest evidence of hunting poisons in the world" appears in the
+   supplementary text, not in the paper. The film quotes it as the
+   supplement's line and sets the paper's own limits against it. The
+   comparison record (Umhlatuzana, 60,000 years, Science Advances, January
+   2026) was checked against Crossref.
+
+4. NOT "HOMO SAPIENS". No hominin fossils have been found at the site. The
+   film says "people" and leaves open who they were; it mentions the
+   footprints in the Nefud desert as the paper does, as a record of people
+   in the same warm period, not as proof of who stood on this shore.
+
+5. NOT PROOF OF HUNTING. The paper says that neither the spatial association
+   of bones and tools nor the age structure of the animals demonstrates
+   hunting. The film says so twice.
+
+6. "MOST LIKELY", NOT "CERTAINLY", ACOKANTHERA. The supplement writes that
+   the compounds (among them strophanthidol and ouabagenin) are most likely
+   from the latex of Acokanthera schimperi. The film says the compounds
+   "point to" the plant.
+
+7. THE RESIN HAS THREE CANDIDATES. The paper names Balanites aegyptiaca
+   (desert date), Cassia angustifolia (senna) or native Pistacia. An early
+   draft named two; the film names all three.
+
+8. THE DRY PHASES. An early draft said there was "desert between and after"
+   the two lake phases. The paper says the lake was one hydrological pulse
+   within a longer arid sequence; the film uses that wording.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | checked | result
+
+Sixty thousand years; in January 2026 the oldest known poison on a hunting
+  weapon; plant toxin on small stone arrowheads from South Africa |
+  Isaksson, Hoegberg, Lombard 2026, Science Advances 12(2), abstract:
+  "toxic plant alkaloids on backed microliths from Umhlatuzana Rock
+  Shelter ... dated to 60,000 years ago"; "the first direct evidence for
+  the application of this plant-based poison on the tips of Pleistocene
+  hunting weapons"; Crossref created 2026-01-07, published-print
+  2026-01-09 | 26.11.2026 | confirmed ("oldest known": the authors write
+  "to our knowledge")
+Team working in Saudi Arabia published in November a point from a
+  lakeshore twice as old | Clarkson et al. 2026, p. 746 (affiliations
+  include KAUST and the Saudi Heritage Commission; site on the Mundafan
+  paleolake shore, ~125 ka); Crossref published-print 2026-11-12 |
+  26.11.2026 | confirmed (125/60 = 2.1)
+Sap of a tree still called the arrow poison tree | Supplement, residue
+  results: "commonly known as the arrow poison tree in Africa" |
+  26.11.2026 | confirmed
+"The oldest evidence of hunting poison in the world" | Supplement, residue
+  results, last paragraph | 26.11.2026 | confirmed as the supplement's
+  wording; see change 3
+Seven tools carry the sap; six seem to have been used on the tree itself |
+  Supplement, residue results: "seven artifacts with latex from Acokanthera
+  schimperi"; six "indicate this may have been processing the wood of this
+  species or harvesting the latex" | 26.11.2026 | confirmed; see change 1
+One point carries it at the tip beside traces of animal fat | Supplement:
+  "One of the artifacts MpT has the chemical signature of this latex on the
+  tip along with compounds supporting an animal source"; paper p. 749:
+  "toxic plant compounds occur together with animal-derived lipids and
+  collagen" | 26.11.2026 | confirmed
+Bones of hippopotamus around it, in a place that is now desert | Paper
+  pp. 746-747 (Hippopotamus amphibius in the fossil horizon; basin today
+  dry, "Arabian interior") | 26.11.2026 | confirmed
+Arabia not always desert; during the Ice Age the rains returned, rivers and
+  lakes expanded and contracted | Paper p. 746: "long arid intervals and
+  shorter humid phases during the Pleistocene, when rivers and lakes
+  expanded and contracted across the peninsula" | 26.11.2026 | confirmed
+Site 'Uruq Aljelibah, edge of the Mundafan basin, southern Saudi Arabia |
+  Paper p. 746: "southwestern margin of the Mundafan basin in southern Saudi
+  Arabia" | 26.11.2026 | confirmed
+Old shoreline along the rim; lake-bed layers dip towards the centre | Paper
+  p. 747: shoreline terrace at ~890 m; "marl beds dipping ~6 degrees toward
+  the lake center" | 26.11.2026 | confirmed
+Mapped from satellite data; ~340 km2; up to 29 m deep; filled to spill;
+  outlet to the north | Paper p. 747: TanDEM-X digital elevation model;
+  "paleolake of ~340 km2"; "maximum depth of ~29 m"; "northern outlet";
+  "the basin filled to spill" | 26.11.2026 | confirmed
+Freshwater snails and ostracods; lasting fresh water, not a brief flood in a
+  salt pan | Paper p. 747: "persistent low-salinity standing water rather
+  than only short-lived playa flooding" | 26.11.2026 | confirmed
+Dune sand beneath, ~148,000 years; then the lake formed | Paper p. 748:
+  "Basal aeolian sands ... yield ages of ~148 +/- 11 to 15 ka"; "transition
+  from late MIS 6 aridity into MIS 5e lake formation" | 26.11.2026 |
+  confirmed
+Shore deposits ~125,000 years ago, last warm period between ice ages;
+  hippopotamus teeth agree | Paper p. 748: OSL 127 +/- 13, 122 +/- 9,
+  121 +/- 12, 119 +/- 29 ka; MIS 5e; "Combined U-series and ESR results
+  from two hippopotamus teeth ... compatible" | 26.11.2026 | confirmed
+Most ages from the sand; signal builds in the dark, reset by sunlight,
+  records last burial | Paper p. 748 (optically stimulated luminescence);
+  Supplement section 2 (luminescence dating); the description of the method
+  is general | 26.11.2026 | confirmed
+More than 500 fossils from a layer ~2 m thick | Paper p. 747 | 26.11.2026 |
+  confirmed
+132 hippopotamus fragments; extinct long-horned buffalo; camel, Arabian
+  oryx, gazelle; more than 100 ostrich eggshell pieces | Paper p. 747:
+  hippopotamus 132, Syncerus antiquus 12, camel 3, oryx 3, gazelle 2,
+  ostrich >100 eggshell specimens | 26.11.2026 | confirmed
+Lake with open grassland; water-dependent and dry-ground animals;
+  hippopotamus young and very old | Paper p. 747: "productive lakeshore
+  adjoining open grassland"; "juvenile and senile individuals" |
+  26.11.2026 | confirmed
+More than 50 pieces of one young hippopotamus among tools in ~1.5 m2 |
+  Paper p. 747 | 26.11.2026 | confirmed
+That alone does not prove hunting; the authors say so | Paper p. 748 ("do
+  not by themselves demonstrate human accumulation or hunting") and p. 750
+  | 26.11.2026 | confirmed; see change 5
+5,511 pieces of worked stone, area 100 x 125 m, almost all chert | Paper
+  p. 748: "5511 lithics >2 cm"; "100-m-by-125-m"; "Chert comprises >98%" |
+  26.11.2026 | confirmed
+Refits; one sequence of 24 flakes; another ends in a point; made on the
+  shore | Paper p. 748 (L159 sequence ending in a point); abstract: "in situ
+  tool production" | 26.11.2026 | confirmed
+Eroded surface, not a sealed floor; some movement; fragile residues
+  survived; repeated activity | Paper pp. 748, 750 | 26.11.2026 |
+  confirmed
+89 tools examined, 75 with residues; plant fibre, bark fibre (bast), wood,
+  resin, feathers, hair, fat | Paper p. 748-749 | 26.11.2026 | confirmed
+44 with traces where a handle or shaft would have been; composite tools |
+  Paper p. 748: "44 show evidence consistent with hafting" | 26.11.2026 |
+  confirmed
+Two tools with palm leaf tissue, alike to modern date palm | Paper p. 749:
+  artifacts 303 and 504/1, "comparable to modern palm leaves"; Fig. 5 (M to
+  O) modern date-palm leaf tissue | 26.11.2026 | confirmed
+Toothed tools full of plant fibre, wear from sawing or shredding; cord,
+  bindings, mats, handles; rarely preserved | Paper pp. 749-750 |
+  26.11.2026 | confirmed
+Juniper, reed mace, melon family, bitter apple | Paper p. 749: Juniperus
+  procera, Typha, Cucumis, Citrullus colocynthis | 26.11.2026 | confirmed
+34 tools, 67 samples, mass spectrometry; 10 tools in a second laboratory |
+  Supplement, LCMS section: 34 artifacts, 67 samples, LC-MS (Orbitrap
+  Exploris 120); ten artifacts (14 samples) in two laboratories |
+  26.11.2026 | confirmed
+Bagged where found; compounds in blank controls struck out | Paper p. 749:
+  "bagged at discovery"; "screened against solvent blanks and negative
+  controls, and compounds present in controls were excluded" | 26.11.2026
+  | confirmed
+Compounds point to Acokanthera schimperi | Supplement: "most likely from
+  the latex of Acokanthera schimperi" (strophanthidol, ouabagenin) |
+  26.11.2026 | confirmed; see change 6
+Sap long used in hunting poison, still in some places | Supplement: "used
+  traditionally in the past and still being used today in other parts of
+  Africa" | 26.11.2026 | confirmed
+On at least one point with impact damage, the plant compounds sit with
+  animal material | Paper p. 749 | 26.11.2026 | confirmed
+Resin and plant fibre at the base of other points; resin from desert date,
+  senna or wild pistachio | Paper p. 749: Balanites aegyptiaca, Cassia
+  angustifolia, or native Pistacia | 26.11.2026 | confirmed; see change 7
+Together more likely deliberate than by chance | Paper p. 749: "making
+  deliberate incorporation into hunting technology more plausible than
+  incidental contact" | 26.11.2026 | confirmed
+No recipe, strength, application or effect | Paper p. 749: "cannot
+  establish a recipe, concentration, application sequence, or physiological
+  effectiveness" | 26.11.2026 | confirmed
+Fractures show weapon use, not thrust or throw | Paper pp. 748, 750 |
+  26.11.2026 | confirmed
+Points bound to shafts, not arrows; no bow | Paper p. 746, 748 ("hafted
+  weapon tips"); no mention of arrows or bows | 26.11.2026 | confirmed;
+  see change 2
+South Africa: poison from a bulb, on tiny blades made to tip arrows; here
+  the sap of a tree, on a point of a different make | Isaksson et al. 2026
+  abstract ("Boophone disticha bulb exudate", "backed microliths",
+  "microlithic arrowheads"); Clarkson et al. 2026 p. 748 (Levallois points)
+  | 26.11.2026 | confirmed
+No human bones at the site | Paper p. 750: "no hominin fossils have yet
+  been recovered" | 26.11.2026 | confirmed; see change 4
+Footprints in the Nefud desert record people in the same warm period |
+  Paper p. 746: "footprints in the Nefud Desert record people during the
+  Last Interglacial, MIS 5e (~130 to 115 ka)" | 26.11.2026 | confirmed
+Arabia often drawn as a corridor between Africa and Asia | Paper pp. 746,
+  750 ("geographic link"; "simply geographic space between Africa and
+  Asia") | 26.11.2026 | confirmed
+People returned; made tools, worked wood and fibre, used palms and plants,
+  processed animals | Paper abstract and pp. 749-750 | 26.11.2026 |
+  confirmed
+"A lived and exploited landscape"; a lake that lasted long enough to live
+  beside | Paper p. 750 | 26.11.2026 | confirmed (quoted)
+One wet pulse in a long dry sequence; water again ~79,000 years ago | Paper
+  p. 750: "one hydrological pulse within a longer arid sequence"; p. 748:
+  "an age of 79 +/- 7 ka records a separate MIS 5a highstand" |
+  26.11.2026 | confirmed; see change 8
+A pointed flake of chert with a fracture at its tip and a trace of sap |
+  Paper pp. 748-749 (chert >98%; impact-damaged point with plant compounds)
+  | 26.11.2026 | confirmed
+Whoever stood on this shore knew the poison tree | Supplement: six tools
+  with residue indicating work on the tree or harvesting of its latex |
+  26.11.2026 | confirmed as the film's reading, framed as such
+
+
+DOIS, RESOLVED AGAINST CROSSREF ON 25 AND 26.11.2026
+
+10.1126/science.aef9342  journal-article, Science 394 (6825), 746-751,
+  Clarkson et al. (26 authors). published-print 2026-11-12, created
+  2026-11-12, no published-online date. No Creative Commons license.
+10.1126/sciadv.adz3281  journal-article, Science Advances 12 (2),
+  Isaksson, Hoegberg, Lombard. published-print 2026-01-09, created
+  2026-01-07.
+10.5281/zenodo.21927501  dataset, Zenodo, Clarkson, "Data to support
+  analysis of artefacts from 'Uruq Aljelibah", v1, published 2026-08-14,
+  CC BY 4.0 (checked via the Zenodo API; file checksum verified on
+  download).
+
+
+WHAT THE FILM SHOWS
+
+The residue micrographs and residue maps are photographs from the authors'
+data set on Zenodo (Chris Clarkson, CC BY 4.0). They carry no AI label.
+Every other photograph-like shot is generated and labelled on screen; it
+shows a landscape, an animal or an object of the TYPE described, not a
+published find. The figures of the paper itself are not reproduced. Maps
+and charts are drawn in code from the paper's text.
+
+
+Corrections are welcome and will be made out loud.
