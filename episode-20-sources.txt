@@ -58,17 +58,40 @@ THE PUBLICATIONS
 
 THE PHOTOGRAPHS
 
-Ten shots are real photographs, all from the study itself (CC BY 4.0), credited
-here and marked as photographs in the list below.
+Fourteen shots are real photographs, credited here and marked as photographs in
+the list below.
+
+From the study itself (Kruijer 2026, CC BY 4.0):
   - Shots 1, 35 and 91: inside the tunnel, the author on the steps. Photograph
-    by Stefan Riedel (Kruijer 2026, Fig. 7). Framed; shot 35 is a detail.
-  - Shots 3, 25, 26, 27 and 88: the entrance of the tunnel, framed by the Great
-    Cult Inscription, with the basalt basin. Photograph by L. W. Kruijer
-    (Kruijer 2026, Fig. 3). Framed; shots 25-27 are details.
+    by Stefan Riedel (Fig. 7). Framed; shot 35 is a detail.
+  - Shot 3: the entrance of the tunnel, framed by the Great Cult Inscription,
+    with the basalt basin. Photograph by L. W. Kruijer (Fig. 3). Framed.
   - Shots 18 and 79: Arsameia seen from the Nymphaios valley. Photograph by
-    L. W. Kruijer (Kruijer 2026, Fig. 2). Framed; shot 79 is a detail.
+    L. W. Kruijer (Fig. 2). Framed; shot 79 is a detail.
 The study's Figures 4-6 are reproduced there from another publication and
 are not shown in this film.
+
+From Wikimedia Commons (CC BY 2.0, https://creativecommons.org/licenses/by/2.0/):
+  - Shot 4: "Arsameia am Nymphaios ... Handschlag mit Herakles", photograph by
+    Herbert Frank (2007). Framed detail.
+    https://commons.wikimedia.org/wiki/File:Arsameia_am_Nymphaios_(3._Jhdt.v.Chr.),_K%C3%B6nig_Mithridates_oder_Antiochos_beim_Handschlag_mit_Herakles_(40457813601).jpg
+    (The file title's "3rd century BC" is the uploader's; the film does not
+    use it.)
+  - Shots 25 and 26: "Epigraph and Cave", photograph by Klearchos Kapoutsis
+    (2010). Details.
+    https://commons.wikimedia.org/wiki/File:Epigraph_and_Cave_(4955712802).jpg
+  - Shot 27: "Dexiosis relief", photograph by Klearchos Kapoutsis (2010). Detail.
+    https://commons.wikimedia.org/wiki/File:Dexiosis_relief_(4955724794).jpg
+  - Shot 28: "Cult Cave", photograph by Klearchos Kapoutsis (2010).
+    https://commons.wikimedia.org/wiki/File:Cult_Cave_(4955709488).jpg
+  - Shot 88: "Hierothesion", photograph by Klearchos Kapoutsis (2010).
+    https://commons.wikimedia.org/wiki/File:Hierothesion_(4955123345).jpg
+  - Shot 15: "Mount Nemrut - East Terrace", photograph by Klearchos Kapoutsis
+    (2010). Detail.
+    https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_East_Terrace_(4961323529).jpg
+  - Shot 61: "Mount Nemrut - Apollo and Heracles Artagnes Ares", photograph by
+    Klearchos Kapoutsis (2010). Framed.
+    https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_Apollo_and_Heracles_Artagnes_Ares_(4961939940).jpg
 
 
 WHAT THE FILM DOES NOT CLAIM
@@ -97,7 +120,7 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 [01]  0:00   PHOTOGRAPH      Inside the staircase tunnel at Arsameia (S. Riedel, Kruijer 2026 Fig. 7, CC BY 4.0)
 [02]  0:11   RECONSTRUCTION  A ruined fortress on a cliff above a river valley - reconstruction
 [03]  0:20   PHOTOGRAPH      The tunnel entrance in the inscribed rock face (L. W. Kruijer, Fig. 3, CC BY 4.0)
-[04]  0:30   RECONSTRUCTION  A handshake relief of a king and a hero, of the type - reconstruction
+[04]  0:30   PHOTOGRAPH      The handshake relief above the tunnel (H. Frank, Commons, CC BY 2.0)
 [05]  0:41   RECONSTRUCTION  Workmen on the tunnel stairs by lantern light, 1950s - reconstruction painting
 [06]  0:51   RECONSTRUCTION  A footpath across dry hills at dawn - reconstruction
 [07]  1:16   DIAGRAM         Map: Commagene around 40 BC
@@ -108,7 +131,7 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 [12]  2:07   RECONSTRUCTION  Two travellers on a road at sunrise - reconstruction painting
 [13]  2:15   RECONSTRUCTION  A wide river in a valley of dry hills - reconstruction
 [14]  2:22   RECONSTRUCTION  A royal burial mound with columns on a hilltop - reconstruction
-[15]  2:31   RECONSTRUCTION  Colossal stone heads on a mountain terrace - reconstruction
+[15]  2:31   PHOTOGRAPH      Nemrut Dag, east terrace with colossal heads (K. Kapoutsis, Commons, CC BY 2.0)
 [16]  2:47   DIAGRAM         Diagram: Mithridates I Kallinikos and his son Antiochos I
 [17]  3:00   RECONSTRUCTION  A river in a limestone gorge - reconstruction
 [18]  3:07   PHOTOGRAPH      Arsameia from the Nymphaios valley (L. W. Kruijer, Fig. 2, CC BY 4.0)
@@ -118,10 +141,10 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 [22]  3:41   RECONSTRUCTION  A tall rock-cut hall with a stair into the rock - reconstruction
 [23]  3:49   DIAGRAM         Quote: the tomb of Mithridates, Great Cult Inscription lines 28-32
 [24]  4:01   RECONSTRUCTION  A relief of two kings beside a rock-cut chamber - reconstruction
-[25]  4:10   PHOTOGRAPH      The horseshoe-shaped entrance (detail of Fig. 3, CC BY 4.0)
-[26]  4:16   PHOTOGRAPH      The smoothed rock face of the Great Cult Inscription (detail of Fig. 3, CC BY 4.0)
-[27]  4:28   PHOTOGRAPH      The basalt basin beside the entrance (detail of Fig. 3, CC BY 4.0)
-[28]  4:45   RECONSTRUCTION  Looking down a rock-cut staircase into darkness - reconstruction
+[25]  4:10   PHOTOGRAPH      The horseshoe-shaped entrance (K. Kapoutsis, Commons, CC BY 2.0, detail)
+[26]  4:16   PHOTOGRAPH      The smoothed rock face of the Great Cult Inscription (K. Kapoutsis, Commons, CC BY 2.0, detail)
+[27]  4:28   PHOTOGRAPH      The handshake relief on the slope above the tunnel (K. Kapoutsis, Commons, CC BY 2.0, detail)
+[28]  4:45   PHOTOGRAPH      Inside the staircase tunnel (K. Kapoutsis, Commons, CC BY 2.0)
 [29]  4:49   DIAGRAM         Diagram: section of the tunnel, 158.1 m (schematic)
 [30]  4:59   DIAGRAM         Diagram: the two round hollows at 141 and 150 m
 [31]  5:10   RECONSTRUCTION  The lowest steps under still water - reconstruction
@@ -154,7 +177,7 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 [58]  9:12   RECONSTRUCTION  A dark horseshoe opening in sunlit limestone - reconstruction
 [59]  9:19   RECONSTRUCTION  Visitors at a relief station on the sacred road - reconstruction painting
 [60]  9:29   RECONSTRUCTION  Two travellers at the tunnel entrance - reconstruction painting
-[61]  9:38   RECONSTRUCTION  An inscribed stone slab on a mountain terrace - reconstruction
+[61]  9:38   PHOTOGRAPH      Nemrut Dag, colossal head of Apollo / Herakles-Artagnes (K. Kapoutsis, Commons, CC BY 2.0)
 [62]  9:49   DIAGRAM         Quote: Antiochos, Great Cult Inscription, Nemrut Dag lines 15-23
 [63]  9:56   DIAGRAM         Diagram: trap, darkness, body, water - part two
 [64]  9:58   DIAGRAM         Diagram: tomb stair and tunnel stair side by side
@@ -181,7 +204,7 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 [85]  13:00  RECONSTRUCTION  Tumbled stones on a plateau at dusk - reconstruction
 [86]  13:04  RECONSTRUCTION  A farmhouse among the ruins of a sanctuary - reconstruction painting
 [87]  13:15  DIAGRAM         Timeline: from Antiochos I to AD 72
-[88]  13:23  PHOTOGRAPH      The tunnel entrance again (L. W. Kruijer, Fig. 3, CC BY 4.0)
+[88]  13:23  PHOTOGRAPH      Relief, inscription and tunnel mouth in one view (K. Kapoutsis, Commons, CC BY 2.0)
 [89]  13:34  RECONSTRUCTION  A long staircase into a mountain - reconstruction
 [90]  13:39  RECONSTRUCTION  A traveller at the threshold of the tunnel - reconstruction painting
 [91]  13:49  PHOTOGRAPH      Inside the tunnel again (S. Riedel, Fig. 7, CC BY 4.0)
@@ -189,8 +212,8 @@ DIAGRAM        = drawn in code from the study's text; schematic.
 
 WHAT THE IMAGES ARE
 
-10 of the 91 shots are real photographs from the study, credited above.
-The 49 generated shots - landscapes, rock, tunnels, reliefs and painted
+14 of the 91 shots are real photographs, credited above.
+The 45 generated shots - landscapes, rock, tunnels, reliefs and painted
 scenes - show places and things of the TYPE described, not a published image
 and not a particular find; the generated reliefs are not the reliefs of
 Arsameia. They are marked as such on screen with the EU marking in the first
