@@ -1,0 +1,278 @@
+THE BURIED WORLD
+Episode 20 - The Staircase Under the King's Inscription: Arsameia's Tunnel
+How this film was made, and what the fact check changed
+
+
+WHY THIS PAPER
+
+In November 2026 the Journal of Roman Archaeology published a new reading
+of one of the strangest features of the ancient kingdom of Commagene: a
+staircase cut by hand 158.1 metres down into the rock of the royal
+sanctuary at Arsameia on the Nymphaios, its entrance framed by the Great
+Cult Inscription of King Antiochos I. Most scholars treat such tunnels as
+water tunnels; some see cult places. The new study (Lennart Wouter
+Kruijer, Leiden University) does not pick a side. It asks what the tunnel
+did to the people who used it. The film follows that shift - and is clear
+that it is an interpretation, not an excavation result.
+
+
+WHAT WAS READ
+
+The paper (Kruijer 2026, Journal of Roman Archaeology, online 19 November
+2026, pp. 1-20, doi:10.1017/S1047759426101196) is open access under CC BY
+4.0 and was read in full as a PDF on 26 November 2026, including all
+footnotes. Its Figures 2, 3 and 7 (photographs by the author and by Stefan
+Riedel) are shown in the film under that licence. Figures 4-6 of the paper
+are reproduced there from Brijder 2014 and are NOT used in the film; the
+plan of the sacred road in the film is our own simplified drawing.
+The 1963 excavation report (Doerner and Goell, Istanbuler Forschungen 23)
+and the other works the paper cites were not read in the original; where
+the film uses them, it uses them as the paper reports them, and says so.
+Context outside the paper (the excavators, Nemrut Dag, the end of the
+kingdom, Lucian's birthplace) was checked against a 1965 review of the
+excavation report in Belleten, Harvard's Semitic Museum, a 2010 paper by
+Belmonte and Gonzalez Garcia in the Journal for the History of Astronomy,
+the Turkish Ministry of Culture, and encyclopaedia entries used only as
+signposts; details in KONTEXT-BELEGE.md.
+
+
+WHAT THE FACT CHECK CHANGED
+
+1. THE RELIEF ABOVE THE TUNNEL IS NOT CERTAINLY ANTIOCHOS.
+   The draft said "Antiochos in Persian dress clasped the hand of Herakles".
+   The paper identifies the king as Antiochos I (after Brijder 2014); other
+   descriptions of the site identify the king on the Arsameia handshake
+   relief as his father Mithridates I. The film now says "a king in Persian
+   dress" and adds that the study names him as Antiochos while others have
+   seen his father.
+
+2. NEMRUT DAG IS NOT CERTAINLY ANTIOCHOS' GRAVE.
+   The draft said Antiochos built the mound on Nemrut Dag "for himself".
+   His burial chamber has not been found, and the author of the new study
+   has himself asked whether Nemrut was a cenotaph (Kruijer and Versluys
+   2025, cited in the paper, note 5). The film now says nobody has yet been
+   able to show whether he lies inside.
+
+3. THE WORKMEN'S FEAR: DEPTH AND DISTANCE, NOT TIME.
+   The draft said the digging "went down into darkness for weeks". The
+   paper gives no duration. It says the workers' apprehension grew once
+   they were beyond 50 metres in depth and 70 metres from the entrance.
+   The film now uses those two numbers.
+
+4. "BASINS" BECAME "HOLLOWS".
+   The paper (after Doerner and Goell 1963) describes two circular shafts,
+   2.50 m across and only 40-50 cm deep. "Basins" suggested water
+   installations, which the paper does not claim. The film says "round
+   hollows ... less than half a metre deep".
+
+5. THE AUTHOR'S VISIT.
+   The draft said "nearly seventy years later". The excavations ran
+   1953-1956; the author entered the tunnel in spring 2019. The film says
+   "more than sixty years later".
+
+6. NO INVENTED THEOLOGY.
+   The draft named a Greek-Persian god pair (Zeus-Oromasdes) that the paper
+   does not mention. It was replaced by the pair the paper does name:
+   Artagnes-Herakles.
+
+7. THE WATER LINE OF THE INSCRIPTION.
+   The inscription says the king had springs built close by instead of a
+   deep and distant supply (A 50-54). The draft asked whether this line
+   "praises the tunnel or quietly replaces it". The paper does not connect
+   the line to the tunnel. The film now only says that the text does not
+   tell us whether the line has anything to do with the tunnel.
+
+8. LUCIAN'S BIRTHPLACE.
+   Lucian was born in Samosata around 125 AD, when it was no longer a royal
+   capital. The film says "Samosata, the kingdom's old capital".
+
+10. THE EUPHRATES CROSSING WAS DROPPED.
+   The study describes the imagined route from Doliche as "crossing the
+   Euphrates". Doliche and Arsameia both lie on the right (western) bank,
+   and the study does not say which route it has in mind. The film keeps
+   the seven days, the valleys and the Taurus foothills and leaves out the
+   crossing.
+
+9. "A FRENCH SCHOLAR" BECAME "ONE SCHOLAR".
+   The processional reading is Albert Gabriel's (1966, as cited in the
+   paper). His nationality was not checked; the film does not state it.
+
+
+THE FACT-CHECK TABLE
+
+Claim | Source | checked | result
+-----
+158 metres; hand-cut staircase into rock; ends abruptly | Kruijer 2026 p. 4
+  ("descended an astonishing 158.1 m into the rock ... ending abruptly") |
+  26.11.2026 | confirmed
+South-eastern Turkey | Kruijer p. 1-2 (Commagene, Taurus, Euphrates); site
+  near Eski Kahta, Adiyaman province (KONTEXT-BELEGE 6a) | 26.11.2026 |
+  confirmed
+Long-standing practical reading: a water tunnel for groundwater | Kruijer
+  p. 4-8 (Humann and Puchstein 1890; "now widely accepted view that they
+  served as water tunnels") | 26.11.2026 | confirmed ("more than a century"
+  = since 1890)
+Sanctuary perhaps first a fortification | Kruijer p. 6 ("perhaps first a
+  fortification under king Mithridates I") | 26.11.2026 | confirmed
+  (film: "a fortress on a cliff" as the sensible reading, not as fact)
+Doorway framed by the Great Cult Inscription, carved on smoothed rock |
+  Kruijer p. 3 | 26.11.2026 | confirmed
+Inscription = founding charter, benefactions, cult rules, festivals |
+  Kruijer p. 3, p. 15 (nomos A 95-256) | 26.11.2026 | confirmed
+Handshake (dexiosis) stela with a king in Persian dress and an almost
+  naked Artagnes-Herakles overlooking the entrance | Kruijer p. 10 (after
+  Brijder 2014, 247-52) | 26.11.2026 | confirmed; identity of the king
+  disputed (see correction 1)
+Herakles went down into the underworld (twice) | Kruijer p. 13 n. 72
+  (Cerberus; Odyssey 11) | 26.11.2026 | confirmed
+Two circular shafts at 141 m and 150 m, 2.50 m across, 40-50 cm deep |
+  Kruijer p. 4 n. 12 (Doerner and Goell 1963, 138, 144) | 26.11.2026 |
+  confirmed (see correction 4)
+Excavated in the 1950s by F. K. Doerner (German epigrapher) and Theresa
+  Goell (American archaeologist), 1953-1956 | Kruijer bibliography (Doerner
+  and Goell 1963, "Ausgrabungen ... von 1953-1956"); Belleten review
+  (Mansel 1965); Harvard Semitic Museum | 26.11.2026 | confirmed
+Workers uneasy beyond 50 m depth and 70 m from the entrance; quote
+  "Gradually the depth made the local workmen shiver"; men tarrying in the
+  morning | Kruijer p. 12 n. 69 (Doerner and Goell 1963, 129-39, as quoted
+  in Brijder 2014, 253) | 26.11.2026 | confirmed (see correction 3)
+The author entered in spring 2019 and felt anxiety and inevitability |
+  Kruijer p. 12 n. 69 | 26.11.2026 | confirmed
+Commagene c. 40 BC on the upper Euphrates, Taurus to the north | Kruijer
+  p. 1-2, Fig. 1 | 26.11.2026 | confirmed
+Antiochos I ruled 69-36 BC; father Mithridates I Kallinikos | Kruijer p. 1
+  ("r. 69-36 BCE"), p. 6 (Mithridates r. 109-69 BCE) | 26.11.2026 |
+  confirmed as given in the paper; other sources end the reign c. 36-31 BC
+New ruler cult; Persian and Greek-Macedonian ancestors | Kruijer p. 15-16
+  ("newly developed ruler cult ... Greek-Macedonian/Seleucid and Persian");
+  Belmonte and Gonzalez Garcia 2010 | 26.11.2026 | confirmed
+Double divine names, Herakles also Artagnes | Kruijer p. 10, p. 4 n. 14
+  (Mithras-Helios-Hermes-Apollo) | 26.11.2026 | confirmed
+Monthly festivals for the birthdays of Antiochos and his father | Kruijer
+  p. 1 n. 3 (A 69-73, 111-18) | 26.11.2026 | confirmed
+Two travellers from Doliche are a thought experiment | Kruijer p. 1 ("two
+  pilgrims may have undertaken a journey"); p. 17 ("the two Dolichean
+  pilgrims") | 26.11.2026 | confirmed; film says "invents them on purpose"
+About seven days on foot, valleys, Taurus foothills | Kruijer p. 1 |
+  26.11.2026 | confirmed; the study also has the route "crossing the
+  Euphrates", which does not fit the positions of Doliche and Arsameia on the
+  same bank and was dropped (correction 10)
+Royal tombs on the heights | Kruijer p. 1-2 ("several monumental royal
+  tombs towered over the mountainous landscape") | 26.11.2026 | confirmed
+Nemrut Dag: mound of loose stone c. 50 m high, colossal statues of gods;
+  burial chamber not found | Belmonte and Gonzalez Garcia 2010; Turkish
+  Ministry of Culture; Kruijer n. 5 (cenotaph question) | 26.11.2026 |
+  confirmed with correction 2
+Arsameia on the Nymphaios, named after the river below | Kruijer title,
+  p. 2 ("valley of the Nymphaios River") | 26.11.2026 | confirmed
+Cliff about 75 m high, visible from the valley | Kruijer p. 2, Fig. 2 |
+  26.11.2026 | confirmed
+Palace with banquet halls; colossal limestone statues of enthroned gods and
+  the king on the plateau | Kruijer p. 2 | 26.11.2026 | confirmed
+Paved, zig-zagging sacred road with cultic stations | Kruijer p. 10,
+  Fig. 4-5 | 26.11.2026 | confirmed
+First station: handshake relief with a small altar | Kruijer p. 10 n. 64
+  | 26.11.2026 | confirmed
+Second station: rock hall 9 m high, arched ceiling, 10 m staircase tunnel,
+  probably to the tomb of Mithridates; location debated; "most beautiful
+  location of the place" | Kruijer p. 10 n. 65 (A 28-32) | 26.11.2026 |
+  confirmed
+Relief of Antiochos with his father at that entrance | Kruijer p. 10 n. 66
+  | 26.11.2026 | confirmed
+Entrance horseshoe-shaped, 2 m high, 1.5 m wide | Kruijer p. 3 |
+  26.11.2026 | confirmed
+Basalt basin beside the entrance | Kruijer p. 3; Fig. 3 | 26.11.2026 |
+  confirmed
+Tunnel does not turn or open; no exit | Kruijer p. 4, p. 7 (Von Gall: most
+  tunnels end in the rock) | 26.11.2026 | confirmed for Arsameia ("ending
+  abruptly")
+Groundwater at the end; floods after rain, almost absent in summer |
+  Kruijer p. 16 | 26.11.2026 | confirmed
+51 tunnels in Von Gall 1967; 39 more at 30 locations in the Pontic region
+  (Bulut) | Kruijer p. 6 | 26.11.2026 | confirmed
+Slope 25-45 degrees; most end abruptly | Kruijer p. 6 | 26.11.2026 |
+  confirmed
+Dating notoriously difficult; few excavated, few inscribed | Kruijer p. 6 |
+  26.11.2026 | confirmed
+Dated to Middle Bronze Age, Hittites, Urartians; some as late as Ottoman |
+  Kruijer p. 6 | 26.11.2026 | confirmed
+Early military reading (posterns, secret exits); rejected because tunnels
+  end in rock | Kruijer p. 7 | 26.11.2026 | confirmed
+Water reading most widely accepted | Kruijer p. 7 | 26.11.2026 |
+  confirmed
+Almost half of 30 Pontic tunnels have a water source at the bottom |
+  Kruijer p. 7 n. 39 (Bulut 2020) | 26.11.2026 | confirmed
+Galatian fortress Karalar near Ankara: tunnel ends in a shaft filled with
+  water in winter | Kruijer p. 7 | 26.11.2026 | confirmed
+Strabo: two rock-cut water tunnels at Amaseia, summit and river; Pompey
+  blocked them after defeating Mithridates VI | Kruijer p. 7 (Strab.
+  12.3.31, 38-39) | 26.11.2026 | confirmed
+Amaseia tunnel 5.45 m wide, 6 m high | Kruijer p. 8 | 26.11.2026 |
+  confirmed
+Processional reading (Gabriel 1966); Kybele shrines (Leonhard 1915), not
+  widely accepted | Kruijer p. 8 | 26.11.2026 | confirmed (correction 9)
+Kurul fortress: marble statue of Kybele at the entrance, dozens of niches |
+  Kruijer p. 8 | 26.11.2026 | confirmed
+Incesu Koy: 3 m-high relief of Kybele or Anaitis near a tunnel entrance |
+  Kruijer p. 8 | 26.11.2026 | confirmed ("a related goddess")
+Water and cult readings treated as mutually exclusive | Kruijer p. 5, p. 8
+  | 26.11.2026 | confirmed
+Author at Leiden University; accepts water use, cultic role as well |
+  Kruijer p. 1, p. 8, p. 17 | 26.11.2026 | confirmed
+Question changed from function to what the tunnel did | Kruijer p. 5, p. 9
+  | 26.11.2026 | confirmed
+Four affects: traps, darkness, moving bodies, water, in the order of the
+  descent | Kruijer p. 10 | 26.11.2026 | confirmed
+Tunnel as trap; landscape trap of the sacred road; postponed encounter with
+  the gods above | Kruijer p. 10-11 | 26.11.2026 | confirmed
+Antiochos: "contrary to all expectations, escaped great perils ... master of
+  hopeless situations" | Kruijer p. 12 (Nemrut inscription N 15-23) |
+  26.11.2026 | confirmed
+Tunnel visited straight after the tomb; both with reliefs and stairs into
+  darkness | Kruijer p. 13 | 26.11.2026 | confirmed
+Light, temperature, sound change inside; torches possible | Kruijer p. 14,
+  n. 73 | 26.11.2026 | confirmed
+Lucian of Samosata: underworld "murky and sunless" | Kruijer p. 13 n. 71
+  (On Funerals 2); birthplace: KONTEXT-BELEGE 8 | 26.11.2026 | confirmed
+  (correction 8)
+Inscription: divine guardian "from which men cannot hide" | Kruijer p. 14
+  (A 207-10) | 26.11.2026 | confirmed
+Steep irregular steps; crouching; "thinking through the feet"; conversation
+  likely stops | Kruijer p. 14 | 26.11.2026 | confirmed
+Single file, synchronized walking | Kruijer p. 15 | 26.11.2026 |
+  confirmed
+Rules for worship (nomos); attendance at festivals | Kruijer p. 14-15 |
+  26.11.2026 | confirmed
+Steps worn by feet, "like a cult inscription without words" | Kruijer
+  p. 16 | 26.11.2026 | confirmed
+Water carried up for banquets; wine mixed with water | Kruijer p. 16
+  (A 118-32) | 26.11.2026 | confirmed
+"Divine water"; drinking cups must stay in the holy place | Kruijer p. 16
+  (A 13-21, A 138-41) | 26.11.2026 | confirmed
+Water place-bound, co-producing the identity of the place | Kruijer p. 16
+  | 26.11.2026 | confirmed (as the author's reading)
+No explicit ancient text about the tunnel | Kruijer p. 8-9 ("Explicit
+  textual references to the tunnel are largely lacking") | 26.11.2026 |
+  confirmed
+Certainty not possible | Kruijer p. 17 ("we may not be capable of
+  reconstructing with certainty") | 26.11.2026 | confirmed
+Inscription on water: springs built close by instead of a deep and distant
+  supply | Kruijer p. 9 n. 53 (A 50-54) | 26.11.2026 | confirmed
+  (correction 7)
+Koch 2025: Mithraic shrines; rejected by Kruijer, Mithras not the
+  protagonist of the inscription | Kruijer p. 4-5 n. 14 | 26.11.2026 |
+  confirmed
+Sanctuary abandoned in the 1st century AD, replaced by a large farm;
+  tunnel likely out of use | Kruijer p. 6 | 26.11.2026 | confirmed
+Rome absorbed Commagene in AD 72 | Belmonte and Gonzalez Garcia 2010;
+  KONTEXT-BELEGE 5 | 26.11.2026 | confirmed
+
+
+WHAT THE FILM SHOWS
+
+Ten shots are real photographs: Figures 2, 3 and 7 of the paper (CC BY
+4.0; photographs by L. W. Kruijer and Stefan Riedel), shown framed and in
+details. Every other photograph-like shot is generated and labelled on
+screen as AI reconstruction; the generated reliefs show reliefs of the
+kind, not the reliefs of Arsameia. The maps, the plan of the sacred road,
+the section of the tunnel and all quotations are drawn in code.

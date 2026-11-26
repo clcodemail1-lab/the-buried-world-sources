@@ -1,0 +1,203 @@
+THE BURIED WORLD
+Episode 20 - A 158-Metre Staircase Into the Mountain, Leading Nowhere: Arsameia
+
+Full source list
+
+Last updated 26 November 2026
+
+
+SOURCES AND LIMITS
+
+One publication carries this film, and it was read in full: a study of the
+rock-cut staircase tunnel at Arsameia on the Nymphaios, published open access
+in the Journal of Roman Archaeology in November 2026. It is an interpretation,
+not an excavation report, and the film says so. The 1963 excavation report and
+the other works the study cites were not read in the original; where the film
+uses them, it uses them as the study reports them. Context outside the study
+(the excavators, Nemrut Dag, the end of the kingdom, Lucian's birthplace) was
+checked against the sources listed below. The companion file
+folge-20-method.txt (published as episode-20-method.txt) holds the complete
+fact-check table.
+
+
+THE PUBLICATIONS
+
+1. Kruijer, L. W. (2026). Descent into a trap: Pilgrim affordances of the
+  rock-cut staircase tunnel at Arsameia on the Nymphaios. Journal of Roman
+  Archaeology, pp. 1-20 (online 19 November 2026). Open access, CC BY 4.0.
+  doi:10.1017/S1047759426101196
+  -- Source of: nearly every statement in the film - the tunnel (158.1 m, the
+  entrance, the two hollows at 141 and 150 m), the sacred road and its
+  stations, the Great Cult Inscription and the lines quoted from it, the
+  excavators' unease, the 51 + 39 Anatolian tunnels and their dating, the
+  water and cult readings (Strabo, Pompey, Kurul, Amaseia, Karalar), and the
+  four-part reading of trap, darkness, body and water. The study's own
+  sources (Doerner and Goell 1963; Von Gall 1967; Bulut 2017, 2020; Brijder
+  2014; Strabo; Lucian; Koch 2025) are cited in the film as the study
+  reports them.
+
+2. Mansel, A. M. (1965). Review of F. K. Doerner and T. Goell, Arsameia am
+  Nymphaios (1963). Belleten 29.
+  https://belleten.gov.tr/tam-metin/3219/tur
+  -- Source of: the excavations of 1953-1956, led by F. K. Doerner and the
+  American archaeologist Theresa Goell.
+
+3. Harvard Semitic Museum: Theresa Goell, a lifelong passion.
+  https://hmsc.harvard.edu/lifelong-passion
+  -- Source of: Theresa Goell as an American archaeologist working in
+  Commagene from the 1950s.
+
+4. Belmonte, J. A. and Gonzalez Garcia, A. C. (2010). On the hierothesion of
+  Antiochos I at Nemrud Dag (title abridged). Journal for the History of
+  Astronomy 41.
+  http://research.iac.es/proyecto/arqueoastronomia/media/BelmonteGonzalez_JHA2010.pdf
+  -- Source of: the mound on Nemrut Dag (about 50 m high), its colossal
+  statues, the unknown location of the burial chamber, Antiochos' Persian and
+  Greek-Macedonian ancestry, and the end of the kingdom in AD 72.
+
+
+THE PHOTOGRAPHS
+
+Ten shots are real photographs, all from the study itself (CC BY 4.0), credited
+here and marked as photographs in the list below.
+  - Shots 1, 35 and 91: inside the tunnel, the author on the steps. Photograph
+    by Stefan Riedel (Kruijer 2026, Fig. 7). Framed; shot 35 is a detail.
+  - Shots 3, 25, 26, 27 and 88: the entrance of the tunnel, framed by the Great
+    Cult Inscription, with the basalt basin. Photograph by L. W. Kruijer
+    (Kruijer 2026, Fig. 3). Framed; shots 25-27 are details.
+  - Shots 18 and 79: Arsameia seen from the Nymphaios valley. Photograph by
+    L. W. Kruijer (Kruijer 2026, Fig. 2). Framed; shot 79 is a detail.
+The study's Figures 4-6 are reproduced there from another publication and
+are not shown in this film.
+
+
+WHAT THE FILM DOES NOT CLAIM
+
+- That the tunnel was a cult place rather than a water tunnel, or the other
+  way round. The study reads it as a water tunnel that could also act in
+  the cult; that reading is an interpretation.
+- That the two travellers from Doliche existed. They are the study's thought
+  experiment.
+- That any ancient text mentions the tunnel. None does explicitly.
+- That the king on the handshake relief above the tunnel is certainly
+  Antiochos. The study names him; other descriptions name his father.
+- That Antiochos is buried on Nemrut Dag. His burial chamber has not been
+  found.
+- That the tunnels were shrines of Mithras. The study rejects that reading.
+
+
+--------------------------------------------------------------------------
+EVERY SHOT IN THE FILM, IN ORDER
+--------------------------------------------------------------------------
+
+PHOTOGRAPH     = real photograph, credited above, no AI label.
+RECONSTRUCTION = generated image, labelled on screen, no real find depicted.
+DIAGRAM        = drawn in code from the study's text; schematic.
+
+[01]  0:00   PHOTOGRAPH      Inside the staircase tunnel at Arsameia (S. Riedel, Kruijer 2026 Fig. 7, CC BY 4.0)
+[02]  0:11   RECONSTRUCTION  A ruined fortress on a cliff above a river valley - reconstruction
+[03]  0:20   PHOTOGRAPH      The tunnel entrance in the inscribed rock face (L. W. Kruijer, Fig. 3, CC BY 4.0)
+[04]  0:30   RECONSTRUCTION  A handshake relief of a king and a hero, of the type - reconstruction
+[05]  0:41   RECONSTRUCTION  Workmen on the tunnel stairs by lantern light, 1950s - reconstruction painting
+[06]  0:51   RECONSTRUCTION  A footpath across dry hills at dawn - reconstruction
+[07]  1:16   DIAGRAM         Map: Commagene around 40 BC
+[08]  1:25   RECONSTRUCTION  A king of Commagene on a terrace throne - reconstruction painting
+[09]  1:38   DIAGRAM         Diagram: double names, Herakles and Artagnes; Persian and Greek ancestors
+[10]  1:48   RECONSTRUCTION  A night festival at a mountain sanctuary - reconstruction painting
+[11]  1:58   DIAGRAM         Map: the imagined journey from Doliche to Arsameia, about seven days
+[12]  2:07   RECONSTRUCTION  Two travellers on a road at sunrise - reconstruction painting
+[13]  2:15   RECONSTRUCTION  A wide river in a valley of dry hills - reconstruction
+[14]  2:22   RECONSTRUCTION  A royal burial mound with columns on a hilltop - reconstruction
+[15]  2:31   RECONSTRUCTION  Colossal stone heads on a mountain terrace - reconstruction
+[16]  2:47   DIAGRAM         Diagram: Mithridates I Kallinikos and his son Antiochos I
+[17]  3:00   RECONSTRUCTION  A river in a limestone gorge - reconstruction
+[18]  3:07   PHOTOGRAPH      Arsameia from the Nymphaios valley (L. W. Kruijer, Fig. 2, CC BY 4.0)
+[19]  3:16   RECONSTRUCTION  The sanctuary plateau with palace and colossal statues - reconstruction painting
+[20]  3:26   DIAGRAM         Diagram: the sacred road and its stations (schematic, not to scale)
+[21]  3:35   RECONSTRUCTION  A handshake relief with a small altar on a hill path - reconstruction
+[22]  3:41   RECONSTRUCTION  A tall rock-cut hall with a stair into the rock - reconstruction
+[23]  3:49   DIAGRAM         Quote: the tomb of Mithridates, Great Cult Inscription lines 28-32
+[24]  4:01   RECONSTRUCTION  A relief of two kings beside a rock-cut chamber - reconstruction
+[25]  4:10   PHOTOGRAPH      The horseshoe-shaped entrance (detail of Fig. 3, CC BY 4.0)
+[26]  4:16   PHOTOGRAPH      The smoothed rock face of the Great Cult Inscription (detail of Fig. 3, CC BY 4.0)
+[27]  4:28   PHOTOGRAPH      The basalt basin beside the entrance (detail of Fig. 3, CC BY 4.0)
+[28]  4:45   RECONSTRUCTION  Looking down a rock-cut staircase into darkness - reconstruction
+[29]  4:49   DIAGRAM         Diagram: section of the tunnel, 158.1 m (schematic)
+[30]  4:59   DIAGRAM         Diagram: the two round hollows at 141 and 150 m
+[31]  5:10   RECONSTRUCTION  The lowest steps under still water - reconstruction
+[32]  5:17   RECONSTRUCTION  An excavation camp below a cliff, 1950s - reconstruction painting
+[33]  5:28   RECONSTRUCTION  Workmen deep in the tunnel by lantern light - reconstruction painting
+[34]  5:39   DIAGRAM         Quote: F. K. Doerner on the workmen, as quoted in Brijder 2014
+[35]  5:48   PHOTOGRAPH      The author inside the tunnel (S. Riedel, detail of Fig. 7, CC BY 4.0)
+[36]  5:58   RECONSTRUCTION  A hilltop fortress with a stepped tunnel mouth - reconstruction
+[37]  6:06   DIAGRAM         Map: staircase tunnels in Anatolia, 51 + 39 (Von Gall 1967; Bulut)
+[38]  6:16   DIAGRAM         Diagram: typical slope of 25 to 45 degrees, blind end
+[39]  6:25   RECONSTRUCTION  A rubble-choked tunnel mouth on a hillside - reconstruction
+[40]  6:30   DIAGRAM         Diagram: proposed dates, from the Bronze Age to the Ottoman period
+[41]  6:40   RECONSTRUCTION  Soldiers with torches at a rock-cut doorway at night - reconstruction painting
+[42]  6:49   DIAGRAM         Diagram: a secret exit that ends in rock
+[43]  6:59   RECONSTRUCTION  Water in a rock basin at the foot of steps - reconstruction
+[44]  7:03   DIAGRAM         Diagram: water at the bottom of almost half of 30 tunnels; Karalar
+[45]  7:17   RECONSTRUCTION  A river town under a cliff with rock-cut tombs - reconstruction
+[46]  7:27   RECONSTRUCTION  Roman soldiers blocking a tunnel entrance - reconstruction painting
+[47]  7:37   RECONSTRUCTION  A pool at the bottom of a rock-cut stair - reconstruction
+[48]  7:41   DIAGRAM         Diagram: Amaseia tunnel 5.45 x 6 m, Arsameia entrance 2 x 1.5 m
+[49]  7:50   RECONSTRUCTION  A torch-lit procession in a wide tunnel - reconstruction painting
+[50]  7:59   RECONSTRUCTION  A seated goddess statue at a tunnel entrance with niches, of the type - reconstruction
+[51]  8:12   RECONSTRUCTION  A rock relief of a goddess beside a tunnel mouth, of the type - reconstruction
+[52]  8:19   DIAGRAM         Diagram: water tunnel or cult place
+[53]  8:29   DIAGRAM         Title card of the study (Kruijer 2026)
+[54]  8:33   RECONSTRUCTION  A researcher at the top of a rock-cut stair - reconstruction
+[55]  8:44   DIAGRAM         Diagram: the sacred road, the tunnel at its centre (schematic)
+[56]  8:57   DIAGRAM         Diagram: from 'what was it for' to 'what did it do'
+[57]  9:04   DIAGRAM         Diagram: trap, darkness, body, water - part one
+[58]  9:12   RECONSTRUCTION  A dark horseshoe opening in sunlit limestone - reconstruction
+[59]  9:19   RECONSTRUCTION  Visitors at a relief station on the sacred road - reconstruction painting
+[60]  9:29   RECONSTRUCTION  Two travellers at the tunnel entrance - reconstruction painting
+[61]  9:38   RECONSTRUCTION  An inscribed stone slab on a mountain terrace - reconstruction
+[62]  9:49   DIAGRAM         Quote: Antiochos, Great Cult Inscription, Nemrut Dag lines 15-23
+[63]  9:56   DIAGRAM         Diagram: trap, darkness, body, water - part two
+[64]  9:58   DIAGRAM         Diagram: tomb stair and tunnel stair side by side
+[65]  10:08  RECONSTRUCTION  A hero with a club descending dark steps - reconstruction painting
+[66]  10:18  RECONSTRUCTION  Torchlight fading on a rock-cut stair - reconstruction
+[67]  10:27  DIAGRAM         Quote: Lucian of Samosata, On Funerals 2
+[68]  10:40  DIAGRAM         Quote: the divine guardian, Great Cult Inscription lines 207-10
+[69]  10:46  DIAGRAM         Diagram: trap, darkness, body, water - part three
+[70]  10:49  RECONSTRUCTION  Steep, irregular, worn steps - reconstruction
+[71]  10:57  RECONSTRUCTION  A single file of people with lamps on a stair - reconstruction painting
+[72]  11:07  RECONSTRUCTION  A priest reading rules before an inscribed rock face - reconstruction painting
+[73]  11:12  RECONSTRUCTION  A step worn hollow by feet - reconstruction
+[74]  11:23  DIAGRAM         Diagram: trap, darkness, body, water - part four
+[75]  11:25  RECONSTRUCTION  Floodwater over the lowest steps - reconstruction
+[76]  11:34  RECONSTRUCTION  Servants carrying water jars up a stair by torchlight - reconstruction painting
+[77]  11:43  RECONSTRUCTION  A ritual banquet with water and wine - reconstruction painting
+[78]  11:51  RECONSTRUCTION  Spring water over limestone into a rock basin - reconstruction
+[79]  12:00  PHOTOGRAPH      The hill of Arsameia (detail of Fig. 2, CC BY 4.0)
+[80]  12:07  DIAGRAM         Diagram: what the study cannot show
+[81]  12:16  DIAGRAM         Diagram: what the interpretation is built from
+[82]  12:32  DIAGRAM         Quote: the springs, Great Cult Inscription lines 50-54
+[83]  12:44  RECONSTRUCTION  A weathered inscribed rock face - reconstruction
+[84]  12:48  DIAGRAM         Diagram: the Mithras reading (Koch 2025) and its rejection
+[85]  13:00  RECONSTRUCTION  Tumbled stones on a plateau at dusk - reconstruction
+[86]  13:04  RECONSTRUCTION  A farmhouse among the ruins of a sanctuary - reconstruction painting
+[87]  13:15  DIAGRAM         Timeline: from Antiochos I to AD 72
+[88]  13:23  PHOTOGRAPH      The tunnel entrance again (L. W. Kruijer, Fig. 3, CC BY 4.0)
+[89]  13:34  RECONSTRUCTION  A long staircase into a mountain - reconstruction
+[90]  13:39  RECONSTRUCTION  A traveller at the threshold of the tunnel - reconstruction painting
+[91]  13:49  PHOTOGRAPH      Inside the tunnel again (S. Riedel, Fig. 7, CC BY 4.0)
+
+
+WHAT THE IMAGES ARE
+
+10 of the 91 shots are real photographs from the study, credited above.
+The 49 generated shots - landscapes, rock, tunnels, reliefs and painted
+scenes - show places and things of the TYPE described, not a published image
+and not a particular find; the generated reliefs are not the reliefs of
+Arsameia. They are marked as such on screen with the EU marking in the first
+fifteen seconds and on every such shot.
+
+The 32 diagrams are drawn in code from the study's text. The plan of the
+sacred road is our own simplified drawing, not a copy of a published plan;
+the maps and the tunnel section are schematic and say so.
+
+Corrections are welcome and will be made out loud.
