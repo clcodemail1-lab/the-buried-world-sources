@@ -41,6 +41,7 @@ why, rather than quietly absorbing it.
 | 17 | Henry VIII's Ship Came Back Without an Answer: The Mary Rose | [sources](episode-17-sources.txt) | [method](episode-17-method.txt) |
 | 18 | Britain's Tallest Stone Row Came From the Farther Hill: The Devil's Arrows | [sources](episode-18-sources.txt) | [method](episode-18-method.txt) |
 | 19 | Were the Inca Children Drugged Before Sacrifice? Their Hair Disagrees | [sources](episode-19-sources.txt) | [method](episode-19-method.txt) |
+| 20 | A 158-Metre Staircase Into the Mountain, Leading Nowhere: Arsameia | [sources](episode-20-sources.txt) | [method](episode-20-method.txt) |
 
 ## Explainers
 
